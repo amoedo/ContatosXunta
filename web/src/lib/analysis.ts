@@ -50,7 +50,7 @@ export type AnalysisScope = {
 };
 
 export type ComposableAnalysisScope = AnalysisScope & {
-  composition: {
+  composition?: {
     amount_values_eur: number[];
     vendors: RankedEntity[];
   };
@@ -126,13 +126,99 @@ function mergeSeries(groups: SeriesPoint[][]) {
     .sort((left, right) => left.key.localeCompare(right.key));
 }
 
+function combineCompactAnalysisScopes(scopes: ComposableAnalysisScope[]): AnalysisScope {
+  const recordCount = scopes.reduce((sum, scope) => sum + scope.summary.record_count, 0);
+  const totalAmount = round(scopes.reduce((sum, scope) => sum + scope.summary.total_amount_eur, 0));
+  const weighted = (values: number[]) => recordCount === 0 ? 0 : round(values.reduce(
+    (sum, value, index) => sum + value * scopes[index].summary.record_count,
+    0,
+  ) / recordCount);
+  const vendorGroups = scopes.map((scope) => [...new Map([
+    ...scope.vendors.ranking_by_amount,
+    ...scope.vendors.ranking_by_count,
+  ].map((item) => [item.id, item])).values()]);
+  const vendors = mergeRanked(vendorGroups)
+    .sort((left, right) => right.total_amount_eur - left.total_amount_eur
+      || right.record_count - left.record_count || left.name.localeCompare(right.name));
+  const vendorsByCount = [...vendors].sort((left, right) => right.record_count - left.record_count
+    || right.total_amount_eur - left.total_amount_eur || left.name.localeCompare(right.name));
+  const organisms = mergeRanked(scopes.map((scope) => scope.organisms))
+    .sort((left, right) => right.total_amount_eur - left.total_amount_eur
+      || right.record_count - left.record_count || left.name.localeCompare(right.name));
+  const categories = mergeRanked(scopes.map((scope) => scope.categories))
+    .sort((left, right) => right.total_amount_eur - left.total_amount_eur
+      || right.record_count - left.record_count || left.name.localeCompare(right.name));
+  const bandCounts = new Map<string, number>();
+  for (const scope of scopes) {
+    for (const item of scope.amounts.bands) {
+      bandCounts.set(item.band, (bandCounts.get(item.band) ?? 0) + item.record_count);
+    }
+  }
+  const concentration = (limit: number) => totalAmount === 0
+    ? 0
+    : round(vendors.slice(0, limit).reduce((sum, item) => sum + item.total_amount_eur, 0) / totalAmount, 4);
+  const rankingLimit = Math.max(...scopes.map((scope) => scope.vendors.ranking_limit), 100);
+
+  return {
+    summary: {
+      record_count: recordCount,
+      total_amount_eur: totalAmount,
+      mean_amount_eur: recordCount ? round(totalAmount / recordCount) : 0,
+      median_amount_eur: weighted(scopes.map((scope) => scope.summary.median_amount_eur)),
+      unique_vendor_names: scopes.reduce((sum, scope) => sum + scope.summary.unique_vendor_names, 0),
+      active_organism_count: organisms.length,
+    },
+    timeseries: {
+      monthly: mergeSeries(scopes.map((scope) => scope.timeseries.monthly)),
+      yearly: mergeSeries(scopes.map((scope) => scope.timeseries.yearly)),
+    },
+    vendors: {
+      ranking_limit: rankingLimit,
+      ranking_by_amount: vendors.slice(0, rankingLimit),
+      ranking_by_count: vendorsByCount.slice(0, rankingLimit),
+      concentration: {
+        top1_share: concentration(1),
+        top5_share: concentration(5),
+        top10_share: concentration(10),
+      },
+    },
+    organisms,
+    categories,
+    amounts: {
+      percentiles: {
+        p10: weighted(scopes.map((scope) => scope.amounts.percentiles.p10)),
+        p25: weighted(scopes.map((scope) => scope.amounts.percentiles.p25)),
+        p50: weighted(scopes.map((scope) => scope.amounts.percentiles.p50)),
+        p75: weighted(scopes.map((scope) => scope.amounts.percentiles.p75)),
+        p90: weighted(scopes.map((scope) => scope.amounts.percentiles.p90)),
+        p95: weighted(scopes.map((scope) => scope.amounts.percentiles.p95)),
+      },
+      minimum_eur: Math.min(...scopes.map((scope) => scope.amounts.minimum_eur)),
+      maximum_eur: Math.max(...scopes.map((scope) => scope.amounts.maximum_eur)),
+      bands: scopes[0]?.amounts.bands.map((item) => ({
+        band: item.band,
+        record_count: bandCounts.get(item.band) ?? 0,
+      })) ?? [],
+      largest_contracts: scopes.flatMap((scope) => scope.amounts.largest_contracts)
+        .sort((left, right) => right.amount_eur - left.amount_eur
+          || left.record_id.localeCompare(right.record_id))
+        .slice(0, 20),
+    },
+  };
+}
+
 export function combineAnalysisScopes(scopes: ComposableAnalysisScope[]): AnalysisScope {
   if (scopes.length === 1) return scopes[0];
 
-  const amountValues = scopes.flatMap((scope) => scope.composition.amount_values_eur)
+  const exactScopes = scopes.filter((scope): scope is ComposableAnalysisScope & {
+    composition: NonNullable<ComposableAnalysisScope['composition']>;
+  } => scope.composition !== undefined);
+  if (exactScopes.length !== scopes.length) return combineCompactAnalysisScopes(scopes);
+
+  const amountValues = exactScopes.flatMap((scope) => scope.composition.amount_values_eur)
     .sort((left, right) => left - right);
   const totalAmount = round(amountValues.reduce((sum, amount) => sum + amount, 0));
-  const vendors = mergeRanked(scopes.map((scope) => scope.composition.vendors))
+  const vendors = mergeRanked(exactScopes.map((scope) => scope.composition.vendors))
     .sort((left, right) => right.total_amount_eur - left.total_amount_eur
       || right.record_count - left.record_count || left.name.localeCompare(right.name));
   const vendorsByCount = [...vendors].sort((left, right) => right.record_count - left.record_count

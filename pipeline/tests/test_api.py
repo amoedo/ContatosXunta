@@ -1,7 +1,11 @@
 from __future__ import annotations
 
+import base64
+import calendar
+import gzip
 import json
 import hashlib
+import zipfile
 from datetime import date
 from pathlib import Path
 from urllib.error import HTTPError, URLError
@@ -9,6 +13,7 @@ from urllib.parse import parse_qs, urlparse
 
 import pytest
 
+from contratos_xunta.annual_package import build_annual_package, build_annual_summary
 from contratos_xunta.artifacts import window_is_complete, write_window_artifacts
 from contratos_xunta.backfill import (
     backfill_range,
@@ -18,11 +23,16 @@ from contratos_xunta.backfill import (
     rolling_history_windows,
 )
 from contratos_xunta.crawler import CountMismatchError, collect_window
-from contratos_xunta.models import SourcePage, SourceRow, SourceSchemaError
+from contratos_xunta.models import CanonicalRecord, SourcePage, SourceRow, SourceSchemaError
 from contratos_xunta.normalize import canonicalize_row
 from contratos_xunta.privacy import assert_no_tax_identifiers
 from contratos_xunta.registry import Entity, load_registry, parse_entities
-from contratos_xunta.site_data import build_site_data, partition_explorer_records
+from contratos_xunta.retention import detail_cutoff, prune_archived_windows
+from contratos_xunta.site_data import (
+    build_site_data,
+    partition_explorer_records,
+    retain_recent_months,
+)
 from contratos_xunta.source import RetryPolicy, build_url, fetch_with_retry
 
 FIXTURES = Path(__file__).parent / "fixtures" / "source"
@@ -420,7 +430,189 @@ def test_explorer_partitioning_is_complete_bounded_and_maximal() -> None:
         assert len(combined) > 1_000
 
 
+def test_recent_detail_retention_uses_publication_months() -> None:
+    records = [
+        {"publication_date": "2026-08-27", "id": "latest"},
+        {"publication_date": "2024-09-01", "id": "boundary"},
+        {"publication_date": "2024-08-31", "id": "expired"},
+        {"publication_date": "2019-01-01", "id": "historic"},
+    ]
+
+    retained = retain_recent_months(records, 24)
+
+    assert [record["id"] for record in retained] == ["latest", "boundary"]
+    with pytest.raises(ValueError, match="positive"):
+        retain_recent_months(records, 0)
+
+
 @pytest.mark.parametrize("identifier", ["B15855703", "12345678Z", "X1234567L"])
 def test_public_payload_rejects_tax_identifiers(identifier: str) -> None:
     with pytest.raises(ValueError, match="tax identifiers"):
         assert_no_tax_identifiers({"vendor_name": identifier})
+
+
+def test_build_annual_package_creates_self_contained_verified_archive(tmp_path: Path) -> None:
+    year = 2024
+    windows = tmp_path / "windows"
+    entity = Entity(291, "Presidencia", "Consellerías", "https://example.test/291")
+    record = CanonicalRecord(
+        record_id="291:42",
+        source_id=42,
+        organism_id=291,
+        publication_date=f"{year}-01-15",
+        subject="Servizo de proba",
+        amount_eur=1234.5,
+        vendor_name="Empresa de proba",
+        duration="Un mes",
+        source_url="https://example.test/api/42",
+    )
+    for month in range(1, 13):
+        start = date(year, month, 1)
+        end = date(year, month, calendar.monthrange(year, month)[1])
+        write_window_artifacts(
+            windows,
+            entity.organism_id,
+            start,
+            end,
+            [record] if month == 1 else [],
+        )
+
+    package_path, checksum_path = build_annual_package(
+        windows, tmp_path / "release", [entity], year
+    )
+
+    expected_checksum = hashlib.sha256(package_path.read_bytes()).hexdigest()
+    assert checksum_path.read_text(encoding="ascii") == (
+        f"{expected_checksum}  {package_path.name}\n"
+    )
+    with zipfile.ZipFile(package_path) as archive:
+        assert set(archive.namelist()) == {"index.html", "README.txt", "manifest.json"}
+        index_bytes = archive.read("index.html")
+        readme_bytes = archive.read("README.txt")
+        manifest = json.loads(archive.read("manifest.json"))
+    index = index_bytes.decode("utf-8")
+    encoded = index.split('<script id="archive-data" type="text/plain">', 1)[1].split(
+        "</script>", 1
+    )[0]
+    payload_bytes = gzip.decompress(base64.b64decode(encoded))
+    payload = json.loads(payload_bytes)
+    assert payload["record_count"] == 1
+    assert payload["window_count"] == 12
+    assert payload["records"][0]["source_url"] == (
+        "https://www.contratosdegalicia.gal/licitacion?N=42"
+    )
+    assert payload["records"][0]["organism_name"] == "Presidencia"
+    assert "nif" not in index.lower()
+    assert "DecompressionStream('gzip')" in index
+    assert manifest["records_sha256"] == hashlib.sha256(payload_bytes).hexdigest()
+    assert manifest["index_sha256"] == hashlib.sha256(index_bytes).hexdigest()
+    assert manifest["readme_sha256"] == hashlib.sha256(readme_bytes).hexdigest()
+
+    history_dir = tmp_path / "history"
+    summary_path = build_annual_summary(
+        windows, history_dir / f"{year}.json", [entity], year
+    )
+    compact_summary = json.loads(summary_path.read_text(encoding="utf-8"))
+    assert compact_summary["all"]["summary"]["record_count"] == 1
+    assert "records" not in compact_summary
+
+    recent_record = CanonicalRecord(
+        record_id="291:84",
+        source_id=84,
+        organism_id=291,
+        publication_date="2026-01-20",
+        subject="Servizo recente",
+        amount_eur=2000.0,
+        vendor_name="Empresa recente",
+        duration="Dous meses",
+        source_url="https://example.test/api/84",
+    )
+    write_window_artifacts(
+        windows,
+        entity.organism_id,
+        date(2026, 1, 1),
+        date(2026, 1, 31),
+        [recent_record],
+    )
+    prune_archived_windows(
+        windows,
+        history_dir,
+        as_of=date(2026, 8, 27),
+        detail_months=24,
+    )
+    dashboard_path, explorer_path = build_site_data(
+        windows,
+        tmp_path / "site",
+        [entity],
+        max_shard_bytes=1_000,
+        detail_months=24,
+        history_dir=history_dir,
+    )
+    dashboard = json.loads(dashboard_path.read_text(encoding="utf-8"))
+    explorer = json.loads(explorer_path.read_text(encoding="utf-8"))
+    analysis = json.loads((tmp_path / "site" / "analysis.json").read_text(encoding="utf-8"))
+    assert dashboard["record_count"] == 2
+    assert dashboard["window_count"] == 13
+    assert dashboard["earliest_publication_date"] == "2024-01-15"
+    assert explorer["total_available"] == 1
+    assert explorer["historical_total"] == 2
+    assert set(analysis["years"]) == {"2024", "2026"}
+    assert analysis["all"]["summary"]["record_count"] == 2
+    assert "composition" not in analysis["organism_scopes"]["291"]["years"]["2024"]
+    assert "composition" in analysis["organism_scopes"]["291"]["years"]["2026"]
+
+
+def test_annual_package_rejects_incomplete_coverage(tmp_path: Path) -> None:
+    entity = Entity(291, "Presidencia", "Consellerías", "https://example.test/291")
+
+    with pytest.raises(ValueError, match="Annual coverage is incomplete"):
+        build_annual_package(tmp_path / "windows", tmp_path / "release", [entity], 2024)
+
+
+def test_prune_archived_history_keeps_boundary_and_unreleased_years(tmp_path: Path) -> None:
+    windows = tmp_path / "windows"
+    history = tmp_path / "history"
+    history.mkdir()
+    (history / "2024.json").write_text(
+        json.dumps(
+            {
+                "schema_version": 1,
+                "year": 2024,
+                "all": {},
+                "organism_scopes": {},
+            }
+        ),
+        encoding="utf-8",
+    )
+    record = CanonicalRecord(
+        record_id="291:1",
+        source_id=1,
+        organism_id=291,
+        publication_date="2024-01-10",
+        subject="Proba",
+        amount_eur=10.0,
+        vendor_name="Empresa",
+        duration="Un día",
+        source_url="https://example.test/api/1",
+    )
+    windows_to_write = (
+        (date(2023, 1, 1), date(2023, 1, 31)),
+        (date(2024, 1, 1), date(2024, 1, 31)),
+        (date(2024, 9, 1), date(2024, 9, 30)),
+    )
+    for start, end in windows_to_write:
+        write_window_artifacts(windows, 291, start, end, [record])
+
+    result = prune_archived_windows(
+        windows,
+        history,
+        as_of=date(2026, 8, 27),
+        detail_months=24,
+    )
+
+    assert detail_cutoff(date(2026, 8, 27), 24) == date(2024, 9, 1)
+    assert result.removed_windows == 1
+    assert result.removed_records == 1
+    assert window_is_complete(windows, 291, date(2023, 1, 1), date(2023, 1, 31))
+    assert not window_is_complete(windows, 291, date(2024, 1, 1), date(2024, 1, 31))
+    assert window_is_complete(windows, 291, date(2024, 9, 1), date(2024, 9, 30))

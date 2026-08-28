@@ -4,6 +4,8 @@ __pycache__/
 *.py[cod]
 pipeline/data/raw/
 pipeline/data/checkpoints/
+pipeline/data/annual/
+pipeline/data/releases/
 web/public/data/
 web/node_modules/
 web/dist/

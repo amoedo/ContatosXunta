@@ -5,11 +5,13 @@ import json
 from datetime import date
 from pathlib import Path
 
+from .annual_package import build_annual_package, build_annual_summary
 from .artifacts import write_window_artifacts
 from .backfill import BackfillResult, backfill_range, backfill_registry, rolling_history_windows
 from .crawler import collect_window
 from .normalize import canonicalize_row
 from .registry import Entity, discover_entities, load_registry, write_registry
+from .retention import prune_archived_windows
 from .site_data import build_site_data
 
 
@@ -113,6 +115,71 @@ def parse_args() -> argparse.Namespace:
         default=Path(__file__).resolve().parents[3] / "web" / "public" / "data",
     )
     site_data.add_argument("--max-shard-bytes", type=int, default=750_000)
+    site_data.add_argument("--detail-months", type=int, default=24)
+    site_data.add_argument(
+        "--history-dir",
+        type=Path,
+        default=Path(__file__).resolve().parents[2] / "data" / "history",
+    )
+
+    annual_package = subparsers.add_parser(
+        "build-annual-package",
+        help="Xera un ZIP anual cun explorador HTML local autocontido",
+    )
+    annual_package.add_argument("--year", type=int, required=True)
+    annual_package.add_argument(
+        "--input-dir",
+        type=Path,
+        default=Path(__file__).resolve().parents[2] / "data" / "canonical" / "windows",
+    )
+    annual_package.add_argument(
+        "--registry",
+        type=Path,
+        default=Path(__file__).resolve().parents[2] / "config" / "entities.json",
+    )
+    annual_package.add_argument(
+        "--output-dir",
+        type=Path,
+        default=Path(__file__).resolve().parents[2] / "data" / "releases",
+    )
+
+    annual_summary = subparsers.add_parser(
+        "build-annual-summary",
+        help="Xera un resumo analítico anual compacto para o histórico web",
+    )
+    annual_summary.add_argument("--year", type=int, required=True)
+    annual_summary.add_argument(
+        "--input-dir",
+        type=Path,
+        default=Path(__file__).resolve().parents[2] / "data" / "canonical" / "windows",
+    )
+    annual_summary.add_argument(
+        "--registry",
+        type=Path,
+        default=Path(__file__).resolve().parents[2] / "config" / "entities.json",
+    )
+    annual_summary.add_argument(
+        "--output",
+        type=Path,
+        required=True,
+    )
+
+    prune_history = subparsers.add_parser(
+        "prune-archived-history",
+        help="Retira detalle antigo só cando existe un resumo anual validado",
+    )
+    prune_history.add_argument("--months", type=int, default=24)
+    prune_history.add_argument("--as-of", type=parse_date, default=date.today())
+    prune_history.add_argument(
+        "--input-dir",
+        type=Path,
+        default=Path(__file__).resolve().parents[2] / "data" / "canonical" / "windows",
+    )
+    prune_history.add_argument(
+        "--history-dir",
+        type=Path,
+        default=Path(__file__).resolve().parents[2] / "data" / "history",
+    )
     return parser.parse_args()
 
 
@@ -210,9 +277,38 @@ def main() -> int:
             args.output_dir,
             entities,
             max_shard_bytes=args.max_shard_bytes,
+            detail_months=args.detail_months,
+            history_dir=args.history_dir,
         )
         print(f"Wrote dashboard data to {dashboard_path}")
         print(f"Wrote explorer manifest to {explorer_manifest_path}")
+        return 0
+    if args.command == "build-annual-package":
+        entities = load_registry(args.registry)
+        package_path, checksum_path = build_annual_package(
+            args.input_dir, args.output_dir, entities, args.year
+        )
+        print(f"Wrote annual package to {package_path}")
+        print(f"Wrote SHA-256 checksum to {checksum_path}")
+        return 0
+    if args.command == "build-annual-summary":
+        entities = load_registry(args.registry)
+        summary_path = build_annual_summary(
+            args.input_dir, args.output, entities, args.year
+        )
+        print(f"Wrote annual analysis summary to {summary_path}")
+        return 0
+    if args.command == "prune-archived-history":
+        result = prune_archived_windows(
+            args.input_dir,
+            args.history_dir,
+            as_of=args.as_of,
+            detail_months=args.months,
+        )
+        print(
+            f"Removed {result.removed_windows} archived windows "
+            f"({result.removed_records} records)"
+        )
         return 0
     return 1
 

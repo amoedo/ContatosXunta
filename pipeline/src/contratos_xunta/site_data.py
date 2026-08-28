@@ -25,6 +25,7 @@ PUBLIC_RECORD_FIELDS = {
     "source_url",
 }
 DEFAULT_SHARD_BYTES = 750_000
+DEFAULT_DETAIL_MONTHS = 24
 ANALYSIS_RANKING_LIMIT = 100
 AMOUNT_BANDS = (
     ("0-500", 0, 500),
@@ -217,6 +218,179 @@ def build_analysis_scope(
     return scope
 
 
+def combine_compact_analysis_scopes(scopes: list[dict[str, Any]]) -> dict[str, Any]:
+    if not scopes:
+        return build_analysis_scope([])
+    if len(scopes) == 1:
+        return scopes[0]
+
+    def merge_rankings(groups: list[list[dict[str, Any]]]) -> list[dict[str, Any]]:
+        merged: dict[str, dict[str, Any]] = {}
+        for items in groups:
+            for item in items:
+                current = merged.setdefault(
+                    item["id"],
+                    {
+                        "id": item["id"],
+                        "name": item["name"],
+                        "record_count": 0,
+                        "total_amount_eur": 0.0,
+                    },
+                )
+                current["record_count"] += item["record_count"]
+                current["total_amount_eur"] += item["total_amount_eur"]
+        return [
+            {
+                **item,
+                "total_amount_eur": round(item["total_amount_eur"], 2),
+                "mean_amount_eur": round(
+                    item["total_amount_eur"] / item["record_count"], 2
+                ),
+            }
+            for item in merged.values()
+        ]
+
+    def unique_vendor_ranking(scope: dict[str, Any]) -> list[dict[str, Any]]:
+        by_id = {
+            item["id"]: item
+            for ranking in (
+                scope["vendors"]["ranking_by_amount"],
+                scope["vendors"]["ranking_by_count"],
+            )
+            for item in ranking
+        }
+        return list(by_id.values())
+
+    def merge_series(name: str) -> list[dict[str, Any]]:
+        points: dict[str, dict[str, Any]] = {}
+        for scope in scopes:
+            for item in scope["timeseries"][name]:
+                point = points.setdefault(
+                    item["key"],
+                    {"key": item["key"], "record_count": 0, "total_amount_eur": 0.0},
+                )
+                point["record_count"] += item["record_count"]
+                point["total_amount_eur"] += item["total_amount_eur"]
+        return [
+            {**points[key], "total_amount_eur": round(points[key]["total_amount_eur"], 2)}
+            for key in sorted(points)
+        ]
+
+    record_count = sum(scope["summary"]["record_count"] for scope in scopes)
+    total_amount = round(
+        sum(scope["summary"]["total_amount_eur"] for scope in scopes), 2
+    )
+    vendors = sorted(
+        merge_rankings([unique_vendor_ranking(scope) for scope in scopes]),
+        key=lambda item: (-item["total_amount_eur"], -item["record_count"], item["name"]),
+    )
+    vendors_by_count = sorted(
+        vendors,
+        key=lambda item: (-item["record_count"], -item["total_amount_eur"], item["name"]),
+    )
+    organisms = sorted(
+        merge_rankings([scope["organisms"] for scope in scopes]),
+        key=lambda item: (-item["total_amount_eur"], -item["record_count"], item["name"]),
+    )
+    categories = sorted(
+        merge_rankings([scope["categories"] for scope in scopes]),
+        key=lambda item: (-item["total_amount_eur"], -item["record_count"], item["name"]),
+    )
+    weights = [scope["summary"]["record_count"] for scope in scopes]
+
+    def weighted(values: list[float]) -> float:
+        return round(
+            sum(value * weight for value, weight in zip(values, weights, strict=True))
+            / record_count,
+            2,
+        ) if record_count else 0.0
+
+    def concentration(limit: int) -> float:
+        return round(
+            sum(item["total_amount_eur"] for item in vendors[:limit]) / total_amount, 4
+        ) if total_amount else 0.0
+
+    band_counts = Counter()
+    for scope in scopes:
+        for item in scope["amounts"]["bands"]:
+            band_counts[item["band"]] += item["record_count"]
+    largest_contracts = sorted(
+        (
+            item
+            for scope in scopes
+            for item in scope["amounts"]["largest_contracts"]
+        ),
+        key=lambda item: (-item["amount_eur"], item["record_id"]),
+    )[:20]
+    ranking_limit = max(scope["vendors"]["ranking_limit"] for scope in scopes)
+    return {
+        "summary": {
+            "record_count": record_count,
+            "total_amount_eur": total_amount,
+            "mean_amount_eur": round(total_amount / record_count, 2) if record_count else 0.0,
+            "median_amount_eur": weighted(
+                [scope["summary"]["median_amount_eur"] for scope in scopes]
+            ),
+            "unique_vendor_names": sum(
+                scope["summary"]["unique_vendor_names"] for scope in scopes
+            ),
+            "active_organism_count": len(organisms),
+        },
+        "timeseries": {"monthly": merge_series("monthly"), "yearly": merge_series("yearly")},
+        "vendors": {
+            "ranking_limit": ranking_limit,
+            "ranking_by_amount": vendors[:ranking_limit],
+            "ranking_by_count": vendors_by_count[:ranking_limit],
+            "concentration": {
+                "top1_share": concentration(1),
+                "top5_share": concentration(5),
+                "top10_share": concentration(10),
+            },
+        },
+        "organisms": organisms,
+        "categories": categories,
+        "amounts": {
+            "percentiles": {
+                key: weighted([scope["amounts"]["percentiles"][key] for scope in scopes])
+                for key in ("p10", "p25", "p50", "p75", "p90", "p95")
+            },
+            "minimum_eur": min(scope["amounts"]["minimum_eur"] for scope in scopes),
+            "maximum_eur": max(scope["amounts"]["maximum_eur"] for scope in scopes),
+            "bands": [
+                {"band": label, "record_count": band_counts[label]}
+                for label, _, _ in AMOUNT_BANDS
+            ],
+            "largest_contracts": largest_contracts,
+        },
+    }
+
+
+def load_annual_summaries(history_dir: Path | None) -> dict[str, dict[str, Any]]:
+    if history_dir is None or not history_dir.exists():
+        return {}
+    summaries: dict[str, dict[str, Any]] = {}
+    for path in sorted(history_dir.glob("*.json")):
+        payload = json.loads(path.read_text(encoding="utf-8"))
+        year = str(payload.get("year"))
+        if payload.get("schema_version") != 1 or path.stem != year:
+            raise ValueError(f"Invalid annual summary: {path}")
+        if not isinstance(payload.get("all"), dict) or not isinstance(
+            payload.get("organism_scopes"), dict
+        ):
+            raise ValueError(f"Invalid annual summary schema: {path}")
+        assert_no_tax_identifiers(payload)
+        summaries[year] = payload
+    return summaries
+
+
+def count_windows_by_year(input_dir: Path) -> Counter[str]:
+    counts: Counter[str] = Counter()
+    for manifest_path in input_dir.glob("*/*.manifest.json"):
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+        counts[str(manifest.get("date_start", ""))[:4]] += 1
+    return counts
+
+
 def load_complete_records(input_dir: Path) -> tuple[list[dict[str, Any]], int]:
     records_by_id: dict[str, dict[str, Any]] = {}
     window_count = 0
@@ -252,12 +426,34 @@ def load_complete_records(input_dir: Path) -> tuple[list[dict[str, Any]], int]:
     return list(records_by_id.values()), window_count
 
 
+def retain_recent_months(
+    records: list[dict[str, Any]], detail_months: int
+) -> list[dict[str, Any]]:
+    if detail_months < 1:
+        raise ValueError("detail_months must be positive")
+    if not records:
+        return []
+    latest = max(record["publication_date"][:7] for record in records)
+    latest_year, latest_month = (int(part) for part in latest.split("-"))
+    cutoff_index = latest_year * 12 + latest_month - detail_months
+    return [
+        record
+        for record in records
+        if int(record["publication_date"][:4]) * 12
+        + int(record["publication_date"][5:7])
+        - 1
+        >= cutoff_index
+    ]
+
+
 def build_site_data(
     input_dir: Path,
     output_dir: Path,
     entities: list[Entity],
     *,
     max_shard_bytes: int = DEFAULT_SHARD_BYTES,
+    detail_months: int = DEFAULT_DETAIL_MONTHS,
+    history_dir: Path | None = None,
 ) -> tuple[Path, Path]:
     if max_shard_bytes < 1_000:
         raise ValueError("max_shard_bytes must be at least 1000")
@@ -310,16 +506,20 @@ def build_site_data(
         reverse=True,
         )
     ]
+    explorer_records = retain_recent_months(public_records, detail_months)
     records_by_year: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    explorer_records_by_year: dict[str, list[dict[str, Any]]] = defaultdict(list)
     records_by_organism: dict[int, list[dict[str, Any]]] = defaultdict(list)
     for record in public_records:
         records_by_year[record["publication_date"][:4]].append(record)
         records_by_organism[record["organism_id"]].append(record)
+    for record in explorer_records:
+        explorer_records_by_year[record["publication_date"][:4]].append(record)
 
     shard_payloads: list[tuple[Path, bytes]] = []
     years: list[dict[str, Any]] = []
-    for year in sorted(records_by_year, reverse=True):
-        year_records = records_by_year[year]
+    for year in sorted(explorer_records_by_year, reverse=True):
+        year_records = explorer_records_by_year[year]
         year_shards: list[dict[str, Any]] = []
         month_records: dict[str, list[dict[str, Any]]] = defaultdict(list)
         for record in year_records:
@@ -371,50 +571,112 @@ def build_site_data(
     explorer_manifest = {
         "schema_version": 1,
         "generated_at": generated_at,
-        "total_available": len(records),
+        "total_available": len(explorer_records),
+        "historical_total": len(records),
+        "detail_months": detail_months,
         "max_shard_bytes": max_shard_bytes,
         "years": years,
     }
+    annual_summaries = load_annual_summaries(history_dir)
+    summarized_years = set(annual_summaries)
+    current_analysis_records = [
+        record
+        for record in public_records
+        if record["publication_date"][:4] not in summarized_years
+    ]
+    current_records_by_year: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    current_records_by_organism: dict[int, list[dict[str, Any]]] = defaultdict(list)
+    for record in current_analysis_records:
+        current_records_by_year[record["publication_date"][:4]].append(record)
+        current_records_by_organism[record["organism_id"]].append(record)
+
+    analysis_years = {
+        year: build_analysis_scope(year_records)
+        for year, year_records in sorted(current_records_by_year.items(), reverse=True)
+    }
+    analysis_years.update(
+        {year: summary["all"] for year, summary in annual_summaries.items()}
+    )
+    organism_years: dict[str, dict[str, dict[str, Any]]] = defaultdict(dict)
+    organism_metadata: dict[str, tuple[str, str]] = {}
+    for organism_id, organism_records in current_records_by_organism.items():
+        entity = entities_by_id[organism_id]
+        organism_metadata[str(organism_id)] = (entity.name, entity.category)
+        for year in {record["publication_date"][:4] for record in organism_records}:
+            organism_years[str(organism_id)][year] = build_analysis_scope(
+                [
+                    record
+                    for record in organism_records
+                    if record["publication_date"].startswith(f"{year}-")
+                ],
+                include_composition=True,
+            )
+    for year, summary in annual_summaries.items():
+        for organism_id, organism_summary in summary["organism_scopes"].items():
+            organism_metadata[organism_id] = (
+                organism_summary["name"], organism_summary["category"]
+            )
+            organism_years[organism_id][year] = organism_summary["scope"]
+
     analysis = {
         "schema_version": 1,
         "generated_at": generated_at,
         "grouping_note": "Awardees are grouped by exact published name; no tax identifier matching is used.",
-        "all": build_analysis_scope(public_records),
-        "years": {
-            year: build_analysis_scope(year_records)
-            for year, year_records in sorted(records_by_year.items(), reverse=True)
-        },
+        "aggregation_note": "Released years use compact annual summaries; combined percentiles and cross-year unique vendor counts are estimates.",
+        "all": combine_compact_analysis_scopes(list(analysis_years.values())),
+        "years": dict(sorted(analysis_years.items(), reverse=True)),
         "organism_scopes": {
             str(organism_id): {
                 "organism_id": organism_id,
-                "name": entities_by_id[organism_id].name,
-                "category": entities_by_id[organism_id].category,
-                "all": build_analysis_scope(
-                    organism_records, include_composition=True
-                ),
-                "years": {
-                    year: build_analysis_scope(
-                        year_records, include_composition=True
-                    )
-                    for year, year_records in sorted(
-                        (
-                            (year, [
-                                record
-                                for record in organism_records
-                                if record["publication_date"].startswith(f"{year}-")
-                            ])
-                            for year in {
-                                record["publication_date"][:4]
-                                for record in organism_records
-                            }
-                        ),
-                        reverse=True,
-                    )
-                },
+                "name": organism_metadata[str(organism_id)][0],
+                "category": organism_metadata[str(organism_id)][1],
+                "all": combine_compact_analysis_scopes(list(year_scopes.values())),
+                "years": dict(sorted(year_scopes.items(), reverse=True)),
             }
-            for organism_id, organism_records in sorted(records_by_organism.items())
+            for organism_id, year_scopes in sorted(
+                ((int(key), value) for key, value in organism_years.items())
+            )
         },
     }
+
+    historical_dates = [
+        value
+        for summary in annual_summaries.values()
+        for value in (
+            summary.get("earliest_publication_date"),
+            summary.get("latest_publication_date"),
+        )
+        if value
+    ]
+    analysis_publication_dates = [
+        record["publication_date"] for record in current_analysis_records
+    ] + historical_dates
+    dashboard["record_count"] = analysis["all"]["summary"]["record_count"]
+    dashboard["total_amount_eur"] = analysis["all"]["summary"]["total_amount_eur"]
+    canonical_window_counts = count_windows_by_year(input_dir)
+    dashboard["window_count"] = sum(
+        summary["window_count"] for summary in annual_summaries.values()
+    ) + sum(
+        count
+        for year, count in canonical_window_counts.items()
+        if year not in summarized_years
+    )
+    dashboard["earliest_publication_date"] = min(analysis_publication_dates, default=None)
+    dashboard["latest_publication_date"] = max(analysis_publication_dates, default=None)
+    dashboard["active_organism_count"] = len(analysis["organism_scopes"])
+    dashboard["organisms"] = [
+        {
+            **entity.as_dict(),
+            "record_count": analysis["organism_scopes"].get(
+                str(entity.organism_id), {"all": {"summary": {"record_count": 0}}}
+            )["all"]["summary"]["record_count"],
+            "total_amount_eur": analysis["organism_scopes"].get(
+                str(entity.organism_id), {"all": {"summary": {"total_amount_eur": 0.0}}}
+            )["all"]["summary"]["total_amount_eur"],
+        }
+        for entity in entities
+    ]
+    explorer_manifest["historical_total"] = dashboard["record_count"]
 
     assert_no_tax_identifiers(dashboard)
     assert_no_tax_identifiers(explorer_manifest)

@@ -1,0 +1,112 @@
+name: Publish annual data release
+
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: Closed calendar year to ingest and publish (for example, 2025)
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: annual-release-${{ inputs.year }}
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    env:
+      YEAR: ${{ inputs.year }}
+      ANNUAL_ROOT: pipeline/data/annual/${{ inputs.year }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate closed year
+        id: year
+        shell: bash
+        run: |
+          current_year=$(date -u +%Y)
+          if ! [[ "$YEAR" =~ ^[0-9]{4}$ ]] || (( YEAR < 2000 || YEAR >= current_year )); then
+            echo "Year must be a closed calendar year between 2000 and $((current_year - 1))." >&2
+            exit 1
+          fi
+          echo "valid=true" >> "$GITHUB_OUTPUT"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+      - run: pip install -e './pipeline[dev]'
+      - name: Restore resumable annual windows
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ env.ANNUAL_ROOT }}/windows
+          key: annual-windows-${{ inputs.year }}-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            annual-windows-${{ inputs.year }}-
+      - name: Refresh curated registry
+        run: contratos-xunta discover-entities --output "$ANNUAL_ROOT/entities.json"
+      - name: Ingest missing monthly windows
+        run: >-
+          contratos-xunta backfill-all
+          --start-date "$YEAR-01-01"
+          --end-date "$YEAR-12-31"
+          --registry "$ANNUAL_ROOT/entities.json"
+          --output-dir "$ANNUAL_ROOT/windows"
+      - run: pytest pipeline/tests -q
+      - name: Build self-contained annual explorer
+        run: >-
+          contratos-xunta build-annual-package
+          --year "$YEAR"
+          --input-dir "$ANNUAL_ROOT/windows"
+          --registry "$ANNUAL_ROOT/entities.json"
+          --output-dir "$ANNUAL_ROOT/release"
+      - name: Build compact Pages history
+        run: >-
+          contratos-xunta build-annual-summary
+          --year "$YEAR"
+          --input-dir "$ANNUAL_ROOT/windows"
+          --registry "$ANNUAL_ROOT/entities.json"
+          --output "pipeline/data/history/$YEAR.json"
+      - name: Verify package checksum
+        working-directory: ${{ env.ANNUAL_ROOT }}/release
+        run: sha256sum --check "contratos-xunta-$YEAR.zip.sha256"
+      - name: Publish GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          tag="data-$YEAR"
+          if ! gh release view "$tag" >/dev/null 2>&1; then
+            gh release create "$tag" --title "Contratos Xunta $YEAR" --notes "Arquivo anual dos contratos menores publicados pola Xunta de Galicia. Descarga o ZIP, extráeo e abre index.html nun navegador recente."
+          fi
+          gh release upload "$tag" "$ANNUAL_ROOT/release/contratos-xunta-$YEAR.zip" "$ANNUAL_ROOT/release/contratos-xunta-$YEAR.zip.sha256" --clobber
+      - name: Prune detail safely preserved by releases
+        run: contratos-xunta prune-archived-history --months 24
+      - name: Commit compact history and eligible pruning
+        id: commit
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "pipeline/data/history/$YEAR.json" pipeline/data/canonical/windows
+          if ! git diff --cached --quiet; then
+            git commit -m "data: archive $YEAR contract detail"
+            git pull --rebase origin main
+            git push origin HEAD:main
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Deploy annual history to Pages
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-pages.yml --ref main
+      - name: Save resumable annual windows
+        if: always() && steps.year.outputs.valid == 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: ${{ env.ANNUAL_ROOT }}/windows
+          key: annual-windows-${{ inputs.year }}-${{ github.run_id }}-${{ github.run_attempt }}

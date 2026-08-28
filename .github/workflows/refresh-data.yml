@@ -6,12 +6,13 @@ on:
   workflow_dispatch:
     inputs:
       history_months:
-        description: Complete rolling months to retain and repair
+        description: Rolling months of detailed data to retain and repair
         required: true
         default: '24'
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: refresh-data
@@ -34,14 +35,25 @@ jobs:
         run: contratos-xunta discover-entities
       - name: Repair history and refresh recent months
         run: contratos-xunta refresh-history --months "$HISTORY_MONTHS"
+      - name: Prune detail already preserved in annual releases
+        run: contratos-xunta prune-archived-history --months "$HISTORY_MONTHS"
       - name: Build public data
-        run: contratos-xunta build-site-data
+        run: contratos-xunta build-site-data --detail-months "$HISTORY_MONTHS"
       - run: pytest pipeline/tests -q
       - name: Commit changed data
+        id: commit
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add pipeline/config/entities.json pipeline/data/canonical/windows
-          git diff --cached --quiet || git commit -m "data: refresh Xunta contracts"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "data: refresh Xunta contracts"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Deploy refreshed Pages data
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-pages.yml --ref main

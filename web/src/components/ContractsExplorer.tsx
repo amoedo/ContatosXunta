@@ -80,6 +80,8 @@ type ExplorerYear = {
 
 type ExplorerManifest = {
   total_available: number;
+  historical_total: number;
+  detail_months: number;
   max_shard_bytes: number;
   years: ExplorerYear[];
 };
@@ -101,6 +103,7 @@ const copy = {
     allCategories: 'Todas as categorías',
     allOrganisms: 'Todos os organismos',
     results: 'resultados',
+    detailCoverage: (months: number) => `detalle dos últimos ${months} meses`,
     subject: 'Obxecto',
     vendor: 'Adxudicatario',
     organism: 'Organismo',
@@ -129,7 +132,7 @@ const copy = {
     privacyDetail: 'Os identificadores fiscais non se publican nin se conservan nos artefactos canónicos.',
     limitations: 'Límites da fonte',
     limitationsDetail: 'Non se infiren licitadores, competencia nin procedemento cando a fonte non ofrece eses campos.',
-    publicationNote: 'As datas corresponden á publicación do contrato, non necesariamente á súa execución.',
+    publicationNote: 'As datas corresponden á publicación do contrato, non necesariamente á súa execución. O explorador conserva o detalle recente; os anos pechados incorpóranse como resumos analíticos e arquivos anuais descargables.',
     downloadCsv: 'Descargar CSV',
     questions: 'Comeza por unha pregunta',
     questionsNote: 'Escolle unha lectura ou abre directamente os contratos publicados.',
@@ -154,6 +157,7 @@ const copy = {
     allCategories: 'Todas las categorías',
     allOrganisms: 'Todos los organismos',
     results: 'resultados',
+    detailCoverage: (months: number) => `detalle de los últimos ${months} meses`,
     subject: 'Objeto',
     vendor: 'Adjudicatario',
     organism: 'Organismo',
@@ -182,7 +186,7 @@ const copy = {
     privacyDetail: 'Los identificadores fiscales no se publican ni se conservan en los artefactos canónicos.',
     limitations: 'Límites de la fuente',
     limitationsDetail: 'No se infieren licitadores, competencia ni procedimiento cuando la fuente no ofrece esos campos.',
-    publicationNote: 'Las fechas corresponden a la publicación del contrato, no necesariamente a su ejecución.',
+    publicationNote: 'Las fechas corresponden a la publicación del contrato, no necesariamente a su ejecución. El explorador conserva el detalle reciente; los años cerrados se incorporan como resúmenes analíticos y archivos anuales descargables.',
     downloadCsv: 'Descargar CSV',
     questions: 'Empieza por una pregunta',
     questionsNote: 'Elige una lectura o abre directamente los contratos publicados.',
@@ -463,7 +467,7 @@ export default function ContractsExplorer({
 
         {view === 'explorer' && <section className="explorer" aria-labelledby="explorer-title">
           <div className="section-heading explorer-heading">
-            <div><h2 id="explorer-title">{t.explorer}</h2><p>{formatInteger(filtered.length)} {t.results}</p></div>
+            <div><h2 id="explorer-title">{t.explorer}</h2><p>{formatInteger(filtered.length)} {t.results} · {t.detailCoverage(manifest?.detail_months ?? 24)}</p></div>
             <button
               type="button"
               className="download-button"

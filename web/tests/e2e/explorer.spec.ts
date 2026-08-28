@@ -41,7 +41,7 @@ test('navigates across the supported analysis pages', async ({ page }, testInfo)
     await page.screenshot({ path: `test-results/navigation-${testInfo.project.name}.png`, fullPage: true });
 });
 
-test('filters, exports, translates, and opens methodology', async ({ page }) => {
+test('filters, exports, translates, and opens methodology', async ({ page }, testInfo) => {
     await page.goto('/explorador');
     await expect(page.getByRole('heading', { level: 1, name: 'Buscar nos contratos publicados' })).toBeVisible();
     await expect(page.locator('tbody tr')).toHaveCount(20);
@@ -76,4 +76,28 @@ test('filters, exports, translates, and opens methodology', async ({ page }) => 
     await expect(page.getByRole('heading', { level: 1, name: 'Cómo se construye esta lectura' })).toBeVisible();
     await expect(page.getByRole('heading', { name: 'Metodología y calidad' })).toBeVisible();
     await expect(page.getByText('No se infieren licitadores, competencia ni procedimiento', { exact: false })).toBeVisible();
+    await expect(page.getByRole('heading', { name: 'Clasificación como «contrato menor»' })).toBeVisible();
+    await expect(page.getByText('inferior a 40.000 € en obras y a 15.000 € en suministros o servicios', { exact: false })).toBeVisible();
+    await expect(page.getByText('Según explicó el SERGAS a Público, al menos parte de estos registros', { exact: false })).toBeVisible();
+    await expect(page.getByText('Esta web no resuelve esa controversia', { exact: false })).toBeVisible();
+
+    const sources = page.locator('.methodology-sources a');
+    await expect(sources).toHaveCount(3);
+    await expect(sources.nth(0)).toHaveAttribute('href', 'https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a118');
+    await expect(sources.nth(1)).toHaveAttribute('href', /contratosdegalicia\.gal\/consultaOrganismo\.jsp/);
+    await expect(sources.nth(2)).toHaveAttribute('href', /publico\.es\/sociedad\/sanidad/);
+    for (const source of await sources.all()) {
+      await expect(source).toHaveAttribute('target', '_blank');
+      await expect(source).toHaveAttribute('rel', 'noopener noreferrer');
+    }
+
+    await page.getByRole('button', { name: 'GL', exact: true }).click();
+    await expect(page.getByRole('heading', { name: 'Clasificación como «contrato menor»' })).toBeVisible();
+    await expect(page.getByText('Non se infiren licitadores, competencia nin procedemento', { exact: false })).toBeVisible();
+    await expect(page.getByText('Segundo explicou o SERGAS a Público, polo menos parte destes rexistros', { exact: false })).toBeVisible();
+    const hasHorizontalOverflow = await page.evaluate(
+      () => document.documentElement.scrollWidth > document.documentElement.clientWidth,
+    );
+    expect(hasHorizontalOverflow).toBe(false);
+    await page.screenshot({ path: `test-results/methodology-${testInfo.project.name}.png`, fullPage: true });
 });

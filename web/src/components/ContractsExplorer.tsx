@@ -90,7 +90,7 @@ const copy = {
   gl: {
     kicker: 'Transparencia contractual',
     title: 'Contratos Xunta',
-    subtitle: 'Contratos menores do sector público autonómico, ordenados para consultar e comparar.',
+    subtitle: 'Adxudicacións publicadas pola Xunta baixo a clasificación de contratos menores, ordenadas para consultar e comparar.',
     updated: 'Datos publicados',
     contracts: 'Contratos',
     amount: 'Importe adxudicado',
@@ -133,6 +133,18 @@ const copy = {
     limitations: 'Límites da fonte',
     limitationsDetail: 'Non se infiren licitadores, competencia nin procedemento cando a fonte non ofrece eses campos.',
     publicationNote: 'As datas corresponden á publicación do contrato, non necesariamente á súa execución. O explorador conserva o detalle recente; os anos pechados incorpóranse como resumos analíticos e arquivos anuais descargables.',
+    classificationTitle: 'Clasificación como «contrato menor»',
+    classificationIntro: 'Os datos desta web reproducen a clasificación publicada polas fontes oficiais da Xunta. Esa clasificación non permite concluír por si soa cal foi o procedemento xurídico empregado en cada expediente.',
+    classificationLaw: 'A Lei 9/2017 de Contratos do Sector Público establece con carácter xeral no seu artigo 118 que son contratos menores os de valor estimado inferior a 40.000 € en obras e a 15.000 € en subministracións ou servizos.',
+    classificationSergas: 'Porén, a plataforma oficial de contratación da Xunta inclúe baixo a categoría de «contratos menores» operacións que superan estes importes. O caso é especialmente visible nos datos do SERGAS, onde aparecen rexistros superiores a 100.000 €.',
+    classificationExplanation: 'Segundo explicou o SERGAS a Público, polo menos parte destes rexistros non serían contratos menores do artigo 118, senón facturacións asociadas a outras figuras, como autorizacións de uso de medios sanitarios alleos. O SERGAS atribúe a súa aparición nesta categoría á codificación como «gasto menor» no sistema contable e á posterior transmisión automatizada desa clasificación aos portais públicos.',
+    classificationDispute: 'Público cuestiona aspectos desta explicación xurídica. Esta web non resolve esa controversia: analiza o que publica a Xunta e non determina de forma independente a cualificación legal de cada gasto.',
+    classificationPrinciple: 'Contratos Xunta non interpreta automaticamente a etiqueta «contrato menor» como a cualificación xurídica definitiva da operación.',
+    classificationDetermination: 'Para determinala sería necesario consultar o expediente, a súa base legal e a documentación contractual correspondente.',
+    sources: 'Fontes',
+    lawSource: 'Lei 9/2017 de Contratos do Sector Público — art. 118',
+    sergasSource: 'Contratos Públicos de Galicia — Consellería de Sanidade / SERGAS — Contratos menores',
+    publicoSource: 'Público — “La Xunta multiplica por cuatro desde 2022 los contratos ‘a dedo’ con los grandes grupos de la sanidad privada”',
     downloadCsv: 'Descargar CSV',
     questions: 'Comeza por unha pregunta',
     questionsNote: 'Escolle unha lectura ou abre directamente os contratos publicados.',
@@ -144,7 +156,7 @@ const copy = {
   es: {
     kicker: 'Transparencia contractual',
     title: 'Contratos Xunta',
-    subtitle: 'Contratos menores del sector público autonómico, ordenados para consultar y comparar.',
+    subtitle: 'Adjudicaciones publicadas por la Xunta bajo la clasificación de contratos menores, ordenadas para consultar y comparar.',
     updated: 'Datos publicados',
     contracts: 'Contratos',
     amount: 'Importe adjudicado',
@@ -187,6 +199,18 @@ const copy = {
     limitations: 'Límites de la fuente',
     limitationsDetail: 'No se infieren licitadores, competencia ni procedimiento cuando la fuente no ofrece esos campos.',
     publicationNote: 'Las fechas corresponden a la publicación del contrato, no necesariamente a su ejecución. El explorador conserva el detalle reciente; los años cerrados se incorporan como resúmenes analíticos y archivos anuales descargables.',
+    classificationTitle: 'Clasificación como «contrato menor»',
+    classificationIntro: 'Los datos de esta web reproducen la clasificación publicada por las fuentes oficiales de la Xunta. Esa clasificación no permite concluir por sí sola cuál fue el procedimiento jurídico utilizado en cada expediente.',
+    classificationLaw: 'La Ley 9/2017 de Contratos del Sector Público establece con carácter general en su artículo 118 que son contratos menores los de valor estimado inferior a 40.000 € en obras y a 15.000 € en suministros o servicios.',
+    classificationSergas: 'Sin embargo, la plataforma oficial de contratación de la Xunta incluye bajo la categoría de «contratos menores» operaciones que superan estos importes. El caso es especialmente visible en los datos del SERGAS, donde aparecen registros superiores a 100.000 €.',
+    classificationExplanation: 'Según explicó el SERGAS a Público, al menos parte de estos registros no serían contratos menores del artículo 118, sino facturaciones asociadas a otras figuras, como autorizaciones de uso de medios sanitarios ajenos. El SERGAS atribuye su aparición en esta categoría a su codificación como «gasto menor» en el sistema contable y a la posterior transmisión automatizada de esa clasificación a los portales públicos.',
+    classificationDispute: 'Público cuestiona aspectos de esta explicación jurídica. Esta web no resuelve esa controversia: analiza lo que publica la Xunta y no determina de forma independiente la calificación legal de cada gasto.',
+    classificationPrinciple: 'Contratos Xunta no interpreta automáticamente la etiqueta «contrato menor» como la calificación jurídica definitiva de la operación.',
+    classificationDetermination: 'Para determinarla sería necesario consultar el expediente, su base legal y la documentación contractual correspondiente.',
+    sources: 'Fuentes',
+    lawSource: 'Ley 9/2017 de Contratos del Sector Público — art. 118',
+    sergasSource: 'Contratos Públicos de Galicia — Consellería de Sanidade / SERGAS — Contratos menores',
+    publicoSource: 'Público — “La Xunta multiplica por cuatro desde 2022 los contratos ‘a dedo’ con los grandes grupos de la sanidad privada”',
     downloadCsv: 'Descargar CSV',
     questions: 'Empieza por una pregunta',
     questionsNote: 'Elige una lectura o abre directamente los contratos publicados.',
@@ -600,6 +624,26 @@ export default function ContractsExplorer({
               <div><h3>{t.limitations}</h3><p>{t.limitationsDetail} {t.publicationNote}</p></div>
             </article>
           </div>
+          <aside className="classification-warning" aria-labelledby="classification-warning-title">
+            <CircleAlert size={22} aria-hidden="true" />
+            <div>
+              <h3 id="classification-warning-title">{t.classificationTitle}</h3>
+              <p>{t.classificationIntro}</p>
+              <p>{t.classificationLaw}</p>
+              <p>{t.classificationSergas}</p>
+              <p>{t.classificationExplanation}</p>
+              <p>{t.classificationDispute}</p>
+              <p><strong>{t.classificationPrinciple}</strong> {t.classificationDetermination}</p>
+              <div className="methodology-sources">
+                <h4>{t.sources}</h4>
+                <ul>
+                  <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a118" target="_blank" rel="noopener noreferrer">{t.lawSource}<ExternalLink size={14} aria-hidden="true" /></a></li>
+                  <li><a href="https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=11&OR=11&SORT=2&ORDER=2&S=CM#" target="_blank" rel="noopener noreferrer">{t.sergasSource}<ExternalLink size={14} aria-hidden="true" /></a></li>
+                  <li><a href="https://www.publico.es/sociedad/sanidad/xunta-multiplica-cuatro-2022-contratos-dedo-grandes-grupos-sanidad-privada.html" target="_blank" rel="noopener noreferrer">{t.publicoSource}<ExternalLink size={14} aria-hidden="true" /></a></li>
+                </ul>
+              </div>
+            </div>
+          </aside>
         </section>}
     </div>
   );

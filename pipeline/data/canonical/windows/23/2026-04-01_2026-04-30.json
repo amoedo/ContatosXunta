@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 139.86,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-04-07",
+    "record_id": "23:1980420",
+    "source_id": 1980420,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "toner",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 756.25,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-04-07",
+    "record_id": "23:1980612",
+    "source_id": 1980612,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "Material para enquisas (sobres e folios serigrafiados)",
+    "vendor_name": "PARSAN GRAFICA, SL"
+  },
+  {
+    "amount_eur": 16088.16,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-04-13",
+    "record_id": "23:1984338",
+    "source_id": 1984338,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "&#34;DIXITALIZACION DO SISTEMA EDUCATIVO&#34;",
+    "vendor_name": "ENQUISA, SL"
+  },
+  {
+    "amount_eur": 1282.6,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-04-15",
+    "record_id": "23:1986823",
+    "source_id": 1986823,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "software informático Matlab",
+    "vendor_name": "THE MATHWORKS, S.L."
+  },
+  {
+    "amount_eur": 17545.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-04-20",
+    "record_id": "23:1990078",
+    "source_id": 1990078,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "enquisa &#34;desenvolemento industrial e impacto ambiental en Galicia",
+    "vendor_name": "INSTITUTO SONDAXE, S.L."
+  }
+]

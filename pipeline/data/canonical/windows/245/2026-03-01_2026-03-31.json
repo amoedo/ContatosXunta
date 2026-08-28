@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 1427.8,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-03-06",
+    "record_id": "245:1952385",
+    "source_id": 1952385,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/245/contratosmenores/table",
+    "subject": "Mantemento Hx",
+    "vendor_name": "G 64 COMUNICACION, SL"
+  },
+  {
+    "amount_eur": 81.61,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-03-06",
+    "record_id": "245:1952554",
+    "source_id": 1952554,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/245/contratosmenores/table",
+    "subject": "Mantemento multifunción en coste copia ID: SL046648NE",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 496.38,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-03-12",
+    "record_id": "245:1957919",
+    "source_id": 1957919,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/245/contratosmenores/table",
+    "subject": "parque tencnolóxico: mantemento nave",
+    "vendor_name": "PARQUE TECNOLOGICO DE GALICIA,SA"
+  },
+  {
+    "amount_eur": 1361.72,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-03-12",
+    "record_id": "245:1958419",
+    "source_id": 1958419,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/245/contratosmenores/table",
+    "subject": "Gasoleo Habana1",
+    "vendor_name": "GASOLEOS CEAO S L"
+  }
+]

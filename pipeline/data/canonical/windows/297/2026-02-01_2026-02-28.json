@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 609.84,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-02-05",
+    "record_id": "297:1925159",
+    "source_id": 1925159,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "ALARMA SEDE CCVV",
+    "vendor_name": "SECURITAS DIRECT ESPAÑA, S.A."
+  },
+  {
+    "amount_eur": 241.77,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-02-24",
+    "record_id": "297:1940308",
+    "source_id": 1940308,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "ACOMETIDA ELÉCTRICA NO EDIFICIO SITUADO EN HORTAS 2-4",
+    "vendor_name": "UFD DISTRIBUCION ELECTRICIDAD SA"
+  },
+  {
+    "amount_eur": 241.77,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-02-24",
+    "record_id": "297:1940309",
+    "source_id": 1940309,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "ACOMETIDA ELÉCTRICA NO EDIFICIO SITUADO EN SEBASTIAN 20",
+    "vendor_name": "UFD DISTRIBUCION ELECTRICIDAD SA"
+  },
+  {
+    "amount_eur": 4283.4,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-02-24",
+    "record_id": "297:1940408",
+    "source_id": 1940408,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "XESTIÓN E DIFUSIÓN DE INFORMACIÓN EN PLATAFORMA DIXITAIS",
+    "vendor_name": "IGNACIO LOPEZ GUERRA ROMAN"
+  },
+  {
+    "amount_eur": 18137.9,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-02-24",
+    "record_id": "297:1941400",
+    "source_id": 1941400,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "ASISTENCIA TÉCNICA PARA O CUMPRIMENTO DAS OBRIGAS CONTABLES, FISCAIS E MERCANTÍS",
+    "vendor_name": "UNION DE PROFESIONALES SL"
+  },
+  {
+    "amount_eur": 4534.48,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-02-24",
+    "record_id": "297:1941401",
+    "source_id": 1941401,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "ASESORAMENTO E TRAMITACION FISCAL E FUNCIÓNS ANEXAS",
+    "vendor_name": "UNION DE PROFESIONALES SL"
+  }
+]

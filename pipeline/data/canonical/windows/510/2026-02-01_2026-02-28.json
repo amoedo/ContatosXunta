@@ -1,0 +1,200 @@
+[
+  {
+    "amount_eur": 1623.75,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-11",
+    "record_id": "510:1929433",
+    "source_id": 1929433,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "REPARACIÓN DA MOTORIZACIÓN PORTAL GARAXE - Edificio San Lázaro",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 14983.47,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-11",
+    "record_id": "510:1930079",
+    "source_id": 1930079,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "Reparación tellado do edificio Cambón",
+    "vendor_name": "MONTEROMAN EMPRESA CONSTRUCTORA SL"
+  },
+  {
+    "amount_eur": 17908.0,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-13",
+    "record_id": "510:1931940",
+    "source_id": 1931940,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "Redacción de proxecto para a plantación de árbores no Camiño de Santiago.Camiño Inglés",
+    "vendor_name": "ISABEL AGUIRRE URCOLA"
+  },
+  {
+    "amount_eur": 484.0,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-13",
+    "record_id": "510:1932276",
+    "source_id": 1932276,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "Limpeza calidade mes de xaneiro",
+    "vendor_name": "ROSA CID VILLAR"
+  },
+  {
+    "amount_eur": 744.0,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-16",
+    "record_id": "510:1934748",
+    "source_id": 1934748,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "Servizo de presentación dunha campaña de concienciación contra o desperdicio alimentario",
+    "vendor_name": "PANADERIA PASTELERIA MIGUEZ"
+  },
+  {
+    "amount_eur": 1306.8,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-16",
+    "record_id": "510:1934806",
+    "source_id": 1934806,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "PODA E RETIRADA DE ARBORES CAIDAS NA CARRETERA QUE LEVA o MO",
+    "vendor_name": "HECTOR PAZ ARDAO"
+  },
+  {
+    "amount_eur": 9851.64,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-16",
+    "record_id": "510:1935292",
+    "source_id": 1935292,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "SUB.ANIMALES DE PESCADO CAT. 2: BALEA RECOLLIDA EN OZA",
+    "vendor_name": "GESTORA DE SUBPRODUCTOS DE GALICIA, SL"
+  },
+  {
+    "amount_eur": 8712.29,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-16",
+    "record_id": "510:1935293",
+    "source_id": 1935293,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "SUB.ANIMALES DE PESCADO CAT. 2: BALEA RECOLLIDA EN OZA",
+    "vendor_name": "GESTORA DE SUBPRODUCTOS DE GALICIA, SL"
+  },
+  {
+    "amount_eur": 828.85,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-16",
+    "record_id": "510:1935544",
+    "source_id": 1935544,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "Informe ambiental demanda PO:7324/24 Alvite II",
+    "vendor_name": "ATEFOR, S.L."
+  },
+  {
+    "amount_eur": 828.85,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-16",
+    "record_id": "510:1935545",
+    "source_id": 1935545,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "Informe ambiental PO 7261/24 Patiñeiro",
+    "vendor_name": "ATEFOR, S.L."
+  },
+  {
+    "amount_eur": 2100.0,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-16",
+    "record_id": "510:1935687",
+    "source_id": 1935687,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "informe tecnico valoracion ofertas CMA-2026-0002 fomento ambiental na comunidade educativa",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  },
+  {
+    "amount_eur": 1800.0,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-16",
+    "record_id": "510:1935688",
+    "source_id": 1935688,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "informe tecnico exp CMA-2026-0003 comercio local",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  },
+  {
+    "amount_eur": 10027.27,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-25",
+    "record_id": "510:1942384",
+    "source_id": 1942384,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "CONTRATO MENOR",
+    "vendor_name": "MONCOSA OHS SA"
+  },
+  {
+    "amount_eur": 485.63,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-25",
+    "record_id": "510:1943215",
+    "source_id": 1943215,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "BALEA RETIRADA EN CARNOTA Fac. 14",
+    "vendor_name": "GESTORA DE SUBPRODUCTOS DE GALICIA, SL"
+  },
+  {
+    "amount_eur": 3851.76,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-26",
+    "record_id": "510:1944059",
+    "source_id": 1944059,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "Serv. organiz. xornada presentación axudas ás entidades locais para incrementar a ecoeficiencia na xestión dos residuos",
+    "vendor_name": "NH HOTELES ESPAÑA SA"
+  },
+  {
+    "amount_eur": 17968.5,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-27",
+    "record_id": "510:1945907",
+    "source_id": 1945907,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "Servizo xestion II edición concurso Parque Vibras",
+    "vendor_name": "MODERA MEDIA SL"
+  },
+  {
+    "amount_eur": 6000.0,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-27",
+    "record_id": "510:1946306",
+    "source_id": 1946306,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "ACTIVIDADES DE EDUCACIÓN AMBIENTAL NO OUTONO DESENVOLVIDAS A",
+    "vendor_name": "ASOC PARA A PROMOCION TERRITORIAL MONTAÑAS DO COUR"
+  },
+  {
+    "amount_eur": 14993.72,
+    "duration": "1 mes",
+    "organism_id": 510,
+    "publication_date": "2026-02-27",
+    "record_id": "510:1946314",
+    "source_id": 1946314,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/510/contratosmenores/table",
+    "subject": "PROXECTO DE SENSIBILIZACIÃ?N E INFORMACIÃ?N SOBRE DANOS PROV",
+    "vendor_name": "ASOC. AGRARIA DE GALICIA"
+  }
+]

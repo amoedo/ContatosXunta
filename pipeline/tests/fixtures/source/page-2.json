@@ -1,0 +1,16 @@
+{
+  "draw": 2,
+  "recordsTotal": 461,
+  "recordsFiltered": 3,
+  "data": [
+    {
+      "id": 1920693,
+      "publicado": "27-01-2026",
+      "objeto": "SERVIZOS DE IMPRENTA",
+      "importe": 480.67,
+      "nif": "REDACTED-3        ",
+      "adjudicatario": "GRAFICAS INTEGRALES COGAMI, SL        ",
+      "duracion": "1 mes"
+    }
+  ]
+}

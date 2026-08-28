@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 3509.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-05-06",
+    "record_id": "141:2002580",
+    "source_id": 2002580,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Material promocional",
+    "vendor_name": "CEGA CONGRESOS AUDIOVISUALES VIAJES SL"
+  },
+  {
+    "amount_eur": 871.2,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-05-08",
+    "record_id": "141:2005350",
+    "source_id": 2005350,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Informes para CB9 AM2/2025 Creatividades prevención ITS",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  },
+  {
+    "amount_eur": 871.2,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-05-08",
+    "record_id": "141:2005351",
+    "source_id": 2005351,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Informes para CB10 AM2/2025 Creatividades sanidade pública",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  },
+  {
+    "amount_eur": 871.2,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-05-08",
+    "record_id": "141:2005352",
+    "source_id": 2005352,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Informes para CB11 AM2/2025 Creatividades PEPAC 2027",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  },
+  {
+    "amount_eur": 2699.99,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-05-19",
+    "record_id": "141:2013911",
+    "source_id": 2013911,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Publicidade",
+    "vendor_name": "ASOC CREATIVIDADE GALEGA"
+  }
+]

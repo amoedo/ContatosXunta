@@ -1,0 +1,90 @@
+[
+  {
+    "amount_eur": 8470.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-08-04",
+    "record_id": "215:2070684",
+    "source_id": 2070684,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "licenza e soporte técnico para o uso da librería iDNIe dentro da app XuntaEu no sistema operativo iOS",
+    "vendor_name": "DIEGO CID MERINO"
+  },
+  {
+    "amount_eur": 17766.18,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-08-12",
+    "record_id": "215:2074259",
+    "source_id": 2074259,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Servizo de soporte técnico especializado plataforma Gaio",
+    "vendor_name": "FACTORIA DE SOFTWARE Y MULTIMEDIA SL"
+  },
+  {
+    "amount_eur": 17331.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-08-14",
+    "record_id": "215:2075317",
+    "source_id": 2075317,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Xerencia 2025-CM-815_Traducción pliegos",
+    "vendor_name": "SILVIA GAGO FERREIRO"
+  },
+  {
+    "amount_eur": 13405.99,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-08-14",
+    "record_id": "215:2075318",
+    "source_id": 2075318,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Traducción de pliegos: varios",
+    "vendor_name": "SILVIA GAGO FERREIRO"
+  },
+  {
+    "amount_eur": 18150.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-08-14",
+    "record_id": "215:2075334",
+    "source_id": 2075334,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Soporte especializado para a adecuación lingüística de documentacion AMTEGA",
+    "vendor_name": "EVA MARIA DOMINGUEZ NOYA"
+  },
+  {
+    "amount_eur": 4658.5,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-08-20",
+    "record_id": "215:2077932",
+    "source_id": 2077932,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Servizo administración contorna IAAS dos portais web CONTALACTEA e CORTANARNE",
+    "vendor_name": "AVANSIG SLL"
+  },
+  {
+    "amount_eur": 17424.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-08-24",
+    "record_id": "215:2079064",
+    "source_id": 2079064,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "SERVIZO DE APOIO NA CREACIÓN DE CADROS DE MANDO PARA MEDIO RURAL",
+    "vendor_name": "DXC TECHNOLOGY SERVICIOS ESPAÑA SL"
+  },
+  {
+    "amount_eur": 18089.5,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-08-25",
+    "record_id": "215:2079497",
+    "source_id": 2079497,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "SERVIZO DE APOIO NA FASE I DE INTEGRACIÓN TI DA ENTIDADE PÚBLICA EMPRESARIAL PORTOS DE GALICIA EN AMTEGA",
+    "vendor_name": "INDRA SOLUCIONES TECNOLOGIAS DE LA INFORMACION SL"
+  }
+]

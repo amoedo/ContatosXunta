@@ -1,0 +1,509 @@
+{
+  "source_url": "https://transparencia.xunta.gal/tema/informacion-economica-orzamentaria-e-estatistica/contratacion-publica/contratos-menores",
+  "entities": [
+    {
+      "organism_id": 66,
+      "name": "Axencia Galega da Calidade Alimentaria (Agacal)",
+      "category": "Axencias públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=66&OR=66&S=CM"
+    },
+    {
+      "organism_id": 329,
+      "name": "Axencia Galega da Industria Forestal",
+      "category": "Axencias públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=329&OR=329&S=CM"
+    },
+    {
+      "organism_id": 64,
+      "name": "Axencia Galega de Industrias Culturais (Agadic)",
+      "category": "Axencias públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=64&OR=64&S=CM"
+    },
+    {
+      "organism_id": 221,
+      "name": "Axencia Galega de Infraestruturas",
+      "category": "Axencias públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=221&OR=221&S=CM"
+    },
+    {
+      "organism_id": 231,
+      "name": "Axencia Galega de Innovación (Gain)",
+      "category": "Axencias públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=231&OR=231&S=CM"
+    },
+    {
+      "organism_id": 305,
+      "name": "Axencia Galega de Sangue, Órganos e Tecidos",
+      "category": "Axencias públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=305&OR=305&S=CM"
+    },
+    {
+      "organism_id": 274,
+      "name": "Axencia Galega de Servizos Sociais",
+      "category": "Axencias públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=274&OR=274&S=CM"
+    },
+    {
+      "organism_id": 245,
+      "name": "Axencia Tributaria de Galicia (Atriga)",
+      "category": "Axencias públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=245&OR=245&S=CM"
+    },
+    {
+      "organism_id": 242,
+      "name": "Axencia Turismo de Galicia",
+      "category": "Axencias públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=242&OR=242&S=CM"
+    },
+    {
+      "organism_id": 290,
+      "name": "Axencia de Coñecemento en Saúde (Acis)",
+      "category": "Axencias públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=290&OR=290&S=CM"
+    },
+    {
+      "organism_id": 215,
+      "name": "Axencia para a Modernización Tecnolóxica de Galicia (Amtega)",
+      "category": "Axencias públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=215&OR=215&S=CM"
+    },
+    {
+      "organism_id": 37,
+      "name": "Instituto Enerxético de Galicia (Inega)",
+      "category": "Axencias públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=37&OR=37&S=CM"
+    },
+    {
+      "organism_id": 516,
+      "name": "Consellería de Cultura, Lingua e Xuventude",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=516&OR=516&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 514,
+      "name": "Consellería de Economía e Industria",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=514&OR=514&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 511,
+      "name": "Consellería de Educación, Ciencia, Universidades e Formación Profesional",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=511&OR=511&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 518,
+      "name": "Consellería de Emprego, Comercio e Emigración",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=518&OR=518&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 446,
+      "name": "Consellería de Facenda e Administración Pública",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=446&OR=446&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 510,
+      "name": "Consellería de Medio Ambiente e Cambio Climático",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=510&OR=510&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 513,
+      "name": "Consellería de Política Social e Igualdade",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=513&OR=513&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 517,
+      "name": "Consellería de Presidencia, Xustiza e Deportes",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=517&OR=517&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 11,
+      "name": "Consellería de Sanidade",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=11&OR=11&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 515,
+      "name": "Consellería de Vivenda e Planificación de Infraestruturas",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=515&OR=515&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 285,
+      "name": "Consellería do Mar",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=285&OR=285&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 284,
+      "name": "Consellería do Medio Rural",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=284&OR=284&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 157,
+      "name": "Secretaría Xeral da Igualdade",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=157&OR=157&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 291,
+      "name": "Secretaría Xeral da Presidencia",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=291&OR=291&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 52,
+      "name": "Secretaría Xeral de Emigración",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=52&OR=52&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 141,
+      "name": "Secretaría Xeral de Medios",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=141&OR=141&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 133,
+      "name": "Secretaría Xeral de Política Lingüística",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=133&OR=133&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 148,
+      "name": "Secretaría Xeral para o Deporte",
+      "category": "Consellerías",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=148&OR=148&SORT=2&ORDER=2&S=CM"
+    },
+    {
+      "organism_id": 77,
+      "name": "Axencia Protección da Legalidade Urbanistica",
+      "category": "Consorcios autonómicos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=77&OR=77&S=CM"
+    },
+    {
+      "organism_id": 235,
+      "name": "Consorcio Axencia para a Calidade do Sistema Universitario de Galicia (ACSUG)",
+      "category": "Consorcios autonómicos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=235&OR=235&S=CM"
+    },
+    {
+      "organism_id": 297,
+      "name": "Consorcio Casco Vello de Vigo",
+      "category": "Consorcios autonómicos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&cambioIdioma=true&N=297&S=CM"
+    },
+    {
+      "organism_id": 181,
+      "name": "Consorcio Galego de Servizos de Igualdade e Benestar",
+      "category": "Consorcios autonómicos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=181&OR=181&S=CM"
+    },
+    {
+      "organism_id": 188,
+      "name": "Consorcio de Bibliotecas Universitarias de Galicia - BUGalicia",
+      "category": "Consorcios autonómicos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=188&OR=188&S=CM"
+    },
+    {
+      "organism_id": 216,
+      "name": "Ente Público Empresarial Augas de Galicia",
+      "category": "Entidades públicas empresariais",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=216&OR=216&S=CM"
+    },
+    {
+      "organism_id": 34,
+      "name": "Portos de Galicia",
+      "category": "Entidades públicas empresariais",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=34&OR=34&S=CM"
+    },
+    {
+      "organism_id": 207,
+      "name": "Centro Tecnológico del Mar-Cetmar",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=207&OR=207&S=CM"
+    },
+    {
+      "organism_id": 68,
+      "name": "Fundación Centro Galego da Artesanía e do Deseño",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=68&OR=68&S=CM"
+    },
+    {
+      "organism_id": 166,
+      "name": "Fundación Centro Tecnolóxico da Carne",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=166&OR=166&S=CM"
+    },
+    {
+      "organism_id": 124,
+      "name": "Fundación Centro Tecnolóxico de Supercomputación de Galicia (Cesga)",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=124&OR=124&S=CM"
+    },
+    {
+      "organism_id": 169,
+      "name": "Fundación Cidade da Cultura Galicia",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=169&OR=169&S=CM"
+    },
+    {
+      "organism_id": 159,
+      "name": "Fundación Deporte Galego",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=159&OR=159&S=CM"
+    },
+    {
+      "organism_id": 190,
+      "name": "Fundación Feiras e Exposicións de Lugo",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=190&OR=190&S=CM"
+    },
+    {
+      "organism_id": 273,
+      "name": "Fundación Galicia Europa",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=273&OR=273&S=CM"
+    },
+    {
+      "organism_id": 233,
+      "name": "Fundación Instituto Feiral de A Coruña (Ifeco) - Expocoruña",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=233&OR=233&S=CM"
+    },
+    {
+      "organism_id": 441,
+      "name": "Fundación Pública Galega Camilo José Cela",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=441&OR=441&S=CM"
+    },
+    {
+      "organism_id": 302,
+      "name": "Fundación Pública Galega de Medicina Xenómica",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&cambioIdioma=true&N=302&S=CM"
+    },
+    {
+      "organism_id": 63,
+      "name": "Fundación Pública Galega para a Tutela de Persoas Adultas (Funga)",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=63&OR=63&S=CM"
+    },
+    {
+      "organism_id": 304,
+      "name": "Fundación Pública Instituto Galego de Oftalmoloxía (Ingo)",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&cambioIdioma=true&N=304&S=CM"
+    },
+    {
+      "organism_id": 308,
+      "name": "Fundación Pública Urxencias Sanitarias de Galicia 061",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=308&OR=308&S=CM"
+    },
+    {
+      "organism_id": 205,
+      "name": "Fundación Rof Codina",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=205&OR=205&S=CM"
+    },
+    {
+      "organism_id": 125,
+      "name": "Fundación Semana Verde de Galicia",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=125&OR=125&S=CM"
+    },
+    {
+      "organism_id": 189,
+      "name": "Fundación de Exposicións e Congresos da Estrada",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=189&OR=189&S=CM"
+    },
+    {
+      "organism_id": 158,
+      "name": "Fundación para o Fomento da Calidade Industrial e o Desenvolvemento Tecnolóxico de Galicia",
+      "category": "Fundacións do sector público autonómico",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=158&OR=158&S=CM"
+    },
+    {
+      "organism_id": 48,
+      "name": "Academia Galega de Seguridade Pública (Agasp)",
+      "category": "Organismos autónomos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=48&OR=48&S=CM"
+    },
+    {
+      "organism_id": 18,
+      "name": "Escola Galega de Administración Pública (EGAP)",
+      "category": "Organismos autónomos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=18&OR=18&S=CM"
+    },
+    {
+      "organism_id": 33,
+      "name": "Fondo Galego de Garantía Agraria (Fogga)",
+      "category": "Organismos autónomos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=33&OR=33&S=CM"
+    },
+    {
+      "organism_id": 15,
+      "name": "Instituto Galego de Consumo e da Competencia (IGCC)",
+      "category": "Organismos autónomos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=15&OR=15&S=CM"
+    },
+    {
+      "organism_id": 23,
+      "name": "Instituto Galego de Estatística (IGE)",
+      "category": "Organismos autónomos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=23&OR=23&S=CM"
+    },
+    {
+      "organism_id": 55,
+      "name": "Instituto Galego de Seguridade e Saúde Laboral (Issga)",
+      "category": "Organismos autónomos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=55&OR=55&S=CM"
+    },
+    {
+      "organism_id": 14,
+      "name": "Instituto Galego de Vivenda e Solo (IGVS)",
+      "category": "Organismos autónomos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=14&OR=14&S=CM"
+    },
+    {
+      "organism_id": 225,
+      "name": "Instituto de Estudos do Territorio (IET)",
+      "category": "Organismos autónomos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=225&OR=225&S=CM"
+    },
+    {
+      "organism_id": 32,
+      "name": "Axencia Galega de Desenvolvemento Rural (Agader)",
+      "category": "Outros entes públicos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=32&OR=32&S=CM"
+    },
+    {
+      "organism_id": 49,
+      "name": "Axencia Galega de Emerxencias (Axega)",
+      "category": "Outros entes públicos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=49&OR=49&S=CM"
+    },
+    {
+      "organism_id": 22,
+      "name": "Centro Informático para a Xestión Tributaria, Económico-Financeira e Contable (Cixtec)",
+      "category": "Outros entes públicos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=22&OR=22&S=CM"
+    },
+    {
+      "organism_id": 80,
+      "name": "Consello Consultivo de Galicia",
+      "category": "Outros entes públicos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=80&OR=80&S=CM"
+    },
+    {
+      "organism_id": 139,
+      "name": "Consello Económico e Social de Galicia",
+      "category": "Outros entes públicos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=139&OR=139&S=CM"
+    },
+    {
+      "organism_id": 151,
+      "name": "Consello Galego de Relacións Laborais",
+      "category": "Outros entes públicos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=151&OR=151&S=CM"
+    },
+    {
+      "organism_id": 16,
+      "name": "Instituto Galego de Promoción Económica (Igape)",
+      "category": "Outros entes públicos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=16&OR=16&S=CM"
+    },
+    {
+      "organism_id": 192,
+      "name": "Instituto Tecnolóxico para o Control do Medio Mariño de Galicia - Intecmar",
+      "category": "Outros entes públicos",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=192&OR=192&S=CM"
+    },
+    {
+      "organism_id": 72,
+      "name": "Corporación Radio e Televisión de Galicia, S.A.",
+      "category": "Sociedades mercantís públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=72&OR=72&S=CM"
+    },
+    {
+      "organism_id": 60,
+      "name": "Empresa Pública de Servizos Agrarios Galegos, S.A. (Seaga)",
+      "category": "Sociedades mercantís públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=60&OR=60&S=CM"
+    },
+    {
+      "organism_id": 301,
+      "name": "Galaria - Empresa Pública de Servizos Sanitarios S.A.",
+      "category": "Sociedades mercantís públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&cambioIdioma=true&N=301&S=CM"
+    },
+    {
+      "organism_id": 138,
+      "name": "Galicia Calidade, S.A.U.",
+      "category": "Sociedades mercantís públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=138&OR=138&S=CM"
+    },
+    {
+      "organism_id": 243,
+      "name": "Parque Tecnolóxico de Galicia, S.A.",
+      "category": "Sociedades mercantís públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=243&OR=243&S=CM"
+    },
+    {
+      "organism_id": 144,
+      "name": "Retegal, S.A.",
+      "category": "Sociedades mercantís públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=144&OR=144&S=CM"
+    },
+    {
+      "organism_id": 97,
+      "name": "Sociedade Anónima de Xestión do Plan Xacobeo",
+      "category": "Sociedades mercantís públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=97&OR=97&S=CM"
+    },
+    {
+      "organism_id": 67,
+      "name": "Sociedade Galega do Medio Ambiente, S.A. (Sogama)",
+      "category": "Sociedades mercantís públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=67&OR=67&S=CM"
+    },
+    {
+      "organism_id": 142,
+      "name": "Sociedade Pública de Investimentos de Galicia, S.A. (S.P.I.Galicia)",
+      "category": "Sociedades mercantís públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=142&OR=142&S=CM"
+    },
+    {
+      "organism_id": 296,
+      "name": "Sodiga Galicia, Sociedade de Capital Risco, S.A",
+      "category": "Sociedades mercantís públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&cambioIdioma=true&N=296&S=CM"
+    },
+    {
+      "organism_id": 209,
+      "name": "Xenética Fontao, S.A.",
+      "category": "Sociedades mercantís públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=209&OR=209&S=CM"
+    },
+    {
+      "organism_id": 61,
+      "name": "Xesgalicia SGEIC, S.A.U.",
+      "category": "Sociedades mercantís públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=61&OR=61&S=CM"
+    },
+    {
+      "organism_id": 275,
+      "name": "Xestión do Solo de Galicia - Xestur, S.A.",
+      "category": "Sociedades mercantís públicas autonómicas",
+      "profile_url": "https://www.contratosdegalicia.gal/consultaOrganismo.jsp?lang=gl&ID=800&N=275&OR=275&S=CM"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 2095.74,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-02-25",
+    "record_id": "245:1941983",
+    "source_id": 1941983,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/245/contratosmenores/table",
+    "subject": "Mobiliario Coruña: 10 cadeiras de oficina, 1 percheiro e unha lámpada",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 2559.15,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-02-25",
+    "record_id": "245:1941991",
+    "source_id": 1941991,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/245/contratosmenores/table",
+    "subject": "Mobiliario Vigo: 3 postos de traballo (mesa, cableado, caixoneira e cadeira)",
+    "vendor_name": "VISUAL PROJECT MANAGEMENT S.L.N.E."
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 8199.83,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-06-02",
+    "record_id": "34:2024277",
+    "source_id": 2024277,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Substitución de cadeiras nas oficinas dependentes de zona centro",
+    "vendor_name": "ACEROFFICE SL"
+  },
+  {
+    "amount_eur": 13091.57,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-06-03",
+    "record_id": "34:2025158",
+    "source_id": 2025158,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Elaboración de estudos de estabilidade da praia de Lourido e de afeccións sobre Zostera spp. en relación co proxecto de",
+    "vendor_name": "AQUATICA INGENIERIA CIVIL SL"
+  },
+  {
+    "amount_eur": 48387.9,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-06-04",
+    "record_id": "34:2026564",
+    "source_id": 2026564,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Renovación de falso teito en edificios do porto de Fisterra",
+    "vendor_name": "SERGONSA SERVICIOS S.L."
+  },
+  {
+    "amount_eur": 18099.54,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-06-04",
+    "record_id": "34:2026704",
+    "source_id": 2026704,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Traballos de vixilancia ambiental da obra Reforzo e adaptación ao cambio climático do dique de abrigo do porto de Burela",
+    "vendor_name": "EPTISA SERVICIOS DE INGENIERIA SL"
+  },
+  {
+    "amount_eur": 3860.08,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-06-09",
+    "record_id": "34:2029846",
+    "source_id": 2029846,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Elaboración de estudos xustificativos de compatibilidade coa estratexia mariña das actuacións do Pantalán para descarga",
+    "vendor_name": "INDROPS LABORATORIO DE ANALISIS Y CALIDAD MEDIAMBI"
+  },
+  {
+    "amount_eur": 33047.16,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-06-30",
+    "record_id": "34:2046215",
+    "source_id": 2046215,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Mugardos: Intervención de seguridade en escuadras de madeira da pasarela peonil",
+    "vendor_name": "LIGNIA INGENIERIA Y CONSTRUCCION EN MADERA"
+  },
+  {
+    "amount_eur": 2323.2,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-06-30",
+    "record_id": "34:2046507",
+    "source_id": 2046507,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "SSCC: Bolsa de horas para o mantemento da Guia nautica de Galicia",
+    "vendor_name": "ZADIA SOFWARE S.L."
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 11622.05,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-01-13",
+    "record_id": "221:1906759",
+    "source_id": 1906759,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Acto de presentación da variante de Viveiro",
+    "vendor_name": "STAR PLANNING, SLU"
+  },
+  {
+    "amount_eur": 1089.0,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-01-13",
+    "record_id": "221:1906772",
+    "source_id": 1906772,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Publirreportaxe de mobilidade sostible en O Morrazo",
+    "vendor_name": "CARBIÑEZ SOCIEDAD LIMITADA"
+  }
+]

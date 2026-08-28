@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 12584.0,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-01-26",
+    "record_id": "32:1913527",
+    "source_id": 1913527,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM25-75 Subm. de merchandising  e trofeos para o acto de enetrega da 16ª edición Premios ao Desenvolvemento Rural",
+    "vendor_name": "LUIS LOPEZ GARCIA"
+  },
+  {
+    "amount_eur": 1147.08,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-01-26",
+    "record_id": "32:1915683",
+    "source_id": 1915683,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM25-94 Serv. de sinaléctica e rotulación Premios Agader",
+    "vendor_name": "TESEC AV & EVENTS, SL"
+  }
+]

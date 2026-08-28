@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 290.25,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-05-13",
+    "record_id": "23:2007630",
+    "source_id": 2007630,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "1 HABITACION HOTEL GRAN LEGAZPI 22-23/01 JUAN CARLOS REBORED",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 129.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-05-13",
+    "record_id": "23:2007631",
+    "source_id": 2007631,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "BILLETES TREN SANTIAGO-MADRID-SANTIAGO 03/02 ISABEL DEL RIO",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 18029.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-05-21",
+    "record_id": "23:2015500",
+    "source_id": 2015500,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "Pagamento factura 000075 &#34;Enquisa de opinión_ política forestal en Galicia&#34;",
+    "vendor_name": "INSTITUTO SONDAXE, S.L."
+  }
+]

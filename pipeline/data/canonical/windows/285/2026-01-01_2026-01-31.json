@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 7979.95,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-01-06",
+    "record_id": "285:1905186",
+    "source_id": 1905186,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/285/contratosmenores/table",
+    "subject": "obras menores reparación invernadoiro IGAFA",
+    "vendor_name": "INVERNADEROS DEL SALNES SL"
+  },
+  {
+    "amount_eur": 14212.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-01-19",
+    "record_id": "285:1907715",
+    "source_id": 1907715,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/285/contratosmenores/table",
+    "subject": "SERVIZOS DOCENCIA MEDICINA HIPERBARICA FP E CURSOS MERGULL",
+    "vendor_name": "JOSE MANUEL FERNANDEZ FERNANDEZ"
+  },
+  {
+    "amount_eur": 14300.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-01-19",
+    "record_id": "285:1907722",
+    "source_id": 1907722,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/285/contratosmenores/table",
+    "subject": "SERVIZOS CURSO OPERADOR RESTRINXIDO SMSSM PORTOSIN",
+    "vendor_name": "SERVICIO DE FORAMACION GALEGO E SALVAMENTO"
+  },
+  {
+    "amount_eur": 4428.6,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-01-26",
+    "record_id": "285:1920338",
+    "source_id": 1920338,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/285/contratosmenores/table",
+    "subject": "SERVIZOS LIMPEZA CENTRO INVESTIGACIONS MARIÑAS (CENTRO VILAN",
+    "vendor_name": "BEATRIZ GARCIA CORTEGOSO"
+  },
+  {
+    "amount_eur": 668.53,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-01-29",
+    "record_id": "285:1920936",
+    "source_id": 1920936,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/285/contratosmenores/table",
+    "subject": "servizo interpretación ES-FR o 12 de decembro no Parlamento",
+    "vendor_name": "MARÍA ROJAS MARTÍNEZ"
+  },
+  {
+    "amount_eur": 264.37,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-01-29",
+    "record_id": "285:1920960",
+    "source_id": 1920960,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/285/contratosmenores/table",
+    "subject": "prezo por copia",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 263.68,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-01-29",
+    "record_id": "285:1920963",
+    "source_id": 1920963,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/285/contratosmenores/table",
+    "subject": "prezo por copia",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  }
+]

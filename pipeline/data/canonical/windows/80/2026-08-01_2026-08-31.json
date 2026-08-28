@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 3744.95,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-08-27",
+    "record_id": "80:2080196",
+    "source_id": 2080196,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "SERVIZO ACTUALIZACIÓN BASE DE DATOS CCG 2026",
+    "vendor_name": "MICRONET, S.A."
+  },
+  {
+    "amount_eur": 921.21,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-08-27",
+    "record_id": "80:2080250",
+    "source_id": 2080250,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "BILLETE AVION SANTIAGO BARCELONA SANTIAGO A NOMBRE ALBERTE S",
+    "vendor_name": "W2M CORPORATE, SLU"
+  }
+]

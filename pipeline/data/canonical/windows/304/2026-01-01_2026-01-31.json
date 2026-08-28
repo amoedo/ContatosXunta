@@ -1,0 +1,13 @@
+[
+  {
+    "amount_eur": 55.66,
+    "duration": "1 mes",
+    "organism_id": 304,
+    "publication_date": "2026-01-01",
+    "record_id": "304:1903193",
+    "source_id": 1903193,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/304/contratosmenores/table",
+    "subject": "PAPEL DE OFICINA",
+    "vendor_name": "OFFICE2GALICIA SC"
+  }
+]

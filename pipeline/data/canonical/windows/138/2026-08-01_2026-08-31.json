@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 0.02,
+    "duration": "1 mes",
+    "organism_id": 138,
+    "publication_date": "2026-08-21",
+    "record_id": "138:2078304",
+    "source_id": 2078304,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/138/contratosmenores/table",
+    "subject": "Baixa de vehículo do inventario de bens mobles de Galicia Calidade, S.A.U.",
+    "vendor_name": "TRATAMIENTO MEDIOAMBIENTAL DE VEHICULOS, S.L."
+  },
+  {
+    "amount_eur": 7150.0,
+    "duration": "1 mes",
+    "organism_id": 138,
+    "publication_date": "2026-08-21",
+    "record_id": "138:2078313",
+    "source_id": 2078313,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/138/contratosmenores/table",
+    "subject": "Contrato menor de servizos para a execución dunha acción de promoción gastronómica no stand de Galicia Calidade durante",
+    "vendor_name": "NCC GALICIA, S.L."
+  },
+  {
+    "amount_eur": 5500.0,
+    "duration": "1 mes",
+    "organism_id": 138,
+    "publication_date": "2026-08-21",
+    "record_id": "138:2078396",
+    "source_id": 2078396,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/138/contratosmenores/table",
+    "subject": "Servizo de elaboración e distribución de produtos certificados Galicia Calidade con motivo da presenza institucional no",
+    "vendor_name": "MIGUEZ REGO SL"
+  }
+]

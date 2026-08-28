@@ -1,0 +1,100 @@
+---
+import { ExternalLink, Landmark } from 'lucide-react';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  titleEs?: string;
+  descriptionEs?: string;
+}
+
+const { title, description, titleEs = title, descriptionEs = description } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const withBase = (path: string) => `${base}${path.replace(/^\//, '')}`;
+const currentPath = Astro.url.pathname.replace(base, '/').replace(/\/$/, '') || '/';
+const navItems = [
+  ['/', 'Inicio', 'Inicio'],
+  ['/adjudicatarios', 'Adxudicatarios', 'Adjudicatarios'],
+  ['/organismos', 'Organismos', 'Organismos'],
+  ['/importes', 'Importes', 'Importes'],
+  ['/evolucion', 'Evolución', 'Evolución'],
+  ['/explorador', 'Explorador', 'Explorador'],
+  ['/metodoloxia', 'Metodoloxía', 'Metodología'],
+] as const;
+const analysisPaths = new Set(['/adjudicatarios', '/organismos', '/importes', '/evolucion']);
+const canonical = new URL(Astro.url.pathname, Astro.site ?? Astro.url);
+---
+<!doctype html>
+<html lang="gl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={description} data-description-gl={description} data-description-es={descriptionEs} />
+    <meta name="theme-color" content="#174d3f" />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href={withBase('/favicon.svg')} />
+    <title data-title-gl={title} data-title-es={titleEs}>{title}</title>
+    <script is:inline>
+      const queryLanguage = new URLSearchParams(window.location.search).get('lang');
+      const storedLanguage = localStorage.getItem('contratos-xunta-language');
+      document.documentElement.lang = queryLanguage === 'es' || (!queryLanguage && storedLanguage === 'es') ? 'es' : 'gl';
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#content">Saltar ao contido / Saltar al contenido</a>
+    <header class="site-header">
+      <a class="brand internal-link" href={withBase('/')} aria-label="Contratos Xunta">
+        <span class="brand-mark" aria-hidden="true"><Landmark size={21} strokeWidth={1.8} /></span>
+        <span>Contratos Xunta</span>
+      </a>
+      <nav class="primary-nav" aria-label="Navegación principal">
+        {navItems.map(([path, gl, es]) => (
+          <a class:list={['internal-link', { active: currentPath === path }]} href={withBase(path)} data-analysis-route={analysisPaths.has(path) || undefined}>
+            <span data-lang="gl">{gl}</span><span data-lang="es">{es}</span>
+          </a>
+        ))}
+      </nav>
+      <div class="language-switch" aria-label="Idioma">
+        <button type="button" data-language="gl">GL</button>
+        <button type="button" data-language="es">ES</button>
+      </div>
+    </header>
+
+    <main id="content"><slot /></main>
+
+    <footer>
+      <span>Contratos Xunta</span>
+      <div class="footer-links">
+        <a class="internal-link" href={withBase('/metodoloxia')}><span data-lang="gl">Metodoloxía</span><span data-lang="es">Metodología</span></a>
+        <a href="https://transparencia.xunta.gal/tema/informacion-economica-orzamentaria-e-estatistica/contratacion-publica/contratos-menores" target="_blank" rel="noreferrer"><span data-lang="gl">Fonte oficial</span><span data-lang="es">Fuente oficial</span><ExternalLink size={14} /></a>
+      </div>
+    </footer>
+    <script is:inline>
+      const activeLanguage = document.documentElement.lang === 'es' ? 'es' : 'gl';
+      const titleNode = document.querySelector('title');
+      const descriptionNode = document.querySelector('meta[name="description"]');
+      if (titleNode) document.title = titleNode.dataset[activeLanguage === 'es' ? 'titleEs' : 'titleGl'] || document.title;
+      if (descriptionNode) descriptionNode.setAttribute('content', descriptionNode.dataset[activeLanguage === 'es' ? 'descriptionEs' : 'descriptionGl'] || '');
+      document.querySelectorAll('.internal-link').forEach((link) => {
+        if (activeLanguage !== 'es') return;
+        const url = new URL(link.href);
+        url.searchParams.set('lang', 'es');
+        link.href = url.toString();
+      });
+      document.querySelectorAll('[data-language]').forEach((button) => {
+        button.classList.toggle('active', button.dataset.language === activeLanguage);
+        button.addEventListener('click', () => {
+          const language = button.dataset.language === 'es' ? 'es' : 'gl';
+          localStorage.setItem('contratos-xunta-language', language);
+          const url = new URL(window.location.href);
+          if (language === 'es') url.searchParams.set('lang', 'es');
+          else url.searchParams.delete('lang');
+          window.location.href = url.toString();
+        });
+      });
+      document.querySelector('.primary-nav a.active')?.scrollIntoView({ block: 'nearest', inline: 'center' });
+    </script>
+  </body>
+</html>

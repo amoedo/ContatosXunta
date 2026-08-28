@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 99.91,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-05-05",
+    "record_id": "37:2001678",
+    "source_id": 2001678,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "MATERIAL DE OFICINA (PAPELERÍA)",
+    "vendor_name": "OFIAGUS S L"
+  },
+  {
+    "amount_eur": 632.67,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-05-08",
+    "record_id": "37:2004873",
+    "source_id": 2004873,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "subministración papel A4 e A3 para equipos de impresión",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 591.7,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-05-19",
+    "record_id": "37:2013276",
+    "source_id": 2013276,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "SEGURO VEHÍCULO OPEL CORSA 7624 MBZ",
+    "vendor_name": "AXA SEGUROS GENERALES SA DE SEGUROS Y REASEGUROS S"
+  },
+  {
+    "amount_eur": 18120.48,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-05-22",
+    "record_id": "37:2016232",
+    "source_id": 2016232,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "Contratación da subministración dun equipamento SAI",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 137.13,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-05-26",
+    "record_id": "37:2018606",
+    "source_id": 2018606,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "FACTURA 55825 IMPRESIÓN-CIS FERROL- 01.04.2026 ata 21.05.202",
+    "vendor_name": "XESTION DIXITAL COMPOSTELA, SL"
+  },
+  {
+    "amount_eur": 582.01,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-05-27",
+    "record_id": "37:2019715",
+    "source_id": 2019715,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "SUBMINISTRACIÓN E INSTALACIÓN PORTARROLLOS PAPEL E ENCHUFE E",
+    "vendor_name": "OBRADOIRO DE SERVICIOS Y REFORMAS S.L."
+  },
+  {
+    "amount_eur": 251.41,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-05-27",
+    "record_id": "37:2019718",
+    "source_id": 2019718,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "servizo de apoio no movemento de caixas de mudanza con docum",
+    "vendor_name": "COMPOSTELA INSERTA EMPESA DE INSERCION LABORAL SL"
+  }
+]

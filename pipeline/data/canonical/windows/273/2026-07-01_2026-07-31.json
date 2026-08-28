@@ -1,0 +1,123 @@
+[
+  {
+    "amount_eur": 1028.5,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-07-09",
+    "record_id": "273:2054163",
+    "source_id": 2054163,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Papelería Ledoira 01/0247566",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 669.84,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-07-09",
+    "record_id": "273:2054409",
+    "source_id": 2054409,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Gestwin 2T",
+    "vendor_name": "INFORGES IT SERVICES, S.L."
+  },
+  {
+    "amount_eur": 3388.0,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-07-10",
+    "record_id": "273:2055694",
+    "source_id": 2055694,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Finnova 2026/00012",
+    "vendor_name": "FUNDACION DELEGACION FUNDACION INNOVA"
+  },
+  {
+    "amount_eur": 2450.25,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-07-14",
+    "record_id": "273:2057294",
+    "source_id": 2057294,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Papelería Ledoira 01_0247826",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 97.0,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-07-15",
+    "record_id": "273:2057972",
+    "source_id": 2057972,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Parymar 6459",
+    "vendor_name": "PARYMAR SA"
+  },
+  {
+    "amount_eur": 36.54,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-07-15",
+    "record_id": "273:2058554",
+    "source_id": 2058554,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Papelería Ledoira 01_0247827",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 844.04,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-07-15",
+    "record_id": "273:2058555",
+    "source_id": 2058555,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Papelería Ledoira 01_0247828",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 1197.9,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-07-16",
+    "record_id": "273:2059726",
+    "source_id": 2059726,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "GGarabal 23469",
+    "vendor_name": "GRAFICAS GARABAL SL"
+  },
+  {
+    "amount_eur": 154.88,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-07-16",
+    "record_id": "273:2059762",
+    "source_id": 2059762,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Gestoría maio",
+    "vendor_name": "GESTORIA DE LA TORRE, S.L."
+  },
+  {
+    "amount_eur": 89.4,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-07-17",
+    "record_id": "273:2061038",
+    "source_id": 2061038,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Equaby Prevención P00658/26",
+    "vendor_name": "ATHENA SISTEMAS DE GESTIÓN, S.L."
+  },
+  {
+    "amount_eur": 665.5,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-07-23",
+    "record_id": "273:2065017",
+    "source_id": 2065017,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "I. Sociedades 2025",
+    "vendor_name": "AUSUM ASESORES Y ABOGADOS SL"
+  }
+]

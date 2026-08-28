@@ -1,0 +1,112 @@
+[
+  {
+    "amount_eur": 7472.96,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-03-02",
+    "record_id": "215:1947543",
+    "source_id": 1947543,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Servizo de mantemento equipos SXM (sw Stirlitz e tarxeta captura)",
+    "vendor_name": "SISTEMAS AUDIOVISUALES ITELSIS SL"
+  },
+  {
+    "amount_eur": 11361.9,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-03-04",
+    "record_id": "215:1949098",
+    "source_id": 1949098,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Xerencia 2026-CM-909_servizo de aluguer e instalación de carpa e equipos necesarios para a presentación do proxecto de e",
+    "vendor_name": "G 64 COMUNICACION, SL"
+  },
+  {
+    "amount_eur": 2071.52,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-03-05",
+    "record_id": "215:1949722",
+    "source_id": 1949722,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Mantemento de Software de xestión de restaurante (Verial)",
+    "vendor_name": "JESUS FRANCO VIDAL"
+  },
+  {
+    "amount_eur": 2000.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-03-05",
+    "record_id": "215:1949739",
+    "source_id": 1949739,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "ADIX 2026-CM-024_ Compras material informático non inventariable",
+    "vendor_name": "GABRIEL CALVIÑO FERNANDEZ"
+  },
+  {
+    "amount_eur": 7500.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-03-05",
+    "record_id": "215:1950794",
+    "source_id": 1950794,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "ADIX-2026-CM-022-Material non inventariable Xustiza",
+    "vendor_name": "MICROMEDIA SL"
+  },
+  {
+    "amount_eur": 8000.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-03-05",
+    "record_id": "215:1951618",
+    "source_id": 1951618,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "ADIX-2026-CM-025_Compras material informático non inventariable",
+    "vendor_name": "NORTCONSULTING SOLUCIONES SL"
+  },
+  {
+    "amount_eur": 396.27,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-03-17",
+    "record_id": "215:1962833",
+    "source_id": 1962833,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Xerencia 2026-CM-912_Gastos desprazamento",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 317.8,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-03-17",
+    "record_id": "215:1963138",
+    "source_id": 1963138,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Xerencia 2026-CM-912_Servizo de desprazamento 15/12 ao 16/12 do 2025",
+    "vendor_name": "VIAJES GALITUR SL"
+  },
+  {
+    "amount_eur": 8575.88,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-03-27",
+    "record_id": "215:1973160",
+    "source_id": 1973160,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "STS 2026-CM-EMP-601_Servizo de REPLANTEO IN-INSITU PARA A INSTALACION DE 50 PUNTOS DE INFORMACIÓN EN OFICINAS DE EMPREGO",
+    "vendor_name": "TECNOLOGIAS PLEXUS, S.L."
+  },
+  {
+    "amount_eur": 8651.5,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-03-31",
+    "record_id": "215:1976811",
+    "source_id": 1976811,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "STS 2026-CM-MRM-500_Servizo desenvolvemento, adaptación, soporte e mantemento portal web Censo patrimonio maritimo inmob",
+    "vendor_name": "INNOVACION COOPERACION CARTOGRAFIA Y TERRITORIO SL"
+  }
+]

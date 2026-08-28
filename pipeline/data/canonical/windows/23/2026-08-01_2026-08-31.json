@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 17061.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-08-10",
+    "record_id": "23:2073156",
+    "source_id": 2073156,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "competencias e usos da lingua galega",
+    "vendor_name": "IDEARA SL"
+  },
+  {
+    "amount_eur": 190.7,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-08-20",
+    "record_id": "23:2077799",
+    "source_id": 2077799,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "reparación da ensobradora do IGE",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  }
+]

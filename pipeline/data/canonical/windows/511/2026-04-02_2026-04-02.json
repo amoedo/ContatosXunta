@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 1996.5,
+    "duration": "1 mes",
+    "organism_id": 511,
+    "publication_date": "2026-04-02",
+    "record_id": "511:1978549",
+    "source_id": 1978549,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/511/contratosmenores/table",
+    "subject": "Servizo de presentación e guionización do evento",
+    "vendor_name": "LUCIA RODRIGUEZ VAZQUEZ"
+  },
+  {
+    "amount_eur": 532.92,
+    "duration": "1 mes",
+    "organism_id": 511,
+    "publication_date": "2026-04-02",
+    "record_id": "511:1979896",
+    "source_id": 1979896,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/511/contratosmenores/table",
+    "subject": "SUBMINISTRACIÓN AUGA NO EDIFICIO DA ANTIGA ETEA (VIGO). PERÍ",
+    "vendor_name": "AQUALIA-F.C.C., UTE-(AQUALIA-FCC VIGO UTE) (GEST.I"
+  }
+]

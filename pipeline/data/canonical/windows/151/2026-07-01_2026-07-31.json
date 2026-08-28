@@ -1,0 +1,90 @@
+[
+  {
+    "amount_eur": 496.1,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-07-01",
+    "record_id": "151:2047180",
+    "source_id": 2047180,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "salas mediación AGA 51/26 23.06.2026",
+    "vendor_name": "COIA HOTEL TUR SA"
+  },
+  {
+    "amount_eur": 329.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-07-01",
+    "record_id": "151:2047437",
+    "source_id": 2047437,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "desprazamento da secretaria do CGRL para asistir a xornada d",
+    "vendor_name": "VIAJES GALITUR SL"
+  },
+  {
+    "amount_eur": 977.7,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-07-01",
+    "record_id": "151:2047438",
+    "source_id": 2047438,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "aloxamento relatora xornada Ferrol 29.04.2026 (Olga Fotinópu",
+    "vendor_name": "VIAJES GALITUR SL"
+  },
+  {
+    "amount_eur": 2006.85,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-07-01",
+    "record_id": "151:2047565",
+    "source_id": 2047565,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "diseño e impresión (150 ejemplares) memoria de actividades c",
+    "vendor_name": "SILO SERVICIOS GRAFICOS SL LABORAL"
+  },
+  {
+    "amount_eur": 2075.4,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-07-17",
+    "record_id": "151:2060701",
+    "source_id": 2060701,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "reunión mediación AGA 73/26 01.07.2026",
+    "vendor_name": "COIA HOTEL TUR SA"
+  },
+  {
+    "amount_eur": 289.43,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-07-17",
+    "record_id": "151:2060902",
+    "source_id": 2060902,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "2 toner originales ara brother hl-l5210dw",
+    "vendor_name": "INFORMÁTICA RED.SHOP SL"
+  },
+  {
+    "amount_eur": 963.6,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-07-17",
+    "record_id": "151:2061031",
+    "source_id": 2061031,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "Servizo de cátering no seminario do CGRl do 02.07.2026",
+    "vendor_name": "CATERING ALMIREZ,S.L."
+  },
+  {
+    "amount_eur": 107.9,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-07-17",
+    "record_id": "151:2061593",
+    "source_id": 2061593,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "obsequio xubilación jc rodríguez - pleno CGRL",
+    "vendor_name": "CARMEN RABUÑAL REY Y OTROS S C"
+  }
+]

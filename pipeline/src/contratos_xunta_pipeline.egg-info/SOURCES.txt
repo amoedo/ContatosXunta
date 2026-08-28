@@ -1,0 +1,14 @@
+pyproject.toml
+src/contratos_xunta/__init__.py
+src/contratos_xunta/cli.py
+src/contratos_xunta/crawler.py
+src/contratos_xunta/models.py
+src/contratos_xunta/normalize.py
+src/contratos_xunta/source.py
+src/contratos_xunta_pipeline.egg-info/PKG-INFO
+src/contratos_xunta_pipeline.egg-info/SOURCES.txt
+src/contratos_xunta_pipeline.egg-info/dependency_links.txt
+src/contratos_xunta_pipeline.egg-info/entry_points.txt
+src/contratos_xunta_pipeline.egg-info/requires.txt
+src/contratos_xunta_pipeline.egg-info/top_level.txt
+tests/test_api.py

@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 3808.02,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-03-05",
+    "record_id": "139:1951429",
+    "source_id": 1951429,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "3 ORDENADORES PARA O CES GALICIA",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 467.1,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-03-09",
+    "record_id": "139:1953573",
+    "source_id": 1953573,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "RECOÑECEMENTO MÉDICO PERSOAL CES GALICIA",
+    "vendor_name": "VITALY HEALTH SERVICES, S.L."
+  },
+  {
+    "amount_eur": 559.02,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-03-09",
+    "record_id": "139:1954295",
+    "source_id": 1954295,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "BOTELLAS LOGO CES GALICIA",
+    "vendor_name": "BEIROA DUARTE SC"
+  },
+  {
+    "amount_eur": 1682.64,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-03-27",
+    "record_id": "139:1973441",
+    "source_id": 1973441,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "ALUGUER EQUIPO DE IMPRESIÓN E FOTOCOPIADORA",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  }
+]

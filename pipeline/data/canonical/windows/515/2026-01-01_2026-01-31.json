@@ -1,0 +1,211 @@
+[
+  {
+    "amount_eur": 215.39,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-22",
+    "record_id": "515:1908312",
+    "source_id": 1908312,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "Gastos de viaxe",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 60.5,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-22",
+    "record_id": "515:1908373",
+    "source_id": 1908373,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "material de oficina",
+    "vendor_name": "PRELO S L"
+  },
+  {
+    "amount_eur": 26.18,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-22",
+    "record_id": "515:1908380",
+    "source_id": 1908380,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "Subministro auga",
+    "vendor_name": "REAL PIKAÑA SL"
+  },
+  {
+    "amount_eur": 719.95,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-22",
+    "record_id": "515:1908389",
+    "source_id": 1908389,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "CONTRATO DE LIMPEZA DAS INSTALACIÓNS DE URBANISMO E DA APLU",
+    "vendor_name": "ELITE GALLEGA SL"
+  },
+  {
+    "amount_eur": 715.11,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-22",
+    "record_id": "515:1908406",
+    "source_id": 1908406,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "Acto visita obra",
+    "vendor_name": "RDSENDE IMAXSON SL"
+  },
+  {
+    "amount_eur": 185.03,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-22",
+    "record_id": "515:1908415",
+    "source_id": 1908415,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "FOTOCOPIADORA/ IMPRESORA MES DE NOVEMBRO DE 2025",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 81.58,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-22",
+    "record_id": "515:1908416",
+    "source_id": 1908416,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "factura novembro",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 455.27,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-23",
+    "record_id": "515:1908515",
+    "source_id": 1908515,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "honro- cert. final",
+    "vendor_name": "ROSA MARIA SUAREZ GONZALEZ"
+  },
+  {
+    "amount_eur": 401.29,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-23",
+    "record_id": "515:1909613",
+    "source_id": 1909613,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "honrorarios CERT final",
+    "vendor_name": "ESTUDIO TECNICO GALLEGO SA"
+  },
+  {
+    "amount_eur": 1566.95,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-26",
+    "record_id": "515:1914848",
+    "source_id": 1914848,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "FACT.0210440 SUBMINISTRACIÓN DE ELEMENTOS DE PROTECCIÓN INDIVIDUAL- IRAGO, EXCLUSIVAS Y DISTRIBUCIONES, S.A.",
+    "vendor_name": "IRAGO EXCLUSIVAS Y DISTRIBUCIONES SA"
+  },
+  {
+    "amount_eur": 31.76,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-26",
+    "record_id": "515:1915470",
+    "source_id": 1915470,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "MÁQUINA AUGA CVPI PONTEVEDRA. DECEMBRO 2025",
+    "vendor_name": "CULLIGAN WATER SPAIN SL"
+  },
+  {
+    "amount_eur": 1448.37,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-26",
+    "record_id": "515:1915565",
+    "source_id": 1915565,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "Eliminación de residuos e de mobiliario e material inservible dun almacén da CVPI",
+    "vendor_name": "TRASTEROS TAMBRE SL"
+  },
+  {
+    "amount_eur": 1290.1,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-26",
+    "record_id": "515:1915697",
+    "source_id": 1915697,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "PAGO FACTURA 246024 EMITIDA POR PAPELERÍA LEDOIRA SL MATERIAL DE OFICINA (DATADOR E TALONARIOS)",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 455.27,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-26",
+    "record_id": "515:1915959",
+    "source_id": 1915959,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "Honor. cert. final",
+    "vendor_name": "E I C DURAN,SL"
+  },
+  {
+    "amount_eur": 1359.47,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-26",
+    "record_id": "515:1916542",
+    "source_id": 1916542,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "Factura adquisición módulo de grampado máquina kónica Minolta para o XEG",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 5373.61,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-26",
+    "record_id": "515:1916713",
+    "source_id": 1916713,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "Subministración de roupa e cascos de seguridade para o persoal técnico e directivo no ámbito de actuación da CVPI",
+    "vendor_name": "TRAPOS Y CABOS RUBI SL"
+  },
+  {
+    "amount_eur": 89.25,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-26",
+    "record_id": "515:1918348",
+    "source_id": 1918348,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "Fact. 845149042 (novembro 2025) SERV. MANTEMENTO IMPRESORAS EQUIP. Ourense",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 676.47,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-27",
+    "record_id": "515:1920473",
+    "source_id": 1920473,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "Cableado eléctrico y de antena para tres(3) TV en zona Gabinete da Consellería de Vivenda e Planificación de Infraest.",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 1369.72,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-01-27",
+    "record_id": "515:1920633",
+    "source_id": 1920633,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/515/contratosmenores/table",
+    "subject": "FACTURA NÚM. 02267 EMITIDA POR LAU CREACIÓNS SL GASTOS ATENCIÓNS PROTOCOLARIAS",
+    "vendor_name": "LAU CREACIONS SL"
+  }
+]

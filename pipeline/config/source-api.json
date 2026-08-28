@@ -1,0 +1,21 @@
+{
+  "base_url": "https://www.contratosdegalicia.gal/api/v1/organismos/{organism_id}/contratosmenores/table",
+  "page_size": 100,
+  "date_format": "YYYY-MM-DD",
+  "date_boundaries": "inclusive",
+  "default_order": [
+    { "column": 1, "direction": "asc" },
+    { "column": 0, "direction": "asc" }
+  ],
+  "columns": [
+    { "data": "id", "orderable": true },
+    { "data": "publicado", "orderable": true },
+    { "data": "objeto", "orderable": true },
+    { "data": "importe", "orderable": true },
+    { "data": "nif", "orderable": true },
+    { "data": "adjudicatario", "orderable": true },
+    { "data": "duracion", "orderable": false }
+  ],
+  "response_fields": ["draw", "recordsTotal", "recordsFiltered", "data"],
+  "row_fields": ["id", "publicado", "objeto", "importe", "nif", "adjudicatario", "duracion"]
+}

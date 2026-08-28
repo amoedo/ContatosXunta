@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 7925.5,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-06-22",
+    "record_id": "80:2040465",
+    "source_id": 2040465,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "BASE DE DATOS  &#34;EL DERECHO&#34; NEO LEFEBVRE PARA CCG 2026",
+    "vendor_name": "LEFEBVRE-EL DERECHO SA"
+  },
+  {
+    "amount_eur": 110.23,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-06-30",
+    "record_id": "80:2045974",
+    "source_id": 2045974,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "PRENSA DIXITAL CCG",
+    "vendor_name": "UNIDAD EDITORIAL, S.A. (UNEDISA)"
+  }
+]

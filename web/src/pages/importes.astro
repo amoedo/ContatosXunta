@@ -1,0 +1,9 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import AnalysisRoute from '../components/AnalysisRoute';
+---
+<BaseLayout title="Importes | Contratos Xunta" description="Distribución dos importes dos contratos menores publicados." descriptionEs="Distribución de los importes de los contratos menores publicados.">
+  <PageHero eyebrow="Análise económica" eyebrowEs="Análisis económico" title="Como se distribúen os importes" titleEs="Cómo se distribuyen los importes" copy="Percentís, tramos e contratos destacados para distinguir valores habituais e extremos." copyEs="Percentiles, tramos y contratos destacados para distinguir valores habituales y extremos." />
+  <AnalysisRoute section="amounts" client:load />
+</BaseLayout>

@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 625.0,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-08-04",
+    "record_id": "290:2070816",
+    "source_id": 2070816,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/290/contratosmenores/table",
+    "subject": "EFPC 2026 Conference Stuttgart 7-8 sept 2026",
+    "vendor_name": "EUROPEAN FORUM FOR PRIMARY CARE (EFPC)"
+  },
+  {
+    "amount_eur": 116.0,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-08-04",
+    "record_id": "290:2070817",
+    "source_id": 2070817,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/290/contratosmenores/table",
+    "subject": "Edición de informe para publicación en revista International Journal of Technology Assessment in Health Care",
+    "vendor_name": "CACTUS COMMUNICATIONS SERVICES PTE.LTD"
+  },
+  {
+    "amount_eur": 314.82,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-08-05",
+    "record_id": "290:2071426",
+    "source_id": 2071426,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/290/contratosmenores/table",
+    "subject": "Material de oficina y pequeño material informático",
+    "vendor_name": "OFFICE2GALICIA SC"
+  },
+  {
+    "amount_eur": 7500.0,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-08-11",
+    "record_id": "290:2073791",
+    "source_id": 2073791,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/290/contratosmenores/table",
+    "subject": "Licenza de uso de software para análise imaxe oftalmolóxica",
+    "vendor_name": "UNIVERSIDADE DA CORUÑA"
+  },
+  {
+    "amount_eur": 59290.0,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-08-12",
+    "record_id": "290:2074153",
+    "source_id": 2074153,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/290/contratosmenores/table",
+    "subject": "Definición de necesidades funcionais do proxecto PRECISAÚDE",
+    "vendor_name": "ESTRATEGA CONSULTING GLOBAL SL"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "amount_eur": 9682.12,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-04-02",
+    "record_id": "192:1978514",
+    "source_id": 1978514,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/192/contratosmenores/table",
+    "subject": "AG/F20260327A AUROLABO - FILTROS Y MANGAS",
+    "vendor_name": "AURORA VAZQUEZ PENAS"
+  },
+  {
+    "amount_eur": 977.08,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-04-02",
+    "record_id": "192:1978708",
+    "source_id": 1978708,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/192/contratosmenores/table",
+    "subject": "DC/B20260227A GAMACISA Jeringas FRA SEF Nº2026 162",
+    "vendor_name": "GALLEGA DE MATERIAL CIENTIFICO S A"
+  },
+  {
+    "amount_eur": 416.85,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-04-02",
+    "record_id": "192:1978921",
+    "source_id": 1978921,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/192/contratosmenores/table",
+    "subject": "DC/M20260310A PROQUINORTE Solucion tampon pH FRA SEF Nº2026 160",
+    "vendor_name": "PROQUINORTE SA"
+  },
+  {
+    "amount_eur": 1870.18,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-04-02",
+    "record_id": "192:1978922",
+    "source_id": 1978922,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/192/contratosmenores/table",
+    "subject": "DC/CM20260302A PROQUINORTE ICP-MS FRA SEF Nº2026 161",
+    "vendor_name": "PROQUINORTE SA"
+  },
+  {
+    "amount_eur": 3285.15,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-04-02",
+    "record_id": "192:1979050",
+    "source_id": 1979050,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/192/contratosmenores/table",
+    "subject": "AG/D20230313aA- revisión equipos extración aire _ TDI S.L.",
+    "vendor_name": "TECNOLOGIA PARA DIAGNOSTICO E INVESTIGACION, S.A."
+  },
+  {
+    "amount_eur": 17304.11,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-04-02",
+    "record_id": "192:1979123",
+    "source_id": 1979123,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/192/contratosmenores/table",
+    "subject": "AG/F20260325A DASAN CIENTIFICA SL - MATERIAL LABORATORIO",
+    "vendor_name": "DASAN CIENTIFICA S.L"
+  },
+  {
+    "amount_eur": 417.45,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-04-02",
+    "record_id": "192:1979407",
+    "source_id": 1979407,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/192/contratosmenores/table",
+    "subject": "DC/F20260220A STIN SL - LAMPARA HALOGENA PARA MICROSCOPIO",
+    "vendor_name": "SERVICIOS TECNICOS INTEGRADOS DEL NOROES"
+  },
+  {
+    "amount_eur": 1802.9,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-04-02",
+    "record_id": "192:1979408",
+    "source_id": 1979408,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/192/contratosmenores/table",
+    "subject": "DC/F20260220C STIN SL - SOFTWARE SURPHER GRAFICAS 2D Y 3D",
+    "vendor_name": "SERVICIOS TECNICOS INTEGRADOS DEL NOROES"
+  },
+  {
+    "amount_eur": 1878.57,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-04-02",
+    "record_id": "192:1979627",
+    "source_id": 1979627,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/192/contratosmenores/table",
+    "subject": "DC/F20260316A PERKIN ELMER REPARACION ESPECTROFLUORIMETRO FRA SEF Nº2026 163",
+    "vendor_name": "PERKINELMER SCIENTIFIC SPAIN SLU"
+  },
+  {
+    "amount_eur": 1535.77,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-04-02",
+    "record_id": "192:1979892",
+    "source_id": 1979892,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/192/contratosmenores/table",
+    "subject": "DC/F20260218A UNIVERSIDADE A CORUÑA - MICROSCOPIA ELECTRÓNIC",
+    "vendor_name": "UNIVERSIDADE DA CORUÑA"
+  }
+]

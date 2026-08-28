@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 4416.6,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-01-01",
+    "record_id": "302:1903124",
+    "source_id": 1903124,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/302/contratosmenores/table",
+    "subject": "O servizo de veri icación / calibración de micropipetas monocanal e multicanal segundo especifica a norma ISO 8655:2022,",
+    "vendor_name": "METTLER TOLEDO, S.A."
+  },
+  {
+    "amount_eur": 526.35,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-01-01",
+    "record_id": "302:1903160",
+    "source_id": 1903160,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/302/contratosmenores/table",
+    "subject": "A adquisición de 500 bolsas de papel kraft con estampado personalizado co logotipo do proxecto Xenoma Galicia, destinada",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 3691.33,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-01-01",
+    "record_id": "302:1903182",
+    "source_id": 1903182,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/302/contratosmenores/table",
+    "subject": "A subministración de reactivos e material funxible de laboratorio (plástico) con destino á unidade de laboratorio centra",
+    "vendor_name": "FISHER SCIENTIFIC, S.L."
+  },
+  {
+    "amount_eur": 3730.16,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-01-01",
+    "record_id": "302:1903184",
+    "source_id": 1903184,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/302/contratosmenores/table",
+    "subject": "A prestación do servizo de soporte e mantemento do equipo MiSeq Silver Support Plan.",
+    "vendor_name": "ILLUMINA PRODUCTOS DE ESPAÑA SL"
+  },
+  {
+    "amount_eur": 5354.25,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-01-01",
+    "record_id": "302:1903191",
+    "source_id": 1903191,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/302/contratosmenores/table",
+    "subject": "A subministración de 250 unidades de kits de autotoma de mostras de saliva (Oragene.Dx OGD-510 (IVD) para o proxecto pil",
+    "vendor_name": "ABYNTEK BIOPHARMA, SL"
+  }
+]

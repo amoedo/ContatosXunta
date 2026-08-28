@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 6292.0,
+    "duration": "1 mes",
+    "organism_id": 190,
+    "publication_date": "2026-06-19",
+    "record_id": "190:2039664",
+    "source_id": 2039664,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/190/contratosmenores/table",
+    "subject": "AUDITORÍA EXTERNA CONTAS 2025",
+    "vendor_name": "MAPEC AUDITORIA SL"
+  },
+  {
+    "amount_eur": 13939.2,
+    "duration": "1 mes",
+    "organism_id": 190,
+    "publication_date": "2026-06-19",
+    "record_id": "190:2039867",
+    "source_id": 2039867,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/190/contratosmenores/table",
+    "subject": "contratación alquiler 120 boxes equigal 2026",
+    "vendor_name": "GRUEIRO EVENTOS S L U"
+  }
+]

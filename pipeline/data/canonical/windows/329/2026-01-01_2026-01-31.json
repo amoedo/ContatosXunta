@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 3170.2,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-01-15",
+    "record_id": "329:1907083",
+    "source_id": 1907083,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/329/contratosmenores/table",
+    "subject": "contratación proxecto aldealix",
+    "vendor_name": "FRANCISCO GARCIA RODRIGUEZ"
+  },
+  {
+    "amount_eur": 9922.0,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-01-15",
+    "record_id": "329:1907190",
+    "source_id": 1907190,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/329/contratosmenores/table",
+    "subject": "contratación asistencia técnica proxecto Aldealix",
+    "vendor_name": "ASOCIACIÓN CLÚSTER DA BIOMASA DE GALICIA"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 26.62,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-03-03",
+    "record_id": "80:1947691",
+    "source_id": 1947691,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "PLACA METACRILATO ROTULACIÓN DESPACHO",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 678.3,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-03-05",
+    "record_id": "80:1949550",
+    "source_id": 1949550,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "Adquisición equipamento informático CCG - PORTÁTIL HP",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 615.04,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-03-06",
+    "record_id": "80:1951984",
+    "source_id": 1951984,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "Mantemento impresora multifunción",
+    "vendor_name": "VSM SISTEMAS CORUÑA, SA"
+  },
+  {
+    "amount_eur": 453.47,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-03-10",
+    "record_id": "80:1954536",
+    "source_id": 1954536,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "PRENSA DIXITAL CCG",
+    "vendor_name": "LA VOZ DE GALICIA SA"
+  },
+  {
+    "amount_eur": 738.71,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-03-16",
+    "record_id": "80:1962277",
+    "source_id": 1962277,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "MATERIAL INFORMÁTICO NON INVENTARIABLE",
+    "vendor_name": "OFFICE2GALICIA SC"
+  },
+  {
+    "amount_eur": 1792.0,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-03-25",
+    "record_id": "80:1970103",
+    "source_id": 1970103,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "TRANFERENCIA CTA.GALURESA ABANCA: ES72-2080-5803-9030-4000-5",
+    "vendor_name": "GALURESA, S.A."
+  },
+  {
+    "amount_eur": 4451.44,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-03-31",
+    "record_id": "80:1976802",
+    "source_id": 1976802,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "Adquisición equipamento informático CCG - PORTÁTILES",
+    "vendor_name": "INFORMATICA Y NETWORKING COMPOSTELA S.L.U."
+  }
+]

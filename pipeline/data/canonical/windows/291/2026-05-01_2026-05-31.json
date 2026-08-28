@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 605.0,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-05-01",
+    "record_id": "291:2001077",
+    "source_id": 2001077,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SERVIZOS DE COBERTURA GRÁFICA DE EVENTO INSTITUCIONAL",
+    "vendor_name": "PAUL DAVID HANNA"
+  },
+  {
+    "amount_eur": 61.55,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-05-06",
+    "record_id": "291:2002834",
+    "source_id": 2002834,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "GASTOS DERIVADOS DO FUNCIONAMENTO DAS MÁQUINAS DE IMPRESIÓN",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 268.98,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-05-12",
+    "record_id": "291:2007013",
+    "source_id": 2007013,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SERVIZOS DE IMPRESIÓN",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 277.99,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-05-12",
+    "record_id": "291:2007017",
+    "source_id": 2007017,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SUBMINISTRACIÓN DE MATERIAL DE OFICINA",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 235.59,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-05-13",
+    "record_id": "291:2008203",
+    "source_id": 2008203,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "PAGAMENTO FACTURA SUBMINISTRACION MATERIAL DE OFICINA",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 623.15,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-05-21",
+    "record_id": "291:2015526",
+    "source_id": 2015526,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SUBMINISTRACIÓN DE MATERIAL DE OFICINA",
+    "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
+  }
+]

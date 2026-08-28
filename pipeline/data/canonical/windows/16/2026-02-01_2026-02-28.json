@@ -1,0 +1,156 @@
+[
+  {
+    "amount_eur": 141.81,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-02-04",
+    "record_id": "16:1924535",
+    "source_id": 1924535,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "subject": "Certificación da finca 27662 do Rexistro da Propiedade nº 2 de Vigo  (EJH 226/2005).",
+    "vendor_name": "MARGARITA ALCONCHEL SAIZ PARDO"
+  },
+  {
+    "amount_eur": 7.24,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-02-04",
+    "record_id": "16:1924538",
+    "source_id": 1924538,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "subject": "Informes solicitados aos Rexistradores de España",
+    "vendor_name": "MARIA PILAR RODRIGUEZ BUGALLO"
+  },
+  {
+    "amount_eur": 2269.93,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-02-04",
+    "record_id": "16:1924548",
+    "source_id": 1924548,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "subject": "Póliza de seguro para cobertura de 100 unidades de ordenadores portátiles.",
+    "vendor_name": "MAPFRE ESPAÑA, COMPAÑIA DE SEGUROS Y REASEGUROS SA"
+  },
+  {
+    "amount_eur": 230.1,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-02-04",
+    "record_id": "16:1924573",
+    "source_id": 1924573,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "subject": "Suministro auga para dispensadores oficinas. Decembro 2025.",
+    "vendor_name": "CULLIGAN WATER SPAIN SL"
+  },
+  {
+    "amount_eur": 1400.8,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-02-04",
+    "record_id": "16:1924575",
+    "source_id": 1924575,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "subject": "Servizos de mensaxería local,rexional, nacional e internacional 2025. Decembro 2025",
+    "vendor_name": "J C COURIER,SL"
+  },
+  {
+    "amount_eur": 551.18,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-02-04",
+    "record_id": "16:1924633",
+    "source_id": 1924633,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "subject": "Servizo de mantemento de máquinas impresoras-copiadoras RICOH- HP. Do  25/09/25 a 23/12/25.",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 424.58,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-02-04",
+    "record_id": "16:1924644",
+    "source_id": 1924644,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "subject": "Servizo de reunión Conselleria Economia 17.12.2025.",
+    "vendor_name": "EVENTOS Y CATERING ALBORADA SL"
+  },
+  {
+    "amount_eur": 7260.0,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-02-04",
+    "record_id": "16:1924645",
+    "source_id": 1924645,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "subject": "Desenvolvemos contidos e cobertura informativa da VI Edición do Atlas Galego da Empresa Comprometida 2025.",
+    "vendor_name": "ECONOMIA DIGITAL DE GALICIA, SL."
+  },
+  {
+    "amount_eur": 1694.0,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-02-04",
+    "record_id": "16:1924670",
+    "source_id": 1924670,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "subject": "Colaboración e participación nos 10º Premios Galicia Alimentación (26 de xuño de 2025).",
+    "vendor_name": "FUNDACION CIDADE DA CULTURA DE GALICIA"
+  },
+  {
+    "amount_eur": 7260.0,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-02-04",
+    "record_id": "16:1924671",
+    "source_id": 1924671,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "subject": "Participación e colaboración na Gala das Empresas Ourensanas CEO 2025.",
+    "vendor_name": "CONFEDERACION EMPRESARIAL"
+  },
+  {
+    "amount_eur": 4235.0,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-02-04",
+    "record_id": "16:1924672",
+    "source_id": 1924672,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "subject": "Inserción publicitaria Igape na revista anual de APE GALICIA  2025",
+    "vendor_name": "ASOC INTERSECTORIAL E INTERTERRITORIAL DE LOS AUTO"
+  },
+  {
+    "amount_eur": 12100.0,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-02-04",
+    "record_id": "16:1924678",
+    "source_id": 1924678,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "subject": "Colaboración e participación no evento &#34;Ética e Intelexencia Artificial&#34; (Santiago de Compostela, 6 e 7 de noviembre 202",
+    "vendor_name": "ARZOBISPADO DE SANTIAGO DE COMPOSTELA"
+  },
+  {
+    "amount_eur": 170.01,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-02-26",
+    "record_id": "16:1944847",
+    "source_id": 1944847,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "subject": "Gastos derivados da visita institucional do Igape a Inditex e Fundación Marta Ortega o 13.02.2026 (visita MOP)",
+    "vendor_name": "OVIXIA CONSULTORES SL"
+  },
+  {
+    "amount_eur": 17278.8,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-02-26",
+    "record_id": "16:1944865",
+    "source_id": 1944865,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "subject": "Servizos de apoio operativo nas áreas competenciais do Igape",
+    "vendor_name": "PRICEWATERHOUSECOOPERS TAX & LEGAL, S.L."
+  }
+]

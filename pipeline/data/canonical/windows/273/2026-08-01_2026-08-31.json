@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 97.0,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-08-26",
+    "record_id": "273:2079626",
+    "source_id": 2079626,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Parymar 6476",
+    "vendor_name": "PARYMAR SA"
+  },
+  {
+    "amount_eur": 154.88,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-08-26",
+    "record_id": "273:2079881",
+    "source_id": 2079881,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Gestoría xuño",
+    "vendor_name": "GESTORIA DE LA TORRE, S.L."
+  }
+]

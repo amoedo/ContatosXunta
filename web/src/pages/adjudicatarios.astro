@@ -1,0 +1,9 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import AnalysisRoute from '../components/AnalysisRoute';
+---
+<BaseLayout title="Adxudicatarios | Contratos Xunta" titleEs="Adjudicatarios | Contratos Xunta" description="Clasificación e concentración dos adxudicatarios publicados." descriptionEs="Clasificación y concentración de los adjudicatarios publicados.">
+  <PageHero eyebrow="Análise por adxudicatario" eyebrowEs="Análisis por adjudicatario" title="Quen recibe máis e canto concentra" titleEs="Quién recibe más y cuánto concentra" copy="Compara importes e número de contratos por nome exacto publicado." copyEs="Compara importes y número de contratos por nombre exacto publicado." />
+  <AnalysisRoute section="vendors" client:load />
+</BaseLayout>

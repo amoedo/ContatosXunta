@@ -1,0 +1,200 @@
+[
+  {
+    "amount_eur": 9147.6,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-02",
+    "record_id": "55:2023458",
+    "source_id": 2023458,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AD polo servizo de deseñeo gráfico e maquetación da campaña",
+    "vendor_name": "JOSE ENRIQUE BONET GAGO"
+  },
+  {
+    "amount_eur": 2988.7,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-02",
+    "record_id": "55:2023459",
+    "source_id": 2023459,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "Servizo pola edición e maquetación da campaña ALERTA ISSGA: TRABALLO SEGURO EN ANDAMIOS&#34;.",
+    "vendor_name": "JOSE ENRIQUE BONET GAGO"
+  },
+  {
+    "amount_eur": 3751.04,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-02",
+    "record_id": "55:2023468",
+    "source_id": 2023468,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AD polo servizo pola edición e maquetación da campaña &#34;Prevención da exposición a axentes reprotóxicos&#34;.",
+    "vendor_name": "ESTHER BEATRIZ FERNANDEZ AMBROS"
+  },
+  {
+    "amount_eur": 6848.6,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-02",
+    "record_id": "55:2023473",
+    "source_id": 2023473,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AD pola instalación de varandas de protección nas escadas de",
+    "vendor_name": "ANGEL MANUEL DIAZ CASTRO"
+  },
+  {
+    "amount_eur": 385.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-02",
+    "record_id": "55:2024125",
+    "source_id": 2024125,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "Almorzo Xornada tecnica Issga Pontevedra 21_22 de maio de 2026",
+    "vendor_name": "DISMABOCK PORRIÑO, S.L."
+  },
+  {
+    "amount_eur": 2000.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-02",
+    "record_id": "55:2024472",
+    "source_id": 2024472,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "Pago Fact nº EVENTOS 53 patrocinio CIET, asociación efenfermeria traballo,  Palencia 14-16  maio 26",
+    "vendor_name": "ASOC DE ESPECIALISTAS EN ENFERMERIA DEL TRABAJO"
+  },
+  {
+    "amount_eur": 150.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-05",
+    "record_id": "55:2026909",
+    "source_id": 2026909,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "PAUSA CAFE. XORNADA TECNICA OURENSE.",
+    "vendor_name": "JOSE CAMBA LAMAZARES"
+  },
+  {
+    "amount_eur": 225.01,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-05",
+    "record_id": "55:2026910",
+    "source_id": 2026910,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "PAUSA CAFE. TALLER : OURENSE_APLICACION PRACTICA DE METODOLO",
+    "vendor_name": "JOSE CAMBA LAMAZARES"
+  },
+  {
+    "amount_eur": 163.63,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-08",
+    "record_id": "55:2028518",
+    "source_id": 2028518,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "Reunión Grupo Forestal comisión nacional de seguridad y salu",
+    "vendor_name": "CAMINO SANTO SL"
+  },
+  {
+    "amount_eur": 11616.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-11",
+    "record_id": "55:2031774",
+    "source_id": 2031774,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AD polo sesarrollo do cadro de mando de Business Intelligenc",
+    "vendor_name": "DIMENSIONA CONSULTORIA TEXNOLOXIC,S.L."
+  },
+  {
+    "amount_eur": 18116.12,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-11",
+    "record_id": "55:2032157",
+    "source_id": 2032157,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AD polo desenvolvemento do sistema de xestión de accións for",
+    "vendor_name": "INDRA SOLUCIONES TECNOLOGIAS DE LA INFORMACION SL"
+  },
+  {
+    "amount_eur": 156.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-17",
+    "record_id": "55:2036341",
+    "source_id": 2036341,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "Pago Fact nº 20-267925 001G261218 polos gastos desprazamento",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 1400.94,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-17",
+    "record_id": "55:2036381",
+    "source_id": 2036381,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "ALUGUER BOTELLAS DE GASES ISSGA DE PONTEVEDRA",
+    "vendor_name": "A L AIR LIQUIDE ESPAÑA SA(SEO)"
+  },
+  {
+    "amount_eur": 1170.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-26",
+    "record_id": "55:2043084",
+    "source_id": 2043084,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "Xornada técnica   ?Transformación dixital e intelixencia ar",
+    "vendor_name": "PILAR IBAÑEZ FERNANDEZ-JARDON"
+  },
+  {
+    "amount_eur": 584.05,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-26",
+    "record_id": "55:2043736",
+    "source_id": 2043736,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "Xornada técnica   ?Transformación dixital e intelixencia ar",
+    "vendor_name": "PANDEMONIO RIBADEO S.L."
+  },
+  {
+    "amount_eur": 66.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-26",
+    "record_id": "55:2043835",
+    "source_id": 2043835,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "RECOLLIDA PAPEL E CARTON CENTRO ISSGA DE LUGO",
+    "vendor_name": "CONTEMAR SERVICIOS AMBIENTALES SL"
+  },
+  {
+    "amount_eur": 924.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-26",
+    "record_id": "55:2043836",
+    "source_id": 2043836,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "Factura Náutico Restaurante (Porcillán Hostelería, S.L.)",
+    "vendor_name": "PORCILLAN HOSTELERIA SLU"
+  },
+  {
+    "amount_eur": 235.95,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-06-26",
+    "record_id": "55:2043839",
+    "source_id": 2043839,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "TRANSFORMACIÓN DIXITAL E INTELIXENCIA ARTIFICIAL: UNHA MIRAD",
+    "vendor_name": "AGORA DISEÑO Y ROTULACION S.L.U."
+  }
+]

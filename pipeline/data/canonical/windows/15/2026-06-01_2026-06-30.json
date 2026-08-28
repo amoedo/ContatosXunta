@@ -1,0 +1,112 @@
+[
+  {
+    "amount_eur": 1369.96,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-06-01",
+    "record_id": "15:2022661",
+    "source_id": 2022661,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "EQUPO PARA LABORATORIO ELECTRICO DO LAB. CONSUMP",
+    "vendor_name": "M LAGO SA"
+  },
+  {
+    "amount_eur": 217.8,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-06-02",
+    "record_id": "15:2023689",
+    "source_id": 2023689,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA CALIBRACIÓNS EQUIPOS DO LABORATORIO DE CONSUMO",
+    "vendor_name": "SGS TECNOS S.A."
+  },
+  {
+    "amount_eur": 70.88,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-06-02",
+    "record_id": "15:2024286",
+    "source_id": 2024286,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA BATERÍA PARA CÁMARA FOTOGRÁFICA DIXITAL E PILAS PARA",
+    "vendor_name": "GLOBAL COMPONENTS ELECTRONIC S.L"
+  },
+  {
+    "amount_eur": 66.32,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-06-08",
+    "record_id": "15:2028145",
+    "source_id": 2028145,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "Prestación servizos ao Laboratorio. Maio",
+    "vendor_name": "TRANSPORTES AUTO RADIO SA"
+  },
+  {
+    "amount_eur": 1200.56,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-06-15",
+    "record_id": "15:2034498",
+    "source_id": 2034498,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "CALIBRACIÓNS REGRAS E SONDAS DO LABORATORIO DE CONSUMO",
+    "vendor_name": "APPLUS METROLOGY SLU"
+  },
+  {
+    "amount_eur": 381.15,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-06-15",
+    "record_id": "15:2034840",
+    "source_id": 2034840,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA CALIBRACIÓN COMPROBADOR RIXIDEZ DIELÉCTRICA PARA O L",
+    "vendor_name": "FUNDACION PARA EL FOMENTO DE LA INNOVACION INDUSTR"
+  },
+  {
+    "amount_eur": 5694.14,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-06-23",
+    "record_id": "15:2041638",
+    "source_id": 2041638,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "CONTRATACIÓN SEGURO VEHÍCULOS DO IGCC",
+    "vendor_name": "HOWDEN IBERIA SA"
+  },
+  {
+    "amount_eur": 22.75,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-06-23",
+    "record_id": "15:2041761",
+    "source_id": 2041761,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "SERVIZO DE TRANSPORTE DE PRODUCTOS PERECEDOIROS DESDE SERVIZ",
+    "vendor_name": "NORLACE,S L"
+  },
+  {
+    "amount_eur": 84.7,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-06-23",
+    "record_id": "15:2042071",
+    "source_id": 2042071,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA ADQUISICIÓN MANDOS PARA APERTURA DO GARAXE DO LOCAL",
+    "vendor_name": "VAZQUEZ Y RUA METAL SL"
+  },
+  {
+    "amount_eur": 54.99,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-06-23",
+    "record_id": "15:2042125",
+    "source_id": 2042125,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "PREZO POR COPIA IMPRESORAS LUGO. ABRIL",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  }
+]

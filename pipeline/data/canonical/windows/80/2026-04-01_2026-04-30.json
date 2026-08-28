@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 57.1,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-04-09",
+    "record_id": "80:1982346",
+    "source_id": 1982346,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "LIBROS BIBLIOTECAS",
+    "vendor_name": "LIBRERIA FOLLAS NOVAS S L"
+  },
+  {
+    "amount_eur": 675.18,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-04-16",
+    "record_id": "80:1988033",
+    "source_id": 1988033,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "MATERIAL OFICINA NON INVENTARIABLE CCG. Papel A4.",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 184.3,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-04-27",
+    "record_id": "80:1995487",
+    "source_id": 1995487,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "Retirada y gestión de residuo árbol caído  jardín Pazo Amar",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 1633.5,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-04-27",
+    "record_id": "80:1996063",
+    "source_id": 1996063,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "SUMINISTRO DE MOBILIARIO",
+    "vendor_name": "VISUAL PROJECT MANAGEMENT S.L.N.E."
+  }
+]

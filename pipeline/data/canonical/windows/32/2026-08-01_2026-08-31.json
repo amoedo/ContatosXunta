@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 2244.9,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-08-07",
+    "record_id": "32:2072291",
+    "source_id": 2072291,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-65 Renovación seguros obrigatorios e por risco extraordinario da flota de vehículos da Axencia",
+    "vendor_name": "OCCIDENT GCO SA DE SEGUROS Y REASEGUROS"
+  },
+  {
+    "amount_eur": 1497.0,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-08-07",
+    "record_id": "32:2072345",
+    "source_id": 2072345,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-62 Viaxe a Bruselas Mar Pereira, 24 e 25 xuño  para asistencia a Rustik Granular Final Conference",
+    "vendor_name": "BIVES TOUR, SA"
+  },
+  {
+    "amount_eur": 279.6,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-08-07",
+    "record_id": "32:2072468",
+    "source_id": 2072468,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-34 Servizo de resturación 01.04.2026",
+    "vendor_name": "LORYGAR, SL"
+  },
+  {
+    "amount_eur": 119.0,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-08-12",
+    "record_id": "32:2074095",
+    "source_id": 2074095,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-71 Contrato menor servizo comida de traballo",
+    "vendor_name": "LORYGAR, SL"
+  },
+  {
+    "amount_eur": 173.2,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-08-12",
+    "record_id": "32:2074165",
+    "source_id": 2074165,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-74 Servizo de comidas 30.07.2026",
+    "vendor_name": "FRANCISCO LOPEZ RESTAURANTE ESPAÑA, S.L."
+  },
+  {
+    "amount_eur": 616.39,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-08-12",
+    "record_id": "32:2074226",
+    "source_id": 2074226,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-46 Reparación de Plotter Desing jet T2500",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 49290.11,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-08-24",
+    "record_id": "32:2078907",
+    "source_id": 2078907,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "ASS26-01 Contratación do servicio de vixiancia e seguridade nas instalación da Axencia 2026-2027",
+    "vendor_name": "SERVICIOS SPR VILANOVA SL (EN CONST)"
+  }
+]

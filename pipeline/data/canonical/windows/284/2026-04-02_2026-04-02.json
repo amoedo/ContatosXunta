@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 227.48,
+    "duration": "1 mes",
+    "organism_id": 284,
+    "publication_date": "2026-04-02",
+    "record_id": "284:1979295",
+    "source_id": 1979295,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/284/contratosmenores/table",
+    "subject": "MONOS E GORROS",
+    "vendor_name": "CIENTISOL, S.L."
+  },
+  {
+    "amount_eur": 4840.0,
+    "duration": "1 mes",
+    "organism_id": 284,
+    "publication_date": "2026-04-02",
+    "record_id": "284:1979326",
+    "source_id": 1979326,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/284/contratosmenores/table",
+    "subject": "Redacción proxecto básico e de execución de reformas para a",
+    "vendor_name": "DVEGA ARQUITECTURA TERRITORIO MEDIO AMBIENTE SL"
+  },
+  {
+    "amount_eur": 6701.31,
+    "duration": "1 mes",
+    "organism_id": 284,
+    "publication_date": "2026-04-02",
+    "record_id": "284:1979629",
+    "source_id": 1979629,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/284/contratosmenores/table",
+    "subject": "Subm. trampas coleópteros madeira piñeiro",
+    "vendor_name": "SANIDAD AGRICOLA ECONEX SL"
+  }
+]

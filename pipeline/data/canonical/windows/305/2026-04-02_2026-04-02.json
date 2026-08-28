@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 3146.0,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-04-02",
+    "record_id": "305:1978536",
+    "source_id": 1978536,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/305/contratosmenores/table",
+    "subject": "Tapizado mobiliario",
+    "vendor_name": "VICTOR MANUEL LANDEIRA PAZOS"
+  },
+  {
+    "amount_eur": 230.0,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-04-02",
+    "record_id": "305:1978688",
+    "source_id": 1978688,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/305/contratosmenores/table",
+    "subject": "III JORN.NACIONAL ENFERMERIA",
+    "vendor_name": "VIAJES PACIFICO SA"
+  },
+  {
+    "amount_eur": 4900.5,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-04-02",
+    "record_id": "305:1979803",
+    "source_id": 1979803,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/305/contratosmenores/table",
+    "subject": "reactivo laboratorio",
+    "vendor_name": "TERUMO BCT ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 219.22,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-04-02",
+    "record_id": "305:1979887",
+    "source_id": 1979887,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/305/contratosmenores/table",
+    "subject": "COTA LIXO",
+    "vendor_name": "CONCELLO DE SANTIAGO DE COMPOSTELA"
+  }
+]

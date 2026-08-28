@@ -1,0 +1,90 @@
+[
+  {
+    "amount_eur": 15401.49,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-05-06",
+    "record_id": "18:2002774",
+    "source_id": 2002774,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "SERVIZO ALUGUER SERVIDORES 2026",
+    "vendor_name": "SIRTELCO SL"
+  },
+  {
+    "amount_eur": 15917.99,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-05-06",
+    "record_id": "18:2002775",
+    "source_id": 2002775,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "MANTEMENTO UNICAMENTE CORRECTIVO SOFTWARE EGAPOLIS E TESOURE",
+    "vendor_name": "SIRTELCO SL"
+  },
+  {
+    "amount_eur": 1684.93,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-05-06",
+    "record_id": "18:2002776",
+    "source_id": 2002776,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "SERVIZO DOMINIOS E CORREO, ACCESO A WEB POP, IMAP 2026",
+    "vendor_name": "SIRTELCO SL"
+  },
+  {
+    "amount_eur": 146.14,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-05-07",
+    "record_id": "18:2002994",
+    "source_id": 2002994,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "FACTURA 38/26. SERVIZO CAFETERÍA E COMEDOR DESPACHO DIRECCIÓ",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 612.47,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-05-12",
+    "record_id": "18:2006641",
+    "source_id": 2006641,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "SUBMINISTRO E INSTALACIÓN DE ESPELLO EN ASEO DA EGAP",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 200.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-05-19",
+    "record_id": "18:2012878",
+    "source_id": 2012878,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "cobertura en redes sociais Día da Letras Galegas 2026",
+    "vendor_name": "BEATRIZ ALVARIÑO DIAZ DEL RIO"
+  },
+  {
+    "amount_eur": 2117.5,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-05-19",
+    "record_id": "18:2013031",
+    "source_id": 2013031,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "difusión en prensa acto Día das Letras Galegas 2026",
+    "vendor_name": "LA VOZ DE GALICIA SA"
+  },
+  {
+    "amount_eur": 94.69,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-05-20",
+    "record_id": "18:2013985",
+    "source_id": 2013985,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "servizo comedor dirección mes de abril",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  }
+]

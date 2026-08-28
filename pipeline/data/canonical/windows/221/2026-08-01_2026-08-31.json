@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 14048.1,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-08-07",
+    "record_id": "221:2072483",
+    "source_id": 2072483,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Acto de presentación da licitación da Rolda Leste de Ourense",
+    "vendor_name": "G 64 COMUNICACION, SL"
+  },
+  {
+    "amount_eur": 47881.31,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-08-10",
+    "record_id": "221:2073028",
+    "source_id": 2073028,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Renovación de beirarrúas na Feira do Tres na AC-160 entre o PQ 4+400 e o PQ 4+980. Vilarmaior",
+    "vendor_name": "CONSTRUCCIONES LOPEZ CAO,SL"
+  },
+  {
+    "amount_eur": 1179.75,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-08-10",
+    "record_id": "221:2073063",
+    "source_id": 2073063,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Adquisición ventiladores para AXI-Coruña",
+    "vendor_name": "KL 1 MOBILIARIO OFICINA SL"
+  }
+]

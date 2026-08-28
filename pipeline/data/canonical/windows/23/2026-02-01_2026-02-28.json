@@ -1,0 +1,90 @@
+[
+  {
+    "amount_eur": 308.55,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-02-23",
+    "record_id": "23:1939924",
+    "source_id": 1939924,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "calendarios de sobremesa",
+    "vendor_name": "PARSAN GRAFICA, SL"
+  },
+  {
+    "amount_eur": 2000.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-02-24",
+    "record_id": "23:1940641",
+    "source_id": 1940641,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "Consumo das fotocopiadoras Canon do IGE_ ano 2026",
+    "vendor_name": "VSM SISTEMAS CORUÑA, SA"
+  },
+  {
+    "amount_eur": 1852.39,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-02-24",
+    "record_id": "23:1940790",
+    "source_id": 1940790,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "Servizo reposición e mantemento dos bacteriostáticos do IGE",
+    "vendor_name": "RENTOKIL INITIAL ESPA\\A, S.A."
+  },
+  {
+    "amount_eur": 800.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-02-24",
+    "record_id": "23:1941463",
+    "source_id": 1941463,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "Consumo da fotocopiadora KM Bizhub do IGE_ ano 2026",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 443.34,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-02-24",
+    "record_id": "23:1941517",
+    "source_id": 1941517,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "mantemento da porta automática de acceso",
+    "vendor_name": "MANUSA DOOR SYSTEMS, SL"
+  },
+  {
+    "amount_eur": 331.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-02-25",
+    "record_id": "23:1943220",
+    "source_id": 1943220,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "Fact. A-0049 material oficina (toner, arquivadores, folios, cinta embalar)",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 17545.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-02-26",
+    "record_id": "23:1944614",
+    "source_id": 1944614,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "enquisa de opinión &#34;facultad de medicina&#34;",
+    "vendor_name": "INSTITUTO SONDAXE, S.L."
+  },
+  {
+    "amount_eur": 18029.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-02-26",
+    "record_id": "23:1944615",
+    "source_id": 1944615,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "enquisa de opinión &#34;xuventude e tempo libre&#34;",
+    "vendor_name": "INSTITUTO SONDAXE, S.L."
+  }
+]

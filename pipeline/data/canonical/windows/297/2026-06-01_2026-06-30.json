@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 425.17,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-06-08",
+    "record_id": "297:2028233",
+    "source_id": 2028233,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "TASACIÓN REAL 20",
+    "vendor_name": "SOCIEDAD DE TASACION SA"
+  },
+  {
+    "amount_eur": 256.22,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-06-08",
+    "record_id": "297:2028281",
+    "source_id": 2028281,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "ediprem material publicitario",
+    "vendor_name": "EDICIONES Y PRODUCCIONES EMPRESARIALES SA"
+  },
+  {
+    "amount_eur": 13941.2,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-06-08",
+    "record_id": "297:2028563",
+    "source_id": 2028563,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "PUBLICACION CONMEMORATIVA 20  ANIVERSARIO DO CCVV",
+    "vendor_name": "MUNDO DETRAS DEL MARCO SL"
+  },
+  {
+    "amount_eur": 5808.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-06-08",
+    "record_id": "297:2028639",
+    "source_id": 2028639,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "REDACION PROXECTO ICT, ASISTENCIA  DIRECIÓN E CEE ALTA 8.",
+    "vendor_name": "REBOREDA MARTINEZ ANTONIO 000439934Y SLNE"
+  },
+  {
+    "amount_eur": 53.85,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-06-08",
+    "record_id": "297:2028640",
+    "source_id": 2028640,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "MANTENIMIENTO EXTINTORES",
+    "vendor_name": "ATLANTICA DE SISTEMAS CONTRA INCENDIOS, SL"
+  },
+  {
+    "amount_eur": 5808.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-06-08",
+    "record_id": "297:2028997",
+    "source_id": 2028997,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "ELABORACIÓN CUENTAS ANUALES 2025",
+    "vendor_name": "FUNDACION CANARIA UNIVERSITARIA DE LAS PALMAS"
+  },
+  {
+    "amount_eur": 5445.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-06-08",
+    "record_id": "297:2028998",
+    "source_id": 2028998,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "CONCILIACIÓN DE LOS SALDOS CONTABLES  PRESUPUESTARIOS Y FINANCIEROS DELCONCILIACIÓN DE LOS SALDOS CONTABLES  PRESUPUESTA",
+    "vendor_name": "FUNDACION CANARIA UNIVERSITARIA DE LAS PALMAS"
+  }
+]

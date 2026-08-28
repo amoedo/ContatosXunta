@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 97.0,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-03-11",
+    "record_id": "273:1955861",
+    "source_id": 1955861,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Parymar 6359",
+    "vendor_name": "PARYMAR SA"
+  },
+  {
+    "amount_eur": 169.4,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-03-12",
+    "record_id": "273:1958362",
+    "source_id": 1958362,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Gestoría xaneiro 1487",
+    "vendor_name": "GESTORIA DE LA TORRE, S.L."
+  },
+  {
+    "amount_eur": 344.12,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-03-12",
+    "record_id": "273:1958397",
+    "source_id": 1958397,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Dinahosting  6298",
+    "vendor_name": "DINAHOSTING  SL"
+  },
+  {
+    "amount_eur": 97.0,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-03-13",
+    "record_id": "273:1959333",
+    "source_id": 1959333,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Parymar 6359",
+    "vendor_name": "PARYMAR SA"
+  },
+  {
+    "amount_eur": 51.0,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-03-13",
+    "record_id": "273:1959999",
+    "source_id": 1959999,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Papelería Ledoira 0001/0246918",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 108.9,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-03-23",
+    "record_id": "273:1968140",
+    "source_id": 1968140,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Equaby Prevención M00584/26",
+    "vendor_name": "ATHENA SISTEMAS DE GESTIÓN, S.L."
+  },
+  {
+    "amount_eur": 363.0,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-03-23",
+    "record_id": "273:1968141",
+    "source_id": 1968141,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Equaby Prevención A00485/26",
+    "vendor_name": "ATHENA SISTEMAS DE GESTIÓN, S.L."
+  }
+]

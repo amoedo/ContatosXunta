@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 17908.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-08-03",
+    "record_id": "144:2070216",
+    "source_id": 2070216,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Mantemento integral de equipamento de MPLS e DMDW xestionado por RETEGAL",
+    "vendor_name": "ACUNTIA, SA"
+  },
+  {
+    "amount_eur": 7925.5,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-08-03",
+    "record_id": "144:2070483",
+    "source_id": 2070483,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Subministración de accesorios para terminais Tetra",
+    "vendor_name": "ZENON DIGITAL RADIO SL"
+  },
+  {
+    "amount_eur": 3630.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-08-14",
+    "record_id": "144:2075469",
+    "source_id": 2075469,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Servizo para a realización dunha canalización subterránea na Base Aérea de Castromaior (Abegondo) cofinanciado co Fondo",
+    "vendor_name": "SONDEOS BOTANA SL"
+  },
+  {
+    "amount_eur": 12705.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-08-26",
+    "record_id": "144:2079863",
+    "source_id": 2079863,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Instalación e integración de 4 cámaras de videovixilancia forestal na base aérea de nova construcción de Lalín cofinanci",
+    "vendor_name": "GALLEGA DE SISTEMAS Y TELECOMUNICACIONES"
+  },
+  {
+    "amount_eur": 13915.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-08-27",
+    "record_id": "144:2080268",
+    "source_id": 2080268,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Subministración e instalación dun novo transformador de 25 KVA para o centro de Fisterra (A Coruña).",
+    "vendor_name": "ELECTRIFICACIONES MIÑONES SL"
+  },
+  {
+    "amount_eur": 1868.12,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-08-27",
+    "record_id": "144:2080420",
+    "source_id": 2080420,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Suministro e instalación no centro de San Marcos.",
+    "vendor_name": "TECNODEZA S.L."
+  }
+]

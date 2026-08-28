@@ -1,0 +1,13 @@
+[
+  {
+    "amount_eur": 1100.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-04-02",
+    "record_id": "64:1979043",
+    "source_id": 1979043,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "subject": "SubministracIón e abastecemento de auga nos edificios do STeatro e nave do CDG para 2026",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  }
+]

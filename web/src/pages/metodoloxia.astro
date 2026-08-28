@@ -1,0 +1,10 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import ContractsExplorer from '../components/ContractsExplorer';
+import dashboard from '../../public/data/dashboard.json';
+---
+<BaseLayout title="Metodoloxía | Contratos Xunta" titleEs="Metodología | Contratos Xunta" description="Orixe, cobertura, privacidade e límites da análise." descriptionEs="Origen, cobertura, privacidad y límites del análisis.">
+  <PageHero eyebrow="Sobre os datos" eyebrowEs="Sobre los datos" title="Como se constrúe esta lectura" titleEs="Cómo se construye esta lectura" copy="Fonte, ámbito institucional, validación e límites para interpretar correctamente os resultados." copyEs="Fuente, ámbito institucional, validación y límites para interpretar correctamente los resultados." />
+  <ContractsExplorer dashboard={dashboard} view="methodology" client:load />
+</BaseLayout>

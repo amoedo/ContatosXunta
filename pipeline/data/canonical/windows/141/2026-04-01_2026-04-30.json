@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 6000.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-04-16",
+    "record_id": "141:1988381",
+    "source_id": 1988381,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Manual",
+    "vendor_name": "BULULU CREATIVOS S.L."
+  },
+  {
+    "amount_eur": 871.2,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-04-24",
+    "record_id": "141:1995302",
+    "source_id": 1995302,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Informes para CB8 AM2/2025 Creatividades día Letras Galegas",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  },
+  {
+    "amount_eur": 2420.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-04-29",
+    "record_id": "141:1998202",
+    "source_id": 1998202,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Actualización creatividades",
+    "vendor_name": "BULULU CREATIVOS S.L."
+  },
+  {
+    "amount_eur": 4930.75,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-04-29",
+    "record_id": "141:1998203",
+    "source_id": 1998203,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Actualización creativiades",
+    "vendor_name": "BULULU CREATIVOS S.L."
+  }
+]

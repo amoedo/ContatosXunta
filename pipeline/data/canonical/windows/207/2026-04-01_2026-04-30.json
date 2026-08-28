@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 12100.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-04-24",
+    "record_id": "207:1995057",
+    "source_id": 1995057,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de asistencia técnica especializada para la dirección de obra en la fabricación de patrulleras guardacostas",
+    "vendor_name": "LAGE REY NAVAL S.L."
+  },
+  {
+    "amount_eur": 14520.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-04-24",
+    "record_id": "207:1995264",
+    "source_id": 1995264,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de prevención de riesgos laborales (PRL) y vigilancia de la salud (VS) 2026 Generales",
+    "vendor_name": "AVANTA PREVENCION INTEGRAL SLU"
+  },
+  {
+    "amount_eur": 72.6,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-04-29",
+    "record_id": "207:1998383",
+    "source_id": 1998383,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un ratón ergonómico Generales",
+    "vendor_name": "AMAZON EU SARL SUCURSAL EN ESPAÑA"
+  },
+  {
+    "amount_eur": 121.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-04-29",
+    "record_id": "207:1998384",
+    "source_id": 1998384,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un cargador de portátil y cable de alimentación Generales",
+    "vendor_name": "AMAZON EU SARL SUCURSAL EN ESPAÑA"
+  },
+  {
+    "amount_eur": 363.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-04-30",
+    "record_id": "207:1999156",
+    "source_id": 1999156,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "la producción y fijación de una campaña publicitaria 25 ANIVERSARIO",
+    "vendor_name": "ALPHA PUBLICIDAD EXTERIOR SL"
+  }
+]

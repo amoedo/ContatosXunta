@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 1178.29,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-04-08",
+    "record_id": "225:1980976",
+    "source_id": 1980976,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Servizo limpeza oficinas Eduardo Pondal, 30 (marzo 2026)",
+    "vendor_name": "SAMAIN SERVIZOS A COMUNIDADE SA"
+  },
+  {
+    "amount_eur": 3972.8,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-04-08",
+    "record_id": "225:1981227",
+    "source_id": 1981227,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Impresión Guía de estudos de impacto e integración paisaxíst",
+    "vendor_name": "GRAFICAS GARABAL SL"
+  },
+  {
+    "amount_eur": 258.38,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-04-14",
+    "record_id": "225:1985494",
+    "source_id": 1985494,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Material oficina GREEN GAP",
+    "vendor_name": "PAZ   DISMAC SL"
+  },
+  {
+    "amount_eur": 6725.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-04-23",
+    "record_id": "225:1993086",
+    "source_id": 1993086,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "13.2026CM_Ruta guiada, exposición y material divulgativo",
+    "vendor_name": "ANA RODRIGUEZ LOMBA"
+  },
+  {
+    "amount_eur": 1325.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-04-24",
+    "record_id": "225:1994179",
+    "source_id": 1994179,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Gastos comunidade Eduardo Pondal, 30 (febreiro 2026)",
+    "vendor_name": "COMPOSTELA BEACH SA"
+  },
+  {
+    "amount_eur": 1018.51,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-04-27",
+    "record_id": "225:1995460",
+    "source_id": 1995460,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Gastos comunidade IET Eduardo Pondal marzo 2026",
+    "vendor_name": "COMPOSTELA BEACH SA"
+  }
+]

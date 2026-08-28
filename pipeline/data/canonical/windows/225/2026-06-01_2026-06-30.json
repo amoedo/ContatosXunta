@@ -1,0 +1,90 @@
+[
+  {
+    "amount_eur": 17532.9,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-06-04",
+    "record_id": "225:2026235",
+    "source_id": 2026235,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "14.2026CM.DESEÑO E CONTIDOS CENTROS INTERPRETACION PAISAXE",
+    "vendor_name": "EDICIONES BOLANDA SL"
+  },
+  {
+    "amount_eur": 35.2,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-06-09",
+    "record_id": "225:2029071",
+    "source_id": 2029071,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Augas minerais para reunións IET",
+    "vendor_name": "MONICA RAMOS PEITEADO"
+  },
+  {
+    "amount_eur": 84.7,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-06-09",
+    "record_id": "225:2029833",
+    "source_id": 2029833,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Servizo cartelaría acto fermosismo Friol",
+    "vendor_name": "AUDIOVISUALES MCN, S.L"
+  },
+  {
+    "amount_eur": 8349.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-06-11",
+    "record_id": "225:2032181",
+    "source_id": 2032181,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "22.2026CM_Jornada intercambio experiencias. Proxecto GIFT",
+    "vendor_name": "HABITAT GRUPO NATURALISTA"
+  },
+  {
+    "amount_eur": 1178.29,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-06-19",
+    "record_id": "225:2039349",
+    "source_id": 2039349,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Limpeza oficinas Eduardo Pondal maio 2026",
+    "vendor_name": "SAMAIN SERVIZOS A COMUNIDADE SA"
+  },
+  {
+    "amount_eur": 128.3,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-06-19",
+    "record_id": "225:2039535",
+    "source_id": 2039535,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Subministración eléctrica Eduardo Pondal 30 4o (maio 2026)",
+    "vendor_name": "IBERDROLA CLIENTES SA"
+  },
+  {
+    "amount_eur": 14000.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-06-23",
+    "record_id": "225:2041317",
+    "source_id": 2041317,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "24.2026CM_Publicación dunha páxina con motivo do  Día Mundial do Medio Ambiente , no xornal La Voz de Galicia",
+    "vendor_name": "LA VOZ DE GALICIA SA"
+  },
+  {
+    "amount_eur": 4489.1,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-06-23",
+    "record_id": "225:2041815",
+    "source_id": 2041815,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "25.2026CM_Publicación dunha páxina con motivo do Día Mundial do Medio Ambiente",
+    "vendor_name": "COMERCIALIZADORA DE MEDIOS GRUPO EL PROGRESO S.L.U"
+  }
+]

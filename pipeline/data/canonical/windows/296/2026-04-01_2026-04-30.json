@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 1726.56,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2026-04-21",
+    "record_id": "296:1991152",
+    "source_id": 1991152,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/296/contratosmenores/table",
+    "subject": "[2026] Servizos de suscrición",
+    "vendor_name": "CLUB FINANCIERO VIGO, SA"
+  },
+  {
+    "amount_eur": 294.88,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2026-04-21",
+    "record_id": "296:1991265",
+    "source_id": 1991265,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/296/contratosmenores/table",
+    "subject": "[2026] Explotación del suministro de agua",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 2078.57,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2026-04-21",
+    "record_id": "296:1991476",
+    "source_id": 1991476,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/296/contratosmenores/table",
+    "subject": "[2026] Servizos de seguridade",
+    "vendor_name": "SISTEMAS DE SEGURIDAD A1 SL"
+  },
+  {
+    "amount_eur": 2570.74,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2026-04-21",
+    "record_id": "296:1991640",
+    "source_id": 1991640,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/296/contratosmenores/table",
+    "subject": "[2025-2026] Servicios de mantenimiento de ascensores contrato 2025-2026",
+    "vendor_name": "ASCENSORES ENOR SL"
+  },
+  {
+    "amount_eur": 246.84,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2026-04-21",
+    "record_id": "296:1991786",
+    "source_id": 1991786,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/296/contratosmenores/table",
+    "subject": "[1T2026] Servicios de reparación y mantenimiento de calefac",
+    "vendor_name": "CALEMA SANTIAGO SL"
+  }
+]

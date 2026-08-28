@@ -1,0 +1,211 @@
+[
+  {
+    "amount_eur": 10285.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-04",
+    "record_id": "207:1924684",
+    "source_id": 1924684,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "Servizo de auditoría de contas, anualidade 2025, para o Centro Tecnológico del Mar - Fundación CETMAR.",
+    "vendor_name": "MIGUEL ANGEL LOPEZ ALVAREZ"
+  },
+  {
+    "amount_eur": 18089.5,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-18",
+    "record_id": "207:1936753",
+    "source_id": 1936753,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de catering general Proyectos CETMAR",
+    "vendor_name": "DOLORES FERNANDEZ E HIJOS S.L."
+  },
+  {
+    "amount_eur": 254.1,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-18",
+    "record_id": "207:1936754",
+    "source_id": 1936754,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de mantenimiento de dominios Web Proyectos CETMAR",
+    "vendor_name": "MARCOS GOMEZ PEREZ"
+  },
+  {
+    "amount_eur": 7260.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-18",
+    "record_id": "207:1936775",
+    "source_id": 1936775,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de suministro de material de oficina de duración 6 meses Proyectos CETMAR",
+    "vendor_name": "LYRECO ESPAÑA SA"
+  },
+  {
+    "amount_eur": 18089.5,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-18",
+    "record_id": "207:1936776",
+    "source_id": 1936776,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de recepción y labores auxiliares para el funcionamiento del edificio de CETMAR mientras no se resuelve el c",
+    "vendor_name": "EULEN CENTRO ESPECIAL DE EMPLEO SA"
+  },
+  {
+    "amount_eur": 7865.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-18",
+    "record_id": "207:1936802",
+    "source_id": 1936802,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de mantenimiento de ascensores Generales",
+    "vendor_name": "ORONA S COOPERATIVA"
+  },
+  {
+    "amount_eur": 12100.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-20",
+    "record_id": "207:1937527",
+    "source_id": 1937527,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de renting de vehículos mientras no se saca el PAS correspondiente Proyectos CETMAR",
+    "vendor_name": "PAIS AUTOMOCION"
+  },
+  {
+    "amount_eur": 90.75,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-23",
+    "record_id": "207:1938521",
+    "source_id": 1938521,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de mantenimiento del dominio Web de CETMAR Proyectos CETMAR",
+    "vendor_name": "MARCOS GOMEZ PEREZ"
+  },
+  {
+    "amount_eur": 2200.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-23",
+    "record_id": "207:1938539",
+    "source_id": 1938539,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de destrucción documental certificada Generales",
+    "vendor_name": "INTEGRALDATA SECURITY S.A."
+  },
+  {
+    "amount_eur": 54945.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-23",
+    "record_id": "207:1938541",
+    "source_id": 1938541,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de agencia de viajes para resto Europa y terceros países mientras no se resuelve el correspondiente PAS (199",
+    "vendor_name": "VIAJES ABRA MAR SA"
+  },
+  {
+    "amount_eur": 3630.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-23",
+    "record_id": "207:1938571",
+    "source_id": 1938571,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de mantenimiento de sistema de antiincendios y alarma 2025 Generales",
+    "vendor_name": "MONTAJES TECNICOS GALICIA SL"
+  },
+  {
+    "amount_eur": 726.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-25",
+    "record_id": "207:1941985",
+    "source_id": 1941985,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de mantenimiento del centro de transformación de media tensión de CETMAR Generales",
+    "vendor_name": "ELECPOR INSTALACIONES Y MANTENIMIENTO, SL"
+  },
+  {
+    "amount_eur": 5445.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-25",
+    "record_id": "207:1941986",
+    "source_id": 1941986,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de mantenimiento de climatización 2025 Generales",
+    "vendor_name": "AXIS SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 18089.5,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-25",
+    "record_id": "207:1941990",
+    "source_id": 1941990,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de limpieza de las instalaciones de CETMAR y cuidado de zonas exteriores del Centro mientras no se resuelve",
+    "vendor_name": "ORBALLO XARDINS SL"
+  },
+  {
+    "amount_eur": 1210.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-25",
+    "record_id": "207:1943640",
+    "source_id": 1943640,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "discos de sustitución para el servidor Generales",
+    "vendor_name": "PC COMPONENTES Y MULTIMEDIA SL"
+  },
+  {
+    "amount_eur": 3630.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-26",
+    "record_id": "207:1944045",
+    "source_id": 1944045,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de reparación del grupo electrógeno de CETMAR Generales",
+    "vendor_name": "GENESAL ENERGY IB SA"
+  },
+  {
+    "amount_eur": 605.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-26",
+    "record_id": "207:1944142",
+    "source_id": 1944142,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de reparación de la puerta general de CETMAR Generales",
+    "vendor_name": "ALUMINIOS CARVIGO SL"
+  },
+  {
+    "amount_eur": 363.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-26",
+    "record_id": "207:1944733",
+    "source_id": 1944733,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "una batería para la controladora secundaria de disco del servidor principal Generales",
+    "vendor_name": "INFORMATICA XACOBEA SLL"
+  },
+  {
+    "amount_eur": 18089.5,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-02-27",
+    "record_id": "207:1945015",
+    "source_id": 1945015,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de asistencia técnica de comunicación Proyectos CETMAR",
+    "vendor_name": "PAULA CERMEÑO DE SAA"
+  }
+]

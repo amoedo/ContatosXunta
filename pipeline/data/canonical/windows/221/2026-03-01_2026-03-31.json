@@ -1,0 +1,134 @@
+[
+  {
+    "amount_eur": 1246.3,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-03-05",
+    "record_id": "221:1950842",
+    "source_id": 1950842,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Subministración libro de incidencias",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 114.79,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-03-06",
+    "record_id": "221:1952751",
+    "source_id": 1952751,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Nº pedido: 74083547 - Nº albarán: 74083547",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 667.63,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-03-09",
+    "record_id": "221:1954045",
+    "source_id": 1954045,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Acto de presentación da:&#34;Aprobación provisional da Senda na AC-550 en Outes&#34;",
+    "vendor_name": "RDSENDE IMAXSON SL"
+  },
+  {
+    "amount_eur": 2280.85,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-03-09",
+    "record_id": "221:1954244",
+    "source_id": 1954244,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Actos de visita das:&#34;Obras de urbanización do PS6 da ETEA en Vigo&#34;",
+    "vendor_name": "EVENTOS GLOBAIS GALICIA SL"
+  },
+  {
+    "amount_eur": 1754.5,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-03-09",
+    "record_id": "221:1954252",
+    "source_id": 1954252,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Acto de presentación da &#34;Información Pública da Senda Paradela Alta-Broullón na PO-313- MOAÑA",
+    "vendor_name": "LOGISTICA GESTION Y SERVICIOS PARA EVENTOS"
+  },
+  {
+    "amount_eur": 230.0,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-03-16",
+    "record_id": "221:1961547",
+    "source_id": 1961547,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Subministración cadeira ergonómica",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 114.95,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-03-16",
+    "record_id": "221:1961946",
+    "source_id": 1961946,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Elaboración, deseño e montaxe dun panel informativo para:&#34;Acto de información pública da senda Paradela Alta-Broullón na",
+    "vendor_name": "LAU CREACIONS SL"
+  },
+  {
+    "amount_eur": 2014.65,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-03-16",
+    "record_id": "221:1962193",
+    "source_id": 1962193,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Acto de presentación da Rolda Sur-Oeste de Ordes.",
+    "vendor_name": "LOGISTICA GESTION Y SERVICIOS PARA EVENTOS"
+  },
+  {
+    "amount_eur": 15321.02,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-03-18",
+    "record_id": "221:1964200",
+    "source_id": 1964200,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Renovación da capa de firme na PO-308 e outras",
+    "vendor_name": "ENMACOSA CONSULTORIA TECNICA S.A."
+  },
+  {
+    "amount_eur": 15623.07,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-03-19",
+    "record_id": "221:1966695",
+    "source_id": 1966695,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Asesoramento para o fincado do caixón baixo a vía do ferrocarril da obra Mellora da mobilidade peonil na AC-840 en Oza -",
+    "vendor_name": "CONSULTORA DE INGENIERÍA, MEDIO AMBIENTE Y ARQUITE"
+  },
+  {
+    "amount_eur": 158.82,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-03-27",
+    "record_id": "221:1973445",
+    "source_id": 1973445,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Nº pedido: 74083547 - Nº albarán: 74083547",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 8800.0,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-03-30",
+    "record_id": "221:1974873",
+    "source_id": 1974873,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Publicación informativa para a difusión do investimento da Xunta en materia de Infraestruturas",
+    "vendor_name": "OUTRO SL"
+  }
+]

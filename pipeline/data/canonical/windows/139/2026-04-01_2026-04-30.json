@@ -1,0 +1,90 @@
+[
+  {
+    "amount_eur": 650.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-04-02",
+    "record_id": "139:1978530",
+    "source_id": 1978530,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "COFFE BREAK XORNADA FISCALIDADE ALIMENTOS FACTUA 1-2026",
+    "vendor_name": "JOSE RAMON SANCHEZ IGLESIAS"
+  },
+  {
+    "amount_eur": 671.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-04-07",
+    "record_id": "139:1979933",
+    "source_id": 1979933,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "CATERING COCTEL RECEPCIÓN 09-03-2026",
+    "vendor_name": "JOSE RAMON SANCHEZ IGLESIAS"
+  },
+  {
+    "amount_eur": 51.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-04-13",
+    "record_id": "139:1984275",
+    "source_id": 1984275,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "RECOÑECEMENTO MÉDICO PERSOAL CES GALICIA PROBA XINECOLÓXICA",
+    "vendor_name": "VITALY HEALTH SERVICES, S.L."
+  },
+  {
+    "amount_eur": 15.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-04-13",
+    "record_id": "139:1984276",
+    "source_id": 1984276,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "RECOÑECEMENTO MÉDICO PERSOAL CES GALICIA PROBA PSA TRAB III",
+    "vendor_name": "VITALY HEALTH SERVICES, S.L."
+  },
+  {
+    "amount_eur": 15.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-04-13",
+    "record_id": "139:1984277",
+    "source_id": 1984277,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "RECOÑECEMENTO MÉDICO PERSOAL CES GALICIA PROBA PSA TRAB II",
+    "vendor_name": "VITALY HEALTH SERVICES, S.L."
+  },
+  {
+    "amount_eur": 15.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-04-13",
+    "record_id": "139:1984278",
+    "source_id": 1984278,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "RECOÑECEMENTO MÉDICO PERSOAL CES GALICIA PROBA PSA TRAB I",
+    "vendor_name": "VITALY HEALTH SERVICES, S.L."
+  },
+  {
+    "amount_eur": 170.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-04-15",
+    "record_id": "139:1986182",
+    "source_id": 1986182,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "HOTEL PONENTE XORNADA PREZO DOS ALIMENTOS F C/001351/26/04",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 425.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-04-17",
+    "record_id": "139:1988879",
+    "source_id": 1988879,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "SUBMINISTRACIÓN AUGA SANITARIA PAZO AMARANTE. PERÍODO 2026",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  }
+]

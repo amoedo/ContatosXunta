@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 3993.0,
+    "duration": "1 mes",
+    "organism_id": 189,
+    "publication_date": "2026-05-11",
+    "record_id": "189:2005360",
+    "source_id": 2005360,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/189/contratosmenores/table",
+    "subject": "Portal Eléctrico",
+    "vendor_name": "JOSE MANUEL SANMARTIN PENA"
+  },
+  {
+    "amount_eur": 6788.1,
+    "duration": "1 mes",
+    "organism_id": 189,
+    "publication_date": "2026-05-11",
+    "record_id": "189:2005416",
+    "source_id": 2005416,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/189/contratosmenores/table",
+    "subject": "Servizo de Bandeirolas",
+    "vendor_name": "ROCIO BUGALLO JAMARDO"
+  },
+  {
+    "amount_eur": 2359.5,
+    "duration": "1 mes",
+    "organism_id": 189,
+    "publication_date": "2026-05-11",
+    "record_id": "189:2005986",
+    "source_id": 2005986,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/189/contratosmenores/table",
+    "subject": "Gabinete de Prensa e Redes Sociais",
+    "vendor_name": "ACTUAL STUDIO CREATIVO S.L."
+  },
+  {
+    "amount_eur": 7139.0,
+    "duration": "1 mes",
+    "organism_id": 189,
+    "publication_date": "2026-05-11",
+    "record_id": "189:2006078",
+    "source_id": 2006078,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/189/contratosmenores/table",
+    "subject": "Servizo de Seguridade",
+    "vendor_name": "ALCOR SEGURIDAD, SL"
+  },
+  {
+    "amount_eur": 2420.0,
+    "duration": "1 mes",
+    "organism_id": 189,
+    "publication_date": "2026-05-11",
+    "record_id": "189:2006133",
+    "source_id": 2006133,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/189/contratosmenores/table",
+    "subject": "Servizo Auditoria Contas Anuais 2025",
+    "vendor_name": "BM NEIRA AUDITORES SL"
+  },
+  {
+    "amount_eur": 10976.51,
+    "duration": "1 mes",
+    "organism_id": 189,
+    "publication_date": "2026-05-11",
+    "record_id": "189:2006453",
+    "source_id": 2006453,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/189/contratosmenores/table",
+    "subject": "Servizo de Montaxe",
+    "vendor_name": "LOGISTICA GESTION Y SERVICIOS PARA EVENTOS"
+  },
+  {
+    "amount_eur": 2000.0,
+    "duration": "1 mes",
+    "organism_id": 189,
+    "publication_date": "2026-05-12",
+    "record_id": "189:2006683",
+    "source_id": 2006683,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/189/contratosmenores/table",
+    "subject": "Servizo Seguros ano 2026",
+    "vendor_name": "MAPFRE ESPAÑA, COMPAÑIA DE SEGUROS Y REASEGUROS SA"
+  }
+]

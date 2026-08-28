@@ -1,0 +1,112 @@
+[
+  {
+    "amount_eur": 1178.29,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-05-11",
+    "record_id": "225:2005597",
+    "source_id": 2005597,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Servizo limpeza Eduardo Pondal abril 2026",
+    "vendor_name": "SAMAIN SERVIZOS A COMUNIDADE SA"
+  },
+  {
+    "amount_eur": 16940.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-05-25",
+    "record_id": "225:2018068",
+    "source_id": 2018068,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "SERVIZO PARA A EDICIÓN DOS CASES DAS BASES CARTOGRÁFICAS BTG",
+    "vendor_name": "CADIC SA - CARTOGRAFIA E MEDICIONS SL UTE LEY 18/"
+  },
+  {
+    "amount_eur": 777.36,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-05-26",
+    "record_id": "225:2018201",
+    "source_id": 2018201,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Gastos comunidade Eduardo Pondal abril 2026",
+    "vendor_name": "COMPOSTELA BEACH SA"
+  },
+  {
+    "amount_eur": 109.38,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-05-26",
+    "record_id": "225:2018669",
+    "source_id": 2018669,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Material de oficina para o IET",
+    "vendor_name": "PAZ   DISMAC SL"
+  },
+  {
+    "amount_eur": 3139.95,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-05-26",
+    "record_id": "225:2018811",
+    "source_id": 2018811,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Servizos audiovisuais acto Concellos Verdes Galicia 2026",
+    "vendor_name": "AUDIOVISUALES MCN, S.L"
+  },
+  {
+    "amount_eur": 605.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-05-27",
+    "record_id": "225:2019145",
+    "source_id": 2019145,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Cesión espazo celebración acto presentación nova imaxe CONCE",
+    "vendor_name": "BANDALUX INDUSTRIAL SA"
+  },
+  {
+    "amount_eur": 126.37,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-05-27",
+    "record_id": "225:2019400",
+    "source_id": 2019400,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Subministración electricidade Eduardo Pondal 30 4º (marzo 20",
+    "vendor_name": "IBERDROLA CLIENTES SA"
+  },
+  {
+    "amount_eur": 311.84,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-05-27",
+    "record_id": "225:2019401",
+    "source_id": 2019401,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Subministración electricidade Eduardo Pondal 30 3º (marzo 20",
+    "vendor_name": "IBERDROLA CLIENTES SA"
+  },
+  {
+    "amount_eur": 240.58,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-05-27",
+    "record_id": "225:2019402",
+    "source_id": 2019402,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Electricidade Eduardo Pondal 3º (abril 2026)",
+    "vendor_name": "IBERDROLA CLIENTES SA"
+  },
+  {
+    "amount_eur": 119.54,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-05-27",
+    "record_id": "225:2019403",
+    "source_id": 2019403,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Electricidade Eduardo Pondal 4º (abril 2026)",
+    "vendor_name": "IBERDROLA CLIENTES SA"
+  }
+]

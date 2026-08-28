@@ -1,0 +1,200 @@
+[
+  {
+    "amount_eur": 5.06,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-26",
+    "record_id": "15:1913498",
+    "source_id": 1913498,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA REXISTRO MERCANTIL DE LA RIOJA. MES DE NOVEMBRO",
+    "vendor_name": "MARIA CELIA MENESES MARTINEZ BERNAL"
+  },
+  {
+    "amount_eur": 5.78,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-26",
+    "record_id": "15:1913510",
+    "source_id": 1913510,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA REXISTRO MERCANTIL DE SANTIAGO DE COMPOSTELA. MES DE",
+    "vendor_name": "MARIA PILAR RODRIGUEZ BUGALLO"
+  },
+  {
+    "amount_eur": 144.2,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-26",
+    "record_id": "15:1914852",
+    "source_id": 1914852,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "Tren Santiago- Madrid-Santiago 25 e 26 de novembro (Daniel N",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 110.0,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-26",
+    "record_id": "15:1914853",
+    "source_id": 1914853,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "Hotel do 25 a 26 de novembro (Daniel Neira Barral)",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 161.45,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-26",
+    "record_id": "15:1914854",
+    "source_id": 1914854,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "Tren Santiago-Madrid-Santiago 15-12-2025 (Patricia Toubes Na",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 230.0,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-26",
+    "record_id": "15:1915586",
+    "source_id": 1915586,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "Tren Santiago-Madrid-Santiago o 24 e 25 de novembro (AZUCENA",
+    "vendor_name": "ZONDA SL"
+  },
+  {
+    "amount_eur": 49.34,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-26",
+    "record_id": "15:1918359",
+    "source_id": 1918359,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "Copias do IGCC de Lugo",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 8.7,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-26",
+    "record_id": "15:1920127",
+    "source_id": 1920127,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA REXISTRO MERCANTIL DE PONTEVEDRA. MES DE NOVEMBRO",
+    "vendor_name": "REGISTRO MERCANTIL Y DE BIENES MUEBLES DE"
+  },
+  {
+    "amount_eur": 23.2,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-26",
+    "record_id": "15:1920133",
+    "source_id": 1920133,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA REXISTRO MERCANTIL DE BARCELONA. MES DE NOVEMBRO",
+    "vendor_name": "REGISTRO MERCANTIL DE BARCELONA"
+  },
+  {
+    "amount_eur": 77.37,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-26",
+    "record_id": "15:1920136",
+    "source_id": 1920136,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA REXISTRO MERCANTIL DE MADRID. MES DE NOVEMBRO",
+    "vendor_name": "REGISTRADORES MERCANTILES DE MADRID CB"
+  },
+  {
+    "amount_eur": 13.02,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-26",
+    "record_id": "15:1920199",
+    "source_id": 1920199,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA REXISTRO MERCANTIL DE ALICANTE. MES DE NOVEMBRO",
+    "vendor_name": "REGISTRO MERCANTIL DE ALICANTE"
+  },
+  {
+    "amount_eur": 784.82,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-27",
+    "record_id": "15:1920493",
+    "source_id": 1920493,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "Billete avión 9 e 10 de decembro (SOL Mª VAZQUEZ ABEAL)",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 174.0,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-27",
+    "record_id": "15:1920494",
+    "source_id": 1920494,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "Hotel 9 e 10 de decembro (VAZQUEZ ABEAL SOL)",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 240.0,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-27",
+    "record_id": "15:1920525",
+    "source_id": 1920525,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "ALOXAMENTO HOTEL BALMORAL DO 5 AO 7 DE NOVEMBRO (DANIEL NEIR",
+    "vendor_name": "VIAJES GALITUR SL"
+  },
+  {
+    "amount_eur": 336.98,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-27",
+    "record_id": "15:1920526",
+    "source_id": 1920526,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "AVIÓN SANTIAGO-BARVELONA-SANTIAGO DO 5 O 7 DE NOVEMBRO (DANI",
+    "vendor_name": "VIAJES GALITUR SL"
+  },
+  {
+    "amount_eur": 2180.03,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-27",
+    "record_id": "15:1920706",
+    "source_id": 1920706,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "Cota vixilancia laboratorio. Xaneiro a decembro",
+    "vendor_name": "ASOC DE EMPRESARIOS DEL POLIGONO INDUSTR"
+  },
+  {
+    "amount_eur": 42.25,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-28",
+    "record_id": "15:1920910",
+    "source_id": 1920910,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA SUBMINISTRO AUGA PARA SS.CC. IGCC NOVEMBRO-DECEMBRO",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 65.72,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-01-29",
+    "record_id": "15:1921047",
+    "source_id": 1921047,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "Factura prezo por copia Ricoh Outubro a decembro",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  }
+]

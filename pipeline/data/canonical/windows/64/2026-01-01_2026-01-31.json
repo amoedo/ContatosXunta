@@ -1,0 +1,13 @@
+[
+  {
+    "amount_eur": 3000.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-01-21",
+    "record_id": "64:1908170",
+    "source_id": 1908170,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "subject": "Actuación musical de Roi en A Coruña",
+    "vendor_name": "ROI GROBAS ROCHA"
+  }
+]

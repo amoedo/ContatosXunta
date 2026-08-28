@@ -1,0 +1,145 @@
+[
+  {
+    "amount_eur": 502.15,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-06-04",
+    "record_id": "18:2026224",
+    "source_id": 2026224,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "Letras galegas.",
+    "vendor_name": "CONTIDOS E MENSAXES SL"
+  },
+  {
+    "amount_eur": 1500.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-06-05",
+    "record_id": "18:2026894",
+    "source_id": 2026894,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "Servizo cafetería Día das Letras Galegas 2026",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 5600.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-06-05",
+    "record_id": "18:2027360",
+    "source_id": 2027360,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "Organización do acto do Día das Letras Galegas 2026",
+    "vendor_name": "LA GLOBAL CREATIVE S.L."
+  },
+  {
+    "amount_eur": 1200.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-06-05",
+    "record_id": "18:2027361",
+    "source_id": 2027361,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "Actuación musical polo Día das Letras Galegas",
+    "vendor_name": "LA GLOBAL CREATIVE S.L."
+  },
+  {
+    "amount_eur": 3000.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-06-05",
+    "record_id": "18:2027575",
+    "source_id": 2027575,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "organización acto Día das Letras Galegas 2026",
+    "vendor_name": "UNA GRUPO IDEAS FACTORY S.L."
+  },
+  {
+    "amount_eur": 250.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-06-05",
+    "record_id": "18:2027576",
+    "source_id": 2027576,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "Relator Día das Letras Galegas 2026",
+    "vendor_name": "UNA GRUPO IDEAS FACTORY S.L."
+  },
+  {
+    "amount_eur": 3650.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-06-05",
+    "record_id": "18:2027577",
+    "source_id": 2027577,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "Organización viaxe Día das Letras Galegas 2026",
+    "vendor_name": "UNA GRUPO IDEAS FACTORY S.L."
+  },
+  {
+    "amount_eur": 300.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-06-11",
+    "record_id": "18:2031717",
+    "source_id": 2031717,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "PERSOAL AUXILIAR ACTO DÍA LETRAS GALEGAS 2026",
+    "vendor_name": "RIVASHER SL"
+  },
+  {
+    "amount_eur": 43.95,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-06-12",
+    "record_id": "18:2032389",
+    "source_id": 2032389,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "Viaxe Directora EGAP.",
+    "vendor_name": "VIAJES TROTTA SA"
+  },
+  {
+    "amount_eur": 125.08,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-06-19",
+    "record_id": "18:2039260",
+    "source_id": 2039260,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "gastos comedor dirección mes de maio 2026",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 712.53,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-06-19",
+    "record_id": "18:2039504",
+    "source_id": 2039504,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "Cambio contador suministro de auga",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 726.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-06-22",
+    "record_id": "18:2041007",
+    "source_id": 2041007,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "publicación en prensa día letras galegas 2026",
+    "vendor_name": "EPI PRENSA SLU"
+  },
+  {
+    "amount_eur": 700.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-06-24",
+    "record_id": "18:2042326",
+    "source_id": 2042326,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "LIBROS OBSEQUIADOS AOS RAPACES E RAPACES GAÑADORES DO CONCUR",
+    "vendor_name": "IRIA BERNAL LOPEZ"
+  }
+]

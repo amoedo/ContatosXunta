@@ -1,0 +1,112 @@
+[
+  {
+    "amount_eur": 30.06,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-04-01",
+    "record_id": "77:1978288",
+    "source_id": 1978288,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Factura 845229307 febreiro 2026",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 623.43,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-04-14",
+    "record_id": "77:1985007",
+    "source_id": 1985007,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Presentación nota simple e outros  rexistro da Propiedade de",
+    "vendor_name": "MARIA CORA FERNANDEZ"
+  },
+  {
+    "amount_eur": 42.01,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-04-14",
+    "record_id": "77:1985524",
+    "source_id": 1985524,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Factura 26SF10074528 de 22/07/25 a 18/03/2026",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 54.56,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-04-14",
+    "record_id": "77:1985600",
+    "source_id": 1985600,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "compora botellons agua aplu sc",
+    "vendor_name": "CERLIS VENDING SLU"
+  },
+  {
+    "amount_eur": 720.19,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-04-15",
+    "record_id": "77:1985823",
+    "source_id": 1985823,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Subministro EPIS para persoal da APLU que realiza tarefas de campo.",
+    "vendor_name": "PABLO CARRON REBOREDO"
+  },
+  {
+    "amount_eur": 13204.02,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-04-17",
+    "record_id": "77:1989200",
+    "source_id": 1989200,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Suministro sillas",
+    "vendor_name": "ACEROFFICE SL"
+  },
+  {
+    "amount_eur": 18.9,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-04-21",
+    "record_id": "77:1991543",
+    "source_id": 1991543,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "AL26013244, SE ADJUNTA FACTURA",
+    "vendor_name": "PRELO S L"
+  },
+  {
+    "amount_eur": 695.87,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-04-24",
+    "record_id": "77:1994921",
+    "source_id": 1994921,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Servizos mantemento PLOTTER HP DESIGNJET T830",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 2636.59,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-04-28",
+    "record_id": "77:1996260",
+    "source_id": 1996260,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Dirección de Obra e Coordinación de Seguridade e Saúde das obras de demolición en Praia Barcela, O Grove (10.12/93 II)",
+    "vendor_name": "JOSE RAMON COVELO MILLOS"
+  },
+  {
+    "amount_eur": 912.65,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-04-29",
+    "record_id": "77:1998008",
+    "source_id": 1998008,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Reparación coche Lugo 9316JBW",
+    "vendor_name": "CAETANO FORMULA GALICIA, S.L."
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "amount_eur": 418.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-05-05",
+    "record_id": "55:2001089",
+    "source_id": 2001089,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "SERVICIO CAFÉ DÍAS 9 E 10 DE ABRIL DE 2026 PARA O SEMINARIO",
+    "vendor_name": "LUCIA CARBALLIDO FALCON"
+  },
+  {
+    "amount_eur": 1897.04,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-05-05",
+    "record_id": "55:2001600",
+    "source_id": 2001600,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "MEDIDORES LASER PLAN CHQOUE CAMPAÑA ACCIDENTES LABORAIS",
+    "vendor_name": "ARES SERVIZOS GRAFICOS SL"
+  },
+  {
+    "amount_eur": 67.62,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-05-14",
+    "record_id": "55:2009566",
+    "source_id": 2009566,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "ago Fact nº [identificador fiscal omitido]  polo almorzo Xerencia Santiago-Xefatu",
+    "vendor_name": "CAMINO SANTO SL"
+  },
+  {
+    "amount_eur": 14970.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-05-14",
+    "record_id": "55:2009608",
+    "source_id": 2009608,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AD pola organización_impartición 6 edicións curso gamificaci",
+    "vendor_name": "CONSULTORÍA BALEAR ACTIVA SL"
+  },
+  {
+    "amount_eur": 14940.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-05-14",
+    "record_id": "55:2009872",
+    "source_id": 2009872,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AD pola organización_impartición 6 edicións curso PRL no man",
+    "vendor_name": "CONFORMA FORESTAL"
+  },
+  {
+    "amount_eur": 176.67,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-05-20",
+    "record_id": "55:2014510",
+    "source_id": 2014510,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AD polo servizo de impresion Cartel PRL campaña sensibilidad",
+    "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
+  },
+  {
+    "amount_eur": 285.32,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-05-20",
+    "record_id": "55:2014511",
+    "source_id": 2014511,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AD polo servizo de impresion revista PRL campaña sensibilida",
+    "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
+  },
+  {
+    "amount_eur": 63.6,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-05-20",
+    "record_id": "55:2014766",
+    "source_id": 2014766,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "LIMPIEZA BATAS",
+    "vendor_name": "PEONIA TEXTILES SL"
+  },
+  {
+    "amount_eur": 14900.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-05-20",
+    "record_id": "55:2014911",
+    "source_id": 2014911,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "ola organización_impartición 4 xornadas de PRL nas empresas",
+    "vendor_name": "ASOC DE EMPRESARIOS DE LA 1 TRANSFORMACI"
+  },
+  {
+    "amount_eur": 252.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-05-28",
+    "record_id": "55:2020799",
+    "source_id": 2020799,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "Pago Fact nº 0001/G26 00139 Pausa-café seminario &#34;Aplicación",
+    "vendor_name": "LOMAR VIAXES S.L."
+  },
+  {
+    "amount_eur": 1605.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-05-28",
+    "record_id": "55:2020957",
+    "source_id": 2020957,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "Pago Fact nº 000126554 Participación Issga na &#34;III JornadaLu",
+    "vendor_name": "INVERSIONES MAR 2000 SL"
+  },
+  {
+    "amount_eur": 115.3,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-05-28",
+    "record_id": "55:2021177",
+    "source_id": 2021177,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "ALMORZO POÑENTES (XORNADA TÉCNICA &#34;DESPERTA AO PERIGO: SOMNO",
+    "vendor_name": "E-6TO SL"
+  },
+  {
+    "amount_eur": 7700.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-05-28",
+    "record_id": "55:2021427",
+    "source_id": 2021427,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "PREVISEL 2026",
+    "vendor_name": "FUNDACION&#34;FERIAS EXPOSICIONES DE OURENSE"
+  }
+]

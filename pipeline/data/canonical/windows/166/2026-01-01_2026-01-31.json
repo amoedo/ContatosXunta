@@ -1,0 +1,123 @@
+[
+  {
+    "amount_eur": 1210.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-01-12",
+    "record_id": "166:1906595",
+    "source_id": 1906595,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración de material funxible para o Laboratorio de Microbioloxía da Fundación Centro Tecnolóxico da Carne. Vario",
+    "vendor_name": "SCHARLAB, SL"
+  },
+  {
+    "amount_eur": 5687.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-01-13",
+    "record_id": "166:1906807",
+    "source_id": 1906807,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración de material funxible para o Laboratorio de Microbioloxía da Fundación Centro Tecnolóxico da Carne. Vario",
+    "vendor_name": "BIOMERIEUX ESPAÑA, S.A."
+  },
+  {
+    "amount_eur": 1488.3,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-01-21",
+    "record_id": "166:1908292",
+    "source_id": 1908292,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración de material funxible para o Laboratorio de Cromatografía da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "CIENYTECH SOLUCIONES"
+  },
+  {
+    "amount_eur": 2057.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-01-22",
+    "record_id": "166:1908436",
+    "source_id": 1908436,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración de material funxible para o Laboratorio de Fisicoquímica da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "PROQUINORTE SA"
+  },
+  {
+    "amount_eur": 1815.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-01-22",
+    "record_id": "166:1908450",
+    "source_id": 1908450,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración de material funxible para o Laboratorio de Microbioloxía da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "SCHARLAB, SL"
+  },
+  {
+    "amount_eur": 550.55,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-01-26",
+    "record_id": "166:1920350",
+    "source_id": 1920350,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración funxible Planta Piloto.",
+    "vendor_name": "IMPORTADORA TUDELANA S.A."
+  },
+  {
+    "amount_eur": 3388.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-01-27",
+    "record_id": "166:1920699",
+    "source_id": 1920699,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Servizo de mantemento do equipo analizador de proteína da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "SCHARLAB, SL"
+  },
+  {
+    "amount_eur": 82.28,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-01-28",
+    "record_id": "166:1920904",
+    "source_id": 1920904,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Fosfato de socio E339 1kg",
+    "vendor_name": "CLEMENTINA BEGOÑA LOPEZ FERNANDEZ"
+  },
+  {
+    "amount_eur": 1210.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-01-29",
+    "record_id": "166:1921041",
+    "source_id": 1921041,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Servizo de mantemento e actualización dun portal web (www.oli4food.eu) dun proxecto europeo PRIMA e o mantemento, public",
+    "vendor_name": "MARQUID CONSULTING SLL"
+  },
+  {
+    "amount_eur": 3630.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-01-29",
+    "record_id": "166:1921053",
+    "source_id": 1921053,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Servizo de mantemento do equipo analizador de graxa da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "METROHM HISPANIA SLU"
+  },
+  {
+    "amount_eur": 211.63,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-01-30",
+    "record_id": "166:1921180",
+    "source_id": 1921180,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Mantemento instalacións",
+    "vendor_name": "SUMINISTROS INDUSTRIALES NOVASUR S L"
+  }
+]

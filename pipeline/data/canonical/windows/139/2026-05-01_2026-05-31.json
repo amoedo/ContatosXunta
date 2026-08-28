@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 120.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-05-13",
+    "record_id": "139:2007453",
+    "source_id": 2007453,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "COMIDA PROTOCOLARIA DO PRESIDENTE DO CES GALICIA",
+    "vendor_name": "ANA MERCEDES PORTALS CAAMAÑO"
+  },
+  {
+    "amount_eur": 483.68,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-05-27",
+    "record_id": "139:2019283",
+    "source_id": 2019283,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "HOTEL PRESIDENTE E SECRE REUNIÓN CES ESP F C/004351/26/04",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 1003.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-05-29",
+    "record_id": "139:2021711",
+    "source_id": 2021711,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "BILLETES AVIÓN PRESIDENTE E SECRETARIO FSF/004808/26/04",
+    "vendor_name": "BIVES TOUR, SAL"
+  }
+]

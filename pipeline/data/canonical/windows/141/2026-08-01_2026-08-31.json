@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 3000.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-08-10",
+    "record_id": "141:2073234",
+    "source_id": 2073234,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Divulgativo:Reportaxe Medallas Castelao e difusión en web",
+    "vendor_name": "EVENTOS INSUELA S.L."
+  },
+  {
+    "amount_eur": 5687.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-08-17",
+    "record_id": "141:2075777",
+    "source_id": 2075777,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Actualización creatividades",
+    "vendor_name": "C GRUPO DE EMPRESAS DE COMUNICACIÓN, MARKETING E"
+  },
+  {
+    "amount_eur": 4840.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-08-17",
+    "record_id": "141:2076455",
+    "source_id": 2076455,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Publicidade",
+    "vendor_name": "ASOC CULTURAL ALBATROS"
+  },
+  {
+    "amount_eur": 3000.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-08-24",
+    "record_id": "141:2078824",
+    "source_id": 2078824,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Divulgativo: Reportaxe Medallas Castelao e difusión en web",
+    "vendor_name": "AGENCIA AUDIOVISUAL GALLEGA DE COMUNICACIONES, SL"
+  },
+  {
+    "amount_eur": 2541.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-08-24",
+    "record_id": "141:2078915",
+    "source_id": 2078915,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Actualización creatividades",
+    "vendor_name": "CANAL UNO DE COMUNICACION SL"
+  }
+]

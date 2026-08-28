@@ -1,0 +1,123 @@
+[
+  {
+    "amount_eur": 1155.52,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-02-09",
+    "record_id": "97:1926831",
+    "source_id": 1926831,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "BILLETE AVION IDA E VOLTA E DUAS NOITES DE ALOXAMENTO EN MILAN PARA XEFE AREA CULTURA XACOBEA ENCONTRO VIA FRANCIGENA",
+    "vendor_name": "VIAJES HALCON, S A"
+  },
+  {
+    "amount_eur": 2933.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-02-09",
+    "record_id": "97:1926841",
+    "source_id": 1926841,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "GASTOS DE VIAXE,ALOXAMENTO E TRASLADOS PARA REUNION EXTRAORDINARIA COMITÉ INTERNACIONAL EXPERTOS CAMIÑO DE SANTIAGO 6-02",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 170.5,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-02-09",
+    "record_id": "97:1927310",
+    "source_id": 1927310,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "CATERING-COFFEE BREAK PARA REUNION EXTRAORDINARIA DO COMITÉ INTERNACIONAL DE EXPERTOS DO CAMIÑO DE SANTIAGO O 06/02/2026",
+    "vendor_name": "CATERING ALMIREZ,S.L."
+  },
+  {
+    "amount_eur": 550.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-02-09",
+    "record_id": "97:1927539",
+    "source_id": 1927539,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "COMIDA INSTITUCIONAL PARA REUNION EXTRAORDINARIA DO COMITÉ INTERNACIONAL DE EXPERTOS DO CAMIÑO DE SANTIAGO O 06/02/2026",
+    "vendor_name": "CABANAS CALVIÑO SAN JAIME, S.L."
+  },
+  {
+    "amount_eur": 1781.12,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-02-09",
+    "record_id": "97:1927784",
+    "source_id": 1927784,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SERVIZO DE PROGRAMACION PARA CONEXION DAS BASES DE DATOS DA AXENCIA TURISMO DE GALICIA E PROGRAMA ULTREIA SUDOE",
+    "vendor_name": "INTERACTIVE SISTEM DEVELOPERS SL"
+  },
+  {
+    "amount_eur": 401.2,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-02-11",
+    "record_id": "97:1929223",
+    "source_id": 1929223,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SERVIZO DE RESTAURANTE PARA CEA REUNION EXTRAORDINARIA COMITE INTERNACIONAL DE EXPERTOS DO CAMIÑO DE SANTIAGO",
+    "vendor_name": "ANA MERCEDES PORTALS CAAMAÑO"
+  },
+  {
+    "amount_eur": 706.64,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-02-11",
+    "record_id": "97:1929966",
+    "source_id": 1929966,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "MPRESIÓN 300 UDS. TARXETAS VISITA DIRECTOR  A DOBRE CARA E 500 UDS. CARPETAS ASUNTO IMAXE GRAFICA XACOBEO 2027",
+    "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
+  },
+  {
+    "amount_eur": 164.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-02-16",
+    "record_id": "97:1935524",
+    "source_id": 1935524,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SERVIZO RESTAURANTE REUNION DIRECTOR S.A XESTION PLAN XACOBEO CON REPRESENTANTES DA ASOC. CONCELLOS CAMIÑO FISTERRA",
+    "vendor_name": "CABANAS CALVIÑO SAN JAIME, S.L."
+  },
+  {
+    "amount_eur": 72.6,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-02-16",
+    "record_id": "97:1935599",
+    "source_id": 1935599,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "RENOVACION DOMINIO INTERNET &#34;CAMINODESANTIAGO.COM&#34; POR PERIODO DUN ANO",
+    "vendor_name": "CLARKE MODET Y CIA, S.L."
+  },
+  {
+    "amount_eur": 1410.23,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-02-20",
+    "record_id": "97:1937756",
+    "source_id": 1937756,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "BILLETES DE AVIÓN A PISTOIA PARA O DIRECTOR, XEFE DE AREA E TECNICO DE CULTURA PARA ASEMBLEA ANUAL FEDER. EUROP. CAMIÑO",
+    "vendor_name": "VIAJES HALCON, S A"
+  },
+  {
+    "amount_eur": 198.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-02-25",
+    "record_id": "97:1943615",
+    "source_id": 1943615,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SERVIZO RESTAURANTE 4 PAX REUNION DIRECTOR, XEFE CULTURA XACOBEA CO PRESIDENTE E ASISTENTE INTERGRUPO CAMINO SANTIAGO PE",
+    "vendor_name": "VARELA E HIJOS SERVICIOS DE HOSTELERIA SL"
+  }
+]

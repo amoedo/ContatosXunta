@@ -1,0 +1,112 @@
+[
+  {
+    "amount_eur": 673.87,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-03-04",
+    "record_id": "15:1948695",
+    "source_id": 1948695,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA REVISIÓN ANUAL INSTALACIÓNS LAB. CONSUMO",
+    "vendor_name": "SOCIEDAD ESPAÑOLA CARBUROS METALICOS"
+  },
+  {
+    "amount_eur": 1540.0,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-03-11",
+    "record_id": "15:1956303",
+    "source_id": 1956303,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "SERVIZO COCTELERÍA PARA ASISTENTES A ACTO DÍA CONSUMIDOR",
+    "vendor_name": "PARADORES DE TURISMO DE ESPAÑA S A"
+  },
+  {
+    "amount_eur": 17980.6,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-03-11",
+    "record_id": "15:1956378",
+    "source_id": 1956378,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "ORGANIZACIÓN ACTO DÍA DO CONSUMIDOR",
+    "vendor_name": "LA GLOBAL CREATIVE S.L."
+  },
+  {
+    "amount_eur": 6473.6,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-03-11",
+    "record_id": "15:1956513",
+    "source_id": 1956513,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "SERVIZO DE TRANSPORTE DIA DO CONSUMIDOR",
+    "vendor_name": "J C COURIER,SL"
+  },
+  {
+    "amount_eur": 2722.5,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-03-11",
+    "record_id": "15:1956602",
+    "source_id": 1956602,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "COORDINACIÓN EVENTO DIA 12 DE SETEMBRO",
+    "vendor_name": "AGUA DE MAYO MARKETING SL"
+  },
+  {
+    "amount_eur": 19.51,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-03-12",
+    "record_id": "15:1959020",
+    "source_id": 1959020,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA REXISTRO MERCANTIL DE PONTEVEDRA. MES DE FEBREIRO",
+    "vendor_name": "REGISTRO MERCANTIL Y DE BIENES MUEBLES DE"
+  },
+  {
+    "amount_eur": 5.06,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-03-12",
+    "record_id": "15:1959022",
+    "source_id": 1959022,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA REXISTRO MERCANTIL DE MURCIA. MES DE FEBREIRO",
+    "vendor_name": "REGISTRADORES MERCANTILES DE MURCIA"
+  },
+  {
+    "amount_eur": 32.6,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-03-12",
+    "record_id": "15:1959023",
+    "source_id": 1959023,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA REXISTRO MERCANTIL DA COMUNIDADE DE MADRID. MES DE F",
+    "vendor_name": "REGISTRADORES MERCANTILES DE MADRID CB"
+  },
+  {
+    "amount_eur": 38.11,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-03-16",
+    "record_id": "15:1961239",
+    "source_id": 1961239,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "Suministro auga SSCC 30-12-25 a 02-03-26. VIAQUA SA",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 1455.63,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-03-24",
+    "record_id": "15:1969893",
+    "source_id": 1969893,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA DA AUDITORIA DE REAVALIACIÓN DO LABORATORIO DO CONSU",
+    "vendor_name": "ENTIDAD NACIONAL DE ACREDITACION (ENAC)"
+  }
+]

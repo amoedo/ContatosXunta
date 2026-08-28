@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 1600.42,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-07-07",
+    "record_id": "18:2052139",
+    "source_id": 2052139,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "material oficina",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 65.95,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-07-21",
+    "record_id": "18:2062697",
+    "source_id": 2062697,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "FACTURA 84/26. SERVIZO CAFETERÍA E COMEDOR DESPACHO DIRECCIÓ",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 203.8,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-07-21",
+    "record_id": "18:2063250",
+    "source_id": 2063250,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "ENTIC SOLUCIONES SL Factura nº46001365 Dock station para a",
+    "vendor_name": "ENTIC SOLUCIONES S.L."
+  }
+]

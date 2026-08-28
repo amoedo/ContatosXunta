@@ -1,0 +1,211 @@
+[
+  {
+    "amount_eur": 3021.52,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-28",
+    "record_id": "67:1996263",
+    "source_id": 1996263,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Servicio de dosimetría radiológica para el personal y áreas adscritos a la instalación radiactiva de la PTE",
+    "vendor_name": "DOSIMETRIA RADIOLOGICA S.A."
+  },
+  {
+    "amount_eur": 2043.75,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-28",
+    "record_id": "67:1996264",
+    "source_id": 1996264,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Ordenador sobremesa Mini HP Pro 400 G9 - Intel Core i7 -14700T 20 Cores 16 GB -DDR4 3200 512 GB NVMe M2 - Formato Mini",
+    "vendor_name": "MIP CONFIGURACIONES INFORMATICA,SL"
+  },
+  {
+    "amount_eur": 3932.5,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-28",
+    "record_id": "67:1996266",
+    "source_id": 1996266,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Regularización administrativa del almacenamiento de productos químicos de la planta de transferencia de residuos urbano",
+    "vendor_name": "NORTAP INGENIEROS SL"
+  },
+  {
+    "amount_eur": 10285.0,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-28",
+    "record_id": "67:1996267",
+    "source_id": 1996267,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Servicio de limpieza general de la fachada del edificio oficinas y de la fachada del vestuario trasero así como del edf",
+    "vendor_name": "LIMPIEZAS FARO SL"
+  },
+  {
+    "amount_eur": 2834.88,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-29",
+    "record_id": "67:1997532",
+    "source_id": 1997532,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Mantenimiento de los equipos que componen la centralita Siemens HIPATH 3800 y sus equipos durante 12 meses a partir del",
+    "vendor_name": "R CABLE Y TELECABLE TELECOMUNICACIONES SA"
+  },
+  {
+    "amount_eur": 16335.0,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-29",
+    "record_id": "67:1997891",
+    "source_id": 1997891,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Inserción de un banner corporativo de Sogama 300x300 en las ediciones digitales de los medios que conforman el Grupo La",
+    "vendor_name": "EDITORIAL LA CAPITAL SL"
+  },
+  {
+    "amount_eur": 16940.0,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-29",
+    "record_id": "67:1997892",
+    "source_id": 1997892,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "3 publicaciones de doble página a color en El Ideal Gallego, Diario de Ferrol, Diario de Arousa y Diario de Berganti",
+    "vendor_name": "EDITORIAL LA CAPITAL SL"
+  },
+  {
+    "amount_eur": 992.2,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-29",
+    "record_id": "67:1997920",
+    "source_id": 1997920,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Suministro de 1 ordenador Portátil HP 250R G9 39,6 cm (15,6´´) - Full HD - Intel Core 5 120U - 16 GB - 512 GB SSD - Pla",
+    "vendor_name": "MIP CONFIGURACIONES INFORMATICA,SL"
+  },
+  {
+    "amount_eur": 387.2,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-29",
+    "record_id": "67:1997921",
+    "source_id": 1997921,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "suministro de 4 discos HPE 200GB SATA 6G Mixed Use SFF SSD for G8-G10 Servers RW. No está incluido el Impuesto LPI.",
+    "vendor_name": "MIP CONFIGURACIONES INFORMATICA,SL"
+  },
+  {
+    "amount_eur": 3557.5,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-29",
+    "record_id": "67:1997930",
+    "source_id": 1997930,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Renovación DCV de Sogama para alojamiento web.",
+    "vendor_name": "TECNOLOGIAS PLEXUS, S.L."
+  },
+  {
+    "amount_eur": 14326.4,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-29",
+    "record_id": "67:1997957",
+    "source_id": 1997957,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Impartición de 80 cursos de formación a cargo de técnicos y educadores especializados en gestión sostenible de residuos",
+    "vendor_name": "RECIKLA 2 LUGO"
+  },
+  {
+    "amount_eur": 1379.28,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-29",
+    "record_id": "67:1997970",
+    "source_id": 1997970,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Suministro 1 ordenador Portátil Profesional HP ProBook 4 G1i 16&#34; con 3 años de garantía e Inteligencia Artificial [B9ZM",
+    "vendor_name": "HP PRINTING AND COMPUTING SOLUTIONS SL"
+  },
+  {
+    "amount_eur": 368.08,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-29",
+    "record_id": "67:1997971",
+    "source_id": 1997971,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "&#34;Monitor Serie 5 HP 524pn de 23,8&#34;&#34; WUXGA  9D9A7AA#ABB&#34;",
+    "vendor_name": "HP PRINTING AND COMPUTING SOLUTIONS SL"
+  },
+  {
+    "amount_eur": 4719.0,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-29",
+    "record_id": "67:1998000",
+    "source_id": 1998000,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Inserción de un banner corporativo de Sogama 300x300 en la edición digital de La Opinión (sección Galicia) durante el a",
+    "vendor_name": "LA OPINION DE LA CORUÑA SL"
+  },
+  {
+    "amount_eur": 473.65,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-29",
+    "record_id": "67:1998003",
+    "source_id": 1998003,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Material de oficina según presupuesto PAP/2026/01950",
+    "vendor_name": "PAZ   DISMAC SL"
+  },
+  {
+    "amount_eur": 3342.63,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-29",
+    "record_id": "67:1998045",
+    "source_id": 1998045,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Inserción publicitaria de un banner Medio corporativo en la web de Retema durante el año 2026",
+    "vendor_name": "ADC MEDIA EDICIONES TECNICAS SL"
+  },
+  {
+    "amount_eur": 3048.11,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-29",
+    "record_id": "67:1998071",
+    "source_id": 1998071,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Equipos multifunción finalizadores finalizadores (Staple finisher y punch kit) modelo FS-539 y PK-524  -Staple finisher",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 2402.65,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-29",
+    "record_id": "67:1998089",
+    "source_id": 1998089,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "&#34;CAJAS DE BOTELLINES DE AGUA MONDARIZ RU 500 ML CAJA 20 UDS.  CAJAS DE BOTELLAS DE AGUA DE MONDARIZ REUTILIZABLE DE 0,7",
+    "vendor_name": "PREMIUM MIX GROUP, SL"
+  },
+  {
+    "amount_eur": 418.66,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-04-29",
+    "record_id": "67:1998358",
+    "source_id": 1998358,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Inserción, en la plataforma digital  Galiambiental  de APROEMA, de un banner corporativo de Sogama (300x250 y 728x90) d",
+    "vendor_name": "ASOC PROV DE EMPRESAS MEDIOAMBIENTALES"
+  }
+]

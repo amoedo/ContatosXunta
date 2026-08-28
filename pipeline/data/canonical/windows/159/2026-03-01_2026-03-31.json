@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 5626.5,
+    "duration": "1 mes",
+    "organism_id": 159,
+    "publication_date": "2026-03-31",
+    "record_id": "159:1976480",
+    "source_id": 1976480,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/159/contratosmenores/table",
+    "subject": "ALOJAMIENTO Y MANTENIMIENTO PLATAFORMA ADESTRA",
+    "vendor_name": "CINFO CONTENIDOS INFORMAT PERSONALIZ SL"
+  },
+  {
+    "amount_eur": 14937.45,
+    "duration": "1 mes",
+    "organism_id": 159,
+    "publication_date": "2026-03-31",
+    "record_id": "159:1976496",
+    "source_id": 1976496,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/159/contratosmenores/table",
+    "subject": "Realización de la web de la RED PAFER GALICIA",
+    "vendor_name": "SIXTEMA PROXECTOS DE INFORMACIÓN, SL"
+  },
+  {
+    "amount_eur": 16062.75,
+    "duration": "1 mes",
+    "organism_id": 159,
+    "publication_date": "2026-03-31",
+    "record_id": "159:1976784",
+    "source_id": 1976784,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/159/contratosmenores/table",
+    "subject": "desarrollo aula virtual RED PAFER GALICIA",
+    "vendor_name": "PM4GOV S.L"
+  },
+  {
+    "amount_eur": 583.22,
+    "duration": "1 mes",
+    "organism_id": 159,
+    "publication_date": "2026-03-31",
+    "record_id": "159:1976812",
+    "source_id": 1976812,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/159/contratosmenores/table",
+    "subject": "MATERIAL PUBLICITARIO RED PAFER",
+    "vendor_name": "MOLOTOV COCTEL CREATIVO"
+  }
+]

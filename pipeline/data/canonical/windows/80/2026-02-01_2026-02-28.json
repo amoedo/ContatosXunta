@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 13450.15,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-02-09",
+    "record_id": "80:1926853",
+    "source_id": 1926853,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "RESTAURACIÓN 11 FIESTRAS CCG",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 1524.6,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-02-11",
+    "record_id": "80:1929978",
+    "source_id": 1929978,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "CUOTA CLOUDSERVER 2026",
+    "vendor_name": "CLOUD.GAL SLU"
+  },
+  {
+    "amount_eur": 72.0,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-02-12",
+    "record_id": "80:1931808",
+    "source_id": 1931808,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "PRENSA DIXITAL CCG.",
+    "vendor_name": "EDICIONES EL PAIS SL"
+  },
+  {
+    "amount_eur": 111.42,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-02-26",
+    "record_id": "80:1944824",
+    "source_id": 1944824,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "SUBMINISTRO MONITOR",
+    "vendor_name": "INFORMATICA Y NETWORKING COMPOSTELA S.L.U."
+  }
+]

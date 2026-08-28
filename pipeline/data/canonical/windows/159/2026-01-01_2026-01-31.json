@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 4141.0,
+    "duration": "1 mes",
+    "organism_id": 159,
+    "publication_date": "2026-01-08",
+    "record_id": "159:1905660",
+    "source_id": 1905660,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/159/contratosmenores/table",
+    "subject": "reparaciones en cubierta pabellón Elviña II",
+    "vendor_name": "INGENIA DOMO MADERA SL"
+  },
+  {
+    "amount_eur": 2875.79,
+    "duration": "1 mes",
+    "organism_id": 159,
+    "publication_date": "2026-01-08",
+    "record_id": "159:1905710",
+    "source_id": 1905710,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/159/contratosmenores/table",
+    "subject": "Seguro RC",
+    "vendor_name": "CAJA SEGUROS REUNIDOS SA CASER"
+  },
+  {
+    "amount_eur": 17972.13,
+    "duration": "1 mes",
+    "organism_id": 159,
+    "publication_date": "2026-01-08",
+    "record_id": "159:1905711",
+    "source_id": 1905711,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/159/contratosmenores/table",
+    "subject": "servizo atención oficina deportista",
+    "vendor_name": "OIF INVERSIONES Y PROYECTOS SL"
+  }
+]

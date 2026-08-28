@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "contratos-xunta-pipeline"
+version = "0.1.0"
+description = "Pipeline de contratos menores da Xunta de Galicia"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.3"]
+
+[project.scripts]
+contratos-xunta = "contratos_xunta.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 3585.28,
+    "duration": "1 mes",
+    "organism_id": 308,
+    "publication_date": "2026-06-15",
+    "record_id": "308:2034415",
+    "source_id": 2034415,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/308/contratosmenores/table",
+    "subject": "Servizo de limpeza das dependencias da base de Moaña",
+    "vendor_name": "ORBALLO XARDINS SL"
+  },
+  {
+    "amount_eur": 12392.38,
+    "duration": "1 mes",
+    "organism_id": 308,
+    "publication_date": "2026-06-17",
+    "record_id": "308:2037075",
+    "source_id": 2037075,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/308/contratosmenores/table",
+    "subject": "Servizo de mantemento dos equipos de posicionamento global (GPS) instalados nos vehículos cos que se presta o servizo de",
+    "vendor_name": "LOCATEL FLOTAS SL"
+  },
+  {
+    "amount_eur": 7111.17,
+    "duration": "1 mes",
+    "organism_id": 308,
+    "publication_date": "2026-06-19",
+    "record_id": "308:2039621",
+    "source_id": 2039621,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/308/contratosmenores/table",
+    "subject": "Servizo de mantemento e correcto funcionamento das instalacións da base asistencial de Ferrol.",
+    "vendor_name": "FONTANERIA RAMOS, SL"
+  },
+  {
+    "amount_eur": 15821.86,
+    "duration": "1 mes",
+    "organism_id": 308,
+    "publication_date": "2026-06-24",
+    "record_id": "308:2042600",
+    "source_id": 2042600,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/308/contratosmenores/table",
+    "subject": "Servizo de mantemento integral do vestiario do persoal asistencial da base de Barbanza",
+    "vendor_name": "ILUNION LAVANDERIAS SAU"
+  }
+]

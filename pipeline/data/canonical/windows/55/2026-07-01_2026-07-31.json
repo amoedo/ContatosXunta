@@ -1,0 +1,167 @@
+[
+  {
+    "amount_eur": 457.6,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-07-14",
+    "record_id": "55:2056730",
+    "source_id": 2056730,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "PREVENCION DOENZAS DA VOZ. 26/05/2026  e 27/05/2026",
+    "vendor_name": "PILAR SOTELINO COUÑAGO"
+  },
+  {
+    "amount_eur": 133.71,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-07-14",
+    "record_id": "55:2056973",
+    "source_id": 2056973,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "RECOLLIDA U. HIXIENICAS ISSGA OURENSE",
+    "vendor_name": "RENTOKIL INITIAL ESPA\\A, S.A."
+  },
+  {
+    "amount_eur": 222.12,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-07-14",
+    "record_id": "55:2057255",
+    "source_id": 2057255,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "MANTEMENTO TRIMESTRAL SERVIZO ALARMA SSCC ISSGA",
+    "vendor_name": "SISTEMAS DE SEGURIDAD A1 SL"
+  },
+  {
+    "amount_eur": 4.84,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-07-14",
+    "record_id": "55:2057746",
+    "source_id": 2057746,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "LAVADO ROUPA E MOPAS CENTRO ISSGA DE LUGO",
+    "vendor_name": "ASOC  PROV  PADRES DE MINUSVALIDOS PSIQ"
+  },
+  {
+    "amount_eur": 1300.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-07-21",
+    "record_id": "55:2062703",
+    "source_id": 2062703,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "taller Prevencion enfermidades da voz",
+    "vendor_name": "BEATRIZ LOUREIRO LORENZO"
+  },
+  {
+    "amount_eur": 289.87,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-07-21",
+    "record_id": "55:2062835",
+    "source_id": 2062835,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "MANTEMENTO do equipo de raios YE632100 GENETR1250/COMPX300T",
+    "vendor_name": "GENERAL ELECTRIC HEALTHCARE ESPAÑA, S.A."
+  },
+  {
+    "amount_eur": 101.25,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-07-21",
+    "record_id": "55:2062946",
+    "source_id": 2062946,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AUGA POTABLE CENTRO ISSGA DE PONTEVEDRA",
+    "vendor_name": "VIVA AQUA SERVICE SPAIN SA"
+  },
+  {
+    "amount_eur": 999.9,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-07-21",
+    "record_id": "55:2063299",
+    "source_id": 2063299,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "xornada sector no naval 19 de xuño 2026",
+    "vendor_name": "DISMABOCK PORRIÑO, S.L."
+  },
+  {
+    "amount_eur": 21.77,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-07-21",
+    "record_id": "55:2063521",
+    "source_id": 2063521,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "GASTOS MENSAXERIA MES DE XUÑO 2026 ISSGA PONTEVEDRA",
+    "vendor_name": "SEUR GEOPOST, SL"
+  },
+  {
+    "amount_eur": 28.56,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-07-21",
+    "record_id": "55:2063562",
+    "source_id": 2063562,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "recollida residuos biosanitarios laboratorio Issga de Pontevedra",
+    "vendor_name": "CONSENUR SANITARIOS, S.L."
+  },
+  {
+    "amount_eur": 37.8,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-07-23",
+    "record_id": "55:2064729",
+    "source_id": 2064729,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "SUMINISTRO AGUA ISSGA CORUÑA",
+    "vendor_name": "EMPRESA MUNIC DE AGUAS DE CORUÑA"
+  },
+  {
+    "amount_eur": 21.62,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-07-23",
+    "record_id": "55:2064737",
+    "source_id": 2064737,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "Aluguer botellas gases laboratorio Issga Pontevedra",
+    "vendor_name": "A L AIR LIQUIDE ESPAÑA SA(SEO)"
+  },
+  {
+    "amount_eur": 47750.14,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-07-23",
+    "record_id": "55:2064888",
+    "source_id": 2064888,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "Autorización obra mellora no  illamento da fachada lateral n",
+    "vendor_name": "MANUEL BASCOY, S L"
+  },
+  {
+    "amount_eur": 3206.5,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-07-31",
+    "record_id": "55:2068900",
+    "source_id": 2068900,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AD polo servizo pola edición e maquetación da campaña &#34;ALERT",
+    "vendor_name": "JOSE ENRIQUE BONET GAGO"
+  },
+  {
+    "amount_eur": 2590.32,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-07-31",
+    "record_id": "55:2068902",
+    "source_id": 2068902,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AD polo servizo pola edición e maquetación da campaña &#34; Fich",
+    "vendor_name": "ESTHER BEATRIZ FERNANDEZ AMBROS"
+  }
+]

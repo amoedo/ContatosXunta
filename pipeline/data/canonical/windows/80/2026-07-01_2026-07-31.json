@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 284.35,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-07-15",
+    "record_id": "80:2058544",
+    "source_id": 2058544,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "ADQUISICION MOBILIARIO: CADEIRA OFICINA",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 169.4,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-07-15",
+    "record_id": "80:2058553",
+    "source_id": 2058553,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "grabados placas logo CCG-2 unidades",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 297.96,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-07-29",
+    "record_id": "80:2067970",
+    "source_id": 2067970,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "MATERIAL INFORMÁTICO NON INVENTARIABLE",
+    "vendor_name": "OFFICE2GALICIA SC"
+  }
+]

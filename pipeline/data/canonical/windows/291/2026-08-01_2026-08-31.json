@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 55.15,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-08-04",
+    "record_id": "291:2070790",
+    "source_id": 2070790,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "CONSUMO E MANTEMENTO MÁQUINAS DE IMPRESIÓN XUÑO 2026",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 612.56,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-08-05",
+    "record_id": "291:2070908",
+    "source_id": 2070908,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SUBMINISTRACIÓN DE MATERIAL DE OFICINA",
+    "vendor_name": "JUAN MANUEL LOPEZ DA SILVA"
+  },
+  {
+    "amount_eur": 133.1,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-08-06",
+    "record_id": "291:2072025",
+    "source_id": 2072025,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SERVIZOS DE IMPRESIÓN",
+    "vendor_name": "SERVIDEAS SERVICIOS INTEGRALES SLL"
+  },
+  {
+    "amount_eur": 154.88,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-08-13",
+    "record_id": "291:2075097",
+    "source_id": 2075097,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SERVIZOS DE IMPRESIÓN",
+    "vendor_name": "SERVIDEAS SERVICIOS INTEGRALES SLL"
+  },
+  {
+    "amount_eur": 1264.1,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-08-24",
+    "record_id": "291:2078823",
+    "source_id": 2078823,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "PAGAMENTO FACTURA SERVIZO DE IMPRESIÓN",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  }
+]

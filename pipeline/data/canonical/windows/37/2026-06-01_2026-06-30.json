@@ -1,0 +1,90 @@
+[
+  {
+    "amount_eur": 15998.62,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-06-03",
+    "record_id": "37:2025279",
+    "source_id": 2025279,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "DESEÑO E DESENVOLVEMENTO DE REUNIÓNS DE TRABALLO PROXECTO AW",
+    "vendor_name": "DESIGN THINKERS & MAKERS SOCIEDAD LIMITADA"
+  },
+  {
+    "amount_eur": 153.33,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-06-05",
+    "record_id": "37:2027732",
+    "source_id": 2027732,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "subministración de materiais de comunicación para o proxecto",
+    "vendor_name": "PROXECTOS GRAFICOS ALDINE FERROL, S.L."
+  },
+  {
+    "amount_eur": 628.94,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-06-18",
+    "record_id": "37:2038304",
+    "source_id": 2038304,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "Aluguer de catro fontes de auga no CIS T&D",
+    "vendor_name": "CULLIGAN WATER SPAIN SL"
+  },
+  {
+    "amount_eur": 1452.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-06-22",
+    "record_id": "37:2040212",
+    "source_id": 2040212,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "Pago facturas R31001154734, R31001164248 e R31001172305 Acce",
+    "vendor_name": "R CABLE Y TELECABLE TELECOMUNICACIONES SA"
+  },
+  {
+    "amount_eur": 1077.41,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-06-22",
+    "record_id": "37:2040226",
+    "source_id": 2040226,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "Auga e lixo CIS T&D: xaneiro e febreiro 2026",
+    "vendor_name": "EMAFESA"
+  },
+  {
+    "amount_eur": 26.8,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-06-24",
+    "record_id": "37:2042343",
+    "source_id": 2042343,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "SETE CAFES PARA MESA DE CONTRATACIÓN INNOMAR 02/06/2026",
+    "vendor_name": "ANDRE CABANAS NEIRA"
+  },
+  {
+    "amount_eur": 4580.35,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-06-24",
+    "record_id": "37:2042735",
+    "source_id": 2042735,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "suministro, instalación y configuración de tarjeta GPU-NVL4",
+    "vendor_name": "BALIDEA CONSULTING & PROGRAMING, S.L."
+  },
+  {
+    "amount_eur": 445.03,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-06-26",
+    "record_id": "37:2043332",
+    "source_id": 2043332,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "SEGURO VEHICULO -1060 BSJ VOLKSWAGEN GOLF GL 1.9",
+    "vendor_name": "OCCIDENT GCO SA DE SEGUROS Y REASEGUROS"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 462.82,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-07-14",
+    "record_id": "23:2057296",
+    "source_id": 2057296,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "Diverso material de oficina",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 18029.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-07-17",
+    "record_id": "23:2060993",
+    "source_id": 2060993,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "encuesta de opinión (absentismo laboral)",
+    "vendor_name": "INSTITUTO SONDAXE, S.L."
+  }
+]

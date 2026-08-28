@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 412.21,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-04-02",
+    "record_id": "514:1978899",
+    "source_id": 1978899,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/514/contratosmenores/table",
+    "subject": "teléfono",
+    "vendor_name": "PARQUE TECNOLOGICO DE GALICIA,SA"
+  },
+  {
+    "amount_eur": 35.7,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-04-02",
+    "record_id": "514:1978900",
+    "source_id": 1978900,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/514/contratosmenores/table",
+    "subject": "auga",
+    "vendor_name": "PARQUE TECNOLOGICO DE GALICIA,SA"
+  },
+  {
+    "amount_eur": 226.02,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-04-02",
+    "record_id": "514:1979180",
+    "source_id": 1979180,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/514/contratosmenores/table",
+    "subject": "hotel Ismael Outumuro-Vigo GKN",
+    "vendor_name": "ZONDA SL"
+  },
+  {
+    "amount_eur": 828.95,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-04-02",
+    "record_id": "514:1979292",
+    "source_id": 1979292,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/514/contratosmenores/table",
+    "subject": "Precintos Lomg",
+    "vendor_name": "SOLUCIONES Y TECNOLOGIAS DE CODIFICACION, S.L."
+  },
+  {
+    "amount_eur": 35.55,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-04-02",
+    "record_id": "514:1979676",
+    "source_id": 1979676,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/514/contratosmenores/table",
+    "subject": "conector datos",
+    "vendor_name": "FARNELL COMPONENTS, SL"
+  }
+]

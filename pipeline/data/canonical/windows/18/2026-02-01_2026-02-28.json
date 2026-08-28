@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 1051.73,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-02-03",
+    "record_id": "18:1924427",
+    "source_id": 1924427,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "SUBMINISTRACIÓN GUILLOTINA PARA REPROGRAFIA",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 3595.17,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-02-05",
+    "record_id": "18:1925398",
+    "source_id": 1925398,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "VIAQUA 2026",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 1633.5,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-02-13",
+    "record_id": "18:1932677",
+    "source_id": 1932677,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "CINTAS PARA COPIAS SEGURIDADE",
+    "vendor_name": "ALTIA CONSULTORES SA"
+  },
+  {
+    "amount_eur": 4356.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-02-16",
+    "record_id": "18:1935513",
+    "source_id": 1935513,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "SUBMINISTRACIÓN ELÉCTRICA",
+    "vendor_name": "XERCODE MEDIA SOFTWARE S.L."
+  },
+  {
+    "amount_eur": 343.44,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-02-19",
+    "record_id": "18:1937090",
+    "source_id": 1937090,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "SERVIZO DE SUBMINISTRO DE AUGA FILTRADA NAS DEPENDENCIAS DA",
+    "vendor_name": "CULLIGAN WATER SPAIN SL"
+  },
+  {
+    "amount_eur": 21.78,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-02-19",
+    "record_id": "18:1937138",
+    "source_id": 1937138,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "calendarios sobremesa",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 18150.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-02-19",
+    "record_id": "18:1937368",
+    "source_id": 1937368,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "SUBMINISTRO ANUAL DE COMBUSTIBLE PARA CALEFACCIÓN NO EDIFICI",
+    "vendor_name": "GESTCALOR SL"
+  }
+]

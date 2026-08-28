@@ -1,0 +1,233 @@
+[
+  {
+    "amount_eur": 2524.06,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930514",
+    "source_id": 1930514,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Traballos con camión grúa",
+    "vendor_name": "JOSE DAVID CARBALLIDO LOZANO"
+  },
+  {
+    "amount_eur": 3052.41,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930524",
+    "source_id": 1930524,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Asesoria e representación xurídica",
+    "vendor_name": "ALBERTO GALLEGO RIVERA"
+  },
+  {
+    "amount_eur": 3709.59,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930525",
+    "source_id": 1930525,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Asesoría e representación xurídica",
+    "vendor_name": "ALBERTO GALLEGO RIVERA"
+  },
+  {
+    "amount_eur": 2949.59,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930526",
+    "source_id": 1930526,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Asesoría e representación xurídica",
+    "vendor_name": "ALBERTO GALLEGO RIVERA"
+  },
+  {
+    "amount_eur": 3605.59,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930527",
+    "source_id": 1930527,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Asesoría e representación xurídica",
+    "vendor_name": "ALBERTO GALLEGO RIVERA"
+  },
+  {
+    "amount_eur": 2867.89,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930528",
+    "source_id": 1930528,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Asesoría e representación xurídica",
+    "vendor_name": "ALBERTO GALLEGO RIVERA"
+  },
+  {
+    "amount_eur": 1347.44,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930531",
+    "source_id": 1930531,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Trabajos de instalación de cableado para cámara de frío",
+    "vendor_name": "ALBERTO IGLESIAS MAREQUE"
+  },
+  {
+    "amount_eur": 1184.02,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930532",
+    "source_id": 1930532,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Reparación de tubos led e enchufe oficina de Santiago",
+    "vendor_name": "ALBERTO IGLESIAS MAREQUE"
+  },
+  {
+    "amount_eur": 3911.7,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930534",
+    "source_id": 1930534,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Formación incendios",
+    "vendor_name": "SANDRA MARTINEZ PAZ"
+  },
+  {
+    "amount_eur": 2450.25,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930535",
+    "source_id": 1930535,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Horas de miniretroexcavdora -control de erosión zonas incendios, acondicionamento pistas, concello de Crecente",
+    "vendor_name": "IVAN MONZON VEIGA"
+  },
+  {
+    "amount_eur": 4501.2,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930548",
+    "source_id": 1930548,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Retirada de residuos en puntos de vertidos incontrolados en fincas do Banco de Terras- Servico de camión grúa",
+    "vendor_name": "TARRIO Y SUAREZ SL"
+  },
+  {
+    "amount_eur": 11643.44,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930558",
+    "source_id": 1930558,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Campaña prevención de incendios",
+    "vendor_name": "COMERCIALIZADORA DE MEDIOS GRUPO EL PROGRESO S.L.U"
+  },
+  {
+    "amount_eur": 4791.6,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930563",
+    "source_id": 1930563,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Oficial de 1ª construcción depósito auga MVMC San Xoán de Río - Ourense",
+    "vendor_name": "CONSTRUCTORA CEFER,SL"
+  },
+  {
+    "amount_eur": 16335.0,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930564",
+    "source_id": 1930564,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Desbroces Ponteareas, O Porriño, O Rosal,",
+    "vendor_name": "AGRO ESTEVEZ S L"
+  },
+  {
+    "amount_eur": 6512.22,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930565",
+    "source_id": 1930565,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Servizo de oficial de 1ª para construcción depósito de auga MVMC San Millán - Ourense",
+    "vendor_name": "&#34;CONSTRUCCIONES C  BASALO,SL"
+  },
+  {
+    "amount_eur": 5808.33,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930566",
+    "source_id": 1930566,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Eliminación da herba da pampa na lagoa do Ancoradoiro - Muros",
+    "vendor_name": "GONZALEZ COUCEIRO SL"
+  },
+  {
+    "amount_eur": 1417.49,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930569",
+    "source_id": 1930569,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Transporte valixa/paquetería",
+    "vendor_name": "CAMPOS & COSTAS CONSULTING SL"
+  },
+  {
+    "amount_eur": 3025.0,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930578",
+    "source_id": 1930578,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Brigada forestal para actuacións de conservación e restauración de humedais provincia CO- Retirada cortadeira Muros",
+    "vendor_name": "DESBROCES CASAL SL"
+  },
+  {
+    "amount_eur": 1599.44,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-12",
+    "record_id": "60:1930585",
+    "source_id": 1930585,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Aluguer plataforma Cidade da Cultura",
+    "vendor_name": "HUNE RENTAL SL"
+  },
+  {
+    "amount_eur": 1760.0,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-13",
+    "record_id": "60:1932079",
+    "source_id": 1932079,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Impartición curso formación continua en biocidas",
+    "vendor_name": "SANEA CONTROL SL"
+  },
+  {
+    "amount_eur": 2117.5,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-02-13",
+    "record_id": "60:1932096",
+    "source_id": 1932096,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Movemento de terras con dumper para construcción de infraestrutura preventiva no MVMC de Testeiro e do Canizo DF XIV",
+    "vendor_name": "SERAGRIVIFOR SL"
+  }
+]

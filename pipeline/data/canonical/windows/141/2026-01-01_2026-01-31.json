@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 11964.48,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-01-26",
+    "record_id": "141:1920389",
+    "source_id": 1920389,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Servizo profesional de seguimento diario de medios audiovisu",
+    "vendor_name": "ORION PRESS SL"
+  },
+  {
+    "amount_eur": 4704.48,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-01-27",
+    "record_id": "141:1920689",
+    "source_id": 1920689,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Servizo exclusivo de subministro de información mediante axe",
+    "vendor_name": "SERVIMEDIA, S.A."
+  },
+  {
+    "amount_eur": 600.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-01-27",
+    "record_id": "141:1920709",
+    "source_id": 1920709,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Informes para CB2 AM 2/2025 Creatividades violencia xénero",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  }
+]

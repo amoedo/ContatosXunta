@@ -1,0 +1,145 @@
+[
+  {
+    "amount_eur": 7973.9,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-03-02",
+    "record_id": "144:1947097",
+    "source_id": 1947097,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Contratación da subministración sucesiva de grupos electróxenos en réxime de aluguer, por prezo unitario",
+    "vendor_name": "CABAGER S.L."
+  },
+  {
+    "amount_eur": 7623.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-03-02",
+    "record_id": "144:1947220",
+    "source_id": 1947220,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Revisión e reparación da acometida eléctrica de Cotobade 2",
+    "vendor_name": "FELIX GARCIA Y MANUEL VIÑAS SL"
+  },
+  {
+    "amount_eur": 7973.9,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-03-10",
+    "record_id": "144:1954956",
+    "source_id": 1954956,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Subministración por pedidos sucesivos de gasóleo para os grupos electróxenos dos centros emisores de Retegal",
+    "vendor_name": "DISTRIBUIDORA GALLEGA DE PRODUCTOS PETRO"
+  },
+  {
+    "amount_eur": 7502.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-03-13",
+    "record_id": "144:1960159",
+    "source_id": 1960159,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Soporte técnico sistema planificador 2026",
+    "vendor_name": "IMATIA INNOVATION SL"
+  },
+  {
+    "amount_eur": 7961.8,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-03-23",
+    "record_id": "144:1968082",
+    "source_id": 1968082,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Subministración de módulos rectificadores",
+    "vendor_name": "ELECTRONICA NOROESTE SERVICIOS GENERALES,SL"
+  },
+  {
+    "amount_eur": 5445.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-03-23",
+    "record_id": "144:1968172",
+    "source_id": 1968172,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Reparación da acometida eléctrica de Folgoso 2",
+    "vendor_name": "HALLMAN ENERGIE"
+  },
+  {
+    "amount_eur": 4537.5,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-03-23",
+    "record_id": "144:1968217",
+    "source_id": 1968217,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Reparación da acometida eléctrica no centro de Nigrán",
+    "vendor_name": "FELIX GARCIA Y MANUEL VIÑAS SL"
+  },
+  {
+    "amount_eur": 5021.51,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-03-23",
+    "record_id": "144:1968218",
+    "source_id": 1968218,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Reparación da acometida eléctrica no centro de Taboada",
+    "vendor_name": "FELIX GARCIA Y MANUEL VIÑAS SL"
+  },
+  {
+    "amount_eur": 4537.5,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-03-24",
+    "record_id": "144:1969133",
+    "source_id": 1969133,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Reparación equipamento FM de Cariño e Vimianzo.",
+    "vendor_name": "VIDEO MEDIOS SA"
+  },
+  {
+    "amount_eur": 1452.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-03-24",
+    "record_id": "144:1969344",
+    "source_id": 1969344,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Revisión e reparación de acometida eléctrica no centro de Páramo (Lugo)",
+    "vendor_name": "ELECTRIC CURTIS SL"
+  },
+  {
+    "amount_eur": 605.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-03-30",
+    "record_id": "144:1973923",
+    "source_id": 1973923,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Realización de levantamento topográfico para reaxustar o ámbito expropiatorio",
+    "vendor_name": "ESTUDIO TECNICO GALLEGO SA"
+  },
+  {
+    "amount_eur": 1996.5,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-03-30",
+    "record_id": "144:1974226",
+    "source_id": 1974226,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Inserción do anuncio de aprobación inicial e exposición pública do expediente expropiatorio, polo procedemento de taxaci",
+    "vendor_name": "FARO DE VIGO SA UNIPERSONAL"
+  },
+  {
+    "amount_eur": 6498.84,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-03-30",
+    "record_id": "144:1974781",
+    "source_id": 1974781,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "FEADER-PEPAC 2023-2027_Pozos para a mellora da resistencia nas tomas de terra no centro Vilalba 4, para o desenvolvement",
+    "vendor_name": "HALLMAN ENERGIE"
+  }
+]

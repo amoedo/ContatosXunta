@@ -1,0 +1,145 @@
+[
+  {
+    "amount_eur": 1959.75,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-06-03",
+    "record_id": "144:2025060",
+    "source_id": 2025060,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Corrección de defectos detectados tras inspección OCA no centro de transformación e liña de media tensión no centro emis",
+    "vendor_name": "TEI LUGO INSTALACIONES SL"
+  },
+  {
+    "amount_eur": 724.83,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-06-03",
+    "record_id": "144:2025184",
+    "source_id": 2025184,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Reparacións varias, (cambio de  aceite, filtros, sustitución de rodamentos, etc), para pasar a ITV no vehículo de Retega",
+    "vendor_name": "AUTO REPARACIONES VIVER S.L."
+  },
+  {
+    "amount_eur": 1573.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-06-04",
+    "record_id": "144:2026268",
+    "source_id": 2026268,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Redacción de proxecto para a instalación dunha pranta fotovoltaica no CE de Mesón do Vento (concello de Ordes),",
+    "vendor_name": "INGENIERIA Y DESARROLLOS DEL NORTE, SL"
+  },
+  {
+    "amount_eur": 1089.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-06-05",
+    "record_id": "144:2027485",
+    "source_id": 2027485,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Dirección de obra e coordinación de seguridade e saúde para a execución do retranqueo da liña de media tensión que alime",
+    "vendor_name": "TECNORED INGENIERIA SL"
+  },
+  {
+    "amount_eur": 2994.75,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-06-05",
+    "record_id": "144:2027486",
+    "source_id": 2027486,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Proxecto legalización ampliación e potencia CE Pedroso",
+    "vendor_name": "TECNORED INGENIERIA SL"
+  },
+  {
+    "amount_eur": 4144.25,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-06-11",
+    "record_id": "144:2031421",
+    "source_id": 2031421,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Mantemento preventivo e correctivo do sistema de detección e extinción de incendios do CEXAR.",
+    "vendor_name": "INTEGRACIONES TECNICAS DE SEGURIDAD SA"
+  },
+  {
+    "amount_eur": 6661.05,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-06-11",
+    "record_id": "144:2032111",
+    "source_id": 2032111,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Instalación e integración de cámaras de videovixilancia forestal no centro emisor de Xesteiras cofinanciado co Fondo Eur",
+    "vendor_name": "SISTEMAS AUDIOVISUALES ITELSIS SL"
+  },
+  {
+    "amount_eur": 11374.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-06-17",
+    "record_id": "144:2036703",
+    "source_id": 2036703,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Subministro e instalación soportes de antenas para adecuación de infraestructuras 5G en RTGA27648 Cervo y RGTA 27614 Nav",
+    "vendor_name": "ELECNOR SERVICIOS Y PROYECTOS S.A.U."
+  },
+  {
+    "amount_eur": 3630.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-06-19",
+    "record_id": "144:2039225",
+    "source_id": 2039225,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Mantemento anual dos extintores ubicados nos Centros emisores e vehículos de Retegal. Ano 2026.",
+    "vendor_name": "SISTEMAS DE SEGURIDAD A1 SL"
+  },
+  {
+    "amount_eur": 2478.43,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-06-19",
+    "record_id": "144:2039514",
+    "source_id": 2039514,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Contratación do servizo de inspección obrigatoria  da liña de media tensión (LMT) que da subministro eléctrico ao centro",
+    "vendor_name": "ELECNOR SERVICIOS Y PROYECTOS S.A.U."
+  },
+  {
+    "amount_eur": 1623.82,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-06-19",
+    "record_id": "144:2039682",
+    "source_id": 2039682,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Desmonte e substitución de chapas de protección guiaondas na torre do Pedroso, sito en Santiago de Compostela",
+    "vendor_name": "EMPRESA GALLEGO CARREIRA SL"
+  },
+  {
+    "amount_eur": 617.1,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-06-19",
+    "record_id": "144:2039875",
+    "source_id": 2039875,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Reparación de porta de entrada de vidro ás oficinas de Retegal",
+    "vendor_name": "VIDROTEK SC"
+  },
+  {
+    "amount_eur": 18089.5,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-06-22",
+    "record_id": "144:2040583",
+    "source_id": 2040583,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Mantemento correctivo, soporte na parametrización e xestión do sistema Milestone e a reparación das cámaras da Rede de V",
+    "vendor_name": "GALLEGA DE SISTEMAS Y TELECOMUNICACIONES"
+  }
+]

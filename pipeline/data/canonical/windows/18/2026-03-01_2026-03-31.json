@@ -1,0 +1,123 @@
+[
+  {
+    "amount_eur": 5000.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-03-02",
+    "record_id": "18:1946799",
+    "source_id": 1946799,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "libros biblioteca",
+    "vendor_name": "ARANZADI LA LEY, S.A.U."
+  },
+  {
+    "amount_eur": 2400.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-03-05",
+    "record_id": "18:1949724",
+    "source_id": 1949724,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "PREMIO COLMEIRO 2025 - PAGO XURADO NON XUNTA",
+    "vendor_name": "ROBERTO IGNACIO FERNANDEZ LOPEZ"
+  },
+  {
+    "amount_eur": 2400.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-03-05",
+    "record_id": "18:1949737",
+    "source_id": 1949737,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "PREMIO COLMEIRO 2025 - PAGO XURADO NON XUNTA",
+    "vendor_name": "MIGUEL ANGEL MICHINEL ALVAREZ"
+  },
+  {
+    "amount_eur": 2400.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-03-05",
+    "record_id": "18:1949769",
+    "source_id": 1949769,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "PREMIO COLMEIRO 2025 - PAGO XURADO NON XUNTA",
+    "vendor_name": "ALEJANDRO VILLANUEVA TURNES"
+  },
+  {
+    "amount_eur": 208.85,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-03-05",
+    "record_id": "18:1949770",
+    "source_id": 1949770,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "Servizo de cafetería",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 2400.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-03-05",
+    "record_id": "18:1949771",
+    "source_id": 1949771,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "PREMIO COLMEIRO 2025 - PAGO XURADO NON XUNTA",
+    "vendor_name": "RETORTILLO MARIA RODRIGUEZ MARTIN"
+  },
+  {
+    "amount_eur": 701.8,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-03-09",
+    "record_id": "18:1954017",
+    "source_id": 1954017,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "SERVIZO MANTEMENTO DOMINIO E CORREO FORMACIONEGAP.GAL E FORM",
+    "vendor_name": "SIRTELCO SL"
+  },
+  {
+    "amount_eur": 27.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-03-09",
+    "record_id": "18:1954136",
+    "source_id": 1954136,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "LIBROS BIBLIOTECA",
+    "vendor_name": "MARCIAL PONS LIBRERO, S.L."
+  },
+  {
+    "amount_eur": 89.44,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-03-11",
+    "record_id": "18:1955654",
+    "source_id": 1955654,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "SERVIZO CAFETERÍA DIRECCIÓN MES DE FEBREIRO 2026",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 4368.1,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-03-18",
+    "record_id": "18:1965078",
+    "source_id": 1965078,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "SERVIZO BIGBLUEBUTTON RADICADO NUNHA PLATAFORMA NA NUBE PARA",
+    "vendor_name": "SIRTELCO SL"
+  },
+  {
+    "amount_eur": 218.05,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-03-25",
+    "record_id": "18:1970946",
+    "source_id": 1970946,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "material oficina",
+    "vendor_name": "BURO PLANET SLU"
+  }
+]

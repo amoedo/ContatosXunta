@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 3000.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-07-14",
+    "record_id": "141:2057003",
+    "source_id": 2057003,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Divulgativo: Reportaxe Medallas Castelao e difusión en web",
+    "vendor_name": "TELEMIÑO, SA"
+  },
+  {
+    "amount_eur": 3000.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-07-14",
+    "record_id": "141:2057373",
+    "source_id": 2057373,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Divulgativo:Reportaxe Medallas Castelao e difusión en web",
+    "vendor_name": "TELEVISION DA MANCOMUNIDADE DO SALNES SL"
+  },
+  {
+    "amount_eur": 3000.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-07-16",
+    "record_id": "141:2059807",
+    "source_id": 2059807,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Divulgativo:Reportaxe Medallas Castelao e difusión en web",
+    "vendor_name": "INICIATIVAS AUDIOVISUALES VIGO SLU"
+  },
+  {
+    "amount_eur": 5638.6,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-07-16",
+    "record_id": "141:2059891",
+    "source_id": 2059891,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Actualización creatividades",
+    "vendor_name": "CANAL UNO DE COMUNICACION SL"
+  },
+  {
+    "amount_eur": 1270.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-07-27",
+    "record_id": "141:2066977",
+    "source_id": 2066977,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Informes para SXM-2026-0005 Medios Exteriores",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  },
+  {
+    "amount_eur": 871.2,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-07-27",
+    "record_id": "141:2066978",
+    "source_id": 2066978,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Informe creatividade Turismo Galicia-Xacaobeo 2027 (CB13)",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  }
+]

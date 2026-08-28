@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 1196.69,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-08-04",
+    "record_id": "225:2070688",
+    "source_id": 2070688,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Cambio iluminación oficinas Eduardo Pondal",
+    "vendor_name": "AGUSTIN MIRAMONTES CURROS"
+  },
+  {
+    "amount_eur": 1178.29,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-08-10",
+    "record_id": "225:2072853",
+    "source_id": 2072853,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Servizo limpeza oficinas Eduardo Pondal (xullo 2026)",
+    "vendor_name": "SAMAIN SERVIZOS A COMUNIDADE SA"
+  },
+  {
+    "amount_eur": 193.64,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-08-10",
+    "record_id": "225:2073141",
+    "source_id": 2073141,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "Material oficina Proxecto GIFT",
+    "vendor_name": "PAZ   DISMAC SL"
+  },
+  {
+    "amount_eur": 947.16,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-08-17",
+    "record_id": "225:2075774",
+    "source_id": 2075774,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "subject": "CM 04/2026 Gastos comunidade edificio IET Eduardo Pondal 30",
+    "vendor_name": "COMPOSTELA BEACH SA"
+  }
+]

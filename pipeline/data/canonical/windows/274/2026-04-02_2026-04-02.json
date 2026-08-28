@@ -1,0 +1,134 @@
+[
+  {
+    "amount_eur": 36.3,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-04-02",
+    "record_id": "274:1978516",
+    "source_id": 1978516,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/274/contratosmenores/table",
+    "subject": "EI VIRXE DE CHAMORRO/ GASTOS FUNCIONAMENTO",
+    "vendor_name": "MARIA PILAR PARAMES CARRERA"
+  },
+  {
+    "amount_eur": 925.94,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-04-02",
+    "record_id": "274:1978518",
+    "source_id": 1978518,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/274/contratosmenores/table",
+    "subject": "Froitas e verduras",
+    "vendor_name": "MIGUEL ANGEL BUDIÑO VAZQUEZ"
+  },
+  {
+    "amount_eur": 416.44,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-04-02",
+    "record_id": "274:1978700",
+    "source_id": 1978700,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/274/contratosmenores/table",
+    "subject": "Auga e alcantarillado",
+    "vendor_name": "EMPRESA MUNIC DE AGUAS DE CORUÑA"
+  },
+  {
+    "amount_eur": 203.54,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-04-02",
+    "record_id": "274:1978706",
+    "source_id": 1978706,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/274/contratosmenores/table",
+    "subject": "Material didáctico e de oficina",
+    "vendor_name": "SUPERPAPEL SA"
+  },
+  {
+    "amount_eur": 127.88,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-04-02",
+    "record_id": "274:1979039",
+    "source_id": 1979039,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/274/contratosmenores/table",
+    "subject": "GASTOS DE MANTEMENTO. ESCOLA INFANTIL VITE",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 75.02,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-04-02",
+    "record_id": "274:1979181",
+    "source_id": 1979181,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/274/contratosmenores/table",
+    "subject": "Gasto de mantenemento da escola",
+    "vendor_name": "EURHOSTEL SL"
+  },
+  {
+    "amount_eur": 145.32,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-04-02",
+    "record_id": "274:1979197",
+    "source_id": 1979197,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/274/contratosmenores/table",
+    "subject": "Produtos limpeza",
+    "vendor_name": "MAYLINE S L"
+  },
+  {
+    "amount_eur": 69.3,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-04-02",
+    "record_id": "274:1979251",
+    "source_id": 1979251,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/274/contratosmenores/table",
+    "subject": "GASTOS DE MANTEMENTO. ESCOLA INFANTIL VITE",
+    "vendor_name": "FEITIZO, SL"
+  },
+  {
+    "amount_eur": 1357.34,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-04-02",
+    "record_id": "274:1979252",
+    "source_id": 1979252,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/274/contratosmenores/table",
+    "subject": "GASTOS DE MANTEMENTO ESCOLA INFANTIL VITE",
+    "vendor_name": "MERCARTABRIA SLU"
+  },
+  {
+    "amount_eur": 214.27,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-04-02",
+    "record_id": "274:1979609",
+    "source_id": 1979609,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/274/contratosmenores/table",
+    "subject": "Peixe fresco",
+    "vendor_name": "PESCADOS LOUREDA SL"
+  },
+  {
+    "amount_eur": 159.32,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-04-02",
+    "record_id": "274:1979625",
+    "source_id": 1979625,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/274/contratosmenores/table",
+    "subject": "Subministro polo e ovos",
+    "vendor_name": "GALPROMEAT ALIMENTACION S.L.U."
+  },
+  {
+    "amount_eur": 61.63,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-04-02",
+    "record_id": "274:1979884",
+    "source_id": 1979884,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/274/contratosmenores/table",
+    "subject": "GASTOS DE MANTEMENTO. ESCOLA INFANTIL VITE",
+    "vendor_name": "CONCELLO DE SANTIAGO DE COMPOSTELA"
+  }
+]

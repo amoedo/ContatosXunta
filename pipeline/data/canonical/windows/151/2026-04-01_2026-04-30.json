@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 166.34,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-04-14",
+    "record_id": "151:1985433",
+    "source_id": 1985433,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "material de oficina marzo 2026",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 92.14,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-04-17",
+    "record_id": "151:1988753",
+    "source_id": 1988753,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "Retirada y gestión de residuo árbol seco en jardín Pazo Amar",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 1040.6,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-04-17",
+    "record_id": "151:1989126",
+    "source_id": 1989126,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "2000 bolígrafos promocionales para distribución en acciones",
+    "vendor_name": "ALMA MATER SL"
+  },
+  {
+    "amount_eur": 48.4,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-04-20",
+    "record_id": "151:1989633",
+    "source_id": 1989633,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "Sustitución de bomba de combustible del grupo de presión de",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 6727.44,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-04-29",
+    "record_id": "151:1998183",
+    "source_id": 1998183,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "6 ordenadores de sobremesa + 7 pantallas",
+    "vendor_name": "INFORMATICA Y NETWORKING COMPOSTELA S.L.U."
+  },
+  {
+    "amount_eur": 310.17,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-04-30",
+    "record_id": "151:1998739",
+    "source_id": 1998739,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "botellines de agua para reuniones",
+    "vendor_name": "DISGOBE SA"
+  },
+  {
+    "amount_eur": 767.25,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-04-30",
+    "record_id": "151:1998990",
+    "source_id": 1998990,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "Servizo de Cátering - Seminario CGRL 22.04.2026",
+    "vendor_name": "CATERING ALMIREZ,S.L."
+  }
+]

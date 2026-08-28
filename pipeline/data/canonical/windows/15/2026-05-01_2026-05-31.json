@@ -1,0 +1,90 @@
+[
+  {
+    "amount_eur": 184.19,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-05-07",
+    "record_id": "15:2004019",
+    "source_id": 2004019,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "Prezo por copia impresoras de Lugo. Marzo",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 3.61,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-05-13",
+    "record_id": "15:2007459",
+    "source_id": 2007459,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA DO REXISTRO MERCANTIL DE OURENSE MES DE ABRIL",
+    "vendor_name": "ANDRES JOSE YLLA GARCIA-GERMAN"
+  },
+  {
+    "amount_eur": 119.27,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-05-13",
+    "record_id": "15:2007629",
+    "source_id": 2007629,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "Prestación servizos ao Laboratorio. Abril",
+    "vendor_name": "TRANSPORTES AUTO RADIO SA"
+  },
+  {
+    "amount_eur": 40.44,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-05-13",
+    "record_id": "15:2007967",
+    "source_id": 2007967,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "SUBMINISRACIÓN CONSUMO DE AUGA SSCC. 02-03-26 A 04-05-26",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 5.06,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-05-13",
+    "record_id": "15:2008786",
+    "source_id": 2008786,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA DO REXISTRO MERCANTIL DE PONTEVEDRA MES DE ABRIL",
+    "vendor_name": "REGISTRO MERCANTIL Y DE BIENES MUEBLES DE"
+  },
+  {
+    "amount_eur": 382.24,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-05-13",
+    "record_id": "15:2008810",
+    "source_id": 2008810,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "COTA ANUAL MEMBRO ADHERIDO A AENOR.",
+    "vendor_name": "ASOC.ESPAÑOLA DE NORMALIZAC. Y CERTIFICA"
+  },
+  {
+    "amount_eur": 150.0,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-05-21",
+    "record_id": "15:2016023",
+    "source_id": 2016023,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA SUSCRICIÓN PACK ONLINE MARKETING BASES DATOS ARDAN",
+    "vendor_name": "CONSORCIO DE LA ZONA FRANCA DE VIGO"
+  },
+  {
+    "amount_eur": 329.97,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-05-25",
+    "record_id": "15:2018067",
+    "source_id": 2018067,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/15/contratosmenores/table",
+    "subject": "FACTURA CALIBRACIÓNS DE EQUIPOS DO LABORATORIO ELÉCTRICO DO",
+    "vendor_name": "XUNTA DE GALICIA"
+  }
+]

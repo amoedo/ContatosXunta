@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 1679.72,
+    "duration": "1 mes",
+    "organism_id": 242,
+    "publication_date": "2026-04-02",
+    "record_id": "242:1978698",
+    "source_id": 1978698,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/242/contratosmenores/table",
+    "subject": "ALOXAMENTO DE 3 MEMBROS DO COMITÉ INTERNAC. DE EXPERTOS DO CAMIÑO EN BRASIL",
+    "vendor_name": "VIAJES HALCON, S A"
+  },
+  {
+    "amount_eur": 2964.5,
+    "duration": "1 mes",
+    "organism_id": 242,
+    "publication_date": "2026-04-02",
+    "record_id": "242:1979858",
+    "source_id": 1979858,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/242/contratosmenores/table",
+    "subject": "COTAS DE ADHESIÓN Á MARCA S DE SOSTIBILIDADE TURÍSTICA PARA O ICTES, PARA 25 ALBERGUES DE PEREGRINOS DA REDE PÚBLI",
+    "vendor_name": "INSTITUTO PARA LA CALIDAD TURISTICA ESPAÑOLA"
+  }
+]

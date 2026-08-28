@@ -1,0 +1,123 @@
+[
+  {
+    "amount_eur": 584.85,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-01-09",
+    "record_id": "215:1905794",
+    "source_id": 1905794,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Gastos desprazamentos_Xerencia 2025-CM-807",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 217.8,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-01-16",
+    "record_id": "215:1907274",
+    "source_id": 1907274,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "ADIX-2025-CM-110-AloxamentoPeragallo",
+    "vendor_name": "PERAGALLO S L"
+  },
+  {
+    "amount_eur": 1631.94,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-01-16",
+    "record_id": "215:1907279",
+    "source_id": 1907279,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "ADIX-2025-CM-080-ServizosSubscripcion",
+    "vendor_name": "BALIDEA CONSULTING & PROGRAMING, S.L."
+  },
+  {
+    "amount_eur": 1754.5,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-01-16",
+    "record_id": "215:1907285",
+    "source_id": 1907285,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "STS_2025_CM_MAT_400 PREMIA STS-MATI",
+    "vendor_name": "SIXTEMA PROXECTOS DE INFORMACIÓN, SL"
+  },
+  {
+    "amount_eur": 931.7,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-01-16",
+    "record_id": "215:1907292",
+    "source_id": 1907292,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Auditoría seguimiento ISO 9001",
+    "vendor_name": "BUREAU VERITAS IBERIA SL"
+  },
+  {
+    "amount_eur": 2904.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-01-16",
+    "record_id": "215:1907323",
+    "source_id": 1907323,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "ADIX-2025-CM-081_Servizo do software  coa empresa ReadSpeak",
+    "vendor_name": "READSPEAKER WEBSERVICES SL"
+  },
+  {
+    "amount_eur": 750.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-01-16",
+    "record_id": "215:1907387",
+    "source_id": 1907387,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Servizo de aparcamento para persoal Amtega en Ferrol",
+    "vendor_name": "ESTACIONAMIENTOS DEL NOROESTE, S.A."
+  },
+  {
+    "amount_eur": 242.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-01-23",
+    "record_id": "215:1908506",
+    "source_id": 1908506,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Servicio de visita guiada a los asistentes al VI Foro  Res",
+    "vendor_name": "FUENTES CARMEN DELIA DIAZ GARCIA-"
+  },
+  {
+    "amount_eur": 505.75,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-01-23",
+    "record_id": "215:1911240",
+    "source_id": 1911240,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Xerencia 2025-CM-807_Gastos desprazamentos",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 1437.1,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-01-26",
+    "record_id": "215:1918355",
+    "source_id": 1918355,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "ADIX-2025-CM-111-Ricoh-24 Servizos de extensión da garantía e mantemento  de equipos de impresión reutilizados",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 16316.63,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-01-26",
+    "record_id": "215:1918356",
+    "source_id": 1918356,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "ADIX-2025-CM-112-Ricoh-25_Servizos de extensión da garantía e mantemento  de equipos de impresión reutilizados",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  }
+]

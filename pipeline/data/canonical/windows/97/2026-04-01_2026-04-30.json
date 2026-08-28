@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 1802.74,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-04-08",
+    "record_id": "97:1980974",
+    "source_id": 1980974,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "REPARACIONS EXTRAORDINARIAS PARA SUBSTITUCION DE VIGAS DE REFORZO DO TELLADO DA RECEPCION DO ALBERGUE DE OLVEIROA (DUMBR",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 5363.47,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-04-09",
+    "record_id": "97:1982845",
+    "source_id": 1982845,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "MANTEMENTO E ALUGUER ATA 31/12/2026 DA PARADA DO CAMIÑO NO PUNTO DE INFORMACION DO CEBREIRO DO PROGRAMA ULTREIA SUDOE S1",
+    "vendor_name": "INSOLITO DISEÑO + ESTUDIO SC"
+  },
+  {
+    "amount_eur": 436.85,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-04-23",
+    "record_id": "97:1993611",
+    "source_id": 1993611,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "COMPRA DE MATERIAL DE OFICINA DIVERSO PARA AS OFICINAS DA S.A. DE XESTION DO PLAN XACOBEO",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 767.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-04-27",
+    "record_id": "97:1995777",
+    "source_id": 1995777,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "BILLETES DE AVION IDA E VOLTA E ALOXAMENTO PARA PARTICIPACION DIRECTOR SA XESTION XACOBEO ACTOS PROMOCION REINO UNIDO",
+    "vendor_name": "ZONDA SL"
+  },
+  {
+    "amount_eur": 571.91,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-04-27",
+    "record_id": "97:1995839",
+    "source_id": 1995839,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SUBMINISTRACION MATERIAL DE OFICINA DIVERSO",
+    "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
+  }
+]

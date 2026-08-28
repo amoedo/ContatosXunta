@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 941.21,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-07-02",
+    "record_id": "97:2048478",
+    "source_id": 2048478,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "BILLETE DE AVIÓN E ALOXAMENTO ASISTENCIA CONSELLEIRO-DELEGADO PROXECCION FILM &#34;IL CAMINO&#34; O 24-6 EN NAPOLES",
+    "vendor_name": "BIVES TOUR, SA"
+  },
+  {
+    "amount_eur": 156.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-07-07",
+    "record_id": "97:2052455",
+    "source_id": 2052455,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SERVIZO RESTAURANTE 3 MENUS PARA REUNION DIRECTOR XACOBEO,XEFE AREA CULTURA XACOBEA E PRESIDENTE COMITE EXPERTOS O 11-06",
+    "vendor_name": "CABANAS CALVIÑO SAN JAIME, S.L."
+  },
+  {
+    "amount_eur": 90.36,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-07-17",
+    "record_id": "97:2060357",
+    "source_id": 2060357,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "HONORARIOS CERTFICACION VIXENCIA DE CARGOS DE GOBERNO DA S.A. XESTION PLAN XACOBEO PARA RENOVACION CERTIFICADOS REPRESEN",
+    "vendor_name": "MARIA PILAR RODRIGUEZ BUGALLO"
+  },
+  {
+    "amount_eur": 90.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-07-17",
+    "record_id": "97:2061365",
+    "source_id": 2061365,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SERVIZO DE RESTAURANTE 08/07/2026 2 MENUS REUNION DIRECTOR SA XESTION XACOBEO CO PRDNTE ASOC. COMUNICADORES DO CAMIÑO",
+    "vendor_name": "CABANAS CALVIÑO SAN JAIME, S.L."
+  }
+]

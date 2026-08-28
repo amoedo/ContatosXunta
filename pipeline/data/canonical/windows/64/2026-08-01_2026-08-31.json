@@ -1,0 +1,90 @@
+[
+  {
+    "amount_eur": 234.63,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-03",
+    "record_id": "64:2069882",
+    "source_id": 2069882,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "subject": "Fact.202643 -Dereitos autoría Paula Carballeira correspond.a &#34;Somos os monstros&#34; no ST",
+    "vendor_name": "PAULA CARBALLEIRA CABANA"
+  },
+  {
+    "amount_eur": 6075.24,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-03",
+    "record_id": "64:2070243",
+    "source_id": 2070243,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "subject": "Servizo de reparación e acondicionamento das instalacións da FG",
+    "vendor_name": "CAMARGAL OBRAS Y MANTENIMIENTOS SL"
+  },
+  {
+    "amount_eur": 2617.23,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-03",
+    "record_id": "64:2070321",
+    "source_id": 2070321,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "subject": "Servizo de mantemento da maquinaria e elementos escénicos do Salón Teatro",
+    "vendor_name": "ALTERNATIVAS ELECTRICAS S L"
+  },
+  {
+    "amount_eur": 3025.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-06",
+    "record_id": "64:2072019",
+    "source_id": 2072019,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "subject": "AD(d) - Patrocinio publicitario da preestrea da película gal",
+    "vendor_name": "ZEITUN FILMS SL"
+  },
+  {
+    "amount_eur": 14900.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-21",
+    "record_id": "64:2078478",
+    "source_id": 2078478,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "subject": "Coprodución espectáculo teatral No Kings Parte I: Molestia",
+    "vendor_name": "TURBINA - ASSOCIAÇAO CULTURAL"
+  },
+  {
+    "amount_eur": 122.82,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-24",
+    "record_id": "64:2078820",
+    "source_id": 2078820,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "subject": "Servizo de mantemento, reparación e revisión do vehículo Fiat Dobló matrícula 6267 DHV para a ITV",
+    "vendor_name": "MANUEL LAGO CARTELLE SL"
+  },
+  {
+    "amount_eur": 15730.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-24",
+    "record_id": "64:2079098",
+    "source_id": 2079098,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "subject": "Serv.organización desenv.e xest.Xornada competición e ocio dixital en galego",
+    "vendor_name": "VIDEOXOGO.GAL ASOC GALEGA DE VIDEOXOGOS E CONTIDOS"
+  },
+  {
+    "amount_eur": 3032.14,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-25",
+    "record_id": "64:2079358",
+    "source_id": 2079358,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "subject": "FILMOTECA_Dimensiona Consultoría Tecnolóxica_Subministración",
+    "vendor_name": "DIMENSIONA CONSULTORIA TEXNOLOXIC,S.L."
+  }
+]

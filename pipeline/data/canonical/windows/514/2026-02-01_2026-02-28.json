@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 8603.1,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-02-24",
+    "record_id": "514:1941146",
+    "source_id": 1941146,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/514/contratosmenores/table",
+    "subject": "CONTRATO MENOR SERVIZOS VERTEDURA AUGA EN MONTENEME",
+    "vendor_name": "APPLUS NORCONTROL SL"
+  },
+  {
+    "amount_eur": 9075.0,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-02-24",
+    "record_id": "514:1941884",
+    "source_id": 1941884,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/514/contratosmenores/table",
+    "subject": "Contrato consellería Economía e Industria e Craftium SL para",
+    "vendor_name": "CRAFTIUM CONSULTORES, SL"
+  },
+  {
+    "amount_eur": 9075.0,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-02-26",
+    "record_id": "514:1944948",
+    "source_id": 1944948,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/514/contratosmenores/table",
+    "subject": "Realización informes proxecto MAE.",
+    "vendor_name": "CRAFTIUM S.L."
+  }
+]

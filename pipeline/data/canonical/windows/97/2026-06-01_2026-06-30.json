@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 374.28,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-06-02",
+    "record_id": "97:2023616",
+    "source_id": 2023616,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "ALOXAMENTO TECNICO CULTURA XACOBEA ASISTENCIA REUNIÓN S.DOMINGO CALZADA E PRESENTACION OVIEDO",
+    "vendor_name": "VIAJES HALCON, S A"
+  },
+  {
+    "amount_eur": 4311.48,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-06-02",
+    "record_id": "97:2023632",
+    "source_id": 2023632,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "REPARACIONS EXTRAORDINARIAS DOS DANOS OCASIONADOS NO ALBERGUE DE PEREGRINOS DE SAN LAZARO POR CAIDA DE ARBORE",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 385.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-06-19",
+    "record_id": "97:2039439",
+    "source_id": 2039439,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "VIAXE A NAPOLES DIRECTOR SA DE XESTION PLAN XACOBEO PROXECCION FILM EL BUEN CAMINO O 24/05/2026",
+    "vendor_name": "BIVES TOUR, SA"
+  },
+  {
+    "amount_eur": 243.09,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-06-29",
+    "record_id": "97:2044318",
+    "source_id": 2044318,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "HONORARIOS INSCRICION REXISTRO MERCANTIL NOMEAMENTO 2 MEMBROS CONSELLO ADMINISTRACION E CONSELLEIRO DELEGADO SA XESTION",
+    "vendor_name": "MARIA PILAR RODRIGUEZ BUGALLO"
+  },
+  {
+    "amount_eur": 124.69,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-06-29",
+    "record_id": "97:2045433",
+    "source_id": 2045433,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "HONORARIOS NOTARIO ESCRITURA PUBLICA RENOVACION MEMBRO CONSELLO E NOMEAMENTO CONSELLEIRO DELEGADO S.A. XESTION XACOBEO",
+    "vendor_name": "REMUÑAN Y AMIGO CB"
+  }
+]

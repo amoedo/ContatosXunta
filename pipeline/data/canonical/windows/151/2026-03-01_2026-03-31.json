@@ -1,0 +1,101 @@
+[
+  {
+    "amount_eur": 914.32,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-03-05",
+    "record_id": "151:1951336",
+    "source_id": 1951336,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "licencias adobe pro DC y acrobat estandar DC",
+    "vendor_name": "INFORMATICA Y NETWORKING COMPOSTELA S.L.U."
+  },
+  {
+    "amount_eur": 373.89,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-03-05",
+    "record_id": "151:1951364",
+    "source_id": 1951364,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "servicio de coffee-break 24.02.2026",
+    "vendor_name": "ALBARIN ALON S.L.U."
+  },
+  {
+    "amount_eur": 155.14,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-03-06",
+    "record_id": "151:1952099",
+    "source_id": 1952099,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "21 paquetes de 24 botellines de agua Fontecelta 50 cl",
+    "vendor_name": "DISGOBE SA"
+  },
+  {
+    "amount_eur": 738.1,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-03-16",
+    "record_id": "151:1961104",
+    "source_id": 1961104,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "Reunión mediación AGA - expte. núm. 14/26",
+    "vendor_name": "COIA HOTEL TUR SA"
+  },
+  {
+    "amount_eur": 120.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-03-16",
+    "record_id": "151:1961655",
+    "source_id": 1961655,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "reserva sala mediación AGA (núm. expte. 17/26)",
+    "vendor_name": "CEHOSGA INVERSIONES Y SERVICIOS SL"
+  },
+  {
+    "amount_eur": 174.1,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-03-24",
+    "record_id": "151:1969147",
+    "source_id": 1969147,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "suscripción memento social - 2026",
+    "vendor_name": "LEFEBVRE-EL DERECHO SA"
+  },
+  {
+    "amount_eur": 200.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-03-26",
+    "record_id": "151:1971297",
+    "source_id": 1971297,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "centro decorativo natalicio (filla da Presidenta do CGRL)",
+    "vendor_name": "ENEDINA BASALO BLANCO"
+  },
+  {
+    "amount_eur": 202.5,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-03-26",
+    "record_id": "151:1972233",
+    "source_id": 1972233,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "pausa café jornada AEDTSS &#34;novos contidos da negociación col",
+    "vendor_name": "YAGLIX, S.L."
+  },
+  {
+    "amount_eur": 47.42,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-03-27",
+    "record_id": "151:1972989",
+    "source_id": 1972989,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "manual jurisprudencia social 2026",
+    "vendor_name": "LEFEBVRE-EL DERECHO SA"
+  }
+]

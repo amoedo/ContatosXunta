@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+pipeline/data/raw/
+pipeline/data/checkpoints/
+web/public/data/
+web/node_modules/
+web/dist/
+web/.astro/
+web/test-results/
+web/playwright-report/

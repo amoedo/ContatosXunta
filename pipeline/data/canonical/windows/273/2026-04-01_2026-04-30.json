@@ -1,0 +1,101 @@
+[
+  {
+    "amount_eur": 83.51,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-04-14",
+    "record_id": "273:1985753",
+    "source_id": 1985753,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "RENTING PANTALLA COMPLEMENTARIA SALA",
+    "vendor_name": "BNP PARIBAS"
+  },
+  {
+    "amount_eur": 141.57,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-04-15",
+    "record_id": "273:1986512",
+    "source_id": 1986512,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Gestoría febreiro 2650",
+    "vendor_name": "GESTORIA DE LA TORRE, S.L."
+  },
+  {
+    "amount_eur": 97.0,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-04-17",
+    "record_id": "273:1988739",
+    "source_id": 1988739,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Parymar 6401",
+    "vendor_name": "PARYMAR SA"
+  },
+  {
+    "amount_eur": 97.0,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-04-17",
+    "record_id": "273:1988740",
+    "source_id": 1988740,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Parymar 6401",
+    "vendor_name": "PARYMAR SA"
+  },
+  {
+    "amount_eur": 50.82,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-04-17",
+    "record_id": "273:1989025",
+    "source_id": 1989025,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Transegur 2026/045",
+    "vendor_name": "TRANSEGUR RESTHOT SL"
+  },
+  {
+    "amount_eur": 669.84,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-04-17",
+    "record_id": "273:1989206",
+    "source_id": 1989206,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Gestwin 1T",
+    "vendor_name": "INFORGES IT SERVICES, S.L."
+  },
+  {
+    "amount_eur": 85.35,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-04-20",
+    "record_id": "273:1989924",
+    "source_id": 1989924,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Iris Global 597716",
+    "vendor_name": "IRIS GLOBAL SOLUCIONES DE PROTECC.SEGUROS Y REASEG"
+  },
+  {
+    "amount_eur": 10.27,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-04-20",
+    "record_id": "273:1990118",
+    "source_id": 1990118,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Dinahosting C6417",
+    "vendor_name": "DINAHOSTING  SL"
+  },
+  {
+    "amount_eur": 18137.9,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-04-23",
+    "record_id": "273:1993097",
+    "source_id": 1993097,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Asistencia Técnica Europe Direct",
+    "vendor_name": "DAVID DOPAZO MOSQUERA"
+  }
+]

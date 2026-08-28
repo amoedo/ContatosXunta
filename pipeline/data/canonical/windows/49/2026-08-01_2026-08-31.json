@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 16397.0,
+    "duration": "1 mes",
+    "organism_id": 49,
+    "publication_date": "2026-08-03",
+    "record_id": "49:2069944",
+    "source_id": 2069944,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/49/contratosmenores/table",
+    "subject": "SERVIZO PARA O DESENVOLVEMENTO DUNHA ANALISE DE REQUISITOS PARA A IMPLEMENTACION DUN MARCO COMUN DE HABILITACION PROFESI",
+    "vendor_name": "IGNACIO LOPEZ LOPEZ"
+  },
+  {
+    "amount_eur": 406.89,
+    "duration": "1 mes",
+    "organism_id": 49,
+    "publication_date": "2026-08-07",
+    "record_id": "49:2072206",
+    "source_id": 2072206,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/49/contratosmenores/table",
+    "subject": "REPARACION E ITV MERCEDES 9247-KTJ",
+    "vendor_name": "MANUEL ALONSO PAYO"
+  },
+  {
+    "amount_eur": 764.0,
+    "duration": "1 mes",
+    "organism_id": 49,
+    "publication_date": "2026-08-07",
+    "record_id": "49:2072428",
+    "source_id": 2072428,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/49/contratosmenores/table",
+    "subject": "Disciplinas Técnicas del Servicio de Prevención y Vigilancia Salud Colectiva",
+    "vendor_name": "VITALY HEALTH SERVICES, S.L."
+  },
+  {
+    "amount_eur": 31.13,
+    "duration": "1 mes",
+    "organism_id": 49,
+    "publication_date": "2026-08-07",
+    "record_id": "49:2072466",
+    "source_id": 2072466,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/49/contratosmenores/table",
+    "subject": "MANTEMENTO FOTOCOPIADORA INEO+284. 21/06/2026-20/07/2026",
+    "vendor_name": "COPIGAL, SL"
+  },
+  {
+    "amount_eur": 248.05,
+    "duration": "1 mes",
+    "organism_id": 49,
+    "publication_date": "2026-08-07",
+    "record_id": "49:2072685",
+    "source_id": 2072685,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/49/contratosmenores/table",
+    "subject": "HOSTING PROFESIONAL ANUAL E RENOVACION DE DOMINIO",
+    "vendor_name": "ICONWEB AGENCIA DE DISEÑO Y MARKETING, S.L"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 4719.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-03-02",
+    "record_id": "34:1947101",
+    "source_id": 1947101,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Asistencia técnica en materia de estruturas para a redacción de Informe de resposta a alegacións en relación ao Club Nav",
+    "vendor_name": "MECANISMO DISEÑO Y CALCULO DE ESTRUCTURAS SL"
+  },
+  {
+    "amount_eur": 11490.4,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-03-03",
+    "record_id": "34:1948349",
+    "source_id": 1948349,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Redacción de proxecto para a construción dunha nave para almacenamento de aparellos no porto de Laxe",
+    "vendor_name": "ORGANIZACION Y GESTION DE PROYECTOS Y OBRAS"
+  },
+  {
+    "amount_eur": 48279.7,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-03-04",
+    "record_id": "34:1949110",
+    "source_id": 1949110,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Cariño: Demolición conserveira Marujita Canela (Antiga concesión 12-03-88-C-1)",
+    "vendor_name": "VILLASUSO ORTEGAL,S.L."
+  },
+  {
+    "amount_eur": 17998.75,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-03-04",
+    "record_id": "34:1949342",
+    "source_id": 1949342,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Redacción de proxecto de urbanización do bordo marítimo do porto de Viveiro",
+    "vendor_name": "ITH PLANNING AND DESIGN SL"
+  },
+  {
+    "amount_eur": 2059.61,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-03-11",
+    "record_id": "34:1955626",
+    "source_id": 1955626,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Cariño: Reposición cuberta de panel sándwich departamento B01 (Temporal Ingrid)",
+    "vendor_name": "FRANCISCO MANUEL MARTINEZ VAZQUEZ"
+  },
+  {
+    "amount_eur": 5626.5,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-03-17",
+    "record_id": "34:1963223",
+    "source_id": 1963223,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Reposición urxente da varanda do paseo marítimo de Noia",
+    "vendor_name": "JARDINERIA ARCE SL"
+  },
+  {
+    "amount_eur": 15334.94,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-03-23",
+    "record_id": "34:1968390",
+    "source_id": 1968390,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Asistencia técnica á dirección da obra da Rampla no porto de Esteiro. Programa <Fondo Europeo Marítimo, de Pesca e de Ac",
+    "vendor_name": "ORGANIZACION Y GESTION DE PROYECTOS Y OBRAS"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "amount_eur": 9159.7,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-08-05",
+    "record_id": "34:2071386",
+    "source_id": 2071386,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Control de calidade nas obras de emerxencia: Obra de abrigo en Barallobre (porto de Maniños-Barallobre)",
+    "vendor_name": "EPTISA SERVICIOS DE INGENIERIA SL"
+  },
+  {
+    "amount_eur": 9159.7,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-08-05",
+    "record_id": "34:2071387",
+    "source_id": 2071387,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Control de calidade nas obras de emerxencia: Obra de abrigo en Barallobre (porto de Maniños-Barallobre)",
+    "vendor_name": "EPTISA SERVICIOS DE INGENIERIA SL"
+  },
+  {
+    "amount_eur": 17182.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-08-07",
+    "record_id": "34:2072495",
+    "source_id": 2072495,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Asistencia técnica á dirección das obras do proxecto modificado da Rehabilitación e mellora do peirao mexiloeiro de Moañ",
+    "vendor_name": "MECANISMO DISEÑO Y CALCULO DE ESTRUCTURAS SL"
+  },
+  {
+    "amount_eur": 18029.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-08-07",
+    "record_id": "34:2072496",
+    "source_id": 2072496,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Redacción do proxecto modificado da obra Rehabilitación e mellora do peirao mexilloeiro do porto de Moaña e proxecto de",
+    "vendor_name": "MECANISMO DISEÑO Y CALCULO DE ESTRUCTURAS SL"
+  },
+  {
+    "amount_eur": 17998.75,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-08-10",
+    "record_id": "34:2073231",
+    "source_id": 2073231,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Control de calidade da auga durante a dragaxe no porto de Pontedeume",
+    "vendor_name": "INDROPS LABORATORIO DE ANALISIS Y CALIDAD MEDIAMBI"
+  },
+  {
+    "amount_eur": 18137.9,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-08-24",
+    "record_id": "34:2078813",
+    "source_id": 2078813,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Redacción de Proxecto de Remodelación e mellora das instalacións eléctricas da Zona Centro",
+    "vendor_name": "TALLER DE INGENIERIA MYL,SL"
+  },
+  {
+    "amount_eur": 48385.84,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-08-27",
+    "record_id": "34:2080326",
+    "source_id": 2080326,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Burela: Renovación da cuberta dos almacéns de armadores tipo B (Bloque 1)",
+    "vendor_name": "GALICUBIERTAS S.L"
+  },
+  {
+    "amount_eur": 7905.05,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-08-27",
+    "record_id": "34:2080335",
+    "source_id": 2080335,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Elaboración de estudo de transporte e dispersión de sedimentos na zona de vertedura E/8",
+    "vendor_name": "AQUATICA INGENIERIA CIVIL SL"
+  },
+  {
+    "amount_eur": 968.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-08-27",
+    "record_id": "34:2080351",
+    "source_id": 2080351,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Ribadeo: Certificado e verificación da báscula de pesaxe do porto comercial (Mirasol)",
+    "vendor_name": "APPLUS METROLOGY SLU"
+  },
+  {
+    "amount_eur": 16950.5,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-08-27",
+    "record_id": "34:2080371",
+    "source_id": 2080371,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Coordinación en materia de seguridade e saúde na fase de execución da obra Reposición de pavimentos en instalacións flot",
+    "vendor_name": "NORMANSYS, SL"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 533.73,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-04-02",
+    "record_id": "291:1979298",
+    "source_id": 1979298,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "PAGAMENTO FACTURAS SUBMINISTRACION MATERIAL DE OFICINA",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 665.5,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-04-13",
+    "record_id": "291:1984391",
+    "source_id": 1984391,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "PAGAMENTO FACTURAS SUBMINISTRACION MATERIAL DE OFICINA",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 278.4,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-04-20",
+    "record_id": "291:1990123",
+    "source_id": 1990123,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SUBMINISTRACIÓN DE MATERIAL INFORMÁTICO",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 562.64,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-04-20",
+    "record_id": "291:1990317",
+    "source_id": 1990317,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "PAGAMENTO FACTURAS SUBMINSTRACIÓN IMPRESIÓNS",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 228.3,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-04-22",
+    "record_id": "291:1992041",
+    "source_id": 1992041,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SERVIZO DE COBERTURA GRÁFICA DE EVENTO INSTITUCIONAL",
+    "vendor_name": "SERGIO PEREZ SANZ"
+  },
+  {
+    "amount_eur": 810.7,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-04-30",
+    "record_id": "291:1998999",
+    "source_id": 1998999,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "PAGAMENTO FACTURA SERVIZOS DE IMPRESIÓN",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  }
+]

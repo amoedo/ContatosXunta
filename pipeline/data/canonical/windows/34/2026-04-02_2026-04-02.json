@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 6047.58,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-04-02",
+    "record_id": "34:1978542",
+    "source_id": 1978542,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Realización de control arqueolóxico da dragaxe nos portos de Maniños-Barallobre e Pontedeume",
+    "vendor_name": "ANGEL MARCELO RODRIGUEZ CASTRO"
+  },
+  {
+    "amount_eur": 17278.8,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-04-02",
+    "record_id": "34:1979324",
+    "source_id": 1979324,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Realización de batimetrías en varios portos das Zonas Norte e Centro",
+    "vendor_name": "TOPCAD INGENIERIA SL"
+  },
+  {
+    "amount_eur": 9359.35,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-04-02",
+    "record_id": "34:1979446",
+    "source_id": 1979446,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Redacción do proxecto de Mellora de abrigo no porto de Morás. Fase 1",
+    "vendor_name": "MC VALNERA SLU"
+  }
+]

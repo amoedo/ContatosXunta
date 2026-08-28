@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 1007.53,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-01-06",
+    "record_id": "273:1905423",
+    "source_id": 1905423,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "ASESORIA - IVA finalización T 3 + consultas + Inicio IVA T4",
+    "vendor_name": "EXCELLIUM SOLUTIONS"
+  },
+  {
+    "amount_eur": 905.08,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-01-06",
+    "record_id": "273:1905424",
+    "source_id": 1905424,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "LIMPIEZA MOQUETA",
+    "vendor_name": "DBMnet"
+  },
+  {
+    "amount_eur": 338.8,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-01-06",
+    "record_id": "273:1905425",
+    "source_id": 1905425,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "LIMPIEZA CRISTALES",
+    "vendor_name": "CLEANING INTER COMPAY"
+  },
+  {
+    "amount_eur": 353.2,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-01-08",
+    "record_id": "273:1905712",
+    "source_id": 1905712,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "ELECTRICIDAD",
+    "vendor_name": "ENGIE ELECTRABEL"
+  }
+]

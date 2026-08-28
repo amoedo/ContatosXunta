@@ -1,0 +1,101 @@
+[
+  {
+    "amount_eur": 142.2,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-05-01",
+    "record_id": "32:2000708",
+    "source_id": 2000708,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-38 Comida Restaurante Bodeguilla",
+    "vendor_name": "MIGUEZ REGO SL"
+  },
+  {
+    "amount_eur": 9436.79,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-05-06",
+    "record_id": "32:2002166",
+    "source_id": 2002166,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-10 Servizo elaborar Clips Audiovisuais - proxecto Aldealix",
+    "vendor_name": "CECILIA PAULA MARQUEZ RODRIGUEZ"
+  },
+  {
+    "amount_eur": 52.3,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-05-20",
+    "record_id": "32:2014112",
+    "source_id": 2014112,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-39 ITV vehículo matrícula 8479KHZ",
+    "vendor_name": "SUPERVISION CONTROL SA"
+  },
+  {
+    "amount_eur": 123.24,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-05-20",
+    "record_id": "32:2014752",
+    "source_id": 2014752,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-50 Reparación vehículo Opel Corsa 8312MCM",
+    "vendor_name": "TALLERES UZALVI SL"
+  },
+  {
+    "amount_eur": 2908.4,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-05-22",
+    "record_id": "32:2016589",
+    "source_id": 2016589,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-37 Servizo para a recollida de papel e cartón da Axencia",
+    "vendor_name": "COGAMI RECICLADO DE GALICIA SL"
+  },
+  {
+    "amount_eur": 6897.0,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-05-22",
+    "record_id": "32:2016624",
+    "source_id": 2016624,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-40 Servizo de almacenamento e custodia da documentación xerada na Axencia Galega de Desenvolvemento Rural",
+    "vendor_name": "GUARDAMUEBLES BOQUETE, S.L."
+  },
+  {
+    "amount_eur": 1129.2,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-05-22",
+    "record_id": "32:2016889",
+    "source_id": 2016889,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-41 Servizo tratamento de augas para as instalacions da Axencia Galega de Desenvolvemento Rural",
+    "vendor_name": "SERVICIOS VENDING DE GALICIA S.L."
+  },
+  {
+    "amount_eur": 2498.66,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-05-28",
+    "record_id": "32:2020964",
+    "source_id": 2020964,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "Servizo de tradución técnica de documentos estratéxicos do proxecto RUSTIK",
+    "vendor_name": "OVER THE RAINBOW LANGUAGE CENTRE S.L.N.E."
+  },
+  {
+    "amount_eur": 24.02,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-05-28",
+    "record_id": "32:2021145",
+    "source_id": 2021145,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-18 Servizo de entrega auga embotellada e leite",
+    "vendor_name": "SERVICIOS VENDING DE GALICIA S.L."
+  }
+]

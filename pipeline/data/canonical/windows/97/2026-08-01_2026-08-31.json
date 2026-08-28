@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 347.25,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-08-24",
+    "record_id": "97:2078495",
+    "source_id": 2078495,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SERVIZO DE GUIA E ALUGUER DE AUDIOGUIAS PARA VISITA PROXECTO NEW FOOTSTEPS ON THE CAMINO ORGANIZADO POLA FEDER. PORTUGUE",
+    "vendor_name": "MARIA INMACULADA VARELA SUAREZ"
+  },
+  {
+    "amount_eur": 680.97,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-08-27",
+    "record_id": "97:2080209",
+    "source_id": 2080209,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "BILLETES DE AVION E ALOXAMENTO ASISTENCIA DIRECTOR S.A  XESTIÓN XACOBEO A ENCONTRO ASOCIAC. ITALIANAS EN SAN SEPOLCRO",
+    "vendor_name": "BIVES TOUR, SA"
+  }
+]

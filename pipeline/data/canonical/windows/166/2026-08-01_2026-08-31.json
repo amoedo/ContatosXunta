@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 12100.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-08-03",
+    "record_id": "166:2070026",
+    "source_id": 2070026,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración e mantemento de dous (2) vehículos para a Fundación Centro Tecnolóxico da Carne mediante arrendamento ba",
+    "vendor_name": "EMPRESA MONFORTE SAU"
+  },
+  {
+    "amount_eur": 3630.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-08-06",
+    "record_id": "166:2071740",
+    "source_id": 2071740,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración de material funxible para o Laboratorio de Fisicoquímica da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "PROQUINORTE SA"
+  },
+  {
+    "amount_eur": 4235.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-08-14",
+    "record_id": "166:2075397",
+    "source_id": 2075397,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración de material funxible para o Laboratorio de Microbioloxía da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "BIOMERIEUX ESPAÑA, S.A."
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "amount_eur": 1028.5,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-03-04",
+    "record_id": "166:1949122",
+    "source_id": 1949122,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "de material funxible para o Laboratorio de Cromatografía da Fundación Centro Tecnolóxico da Carne (proxectos ECO-BIO-FUN",
+    "vendor_name": "CIENTISOL, S.L."
+  },
+  {
+    "amount_eur": 605.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-03-04",
+    "record_id": "166:1949321",
+    "source_id": 1949321,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración de material funxible para a Planta Piloto da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "SCHARLAB, SL"
+  },
+  {
+    "amount_eur": 2323.2,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-03-06",
+    "record_id": "166:1952487",
+    "source_id": 1952487,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Servizo de mantemento dos ascensores da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "ASCENSORES NORTE SL"
+  },
+  {
+    "amount_eur": 3509.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-03-06",
+    "record_id": "166:1952488",
+    "source_id": 1952488,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Servizo de reparación dos ascensores da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "ASCENSORES NORTE SL"
+  },
+  {
+    "amount_eur": 1573.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-03-10",
+    "record_id": "166:1954999",
+    "source_id": 1954999,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración de equipo rotador-incubador para o Laboratorio de Fisicoquímica da Fundación Centro Tecnolóxico da Carne",
+    "vendor_name": "CIENTISOL, S.L."
+  },
+  {
+    "amount_eur": 1452.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-03-10",
+    "record_id": "166:1955257",
+    "source_id": 1955257,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración de material funxible para o Laboratorio de Fisicoquímica da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "SCHARLAB, SL"
+  },
+  {
+    "amount_eur": 726.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-03-19",
+    "record_id": "166:1966187",
+    "source_id": 1966187,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración de material funxible para o Laboratorio de Fisicoquímica da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "PROQUINORTE SA"
+  },
+  {
+    "amount_eur": 4235.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-03-30",
+    "record_id": "166:1974114",
+    "source_id": 1974114,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración de material funxible para o Laboratorio de Microbioloxía da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "BIOMERIEUX ESPAÑA, S.A."
+  }
+]

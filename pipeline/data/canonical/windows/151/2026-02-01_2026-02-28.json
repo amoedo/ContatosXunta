@@ -1,0 +1,112 @@
+[
+  {
+    "amount_eur": 476.56,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-02-10",
+    "record_id": "151:1928077",
+    "source_id": 1928077,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "mantemento xardíns Pazo de Amarante 2026",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 155.14,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-02-10",
+    "record_id": "151:1928269",
+    "source_id": 1928269,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "21 packs fontecelta 500ml (24u)",
+    "vendor_name": "DISGOBE SA"
+  },
+  {
+    "amount_eur": 10560.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-02-11",
+    "record_id": "151:1930240",
+    "source_id": 1930240,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "mantemento tic cgrl 2026",
+    "vendor_name": "INFORMATICA Y NETWORKING COMPOSTELA S.L.U."
+  },
+  {
+    "amount_eur": 2374.32,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-02-12",
+    "record_id": "151:1931316",
+    "source_id": 1931316,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "servizos cloud cgrl 2026",
+    "vendor_name": "CLOUD.GAL SLU"
+  },
+  {
+    "amount_eur": 34.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-02-16",
+    "record_id": "151:1934843",
+    "source_id": 1934843,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "Xantar de traballo presidenta CGRL (asistencia a premios lid",
+    "vendor_name": "ANTONIO MARTINEZ PIÑEIRO"
+  },
+  {
+    "amount_eur": 2500.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-02-17",
+    "record_id": "151:1935815",
+    "source_id": 1935815,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "COAUTORÍA DO ESTUDO SOBRE OS SECTORES CARENTES DE CONVENIO C",
+    "vendor_name": "MARTA FERNANDEZ PRIETO"
+  },
+  {
+    "amount_eur": 2500.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-02-17",
+    "record_id": "151:1935824",
+    "source_id": 1935824,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "COAUTORÍA DO ESTUDO SOBRE OS SECTORES CARENTES DE CONVENIO C",
+    "vendor_name": "XAIME CABEZA PEREIRO"
+  },
+  {
+    "amount_eur": 2500.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-02-17",
+    "record_id": "151:1935826",
+    "source_id": 1935826,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "COAUTORÍA DO ESTUDO SOBRE OS SECTORES CARENTES DE CONVENIO C",
+    "vendor_name": "FRANCISCA FERNANDEZ PROL"
+  },
+  {
+    "amount_eur": 1076.9,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-02-26",
+    "record_id": "151:1944248",
+    "source_id": 1944248,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "1000 carpetas AGA (diseño y producción)",
+    "vendor_name": "DANIEL DE CASTRO PEDROUZO"
+  },
+  {
+    "amount_eur": 292.92,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-02-26",
+    "record_id": "151:1944995",
+    "source_id": 1944995,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "4 matrículas micocredencial USC &#34;Dereitos laborais e saúde&#34;",
+    "vendor_name": "UNIVERSIDADE DE SANTIAGO DE COMPOSTELA"
+  }
+]

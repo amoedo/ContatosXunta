@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 1815.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-06-10",
+    "record_id": "141:2031167",
+    "source_id": 2031167,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Publicidade",
+    "vendor_name": "ASOC DA PRENSA DE SANTIAGO DE COMPOSTELA"
+  },
+  {
+    "amount_eur": 5142.5,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-06-16",
+    "record_id": "141:2035526",
+    "source_id": 2035526,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Actualización creatividades",
+    "vendor_name": "RECADOS CARMEN S.L."
+  },
+  {
+    "amount_eur": 923.23,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-06-19",
+    "record_id": "141:2039607",
+    "source_id": 2039607,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Material non funxible",
+    "vendor_name": "ARDUMA, SL"
+  },
+  {
+    "amount_eur": 3267.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-06-19",
+    "record_id": "141:2040017",
+    "source_id": 2040017,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Fra. FV26-08605 Licenza de uso de dereitos de artigos",
+    "vendor_name": "CENTRO ESPAÑOL DE DERECHOS REPROGRAFICOS EGDPI - C"
+  },
+  {
+    "amount_eur": 871.2,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-06-19",
+    "record_id": "141:2040029",
+    "source_id": 2040029,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Informes para CB12 AM2/2025 Creatividades Galicia Industrial",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  },
+  {
+    "amount_eur": 13273.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-06-23",
+    "record_id": "141:2041891",
+    "source_id": 2041891,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Actualización creativiades",
+    "vendor_name": "CANAL UNO DE COMUNICACION SL"
+  }
+]

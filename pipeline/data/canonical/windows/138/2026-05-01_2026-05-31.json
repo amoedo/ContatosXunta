@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 12100.0,
+    "duration": "1 mes",
+    "organism_id": 138,
+    "publication_date": "2026-05-13",
+    "record_id": "138:2008801",
+    "source_id": 2008801,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/138/contratosmenores/table",
+    "subject": "Patrocinio congreso Fluor",
+    "vendor_name": "ASOC CLUSTER DO AUDIOVISUAL GALEGO"
+  },
+  {
+    "amount_eur": 12100.0,
+    "duration": "1 mes",
+    "organism_id": 138,
+    "publication_date": "2026-05-26",
+    "record_id": "138:2019018",
+    "source_id": 2019018,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/138/contratosmenores/table",
+    "subject": "Son do Camiño",
+    "vendor_name": "OLD NAVY PORT PRODUCCIONES, S.L.U, FESTIVAL O SON"
+  }
+]

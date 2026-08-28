@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 12100.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-01-09",
+    "record_id": "207:1905854",
+    "source_id": 1905854,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "suministración de material de oficina para CETMAR de duración 10 meses (II) Proyectos CETMAR",
+    "vendor_name": "PAZ   DISMAC SL"
+  },
+  {
+    "amount_eur": 16445.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-01-16",
+    "record_id": "207:1907316",
+    "source_id": 1907316,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de catering mientras se resuelve el PASS correspondiente (127-25-SG) Proyectos CETMAR",
+    "vendor_name": "DOLORES FERNANDEZ E HIJOS S.L."
+  },
+  {
+    "amount_eur": 11600.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-01-20",
+    "record_id": "207:1908151",
+    "source_id": 1908151,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "Contratación dun servizo de docencia técnica no curso de Reparacións de enbarcacións pneumáticas do Centro de Formación",
+    "vendor_name": "VICTOR ROBLEDA BARCIA"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "amount_eur": 375.0,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-03-13",
+    "record_id": "32:1959888",
+    "source_id": 1959888,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-15 Servicio mantemento citroen Berlingo matricula 8475KHZ",
+    "vendor_name": "PINAQUE SL"
+  },
+  {
+    "amount_eur": 140.5,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-03-23",
+    "record_id": "32:1967553",
+    "source_id": 1967553,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-14 Servicio de comida para 3 persoas o 11/02/2026 Casa da Viña",
+    "vendor_name": "JOSE ANTONIO RIVEIRO CODESIDO"
+  },
+  {
+    "amount_eur": 883.3,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-03-23",
+    "record_id": "32:1967589",
+    "source_id": 1967589,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-09 Servizo de cafetería e comedor na EGAP 26/01/2026",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 198.0,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-03-23",
+    "record_id": "32:1967590",
+    "source_id": 1967590,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-19 Catering EGAP reunión Presidentes GDR´s 02/03/2026",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 1159.0,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-03-23",
+    "record_id": "32:1967743",
+    "source_id": 1967743,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-07 Subministración Smartphone para a Dirección Xeral da Axencia",
+    "vendor_name": "EL CORTE INGLES SA"
+  },
+  {
+    "amount_eur": 119.1,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-03-23",
+    "record_id": "32:1967871",
+    "source_id": 1967871,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-05 3 Pases de día Fitur 2026_Bives Tour",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 130.0,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-03-25",
+    "record_id": "32:1970290",
+    "source_id": 1970290,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-06 Servizo de aloxamento Hotel Exe Puerta de San Pedro para visita de Cecilia Candá a 6th Down to Earth  Meeting",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 2102.93,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-03-25",
+    "record_id": "32:1970679",
+    "source_id": 1970679,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-12 Subm material non inventariable:tóners varios",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 65.5,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-03-25",
+    "record_id": "32:1970975",
+    "source_id": 1970975,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM25-27 Comida de traballo 10.03.26 Miguez Rego S.L",
+    "vendor_name": "MIGUEZ REGO SL"
+  },
+  {
+    "amount_eur": 18143.95,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-03-31",
+    "record_id": "32:1975899",
+    "source_id": 1975899,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-29 Patrocinio BREOGAN",
+    "vendor_name": "CLUB BREOGAN BALONCESTO, S A D"
+  },
+  {
+    "amount_eur": 17182.0,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-03-31",
+    "record_id": "32:1976102",
+    "source_id": 1976102,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-30 Patrocinio COB Ourense",
+    "vendor_name": "CLUB ORENSE BALONCESTO,S A D"
+  },
+  {
+    "amount_eur": 2344.38,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-03-31",
+    "record_id": "32:1976638",
+    "source_id": 1976638,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-28 Aluguer de cadeiras e grupo electróxeno evento Leader &#34;35 anos facendo medrar o rural&#34;",
+    "vendor_name": "DEMOSTRA SL"
+  },
+  {
+    "amount_eur": 16492.3,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-03-31",
+    "record_id": "32:1976809",
+    "source_id": 1976809,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-20 Servicio de organización e medios técnicos e audiovisuais evento &#34;35 anos facendo medrar o rural entre todos&#34;",
+    "vendor_name": "STAR PLANNING, SLU"
+  },
+  {
+    "amount_eur": 16538.28,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-03-31",
+    "record_id": "32:1976848",
+    "source_id": 1976848,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-33 Seguridade axencia -SASEGUR",
+    "vendor_name": "SASEGUR SL"
+  }
+]

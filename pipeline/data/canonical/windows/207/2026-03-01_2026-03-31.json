@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 18143.95,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-03-09",
+    "record_id": "207:1953857",
+    "source_id": 1953857,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de asesoría laboral Generales",
+    "vendor_name": "UNION DE PROFESIONALES SL"
+  },
+  {
+    "amount_eur": 181.5,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-03-10",
+    "record_id": "207:1954367",
+    "source_id": 1954367,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un lote de fluorescentes y bombillas Generales",
+    "vendor_name": "PRISMICA S.L."
+  },
+  {
+    "amount_eur": 1815.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-03-10",
+    "record_id": "207:1954369",
+    "source_id": 1954369,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de reparación del ascensor (suministro e instalación de cortina fotoeléctrica) Generales",
+    "vendor_name": "ORONA S COOPERATIVA"
+  },
+  {
+    "amount_eur": 54945.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-03-18",
+    "record_id": "207:1964373",
+    "source_id": 1964373,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/207/contratosmenores/table",
+    "subject": "un servicio de agencia de viajes para destino nacional, Europa, resto de Europa y terceros países Proyectos CETMAR",
+    "vendor_name": "VIAJES ABRA MAR SA"
+  }
+]

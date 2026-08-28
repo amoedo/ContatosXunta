@@ -1,0 +1,101 @@
+[
+  {
+    "amount_eur": 8305.44,
+    "duration": "1 mes",
+    "organism_id": 441,
+    "publication_date": "2026-06-11",
+    "record_id": "441:2032031",
+    "source_id": 2032031,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/441/contratosmenores/table",
+    "subject": "Contratación dun servizo para o pintado das outras fachadas da casa no que se interveu o mural en homenaxe a CJC",
+    "vendor_name": "JOAQUIN NIEVES S.L."
+  },
+  {
+    "amount_eur": 3872.0,
+    "duration": "1 mes",
+    "organism_id": 441,
+    "publication_date": "2026-06-12",
+    "record_id": "441:2032225",
+    "source_id": 2032225,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/441/contratosmenores/table",
+    "subject": "Contrato menor de obras para a reparación das filtracións de agua producidas polas chimeneas nas casas 4,5,6,",
+    "vendor_name": "JOAQUIN GUTIERREZ SOUZA"
+  },
+  {
+    "amount_eur": 4240.0,
+    "duration": "1 mes",
+    "organism_id": 441,
+    "publication_date": "2026-06-12",
+    "record_id": "441:2032253",
+    "source_id": 2032253,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/441/contratosmenores/table",
+    "subject": "Contratos gastos de execución do programa cultural LETRESEO 2026",
+    "vendor_name": "MARIA FAIA DIAZ NOVO"
+  },
+  {
+    "amount_eur": 2162.27,
+    "duration": "1 mes",
+    "organism_id": 441,
+    "publication_date": "2026-06-12",
+    "record_id": "441:2032265",
+    "source_id": 2032265,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/441/contratosmenores/table",
+    "subject": "Contratación dos servizos de restauración e/ou preservación de determinadas pezas do legado cando as circunstancias assí",
+    "vendor_name": "SILVIA FERNANDEZ BUENO"
+  },
+  {
+    "amount_eur": 2236.08,
+    "duration": "1 mes",
+    "organism_id": 441,
+    "publication_date": "2026-06-12",
+    "record_id": "441:2032858",
+    "source_id": 2032858,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/441/contratosmenores/table",
+    "subject": "Contratación dun servizo especializado para a realización das visitas escolares de infantil e primaria así como talleres",
+    "vendor_name": "ARENARIA COORDINACION SL"
+  },
+  {
+    "amount_eur": 1496.98,
+    "duration": "1 mes",
+    "organism_id": 441,
+    "publication_date": "2026-06-12",
+    "record_id": "441:2033060",
+    "source_id": 2033060,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/441/contratosmenores/table",
+    "subject": "contratación dun servizo para o pintado das outras fachadas da casa no que se interveu o mural en homenaxe a CJC",
+    "vendor_name": "PLATAF.ELEVADORAS GRUAS -S.TRAST.NORTE SL"
+  },
+  {
+    "amount_eur": 4827.27,
+    "duration": "1 mes",
+    "organism_id": 441,
+    "publication_date": "2026-06-12",
+    "record_id": "441:2033062",
+    "source_id": 2033062,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/441/contratosmenores/table",
+    "subject": "Gastos de execución do programa LETRESEO 2026",
+    "vendor_name": "FROQ EVENTOS,S.L."
+  },
+  {
+    "amount_eur": 2359.5,
+    "duration": "1 mes",
+    "organism_id": 441,
+    "publication_date": "2026-06-12",
+    "record_id": "441:2033258",
+    "source_id": 2033258,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/441/contratosmenores/table",
+    "subject": "Gastos de execución do programa cultural LETRESEO 20267",
+    "vendor_name": "URDIME S.COOP.GALEGA"
+  },
+  {
+    "amount_eur": 25916.0,
+    "duration": "1 mes",
+    "organism_id": 441,
+    "publication_date": "2026-06-12",
+    "record_id": "441:2033282",
+    "source_id": 2033282,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/441/contratosmenores/table",
+    "subject": "Contrato menor de obras para reparación das filtracións de agua producidas polas chimeneas casa 4,5,6",
+    "vendor_name": "IMPER REGAL SC"
+  }
+]

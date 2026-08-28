@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 53.92,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-05-13",
+    "record_id": "80:2008147",
+    "source_id": 2008147,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "LIBROS BIBLIOTECAS",
+    "vendor_name": "LIBRERIA FOLLAS NOVAS S L"
+  },
+  {
+    "amount_eur": 1285.76,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-05-20",
+    "record_id": "80:2014812",
+    "source_id": 2014812,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "SERVIZO REXISTRO NA OEPM MARCA COMISIÓN DA TRANSPARENCIA GALICIA",
+    "vendor_name": "CLARKE MODET Y CIA, S.L."
+  },
+  {
+    "amount_eur": 1936.0,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-05-25",
+    "record_id": "80:2017254",
+    "source_id": 2017254,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/80/contratosmenores/table",
+    "subject": "TRANFERENCIA CTA.GALURESA ABANCA: ES72-2080-5803-9030-4000-5",
+    "vendor_name": "GALURESA, S.A."
+  }
+]

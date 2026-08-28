@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 17910.42,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-02-12",
+    "record_id": "221:1930802",
+    "source_id": 1930802,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Ensaios de contrate &#34;Reforzo de firme localizado nas estradas AC-110, AC-112 e AC-564&#34;",
+    "vendor_name": "ENMACOSA CONSULTORIA TECNICA S.A."
+  },
+  {
+    "amount_eur": 14108.1,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-02-12",
+    "record_id": "221:1931910",
+    "source_id": 1931910,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Cota FGC membro adherido 2026",
+    "vendor_name": "FEDERACION GALLEGA DE LA CONSTRUCCION"
+  },
+  {
+    "amount_eur": 4588.0,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-02-12",
+    "record_id": "221:1931912",
+    "source_id": 1931912,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Cota AEC 2026",
+    "vendor_name": "ASOCIACION ESPAñOLA DE LA CARRETERA"
+  },
+  {
+    "amount_eur": 1270.5,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-02-16",
+    "record_id": "221:1935298",
+    "source_id": 1935298,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Reserva do dominio e do servizo de aloxamento do Geovisor de Sendas de Galicia da Axencia Galega de Infraestruturas",
+    "vendor_name": "SIXTEMA PROXECTOS DE INFORMACIÓN, SL"
+  },
+  {
+    "amount_eur": 10551.2,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-02-24",
+    "record_id": "221:1941235",
+    "source_id": 1941235,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Acto de presentación das obras do último treito da autovía do Corredor Nadela-Sarria.",
+    "vendor_name": "SOLUCION ACTIVA DE SERVICIOS 21, SL"
+  },
+  {
+    "amount_eur": 1046.65,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-02-24",
+    "record_id": "221:1941399",
+    "source_id": 1941399,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Acto de presentación da &#34;Senda na PO-221. Treito Alende-A Espedregueira. Moraña&#34;",
+    "vendor_name": "VETERIS SONIDO E IMAGEN S.L."
+  },
+  {
+    "amount_eur": 17545.0,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-02-27",
+    "record_id": "221:1945279",
+    "source_id": 1945279,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Itinerario peonil na AC-543. Rois",
+    "vendor_name": "ESTUDIO TECNICO GALLEGO SA"
+  }
+]

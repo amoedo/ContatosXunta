@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 1173.6,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-02-03",
+    "record_id": "141:1924298",
+    "source_id": 1924298,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Informes para CB6 AM2/2025 Creatividades prevención suicidio",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  },
+  {
+    "amount_eur": 1173.6,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-02-03",
+    "record_id": "141:1924299",
+    "source_id": 1924299,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Informes para CB7 AM2/2025 Creatividades día da muller",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  },
+  {
+    "amount_eur": 412.61,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-02-13",
+    "record_id": "141:1933707",
+    "source_id": 1933707,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Reparación material fotográfico",
+    "vendor_name": "GONZALEZ ALMACEN FOTOGRAFICO MAYORISTA SL."
+  }
+]

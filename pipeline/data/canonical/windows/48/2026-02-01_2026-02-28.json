@@ -1,0 +1,211 @@
+[
+  {
+    "amount_eur": 9583.2,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-02",
+    "record_id": "48:1923346",
+    "source_id": 1923346,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "Programa de autoformación UPA",
+    "vendor_name": "HELPER MARKETING Y EXPANSION SLU"
+  },
+  {
+    "amount_eur": 2880.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-02",
+    "record_id": "48:1923758",
+    "source_id": 1923758,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "Curso de inmobles (1 e 2 de decembro de 2025) UPA",
+    "vendor_name": "ESCUELA DE LAS 3ARMAS"
+  },
+  {
+    "amount_eur": 720.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-10",
+    "record_id": "48:1927922",
+    "source_id": 1927922,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "xaneiro",
+    "vendor_name": "MARIA ROSARIO GARCIA RUA"
+  },
+  {
+    "amount_eur": 130.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-10",
+    "record_id": "48:1927935",
+    "source_id": 1927935,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "PRENSA ENERO 2026",
+    "vendor_name": "DOLORES DURAN LOUZAO"
+  },
+  {
+    "amount_eur": 4356.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-10",
+    "record_id": "48:1928581",
+    "source_id": 1928581,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "almacenaje de documentación",
+    "vendor_name": "GUARDAMUEBLES BOQUETE, S.L."
+  },
+  {
+    "amount_eur": 1696.2,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-10",
+    "record_id": "48:1928588",
+    "source_id": 1928588,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "EQUIPAMIENTO DE ILUMINACIÓN PARA GALERIA DE TIRO",
+    "vendor_name": "RICARSAT, S.L."
+  },
+  {
+    "amount_eur": 234.78,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-10",
+    "record_id": "48:1928589",
+    "source_id": 1928589,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "- SUMINISTRO PARA SALON DE ACTOS A.G. DE SEGURIDADE 2UNDS. C",
+    "vendor_name": "RICARSAT, S.L."
+  },
+  {
+    "amount_eur": 910.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-10",
+    "record_id": "48:1928921",
+    "source_id": 1928921,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "desa",
+    "vendor_name": "ESCUELA INTEGRAL DE SEGURIDAD Y EMERGENCIAS DE GAL"
+  },
+  {
+    "amount_eur": 720.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-10",
+    "record_id": "48:1929087",
+    "source_id": 1929087,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "Clases TAU (grupos 3 e 4) xaneiro 2026",
+    "vendor_name": "CAÑO CARBONEROS S.L."
+  },
+  {
+    "amount_eur": 414.53,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-11",
+    "record_id": "48:1930254",
+    "source_id": 1930254,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "maerial galeria de tiro",
+    "vendor_name": "VENTOS E RASTROS S.L."
+  },
+  {
+    "amount_eur": 18137.9,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-16",
+    "record_id": "48:1935294",
+    "source_id": 1935294,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "SERVIZO DE MANTEMENTO PREVENTIVO DOS SISTEMAS ELECTRICOS, EL",
+    "vendor_name": "RICARSAT, S.L."
+  },
+  {
+    "amount_eur": 18095.55,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-16",
+    "record_id": "48:1935531",
+    "source_id": 1935531,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "Servizo para a xestión e o mantemento preventivo das instala",
+    "vendor_name": "ESTRAFON INSTALACIONES S.L."
+  },
+  {
+    "amount_eur": 1734.54,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-19",
+    "record_id": "48:1937137",
+    "source_id": 1937137,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "papel",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 17968.5,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-19",
+    "record_id": "48:1937195",
+    "source_id": 1937195,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "APOIO TÉCNICO PARA O MANTEMENTO DAS INSTALACIÓNS DA AGASP",
+    "vendor_name": "PABER ESTUDIO TECNICO, S.L. PROFESIONAL"
+  },
+  {
+    "amount_eur": 473.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-19",
+    "record_id": "48:1937197",
+    "source_id": 1937197,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "CONTENEDOR BASURA",
+    "vendor_name": "O HOME DO SACO RECICLAXE E MANIPULACION DE RESIDUO"
+  },
+  {
+    "amount_eur": 58.08,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-23",
+    "record_id": "48:1938635",
+    "source_id": 1938635,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "Xogo de cadenas textil",
+    "vendor_name": "MARIA DORA GEMMA TAFALLA RAMOS"
+  },
+  {
+    "amount_eur": 250.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-23",
+    "record_id": "48:1939529",
+    "source_id": 1939529,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "CABLE DE CARGA PARA CARGADOR ELECTRICO BATERIAS COCHES",
+    "vendor_name": "RICARSAT, S.L."
+  },
+  {
+    "amount_eur": 736.59,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-23",
+    "record_id": "48:1939689",
+    "source_id": 1939689,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "SUBMINISTRO MATERIAL FERRETERIA PARA MANTEMENTO AGASP",
+    "vendor_name": "FERROESTRADA SL"
+  },
+  {
+    "amount_eur": 1200.32,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-02-23",
+    "record_id": "48:1939922",
+    "source_id": 1939922,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/48/contratosmenores/table",
+    "subject": "actuacions mantemento e conservación",
+    "vendor_name": "OBRADOIRO DE SERVICIOS Y REFORMAS S.L."
+  }
+]

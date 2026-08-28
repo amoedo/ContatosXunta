@@ -1,0 +1,123 @@
+[
+  {
+    "amount_eur": 287.1,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-08-07",
+    "record_id": "231:2072616",
+    "source_id": 2072616,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "XANTAR PARA OS PARTICIPANTES NO STAFF EXCHANGE",
+    "vendor_name": "A NAVE DE VIDAN SL"
+  },
+  {
+    "amount_eur": 392.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-08-07",
+    "record_id": "231:2072619",
+    "source_id": 2072619,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "cea networking Smart con Europa",
+    "vendor_name": "O CURRO BED & FOOD SL"
+  },
+  {
+    "amount_eur": 17847.5,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-08-07",
+    "record_id": "231:2072707",
+    "source_id": 2072707,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "PARTICIPACIÓN NA FEIRA BIOSPAIN 2026 EN BILBAO COA DELEGACIÓ",
+    "vendor_name": "ASOC ESPAÑOLA DE BIOEMPRESAS"
+  },
+  {
+    "amount_eur": 132.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-08-20",
+    "record_id": "231:2077416",
+    "source_id": 2077416,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "PAUSA CAFE BREACK CON DATA 19 DE XUÑO DE 2026",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 120.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-08-20",
+    "record_id": "231:2077511",
+    "source_id": 2077511,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Aloxamento Benito Fernández en Madrid_Asistencia REGIC (11-1",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 130.5,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-08-20",
+    "record_id": "231:2077512",
+    "source_id": 2077512,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Desprazamento a Madrid Benito Fernández_REGIC",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 317.8,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-08-20",
+    "record_id": "231:2077923",
+    "source_id": 2077923,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Reunión carreira investigadora_15/07/2026",
+    "vendor_name": "CASTRO VILA RESTAURACION, S.L.L."
+  },
+  {
+    "amount_eur": 111.58,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-08-20",
+    "record_id": "231:2077930",
+    "source_id": 2077930,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Aloxamento en Viana do Castelo da directora 15-16 xullo_Foru",
+    "vendor_name": "ORGANIZA-TURISMO Y EVENTOS S.L."
+  },
+  {
+    "amount_eur": 120.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-08-20",
+    "record_id": "231:2077931",
+    "source_id": 2077931,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Aloxamento en Cantabria da directora_Políticas públicas para",
+    "vendor_name": "ORGANIZA-TURISMO Y EVENTOS S.L."
+  },
+  {
+    "amount_eur": 433.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-08-25",
+    "record_id": "231:2079366",
+    "source_id": 2079366,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "CATERING JORNADA &#34;EUROPA AL SERVICIO DE LAS EMPRESAS DE GALI",
+    "vendor_name": "HOSTELERIA MEIXIDE S.L."
+  },
+  {
+    "amount_eur": 326.7,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-08-25",
+    "record_id": "231:2079452",
+    "source_id": 2079452,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Material de oficina",
+    "vendor_name": "SERVIDEAS SERVICIOS INTEGRALES SLL"
+  }
+]

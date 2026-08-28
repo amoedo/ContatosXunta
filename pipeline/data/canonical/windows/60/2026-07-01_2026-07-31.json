@@ -1,0 +1,211 @@
+[
+  {
+    "amount_eur": 2565.2,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-01",
+    "record_id": "60:2046813",
+    "source_id": 2046813,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Camión con pluma para colocación e retirada de tableiros de encofrado i/condutor para  tanque de incendios MVMC S Millán",
+    "vendor_name": "DANIEL GOMEZ GONZALEZ"
+  },
+  {
+    "amount_eur": 3327.5,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-01",
+    "record_id": "60:2046814",
+    "source_id": 2046814,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Traballos con camión con pluma no tanque de incendios en San Xoán de Río (Ourense)",
+    "vendor_name": "DANIEL GOMEZ GONZALEZ"
+  },
+  {
+    "amount_eur": 1840.16,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-01",
+    "record_id": "60:2046830",
+    "source_id": 2046830,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Elaboración de inóculo de cepas hipovirulentas para xestión de pragas e enfermindades forestais",
+    "vendor_name": "SUSANA RODRIGUEZ VARELA"
+  },
+  {
+    "amount_eur": 1487.63,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-01",
+    "record_id": "60:2047436",
+    "source_id": 2047436,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Limpeza oficina Santiago",
+    "vendor_name": "LIMPIEZAS COMPOSTELA SL"
+  },
+  {
+    "amount_eur": 1748.6,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-01",
+    "record_id": "60:2047583",
+    "source_id": 2047583,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Subministración de zahorra",
+    "vendor_name": "FEVISA VIAS Y OBRAS SL"
+  },
+  {
+    "amount_eur": 17780.95,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-01",
+    "record_id": "60:2047661",
+    "source_id": 2047661,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Suministro e instalación bomba de calor no BUO de A Veiga",
+    "vendor_name": "INGENIERÍA de TELECOMUNICACIONES & ELECTRONICA IND"
+  },
+  {
+    "amount_eur": 5248.74,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-01",
+    "record_id": "60:2047679",
+    "source_id": 2047679,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Servizo de aluguer de retroexcavadora con condutor para traballos de desbroce en A Golada-Rodeiro",
+    "vendor_name": "JOSE RUBEN ROZADOS E HIJOS SL"
+  },
+  {
+    "amount_eur": 2541.16,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-01",
+    "record_id": "60:2047689",
+    "source_id": 2047689,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Material ferretería (bridas e bobinas de papel)",
+    "vendor_name": "GSI DOTACION INDUSTRIAL SL"
+  },
+  {
+    "amount_eur": 8356.26,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-01",
+    "record_id": "60:2047693",
+    "source_id": 2047693,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Servizo de vixilancia e seguridade",
+    "vendor_name": "SERVICIOS SPR VILANOVA SL (EN CONST)"
+  },
+  {
+    "amount_eur": 1800.0,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-01",
+    "record_id": "60:2047888",
+    "source_id": 2047888,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Aluguer embarcación",
+    "vendor_name": "ALTAVELA SERVICIOS NAUTICOS SL"
+  },
+  {
+    "amount_eur": 2930.62,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-01",
+    "record_id": "60:2047954",
+    "source_id": 2047954,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Subministración de material de laboratorio",
+    "vendor_name": "CALIBRE SCIENTIFIC SPAIN"
+  },
+  {
+    "amount_eur": 1273.53,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-07",
+    "record_id": "60:2051336",
+    "source_id": 2051336,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Materiais de construcción, para a obra  Restauración paisaxística de Infesta",
+    "vendor_name": "BENITO LOPEZ ALONSO"
+  },
+  {
+    "amount_eur": 1208.98,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-07",
+    "record_id": "60:2052100",
+    "source_id": 2052100,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Material de oficina  y papelería para  persoal de incendios",
+    "vendor_name": "OFIREYCO SL"
+  },
+  {
+    "amount_eur": 2145.69,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-07",
+    "record_id": "60:2052236",
+    "source_id": 2052236,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Suministro de material para peches de tanques de incendios en Cualedro e San Xoán de Río.",
+    "vendor_name": "FERRETERIA EL PIÑEIRAL SL"
+  },
+  {
+    "amount_eur": 1050.0,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-07",
+    "record_id": "60:2052242",
+    "source_id": 2052242,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Comidas emisoristas incendios",
+    "vendor_name": "BEKAS SNACK BAR CAFE, S.L."
+  },
+  {
+    "amount_eur": 1263.64,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-07",
+    "record_id": "60:2052284",
+    "source_id": 2052284,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Valixa",
+    "vendor_name": "CAMPOS & COSTAS CONSULTING SL"
+  },
+  {
+    "amount_eur": 1120.63,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-07",
+    "record_id": "60:2052285",
+    "source_id": 2052285,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Aluguer rodillo compactador para centreo de recuperación de aves en Oleiros",
+    "vendor_name": "CAMPOS & COSTAS CONSULTING SL"
+  },
+  {
+    "amount_eur": 4691.41,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-07",
+    "record_id": "60:2052457",
+    "source_id": 2052457,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Subministración formigón BUO Portas Valga",
+    "vendor_name": "HORBAN HORMIGONES S.L."
+  },
+  {
+    "amount_eur": 3241.08,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-07-07",
+    "record_id": "60:2052691",
+    "source_id": 2052691,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/60/contratosmenores/table",
+    "subject": "Aluguer miniretroexcavadora encargo convenio sestión biomasa",
+    "vendor_name": "SUMYRENT ALQUILER S.L."
+  }
+]

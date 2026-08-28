@@ -1,0 +1,12 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ContractsExplorer from '../components/ContractsExplorer';
+import dashboard from '../../public/data/dashboard.json';
+---
+<BaseLayout
+	title="Contratos Xunta"
+	description="Consulta e análise dos contratos menores da Xunta de Galicia."
+	descriptionEs="Consulta y análisis de los contratos menores de la Xunta de Galicia."
+>
+	<ContractsExplorer dashboard={dashboard} view="home" client:load />
+</BaseLayout>

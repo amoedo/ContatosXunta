@@ -1,0 +1,112 @@
+[
+  {
+    "amount_eur": 79.0,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-06-03",
+    "record_id": "273:2024620",
+    "source_id": 2024620,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Suscripción La Voz de Galicia",
+    "vendor_name": "LA VOZ DE GALICIA SA"
+  },
+  {
+    "amount_eur": 97.0,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-06-08",
+    "record_id": "273:2028144",
+    "source_id": 2028144,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Parymar 6442",
+    "vendor_name": "PARYMAR SA"
+  },
+  {
+    "amount_eur": 489.18,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-06-09",
+    "record_id": "273:2029373",
+    "source_id": 2029373,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Bivestour 3857",
+    "vendor_name": "BIVES TOUR, SA"
+  },
+  {
+    "amount_eur": 357.0,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-06-09",
+    "record_id": "273:2029374",
+    "source_id": 2029374,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Bivestour 4078",
+    "vendor_name": "BIVES TOUR, SA"
+  },
+  {
+    "amount_eur": 25.2,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-06-11",
+    "record_id": "273:2031384",
+    "source_id": 2031384,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Autopista",
+    "vendor_name": "AUTOPISTAS DEL ATLANTICO CONCESIONARIA E"
+  },
+  {
+    "amount_eur": 39.99,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-06-11",
+    "record_id": "273:2031538",
+    "source_id": 2031538,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Suscripción Faro de Vigo",
+    "vendor_name": "FARO DE VIGO SA UNIPERSONAL"
+  },
+  {
+    "amount_eur": 7.65,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-06-11",
+    "record_id": "273:2031939",
+    "source_id": 2031939,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Aparcamento",
+    "vendor_name": "CONTINENTAL PARKING, S.L."
+  },
+  {
+    "amount_eur": 445.4,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-06-11",
+    "record_id": "273:2032033",
+    "source_id": 2032033,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Servicio de restaurante",
+    "vendor_name": "A BARROLA RESTAURANTE, S.L."
+  },
+  {
+    "amount_eur": 102.85,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-06-12",
+    "record_id": "273:2032813",
+    "source_id": 2032813,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Transegur  2026/098",
+    "vendor_name": "TRANSEGUR RESTHOT SL"
+  },
+  {
+    "amount_eur": 38.72,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-06-12",
+    "record_id": "273:2032814",
+    "source_id": 2032814,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Transegur  2026/099",
+    "vendor_name": "TRANSEGUR RESTHOT SL"
+  }
+]

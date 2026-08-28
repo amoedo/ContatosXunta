@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 386.99,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-05-01",
+    "record_id": "151:2000146",
+    "source_id": 2000146,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "xornada Ferrol 29.04.2026 - xuntanza de traballo",
+    "vendor_name": "PARADORES DE TURISMO DE ESPAÑA S A"
+  },
+  {
+    "amount_eur": 302.5,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-05-20",
+    "record_id": "151:2014917",
+    "source_id": 2014917,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "Participación de Marta Herráiz no Seminario do CGRL co tema",
+    "vendor_name": "ASOC RED EMPRESARIAL POR DIVERSIDAD E INCLU REDI"
+  }
+]

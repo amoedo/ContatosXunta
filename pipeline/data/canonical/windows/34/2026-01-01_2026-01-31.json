@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 5229.67,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-01-09",
+    "record_id": "34:1905789",
+    "source_id": 1905789,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "VARIOS: Mantemento anual dos ascensores das oficinas da Zona Centro de Portos de Galicia e das oficinas portuarias de Ri",
+    "vendor_name": "KONE ELEVADORES, S.A."
+  },
+  {
+    "amount_eur": 8096.27,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-01-09",
+    "record_id": "34:1905824",
+    "source_id": 1905824,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Cariño: Sinistro Nº202506000053 Virgen Segunda",
+    "vendor_name": "VILLASUSO ORTEGAL,S.L."
+  },
+  {
+    "amount_eur": 363.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-01-09",
+    "record_id": "34:1905886",
+    "source_id": 1905886,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Muros: R.P. Extracción Urxente da embarcación IOTA",
+    "vendor_name": "PROLAR INDUSTRIAL SL"
+  },
+  {
+    "amount_eur": 366.63,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-01-15",
+    "record_id": "34:1907211",
+    "source_id": 1907211,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Deseño e fabricación de pins institucionais de Portos de Galicia",
+    "vendor_name": "ALMA MATER SL"
+  },
+  {
+    "amount_eur": 524.35,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-01-16",
+    "record_id": "34:1907405",
+    "source_id": 1907405,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "SSCC: Actualización Data Protector - 2026",
+    "vendor_name": "MICRO FOCUS SOFTWARE SPAIN SL"
+  },
+  {
+    "amount_eur": 1433.85,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-01-28",
+    "record_id": "34:1920920",
+    "source_id": 1920920,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "SSCC: Renovación de licenzas aplicativo Aplitop MDT 8.0",
+    "vendor_name": "APLITOP SL"
+  },
+  {
+    "amount_eur": 7018.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-01-30",
+    "record_id": "34:1921222",
+    "source_id": 1921222,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Sellado de xuntas das planchas de panel sandwich cuberta nave de redes de Aguiño",
+    "vendor_name": "JAVIER FIDALGO SL"
+  }
+]

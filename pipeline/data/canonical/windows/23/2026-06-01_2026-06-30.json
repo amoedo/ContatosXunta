@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 5384.5,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-06-01",
+    "record_id": "23:2022506",
+    "source_id": 2022506,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "actualización páxina web do IGE",
+    "vendor_name": "JOSE RAMON LORENZO GARCIA"
+  },
+  {
+    "amount_eur": 10436.98,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-06-01",
+    "record_id": "23:2022738",
+    "source_id": 2022738,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "EXPTE: 2026-626.1-01 &#34;70 licencias por un año de Microsoft 3",
+    "vendor_name": "INETUM ESPAÑA SA"
+  },
+  {
+    "amount_eur": 12100.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-06-03",
+    "record_id": "23:2025185",
+    "source_id": 2025185,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "Pagamento factura 15/2026 &#34;base de datos históricos de participación cidadá&#34;",
+    "vendor_name": "DEMOS GALICIA SL"
+  },
+  {
+    "amount_eur": 275.88,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-06-09",
+    "record_id": "23:2029616",
+    "source_id": 2029616,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "subscrición anual software EMEditor profesional",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 18029.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-06-16",
+    "record_id": "23:2035553",
+    "source_id": 2035553,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "enquisa &#34;produtos galegos de calidade&#34;",
+    "vendor_name": "INSTITUTO SONDAXE, S.L."
+  }
+]

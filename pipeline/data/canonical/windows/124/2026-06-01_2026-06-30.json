@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 2420.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-06-30",
+    "record_id": "124:2045623",
+    "source_id": 2045623,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0069 - Reparación bomba de calor",
+    "vendor_name": "VEOLIA SERVICIOS NORTE SAU"
+  },
+  {
+    "amount_eur": 18089.5,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-06-30",
+    "record_id": "124:2046080",
+    "source_id": 2046080,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0074 - Axencia de viaxes para o CESGA",
+    "vendor_name": "AVORIS RETAIL DIVISION SL"
+  },
+  {
+    "amount_eur": 18063.42,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-06-30",
+    "record_id": "124:2046187",
+    "source_id": 2046187,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0060 - Material promocional téxtil de carácter institucional financiado polo PRTR - NEXTGENERATIONEU",
+    "vendor_name": "BRAN SEREIGRAFIC,SL"
+  },
+  {
+    "amount_eur": 847.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-06-30",
+    "record_id": "124:2046290",
+    "source_id": 2046290,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0079 - Actualización e soporte técnico para novas versións da aplicación informática contable",
+    "vendor_name": "LANDIN INFORMATICA SL"
+  },
+  {
+    "amount_eur": 17908.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-06-30",
+    "record_id": "124:2046526",
+    "source_id": 2046526,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0075 - Implantación de procedementos de seguridade ENS e ISO27001",
+    "vendor_name": "DOOINGIT CIBERSEGURIDAD SL"
+  }
+]

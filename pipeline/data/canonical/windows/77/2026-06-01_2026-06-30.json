@@ -1,0 +1,145 @@
+[
+  {
+    "amount_eur": 102.25,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-06-01",
+    "record_id": "77:2023065",
+    "source_id": 2023065,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Factura X014/26 mantemento anual PCI no Servizo provincial A",
+    "vendor_name": "SEGURIDAD SETEGA SL"
+  },
+  {
+    "amount_eur": 51.8,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-06-03",
+    "record_id": "77:2025325",
+    "source_id": 2025325,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Nº pedido: 2019-0037_7CD - Nº albarán: 74083544",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 56.07,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-06-03",
+    "record_id": "77:2025326",
+    "source_id": 2025326,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Nº pedido: 74062949 - Nº albarán: 74062949",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 186.18,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-06-10",
+    "record_id": "77:2030096",
+    "source_id": 2030096,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "expediente de reposición de la legalidad urbanistica PO-0637",
+    "vendor_name": "ROSA JUANA LOPEZ-GIL OTERO"
+  },
+  {
+    "amount_eur": 94.55,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-06-10",
+    "record_id": "77:2030097",
+    "source_id": 2030097,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "expediente de reposición de la legalidad urbanistica  PO-028",
+    "vendor_name": "ROSA JUANA LOPEZ-GIL OTERO"
+  },
+  {
+    "amount_eur": 113.22,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-06-10",
+    "record_id": "77:2030100",
+    "source_id": 2030100,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Presentacion nota simple e outros rexistro da propiedade de",
+    "vendor_name": "SANDRA MARIA MARTINEZ VALENTE"
+  },
+  {
+    "amount_eur": 47.74,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-06-10",
+    "record_id": "77:2030957",
+    "source_id": 2030957,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "COMPRA BOTELLONS FUENTA AGUA APLU SC",
+    "vendor_name": "CERLIS VENDING SLU"
+  },
+  {
+    "amount_eur": 84.7,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-06-17",
+    "record_id": "77:2036941",
+    "source_id": 2036941,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "AL26022249, SE ADJUNTA FACTURA",
+    "vendor_name": "PRELO S L"
+  },
+  {
+    "amount_eur": 332.33,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-06-18",
+    "record_id": "77:2038431",
+    "source_id": 2038431,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Factura 1360 - serie F-3671-2026. Revisión vehículo 9321JBW",
+    "vendor_name": "GALISANKA SL"
+  },
+  {
+    "amount_eur": 202.24,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-06-23",
+    "record_id": "77:2041109",
+    "source_id": 2041109,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "FACTURA REGISTRO DOCUMENTO OU-0153-2025",
+    "vendor_name": "CRISTINA LOPEZ LOPEZ"
+  },
+  {
+    "amount_eur": 458.53,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-06-23",
+    "record_id": "77:2041164",
+    "source_id": 2041164,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Subministro EPIS para persoal interino do SP de Pontevedra e",
+    "vendor_name": "PABLO CARRON REBOREDO"
+  },
+  {
+    "amount_eur": 97.28,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-06-23",
+    "record_id": "77:2041468",
+    "source_id": 2041468,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Factura número 131 da serie T15126 (reparación tapa depósito",
+    "vendor_name": "GALICIA DISTRIBUCION DE AUTOMOVILES SA"
+  },
+  {
+    "amount_eur": 977.7,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-06-23",
+    "record_id": "77:2041802",
+    "source_id": 2041802,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Factura número 781 da serie F-3671-2026",
+    "vendor_name": "GALISANKA SL"
+  }
+]

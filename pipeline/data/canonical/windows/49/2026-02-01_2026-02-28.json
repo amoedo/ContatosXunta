@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 5989.5,
+    "duration": "1 mes",
+    "organism_id": 49,
+    "publication_date": "2026-02-20",
+    "record_id": "49:1938193",
+    "source_id": 1938193,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/49/contratosmenores/table",
+    "subject": "SERVIZO DE AUDITORIA CONTABLE, ORZAMENTARIA, FINANCEIRA E DE LEGALIDADE DAS CONTAS ANUAIS DA AXENCIA GALEGA DE EMERXENCI",
+    "vendor_name": "BM NEIRA AUDITORES SL"
+  },
+  {
+    "amount_eur": 18133.06,
+    "duration": "1 mes",
+    "organism_id": 49,
+    "publication_date": "2026-02-23",
+    "record_id": "49:1939260",
+    "source_id": 1939260,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/49/contratosmenores/table",
+    "subject": "CONTRATACION DO SERVIZO DE CONSULTORIA PARA A IMPLANTACION DA NOVA INFRAESTRUTURA DE SERVIDORES E ELECTRONICA DO CIAE 11",
+    "vendor_name": "TELEFONICA SOLUCIONES INFORMATICA Y COMUNIC. DE ES"
+  },
+  {
+    "amount_eur": 17859.6,
+    "duration": "1 mes",
+    "organism_id": 49,
+    "publication_date": "2026-02-23",
+    "record_id": "49:1939923",
+    "source_id": 1939923,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/49/contratosmenores/table",
+    "subject": "SERVIZO DE DESPREGUE E MIGRACION DOS SERVIDORES DE BASES DE DATOS ORACLE Á NOVA PLATAFORMA DE SERVIDORES DO CIAE 112 GAL",
+    "vendor_name": "ANTON CAMPOS CONSULTORES SLU"
+  }
+]

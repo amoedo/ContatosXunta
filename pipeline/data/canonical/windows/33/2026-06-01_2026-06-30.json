@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 10829.5,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2026-06-15",
+    "record_id": "33:2033628",
+    "source_id": 2033628,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/33/contratosmenores/table",
+    "subject": "Contratación dun servizo para a difusión, a través dun medio",
+    "vendor_name": "C GRUPO DE EMPRESAS DE COMUNICACIÓN, MARKETING E"
+  },
+  {
+    "amount_eur": 2261.19,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2026-06-15",
+    "record_id": "33:2033659",
+    "source_id": 2033659,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/33/contratosmenores/table",
+    "subject": "FACTURA OHL INGESAN, S.A do 31.05.2026",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 18137.9,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2026-06-15",
+    "record_id": "33:2034295",
+    "source_id": 2034295,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/33/contratosmenores/table",
+    "subject": "Contratación de realización de medidas de acompañamento do P",
+    "vendor_name": "EDICIONES BOLANDA SL"
+  },
+  {
+    "amount_eur": 18137.9,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2026-06-15",
+    "record_id": "33:2034296",
+    "source_id": 2034296,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/33/contratosmenores/table",
+    "subject": "Contratación de realización de medidas de acompañamento do P",
+    "vendor_name": "EDICIONES BOLANDA SL"
+  },
+  {
+    "amount_eur": 18042.84,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2026-06-16",
+    "record_id": "33:2035703",
+    "source_id": 2035703,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/33/contratosmenores/table",
+    "subject": "Contratación da realización de medidas de acompañamento do P",
+    "vendor_name": "GARDEN PARADELO SL"
+  },
+  {
+    "amount_eur": 18042.84,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2026-06-16",
+    "record_id": "33:2035704",
+    "source_id": 2035704,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/33/contratosmenores/table",
+    "subject": "Contratación da realización de medidas de acompañamento do P",
+    "vendor_name": "GARDEN PARADELO SL"
+  }
+]

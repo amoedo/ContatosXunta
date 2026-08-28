@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 65.45,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-05-13",
+    "record_id": "97:2007429",
+    "source_id": 2007429,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "HONORARIOS REXISTRO MERCANTIL LEGALIZACION LIBROS CONTABLES EXERCICIO 2025",
+    "vendor_name": "MARIA PILAR RODRIGUEZ BUGALLO"
+  },
+  {
+    "amount_eur": 180.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-05-13",
+    "record_id": "97:2008539",
+    "source_id": 2008539,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SERVIZO RESTAURANTE REUNION 05/05/2026 DIRECTOR E XEFE AREA CULTURA CON PRESIDENTE E VICEPR. FEDER. ESPAÑOLA ASOC. AMIGO",
+    "vendor_name": "CABANAS CALVIÑO SAN JAIME, S.L."
+  },
+  {
+    "amount_eur": 65.32,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-05-25",
+    "record_id": "97:2018030",
+    "source_id": 2018030,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "CUOTA RENOVACION DE DOMINIO &#34;XACOBEO.ORG&#34;",
+    "vendor_name": "INFORTELECOM HOSTING SL"
+  }
+]

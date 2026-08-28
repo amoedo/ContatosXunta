@@ -1,0 +1,123 @@
+[
+  {
+    "amount_eur": 66.63,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-05-05",
+    "record_id": "77:2001965",
+    "source_id": 2001965,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Factura 845255408 marzo 2026",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 43.69,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-05-05",
+    "record_id": "77:2001966",
+    "source_id": 2001966,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Factura 845255390 marzo 2026",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 610.32,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-05-13",
+    "record_id": "77:2007844",
+    "source_id": 2007844,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Facturas 78 da serie T15126 e 88 da serie T15126",
+    "vendor_name": "GALICIA DISTRIBUCION DE AUTOMOVILES SA"
+  },
+  {
+    "amount_eur": 70.18,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-05-13",
+    "record_id": "77:2008508",
+    "source_id": 2008508,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "COMPRA BOTELLONES AUGA FUNTE APLU SC",
+    "vendor_name": "CERLIS VENDING SLU"
+  },
+  {
+    "amount_eur": 284.59,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-05-19",
+    "record_id": "77:2013584",
+    "source_id": 2013584,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Factura TU/1035/2026",
+    "vendor_name": "CAETANO FORMULA GALICIA, S.L."
+  },
+  {
+    "amount_eur": 45978.74,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-05-19",
+    "record_id": "77:2013748",
+    "source_id": 2013748,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Obras de demolición das obras consistentes nunha ampliación dunha vivenda unifamiliar no Lugar de praia de Barcela, no t",
+    "vendor_name": "DEMOLICIONES CORUÑA S.L."
+  },
+  {
+    "amount_eur": 91.96,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-05-26",
+    "record_id": "77:2018086",
+    "source_id": 2018086,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Factura 2756 arreglo camara fotos no servizo provincial APLU",
+    "vendor_name": "PEREGRINA CORTIZO DIZ"
+  },
+  {
+    "amount_eur": 3569.5,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-05-27",
+    "record_id": "77:2019032",
+    "source_id": 2019032,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Servizos de dirección de obra e coordinación de seguridade e saúde durante a execución das obras de demolición de obras",
+    "vendor_name": "EVA PALLAS MUIÑO"
+  },
+  {
+    "amount_eur": 59.29,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-05-27",
+    "record_id": "77:2019142",
+    "source_id": 2019142,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Factura 2261016672.-Desprazamento p/ diagnóstico amianto en Viñó -O Hio (Cangas)",
+    "vendor_name": "LABORATORIO DR  F  ECHEVARNE ANALISIS SA"
+  },
+  {
+    "amount_eur": 312.76,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-05-28",
+    "record_id": "77:2020771",
+    "source_id": 2020771,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "COMPRA MATERIAL DE OFICINA APLU SERVIZOS CENTRAIS",
+    "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
+  },
+  {
+    "amount_eur": 18.65,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-05-28",
+    "record_id": "77:2020906",
+    "source_id": 2020906,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "COMPRA MATERIAL DE OFINCA SERVIZO PROVINCIAL PALU OURNSE",
+    "vendor_name": "PUGA LORENZO SL"
+  }
+]

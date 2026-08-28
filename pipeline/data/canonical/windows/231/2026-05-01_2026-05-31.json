@@ -1,0 +1,167 @@
+[
+  {
+    "amount_eur": 9051.62,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-05-07",
+    "record_id": "231:2003312",
+    "source_id": 2003312,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Servizo deseño e execución estudo benchmarking no ámbito da",
+    "vendor_name": "INETUM ESPAÑA SA"
+  },
+  {
+    "amount_eur": 15246.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-05-07",
+    "record_id": "231:2003650",
+    "source_id": 2003650,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Serv. elaboración de informes no marco programas  Ciencia-Em",
+    "vendor_name": "AUDITORES CONSULTORES Y EXPERTOS INDEPENDIENTES SL"
+  },
+  {
+    "amount_eur": 5929.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-05-14",
+    "record_id": "231:2009583",
+    "source_id": 2009583,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Servizo AT apoio ILE6",
+    "vendor_name": "QUADERNAS CONSULTORIA SL"
+  },
+  {
+    "amount_eur": 244.9,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-05-18",
+    "record_id": "231:2011636",
+    "source_id": 2011636,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "BILLETE DE TREN DE RENFE TRAYECTO: MADRID-SANTIAGO-MADRID",
+    "vendor_name": "VIAJES TROTTA SA"
+  },
+  {
+    "amount_eur": 624.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-05-18",
+    "record_id": "231:2012543",
+    "source_id": 2012543,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Comida Grupo expertos",
+    "vendor_name": "CABANAS CALVIÑO SAN JAIME, S.L."
+  },
+  {
+    "amount_eur": 175.01,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-05-18",
+    "record_id": "231:2012551",
+    "source_id": 2012551,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "servizos de comida networking",
+    "vendor_name": "RESTAURACION J.A. BRENLLA SL"
+  },
+  {
+    "amount_eur": 632.5,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-05-19",
+    "record_id": "231:2013036",
+    "source_id": 2013036,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Servizo de transporte de asistentes a 4º reunión de stakehol",
+    "vendor_name": "AUTOS CAMILO SA"
+  },
+  {
+    "amount_eur": 147.5,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-05-27",
+    "record_id": "231:2019722",
+    "source_id": 2019722,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Xantar networking para os participantes na visita institucio",
+    "vendor_name": "MIGUEZ REGO SL"
+  },
+  {
+    "amount_eur": 120.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-05-27",
+    "record_id": "231:2019723",
+    "source_id": 2019723,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Gastos de aloxamento en Vigo, do 6 ao 7 de maio de 2026, de",
+    "vendor_name": "ORGANIZA-TURISMO Y EVENTOS S.L."
+  },
+  {
+    "amount_eur": 146.9,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-05-27",
+    "record_id": "231:2019736",
+    "source_id": 2019736,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "SERVIZO CEA  4 DE MAIO PACE",
+    "vendor_name": "A NOIESA RESTAURANTES S.L."
+  },
+  {
+    "amount_eur": 199.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-05-28",
+    "record_id": "231:2021142",
+    "source_id": 2021142,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Aloxamento en Lisboa directora e condutor",
+    "vendor_name": "ORGANIZA-TURISMO Y EVENTOS S.L."
+  },
+  {
+    "amount_eur": 2540.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-05-29",
+    "record_id": "231:2021574",
+    "source_id": 2021574,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "OBRADOIROS DO PROGRAMA INTERREG EUROPE",
+    "vendor_name": "VIAJES TROTTA SA"
+  },
+  {
+    "amount_eur": 1182.91,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-05-29",
+    "record_id": "231:2021575",
+    "source_id": 2021575,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "PARTICIPACIÓN DÑA.TERESA SIXTO ANELLO NO STAFF EXCHANGE DO P",
+    "vendor_name": "VIAJES TROTTA SA"
+  },
+  {
+    "amount_eur": 8954.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-05-29",
+    "record_id": "231:2021706",
+    "source_id": 2021706,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "S:\\CONTRATACION\\2026\\MENORES\\02. PROGRAMAS\\2026 07 0116_Prox",
+    "vendor_name": "ESTRATEGIA Y ORGANIZACION, SA"
+  },
+  {
+    "amount_eur": 1344.19,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-05-29",
+    "record_id": "231:2021945",
+    "source_id": 2021945,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "SUBMINISTRACION DE CADEIRAS DE OFICINA. Nº EXPEDIENTE 2026_A",
+    "vendor_name": "KL 1 MOBILIARIO OFICINA SL"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "amount_eur": 114.95,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-04-08",
+    "record_id": "221:1981478",
+    "source_id": 1981478,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Elaboración, deseño e montaxe dun panel informativo para o acto de aprobación do proxecto dunha glorieta na AC-418 (Malp",
+    "vendor_name": "LAU CREACIONS SL"
+  },
+  {
+    "amount_eur": 809.84,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-04-08",
+    "record_id": "221:1981479",
+    "source_id": 1981479,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Acto de presentación da actuación: &#34;Aprobación definitiva do proxecto dunha senda na AC-552 en Nantón&#34;.",
+    "vendor_name": "RDSENDE IMAXSON SL"
+  },
+  {
+    "amount_eur": 1493.14,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-04-08",
+    "record_id": "221:1981499",
+    "source_id": 1981499,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Acto de presentación da &#34;Licitación dunha senda na AC-862, en Ortigueira&#34;.",
+    "vendor_name": "SANTACOMPAÑA PRODUCCIONES"
+  },
+  {
+    "amount_eur": 7393.1,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-04-09",
+    "record_id": "221:1982377",
+    "source_id": 1982377,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Acto de firma e presentación do Convenio de Colaboración entre a Xunta e o concello de O Grove, para o impulso de humani",
+    "vendor_name": "G 64 COMUNICACION, SL"
+  },
+  {
+    "amount_eur": 123.38,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-04-15",
+    "record_id": "221:1986390",
+    "source_id": 1986390,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Subministración de auga embotellada",
+    "vendor_name": "CULLIGAN WATER SPAIN SL"
+  },
+  {
+    "amount_eur": 16819.0,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-04-20",
+    "record_id": "221:1990127",
+    "source_id": 1990127,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Mellora da accesibilidade da PO-264 na travesía de Arcade, PPQQ 2+160 a 2+270 (rúa Roxelio Landeiro)",
+    "vendor_name": "MUÑIZ MAS ALFAYA SL"
+  },
+  {
+    "amount_eur": 126.86,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-04-20",
+    "record_id": "221:1990474",
+    "source_id": 1990474,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Nº pedido: 74062948 - Nº albarán: 74062948",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 219.72,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-04-20",
+    "record_id": "221:1990475",
+    "source_id": 1990475,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Nº pedido: 74062948 - Nº albarán: 74062948",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 48325.29,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-04-22",
+    "record_id": "221:1992997",
+    "source_id": 1992997,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Construción de muro na PO-253. T.M. de Ponteareas",
+    "vendor_name": "CONSTRUCCIONES Y OBRAS TABOADA RAMOS SL"
+  },
+  {
+    "amount_eur": 48399.01,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-04-23",
+    "record_id": "221:1993359",
+    "source_id": 1993359,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Instalación de varanda na estrada PO-552 no concello de Oia",
+    "vendor_name": "SOCIEDAD ANONIMA DE OBRAS Y SERVICIOS, COPASA"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 7804.5,
+    "duration": "1 mes",
+    "organism_id": 169,
+    "publication_date": "2026-04-02",
+    "record_id": "169:1978496",
+    "source_id": 1978496,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/169/contratosmenores/table",
+    "subject": "Produción da obra Falaría das estacións pero non me queda ningunha expo As estacións do ano",
+    "vendor_name": "NOA CASTRO LEMA"
+  },
+  {
+    "amount_eur": 3932.5,
+    "duration": "1 mes",
+    "organism_id": 169,
+    "publication_date": "2026-04-02",
+    "record_id": "169:1978497",
+    "source_id": 1978497,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/169/contratosmenores/table",
+    "subject": "montaxe da instalación Horizonte/5 para a exposición As estacións do ano",
+    "vendor_name": "MARIA NUÑEZ VEIGA"
+  },
+  {
+    "amount_eur": 6969.6,
+    "duration": "1 mes",
+    "organism_id": 169,
+    "publication_date": "2026-04-02",
+    "record_id": "169:1978506",
+    "source_id": 1978506,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/169/contratosmenores/table",
+    "subject": "obras e outros traballos no pavemento dos espazos destinado a cocina e barra da cantina do edificio MUS",
+    "vendor_name": "OKANA 21 SL"
+  },
+  {
+    "amount_eur": 605.0,
+    "duration": "1 mes",
+    "organism_id": 169,
+    "publication_date": "2026-04-02",
+    "record_id": "169:1979841",
+    "source_id": 1979841,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/169/contratosmenores/table",
+    "subject": "CONTACONTOS SALA ASOREY.",
+    "vendor_name": "ANACOS EDUCATIVOS S.COOP.GALEGA"
+  }
+]

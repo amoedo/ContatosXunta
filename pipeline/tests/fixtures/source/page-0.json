@@ -1,0 +1,25 @@
+{
+  "draw": 1,
+  "recordsTotal": 461,
+  "recordsFiltered": 3,
+  "data": [
+    {
+      "id": 1920375,
+      "publicado": "26-01-2026",
+      "objeto": "SUBMINISTRACIÓN DE MATERIAL DE OFICINA",
+      "importe": 400.63,
+      "nif": "REDACTED-1        ",
+      "adjudicatario": "PAPELERIA LEDOIRA, S.L.        ",
+      "duracion": "1 mes"
+    },
+    {
+      "id": 1920376,
+      "publicado": "26-01-2026",
+      "objeto": "SUBMINISTRACIÓN DE MATERIAL DE OFICINA",
+      "importe": 1136.07,
+      "nif": "REDACTED-2        ",
+      "adjudicatario": "BRINCO SOLUCIONES INTEGRALES SL        ",
+      "duracion": "1 mes"
+    }
+  ]
+}

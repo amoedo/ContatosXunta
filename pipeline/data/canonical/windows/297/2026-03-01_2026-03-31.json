@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 18081.03,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-03-25",
+    "record_id": "297:1969964",
+    "source_id": 1969964,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "Contrato menor de servizos para a Dirección de obra de Alta 8_14",
+    "vendor_name": "FRANCISCO JAVIER VAZQUEZ FERNANDEZ"
+  },
+  {
+    "amount_eur": 4813.38,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-03-25",
+    "record_id": "297:1969966",
+    "source_id": 1969966,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "Contratación do servizo de coordinación de seguridade e saúde na obra de Alta 8-14",
+    "vendor_name": "MARIA LUCIA SIRVENT SILVEIRA"
+  },
+  {
+    "amount_eur": 16970.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-03-25",
+    "record_id": "297:1969967",
+    "source_id": 1969967,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "Contrato menor de servizo de dirección da execución material da obra de Alta 8-14",
+    "vendor_name": "ELISA PEREZ RODRIGUEZ"
+  },
+  {
+    "amount_eur": 3092.76,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2026-03-25",
+    "record_id": "297:1970844",
+    "source_id": 1970844,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/297/contratosmenores/table",
+    "subject": "LIMPEZA SEDE",
+    "vendor_name": "INTEGRAL PULSE SERVICIOS"
+  }
+]

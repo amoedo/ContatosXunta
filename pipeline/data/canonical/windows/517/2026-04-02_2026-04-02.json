@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 48369.45,
+    "duration": "1 mes",
+    "organism_id": 517,
+    "publication_date": "2026-04-02",
+    "record_id": "517:1979824",
+    "source_id": 1979824,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/517/contratosmenores/table",
+    "subject": "AC.26.003-Obras instalación peche estación bus A Coruña",
+    "vendor_name": "CONSTRUCCIONES Y OBRAS TABOADA RAMOS SL"
+  },
+  {
+    "amount_eur": 665.5,
+    "duration": "1 mes",
+    "organism_id": 517,
+    "publication_date": "2026-04-02",
+    "record_id": "517:1979848",
+    "source_id": 1979848,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/517/contratosmenores/table",
+    "subject": "33 AUTOCROSS O CASTRO",
+    "vendor_name": "ESCUDERIA RALLYACTIVIDAD COMPETICION"
+  }
+]

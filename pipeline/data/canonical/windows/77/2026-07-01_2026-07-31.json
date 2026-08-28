@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 133.58,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-07-10",
+    "record_id": "77:2055196",
+    "source_id": 2055196,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Factura V1/26-001284 suministro ventiladores APLU50",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 54.29,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-07-10",
+    "record_id": "77:2055517",
+    "source_id": 2055517,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Factura 845307929 maio 2026  dixitalización e impresion docu",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 670.32,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-07-13",
+    "record_id": "77:2055836",
+    "source_id": 2055836,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Factura 2261022650.-Desprazamento p/ diagnóstico amianto Nar",
+    "vendor_name": "LABORATORIO DR  F  ECHEVARNE ANALISIS SA"
+  },
+  {
+    "amount_eur": 16.88,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-07-13",
+    "record_id": "77:2056412",
+    "source_id": 2056412,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "Factura 26SF10195026 de 18/03/2026 a 29/06/2026  - plotter",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 52.2,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-07-15",
+    "record_id": "77:2058659",
+    "source_id": 2058659,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "COMPRA MATERIAL DE OFINCA SERVIZO PROVINCIAL APLU  PONTEVEDRA",
+    "vendor_name": "DIG MAR PAPELERIA, SL"
+  },
+  {
+    "amount_eur": 117.92,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-07-15",
+    "record_id": "77:2058818",
+    "source_id": 2058818,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "subject": "COMPRA BOTELLONS FUENTA AGUA APLU SC",
+    "vendor_name": "CERLIS VENDING SLU"
+  }
+]

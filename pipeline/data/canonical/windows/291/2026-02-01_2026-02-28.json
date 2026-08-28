@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 726.0,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-02-06",
+    "record_id": "291:1925959",
+    "source_id": 1925959,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SERVIZOS DE IMPRESIÓN",
+    "vendor_name": "FRANCISCO JAVIER BELVER BAGÜES"
+  },
+  {
+    "amount_eur": 1357.66,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-02-06",
+    "record_id": "291:1926303",
+    "source_id": 1926303,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "PAGAMENTO FACTURAS SUBMINISTRACION MATERIAL DE OFICINA",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 139.94,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-02-06",
+    "record_id": "291:1926468",
+    "source_id": 1926468,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "Servizo das máquinas de impresión no mes de decembro de 2025",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 228.3,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-02-12",
+    "record_id": "291:1930604",
+    "source_id": 1930604,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SERVIZO DE COBERTURA GRÁFICA DE EVENTO INSTITUCIONAL",
+    "vendor_name": "SERGIO PEREZ SANZ"
+  },
+  {
+    "amount_eur": 539.06,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-02-12",
+    "record_id": "291:1931313",
+    "source_id": 1931313,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "PAGAMENTO FACTURAS SUBMINISTRACION MATERIAL DE OFICINA",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  }
+]

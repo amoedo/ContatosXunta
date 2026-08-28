@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 2305.05,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-03-05",
+    "record_id": "141:1951340",
+    "source_id": 1951340,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Material non funxilble rótulos",
+    "vendor_name": "STAR PLANNING, SLU"
+  },
+  {
+    "amount_eur": 18089.47,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-03-19",
+    "record_id": "141:1965745",
+    "source_id": 1965745,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "Servizo de cobertura audiovisual dos actos Xunta de Galicia",
+    "vendor_name": "AGN AXENCIA GALEGA DE NOTICIAS SA"
+  },
+  {
+    "amount_eur": 266.59,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-03-27",
+    "record_id": "141:1973161",
+    "source_id": 1973161,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/141/contratosmenores/table",
+    "subject": "servizo calibraciónn equipo",
+    "vendor_name": "SISTEMAS INTEGRADOS DE SERVICIOS DE TELECONTROL SL"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "amount_eur": 954.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-04",
+    "record_id": "139:1924727",
+    "source_id": 1924727,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "MANTEMENTO XARDÍN DO PAZO DE AMARANTE XANEIRO-DECEMBRO 26",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 400.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-04",
+    "record_id": "139:1924774",
+    "source_id": 1924774,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "BOTELLÍNS AUGA MINERAL CES GALICIA XANEIRO A DECEMBRO 2026",
+    "vendor_name": "DISGOBE SA"
+  },
+  {
+    "amount_eur": 280.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-04",
+    "record_id": "139:1924837",
+    "source_id": 1924837,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "SERVICIOS POSTAIS DE MENSAXERÍA CES XANEIRO A DECEMBRO 2026",
+    "vendor_name": "J C COURIER,SL"
+  },
+  {
+    "amount_eur": 500.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-04",
+    "record_id": "139:1924964",
+    "source_id": 1924964,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "MATERIAL OFICINA CES GALICIA XANEIRO A DECEMBRO 2026",
+    "vendor_name": "BEIROA DUARTE SC"
+  },
+  {
+    "amount_eur": 7700.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-09",
+    "record_id": "139:1926833",
+    "source_id": 1926833,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "SUBMINISTRACIÓN COMBUSTIBLE CALEFACCIÓN (GASOIL) CES GALICIA",
+    "vendor_name": "GALURESA, S.A."
+  },
+  {
+    "amount_eur": 1700.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-09",
+    "record_id": "139:1927592",
+    "source_id": 1927592,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "FOTOCOPIAS DO CES GALICIA XANEIRO A DECEMBRO 2026",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 2900.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-09",
+    "record_id": "139:1927805",
+    "source_id": 1927805,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "PRENSA DIARIA PARA O CES XANEIRO-DECEMBRO 2026",
+    "vendor_name": "BEIROA DUARTE SC"
+  },
+  {
+    "amount_eur": 390.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-10",
+    "record_id": "139:1928879",
+    "source_id": 1928879,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "ALUGUER FONTE AUGA E SUBMINISTRO BIDÓNS XANEIRO A DECEMBRO 2",
+    "vendor_name": "CERLIS VENDING SLU"
+  },
+  {
+    "amount_eur": 392.04,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-11",
+    "record_id": "139:1930156",
+    "source_id": 1930156,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "SERVIDOR VIRTUAL PARA PÁXINA WEB DO CES GALICIA",
+    "vendor_name": "NOMINALIA INTERNET SL"
+  },
+  {
+    "amount_eur": 240.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-16",
+    "record_id": "139:1935076",
+    "source_id": 1935076,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "HOTEL ROUEN PRESIDENTE CES GALICIA COMITÉ ORIENTACIÓNS RTA",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 240.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-16",
+    "record_id": "139:1935077",
+    "source_id": 1935077,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "HOTEL ROUEN SECRETARIO CES GALICIA COMITÉ ORIENTACIÓNS RTA",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 2600.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-19",
+    "record_id": "139:1937408",
+    "source_id": 1937408,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "ENCADERNACIÓN MEMORIA SOCIOECONÓMICA 2024",
+    "vendor_name": "BEIROA DUARTE SC"
+  },
+  {
+    "amount_eur": 209.9,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-23",
+    "record_id": "139:1939132",
+    "source_id": 1939132,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "BILLETE AVIÓN PRESIDENTE VIAXE ROUEN (RTA) IDA",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 209.9,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-23",
+    "record_id": "139:1939133",
+    "source_id": 1939133,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "BILLETE AVIÓN SECRETARIO VIAXE ROUEN (RTA) IDA",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 251.99,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-25",
+    "record_id": "139:1942776",
+    "source_id": 1942776,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "BILLETE AVIÓN PARÍS-OPORTO VIAXE A ROUEN SECRETARIO XERAL CE",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 251.99,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-25",
+    "record_id": "139:1942777",
+    "source_id": 1942777,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "BILLETE AVIÓN PARÍS-OPORTO VIAXE A ROUEN PRESIDENTE CES GALI",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 210.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-25",
+    "record_id": "139:1942778",
+    "source_id": 1942778,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "DESPRAZAMENTO A ROUEN IDA E VOLTA DENDE AEROPORTO VIAXE ROUE",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 210.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-02-25",
+    "record_id": "139:1942779",
+    "source_id": 1942779,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "DESPRAZAMENTO A ROUEN IDA E VOLTA DENDE AEROPORTO VIAXE ROUE",
+    "vendor_name": "BIVES TOUR, SAL"
+  }
+]

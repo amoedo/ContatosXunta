@@ -1,0 +1,101 @@
+[
+  {
+    "amount_eur": 2637.8,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-04-01",
+    "record_id": "144:1977582",
+    "source_id": 1977582,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Inserción do anuncio de aprobación definitiva do expediente expropiatorio, polo procedemento de taxación conxunta, dos b",
+    "vendor_name": "LA REGION SA"
+  },
+  {
+    "amount_eur": 4416.5,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-04-01",
+    "record_id": "144:1977865",
+    "source_id": 1977865,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Revisión e reparación de acometida eléctrica no centro de Montederramo.",
+    "vendor_name": "ELECTRIFICACIONES MIÑONES SL"
+  },
+  {
+    "amount_eur": 1633.5,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-04-01",
+    "record_id": "144:1977866",
+    "source_id": 1977866,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Revisión e reparación de acometida eléctrica no centro de Vilariño de Conso (Ourense)",
+    "vendor_name": "ELECTRIFICACIONES MIÑONES SL"
+  },
+  {
+    "amount_eur": 2964.5,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-04-01",
+    "record_id": "144:1977867",
+    "source_id": 1977867,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Revisión e reparación de acometida eléctrica no centro de Chandrexa de Queixa 2 (Ourense)",
+    "vendor_name": "ELECTRIFICACIONES MIÑONES SL"
+  },
+  {
+    "amount_eur": 1040.6,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-04-01",
+    "record_id": "144:1977976",
+    "source_id": 1977976,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Revisión e reparación de acometida eléctrica no centro de Baleira 3 (Lugo)",
+    "vendor_name": "HALLMAN ENERGIE"
+  },
+  {
+    "amount_eur": 3630.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-04-02",
+    "record_id": "144:1979054",
+    "source_id": 1979054,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Subministración por pedidos sucesivos de gasóleo para o grupo electróxeno do centros emisor de Verin",
+    "vendor_name": "CODISOIL S A"
+  },
+  {
+    "amount_eur": 6171.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-04-10",
+    "record_id": "144:1983519",
+    "source_id": 1983519,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Reparación provisional da acometida do centro de telecomunicacións de Cariño",
+    "vendor_name": "ERGANOR EFICIENCIA SL EN CONSTITUCION"
+  },
+  {
+    "amount_eur": 726.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-04-13",
+    "record_id": "144:1983568",
+    "source_id": 1983568,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Reparación vehículo 7545DSP do centro emisor de Xistral Kangoo 7545DSP",
+    "vendor_name": "JOSE JANEIRO CAZON"
+  },
+  {
+    "amount_eur": 1458.05,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-04-17",
+    "record_id": "144:1989024",
+    "source_id": 1989024,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/144/contratosmenores/table",
+    "subject": "Realización do proxecto oficial de retranqueo da liña de Media Tensión de alimentación ás instalacións de RETEGAL en San",
+    "vendor_name": "TECNORED INGENIERIA SL"
+  }
+]

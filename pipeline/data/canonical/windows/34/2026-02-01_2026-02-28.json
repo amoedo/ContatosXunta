@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 3590.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-02-03",
+    "record_id": "34:1924444",
+    "source_id": 1924444,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Valoración técnica dos criterios avaliables mediante xuicios de valor das ofertas admitidas na licitación Servizo de con",
+    "vendor_name": "BM NEIRA AUDITORES SL"
+  },
+  {
+    "amount_eur": 5553.9,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-02-04",
+    "record_id": "34:1924954",
+    "source_id": 1924954,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Zona Norte: Contrato de mantemento de 3 elevadores no ano 2026",
+    "vendor_name": "ORONA S COOPERATIVA"
+  },
+  {
+    "amount_eur": 18089.5,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-02-12",
+    "record_id": "34:1931275",
+    "source_id": 1931275,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Redacción de Proxecto de Remodelación e mellora das instalacións eléctricas da Zona Sur",
+    "vendor_name": "TALLER DE INGENIERIA MYL,SL"
+  },
+  {
+    "amount_eur": 7986.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-02-12",
+    "record_id": "34:1931292",
+    "source_id": 1931292,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Servicio urxente de reforzo de amarres por incendio declarado no buque Awadi amarrado no porto de Ribeira",
+    "vendor_name": "AMARRADORES DEL PUERTO Y RIA DE FERROL,"
+  },
+  {
+    "amount_eur": 3025.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-02-12",
+    "record_id": "34:1931312",
+    "source_id": 1931312,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Servicio urxente de tala e poda de arbolao na zona de seguridade da LAMT do CT do porto de Santa Mariña de Camariñas",
+    "vendor_name": "CYMCO GALICIA SL"
+  },
+  {
+    "amount_eur": 2420.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-02-20",
+    "record_id": "34:1938148",
+    "source_id": 1938148,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "SSCC: Mantemento do servizo de correo electrónico portosdegalicia.com - 2026_2027",
+    "vendor_name": "ENREDE CLOUD SOLUTIONS"
+  },
+  {
+    "amount_eur": 18029.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-02-23",
+    "record_id": "34:1939527",
+    "source_id": 1939527,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Redacción do proxecto de deseño e instalación de Puntos MARPOL",
+    "vendor_name": "MECANISMO DISEÑO Y CALCULO DE ESTRUCTURAS SL"
+  }
+]

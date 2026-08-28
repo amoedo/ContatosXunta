@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 171.49,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-01-20",
+    "record_id": "18:1907946",
+    "source_id": 1907946,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "copias",
+    "vendor_name": "XESTION DIXITAL COMPOSTELA, SL"
+  },
+  {
+    "amount_eur": 3595.17,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-01-29",
+    "record_id": "18:1921068",
+    "source_id": 1921068,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/18/contratosmenores/table",
+    "subject": "VIAQUA 2026",
+    "vendor_name": "CONCELLO DE SANTIAGO DE COMPOSTELA"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 7564.92,
+    "duration": "1 mes",
+    "organism_id": 308,
+    "publication_date": "2026-07-01",
+    "record_id": "308:2047452",
+    "source_id": 2047452,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/308/contratosmenores/table",
+    "subject": "Servizo de limpeza das bases asistenciais de soporte vital avanzado sitas na cidade da Coruña",
+    "vendor_name": "LIMPIEZAS SALGADO SL"
+  },
+  {
+    "amount_eur": 11972.47,
+    "duration": "1 mes",
+    "organism_id": 308,
+    "publication_date": "2026-07-02",
+    "record_id": "308:2048747",
+    "source_id": 2048747,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/308/contratosmenores/table",
+    "subject": "Servizo de limpeza das  bases asistenciais de soporte vital avanzado sitas na área de Vigo",
+    "vendor_name": "SERLYM GALICIA SL"
+  },
+  {
+    "amount_eur": 5227.2,
+    "duration": "1 mes",
+    "organism_id": 308,
+    "publication_date": "2026-07-02",
+    "record_id": "308:2048778",
+    "source_id": 2048778,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/308/contratosmenores/table",
+    "subject": "Servizo de limpeza da  base asistencial de soporte vital avanzado sita na cidade de Pontevedra",
+    "vendor_name": "LIMPIEZAS FARO SL"
+  },
+  {
+    "amount_eur": 3993.0,
+    "duration": "1 mes",
+    "organism_id": 308,
+    "publication_date": "2026-07-02",
+    "record_id": "308:2048779",
+    "source_id": 2048779,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/308/contratosmenores/table",
+    "subject": "Limpeza da base asistencial de soporte vital avanzado sita na cidade de Ferrol",
+    "vendor_name": "LIMPIEZAS FARO SL"
+  },
+  {
+    "amount_eur": 3339.6,
+    "duration": "1 mes",
+    "organism_id": 308,
+    "publication_date": "2026-07-02",
+    "record_id": "308:2048814",
+    "source_id": 2048814,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/308/contratosmenores/table",
+    "subject": "Servizo de limpeza da base asistencial de soporte vital avanzado sita na cidade de Ourense.",
+    "vendor_name": "INTEGRACION DE ACTIVIDADES MEDIOAMBIENTALES SL"
+  },
+  {
+    "amount_eur": 4933.68,
+    "duration": "1 mes",
+    "organism_id": 308,
+    "publication_date": "2026-07-09",
+    "record_id": "308:2054161",
+    "source_id": 2054161,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/308/contratosmenores/table",
+    "subject": "Servizo de limpeza dos dous módulos situados na base de Barbanza",
+    "vendor_name": "MANTELNOR LIMPIEZAS SL"
+  },
+  {
+    "amount_eur": 6974.44,
+    "duration": "1 mes",
+    "organism_id": 308,
+    "publication_date": "2026-07-09",
+    "record_id": "308:2054400",
+    "source_id": 2054400,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/308/contratosmenores/table",
+    "subject": "Subministración, en réxime arrendamento, de dous módulos para a base asistencial de Barbanza.",
+    "vendor_name": "AGEITOS REGO SEVICIOS DE MANTENIMIENTO"
+  }
+]

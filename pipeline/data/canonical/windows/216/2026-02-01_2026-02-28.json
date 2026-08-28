@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 288.0,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-02-06",
+    "record_id": "216:1926299",
+    "source_id": 1926299,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/216/contratosmenores/table",
+    "subject": "GA26004. FRA.18127. RESTAURACION NA XORNADA DE PRESENTACION",
+    "vendor_name": "GASTROMESA,S.L."
+  },
+  {
+    "amount_eur": 41.14,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-02-06",
+    "record_id": "216:1926338",
+    "source_id": 1926338,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/216/contratosmenores/table",
+    "subject": "PANEL MELLORA DO ABASTACEMENTO E DO SANEAMENTO DE BOBORÁS.EX",
+    "vendor_name": "TECNOLOGIA GALLEGA Y COMUNICACION, SL"
+  },
+  {
+    "amount_eur": 17897.96,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-02-10",
+    "record_id": "216:1928282",
+    "source_id": 1928282,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/216/contratosmenores/table",
+    "subject": "AUG-2026-0021-M.25090 SV. APOIO Á SUPERVISIÓN DAS REVISIÓNS",
+    "vendor_name": "IDOM CONSULTING ENGINEERING ARCHITECTURE SA"
+  },
+  {
+    "amount_eur": 48000.0,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-02-10",
+    "record_id": "216:1928645",
+    "source_id": 1928645,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/216/contratosmenores/table",
+    "subject": "AUG-2026-0008. M25046. OBRA DE MELLORA NO DEPOSITO DE AUGA D",
+    "vendor_name": "VIPECA OBRAS Y SERVICIOS SL"
+  },
+  {
+    "amount_eur": 176282.34,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-02-10",
+    "record_id": "216:1929137",
+    "source_id": 1929137,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/216/contratosmenores/table",
+    "subject": "ABONO GASTOS MANTEMENTO DE EDIFICIOS COMPARTIDOS-ANO 2026",
+    "vendor_name": "XUNTA DE GALICIA"
+  },
+  {
+    "amount_eur": 18142.74,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-02-25",
+    "record_id": "216:1942789",
+    "source_id": 1942789,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/216/contratosmenores/table",
+    "subject": "AUG-2026-0023.M26003. APOIO TECNICO ANALISE OFERTAS EXPTE: E",
+    "vendor_name": "IDOM CONSULTING ENGINEERING ARCHITECTURE SA"
+  }
+]

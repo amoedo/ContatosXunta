@@ -1,0 +1,156 @@
+[
+  {
+    "amount_eur": 18150.0,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-03-19",
+    "record_id": "67:1965382",
+    "source_id": 1965382,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Servicio de revisión financiera en relación con el análisis de las desviaciones económicas del contrato de CONSTRUCCIÓN",
+    "vendor_name": "ERNST & YOUNG SERVICIOS CORPORATIVOS SL"
+  },
+  {
+    "amount_eur": 18150.0,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-03-19",
+    "record_id": "67:1965383",
+    "source_id": 1965383,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Servicio de revisión financiera en relación con el análisis de las desviaciones económicas del contrato de CONCESIÓN DE",
+    "vendor_name": "ERNST & YOUNG SERVICIOS CORPORATIVOS SL"
+  },
+  {
+    "amount_eur": 3385.58,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-03-19",
+    "record_id": "67:1965384",
+    "source_id": 1965384,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Servicio de preparación de áridos reciclados de escorias de la planta termoeléctrica de SOGAMA y transporte hasta el CM",
+    "vendor_name": "GONZALEZ COUCEIRO SL"
+  },
+  {
+    "amount_eur": 11833.8,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-03-19",
+    "record_id": "67:1965387",
+    "source_id": 1965387,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Servicio del estudio geofísico del vertedero de Areosa por métodos eléctricos. 2 campañas (verano e invierno):",
+    "vendor_name": "ENVIRONMENTAL HEALTH AND SAFETY TECHNIQUES SL"
+  },
+  {
+    "amount_eur": 1529.98,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-03-25",
+    "record_id": "67:1969927",
+    "source_id": 1969927,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Servicio de desbroce de la parcela donde se ubica la caseta de Calidad del Aire de Monte Xalo",
+    "vendor_name": "EULEN S A"
+  },
+  {
+    "amount_eur": 1936.0,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-03-25",
+    "record_id": "67:1969929",
+    "source_id": 1969929,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Servicio de verificación de las emisiones de CO2 de SOGAMA de 2025",
+    "vendor_name": "LGAI TECHNOLOGICAL CENTER, SA"
+  },
+  {
+    "amount_eur": 1925.0,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-03-27",
+    "record_id": "67:1972492",
+    "source_id": 1972492,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "LOTE NAVIDAD Nº2",
+    "vendor_name": "NOEL EIRAS GANDARA"
+  },
+  {
+    "amount_eur": 9438.0,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-03-27",
+    "record_id": "67:1972514",
+    "source_id": 1972514,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "COORDINACIÓN DE SEGURIDAD Y SALUD DE LAS OBRAS DE CONSTRUCCIÓN DE LOS VASOS 6 Y 7 DEL VERTEDERO DE RESIDUOS DE AREOSA",
+    "vendor_name": "CIES ATLANTICO SL EN CONSTITUCION"
+  },
+  {
+    "amount_eur": 7204.34,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-03-31",
+    "record_id": "67:1975587",
+    "source_id": 1975587,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Harware, servicios y servicios con desplazamiento",
+    "vendor_name": "MIP CONFIGURACIONES INFORMATICA,SL"
+  },
+  {
+    "amount_eur": 174.6,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-03-31",
+    "record_id": "67:1975588",
+    "source_id": 1975588,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Gastos de peaje incurridos por el personal técnico encargado de la instalación, configuración y puesta en marcha in sit",
+    "vendor_name": "MIP CONFIGURACIONES INFORMATICA,SL"
+  },
+  {
+    "amount_eur": 16698.0,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-03-31",
+    "record_id": "67:1975590",
+    "source_id": 1975590,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Activación de licencias en la WEIAPI en las 24 plantas de transferencia para la comunicación con los dispositivos indic",
+    "vendor_name": "INDUSTRIAL SOLUTIONS SERVIPESA SL"
+  },
+  {
+    "amount_eur": 16571.68,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-03-31",
+    "record_id": "67:1975591",
+    "source_id": 1975591,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Soporte durante la fase de preimplantación y puesta en producción del sistema TRAZA a Coremain así como dar soporte dur",
+    "vendor_name": "INDUSTRIAL SOLUTIONS SERVIPESA SL"
+  },
+  {
+    "amount_eur": 17787.0,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-03-31",
+    "record_id": "67:1975592",
+    "source_id": 1975592,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "SUMINISTRO DE DISPOSITIVOS PARA RECOGIDA DE INFORMACIÓN EN MOTORES DE LA PLANTA DE CLASIFICACIÓN DE RESIDUOS DE ENVASES",
+    "vendor_name": "INOVALABS DIGITAL, S.L."
+  },
+  {
+    "amount_eur": 724.79,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-03-31",
+    "record_id": "67:1975593",
+    "source_id": 1975593,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "R45-ADOC. ROUTER 4G",
+    "vendor_name": "AD HOC DEVELOPMENTS, S.L."
+  }
+]

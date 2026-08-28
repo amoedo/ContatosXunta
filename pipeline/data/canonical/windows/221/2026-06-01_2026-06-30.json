@@ -1,0 +1,134 @@
+[
+  {
+    "amount_eur": 197.68,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-06-03",
+    "record_id": "221:2025327",
+    "source_id": 2025327,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Nº pedido: 74083547 - Nº albarán: 74083547",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 305.42,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-06-03",
+    "record_id": "221:2025328",
+    "source_id": 2025328,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Nº pedido: 74062948 - Nº albarán: 74062948",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 48360.97,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-06-05",
+    "record_id": "221:2027495",
+    "source_id": 2027495,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Senda mixta P.Q. 11+380 - 11+530 na PO-315. Aldán",
+    "vendor_name": "CONSERVACION Y DESARROLLOS GALICIA S.L."
+  },
+  {
+    "amount_eur": 1343.1,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-06-08",
+    "record_id": "221:2028960",
+    "source_id": 2028960,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Acto de aprobación definitiva do proxecto e licitación da obra da senda peonil e ciclista na PO-841 (A Estrada)",
+    "vendor_name": "LOGISTICA GESTION Y SERVICIOS PARA EVENTOS"
+  },
+  {
+    "amount_eur": 43259.92,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-06-15",
+    "record_id": "221:2034339",
+    "source_id": 2034339,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Reposición de varanda e reparación da beirarrúa na PO-371 (Cabral)",
+    "vendor_name": "SERVICIOS MEDIO-AMBIENTALES DEL MIÑO S.L."
+  },
+  {
+    "amount_eur": 114.95,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-06-17",
+    "record_id": "221:2037240",
+    "source_id": 2037240,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Elaboración, deseño e montaxe dun panel informativo, para o acto de presentación da Licitación da senda peonil e ciclist",
+    "vendor_name": "LAU CREACIONS SL"
+  },
+  {
+    "amount_eur": 48390.73,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-06-19",
+    "record_id": "221:2039645",
+    "source_id": 2039645,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Mellora de mobilidade e seguridade vial na AC-418. Seixas. Malpica",
+    "vendor_name": "MANTIDO  SL"
+  },
+  {
+    "amount_eur": 6500.0,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-06-23",
+    "record_id": "221:2041322",
+    "source_id": 2041322,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Actos da Axencia Galega de Infraestruturas",
+    "vendor_name": "AGN AXENCIA GALEGA DE NOTICIAS SA"
+  },
+  {
+    "amount_eur": 1270.5,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-06-23",
+    "record_id": "221:2041889",
+    "source_id": 2041889,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Acto de información pública do proxecto de trazado da mellora da OU-533 entre Viana do Bolo e A Gudiña",
+    "vendor_name": "VETERIS SONIDO E IMAGEN S.L."
+  },
+  {
+    "amount_eur": 17998.75,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-06-24",
+    "record_id": "221:2042526",
+    "source_id": 2042526,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Reportaxe divulgativa para a posta en valor das infraestruturas como panca de progreso no noroeste",
+    "vendor_name": "FARO DE VIGO SA UNIPERSONAL"
+  },
+  {
+    "amount_eur": 47954.96,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-06-24",
+    "record_id": "221:2042685",
+    "source_id": 2042685,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Execución de entubado e gabia de seguridade na contorna do P.Q. 9+000 da AC-163. Concello de Oleiros",
+    "vendor_name": "CONSTRUCCIONES LOPEZ CAO,SL"
+  },
+  {
+    "amount_eur": 10978.34,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-06-24",
+    "record_id": "221:2042909",
+    "source_id": 2042909,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/221/contratosmenores/table",
+    "subject": "Limpeza e desbroce de sendas peonís nas estradas AC-116, AC-123, AC-543 e AC-960",
+    "vendor_name": "COMPOSTELA INSERTA EMPESA DE INSERCION LABORAL SL"
+  }
+]

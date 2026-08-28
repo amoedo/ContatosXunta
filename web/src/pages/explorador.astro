@@ -1,0 +1,10 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import ContractsExplorer from '../components/ContractsExplorer';
+import dashboard from '../../public/data/dashboard.json';
+---
+<BaseLayout title="Explorador | Contratos Xunta" description="Busca, filtra e exporta os contratos menores publicados." descriptionEs="Busca, filtra y exporta los contratos menores publicados.">
+  <PageHero eyebrow="Consulta verificable" eyebrowEs="Consulta verificable" title="Buscar nos contratos publicados" titleEs="Buscar en los contratos publicados" copy="Filtra por ano, organismo ou categoría e abre cada rexistro na fonte oficial." copyEs="Filtra por año, organismo o categoría y abre cada registro en la fuente oficial." />
+  <ContractsExplorer dashboard={dashboard} view="explorer" client:load />
+</BaseLayout>

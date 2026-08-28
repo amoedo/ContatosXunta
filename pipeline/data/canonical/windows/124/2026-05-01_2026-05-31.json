@@ -1,0 +1,200 @@
+[
+  {
+    "amount_eur": 181.5,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2016220",
+    "source_id": 2016220,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0052 - Subministro Toma Auga",
+    "vendor_name": "VEOLIA SERVICIOS NORTE SAU"
+  },
+  {
+    "amount_eur": 2178.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2016221",
+    "source_id": 2016221,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0053 - Reparacións no sistema de extinción de incendios do edificio",
+    "vendor_name": "VEOLIA SERVICIOS NORTE SAU"
+  },
+  {
+    "amount_eur": 12100.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2016222",
+    "source_id": 2016222,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0054 - Reparación arrefriadora",
+    "vendor_name": "VEOLIA SERVICIOS NORTE SAU"
+  },
+  {
+    "amount_eur": 18089.5,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2016455",
+    "source_id": 2016455,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0061 - Seguridade e vixiancia das instalacións do CESGA",
+    "vendor_name": "ILUNION SEGURIDAD SA"
+  },
+  {
+    "amount_eur": 13189.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2016555",
+    "source_id": 2016555,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0047 - Servizo de auditoria de conta xustificativa Proxecto Espazo de Datos",
+    "vendor_name": "AUDITORA  GALEGA  DE  CONTAS   SLP"
+  },
+  {
+    "amount_eur": 750.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2016640",
+    "source_id": 2016640,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0062 - Inscrición International CONgress Education and Knowledge",
+    "vendor_name": "GRUPO KIOBUS SL"
+  },
+  {
+    "amount_eur": 10285.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2016660",
+    "source_id": 2016660,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0058 - Servizo de auditoria do Rgpd e Lopdgdd",
+    "vendor_name": "ADENDA CONSULTORIA JURIDICA S.L."
+  },
+  {
+    "amount_eur": 1210.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2016693",
+    "source_id": 2016693,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0038 - Auditoría interna Calidade ISO 9001 e 50001",
+    "vendor_name": "ADV ECONOMISTAS & ABOGADOS SL"
+  },
+  {
+    "amount_eur": 17545.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2016735",
+    "source_id": 2016735,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0045 -Artigos publicitarios con imaxe do proxecto EDD no marco do PRTR-NEXTGENERATIONEU",
+    "vendor_name": "MANDACARU S.L."
+  },
+  {
+    "amount_eur": 18074.28,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2016886",
+    "source_id": 2016886,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0050 - Servizos integrais para evento peche e divulgación dos resultados do Proxecto PERTE no marco do PRTR-NEX",
+    "vendor_name": "STAR PLANNING, SLU"
+  },
+  {
+    "amount_eur": 18021.9,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2016887",
+    "source_id": 2016887,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0035 - Deseño dun sistema de información en rede no marco do PRTR-NEXTGENERATIONEU",
+    "vendor_name": "TESLA TECHNOLOGIES & SOFTWARE SL"
+  },
+  {
+    "amount_eur": 18137.9,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2016982",
+    "source_id": 2016982,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0042 -Subministro de computadores portátiles",
+    "vendor_name": "ITWISE TECHNOLOGY SERVICES SL"
+  },
+  {
+    "amount_eur": 60439.5,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2016983",
+    "source_id": 2016983,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0059 - PCs para hosting de FPGAs en laboratorio experimental de DRAMS no marco do PRTR-NEXTGENERATIONEU",
+    "vendor_name": "ITWISE TECHNOLOGY SERVICES SL"
+  },
+  {
+    "amount_eur": 4477.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2016995",
+    "source_id": 2016995,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0039 - Auditoría Calidade externa 2025",
+    "vendor_name": "DET NORSKE VERITAS BUSINESS ASSURANCE ESPAÑA SL"
+  },
+  {
+    "amount_eur": 59653.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2016996",
+    "source_id": 2016996,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0040 - Programa formativo especializado en EDD",
+    "vendor_name": "ATOS IT SOLUTIONS AND SERVICES IBERIA SL"
+  },
+  {
+    "amount_eur": 17847.5,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2017076",
+    "source_id": 2017076,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0044 - Participación Biodays 2026 para difusión proxecto Demostrador Multisectorial DATAlife no marco do PRTR-N",
+    "vendor_name": "ASOC.BIOGA-CLUTER TECNOL.EMP.DE CIENCIAS DA VIDA"
+  },
+  {
+    "amount_eur": 4000.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2017078",
+    "source_id": 2017078,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0057 - Patrocinio da La Ricotta Summer School: The Quantum in the Haystack",
+    "vendor_name": "ASOC CULTURAL LA RICOTTA"
+  },
+  {
+    "amount_eur": 59616.84,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-05-22",
+    "record_id": "124:2017102",
+    "source_id": 2017102,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/124/contratosmenores/table",
+    "subject": "CTS-2026-0021 -Seguimento despregue infraestrutura para experimentación en fotónica cuántica no marco do PRTR NEXTGENERA",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  }
+]

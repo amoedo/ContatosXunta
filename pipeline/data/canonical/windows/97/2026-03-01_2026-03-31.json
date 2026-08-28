@@ -1,0 +1,145 @@
+[
+  {
+    "amount_eur": 371.25,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-03-04",
+    "record_id": "97:1948648",
+    "source_id": 1948648,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SERVIZO GUÍA OFICIAL DE TURISMO E ALUGUER 36 RADIOGUIAS PARA VISITA DUN GRUPO DE EMPRESARIOS COREANOS",
+    "vendor_name": "MARIA INMACULADA VARELA SUAREZ"
+  },
+  {
+    "amount_eur": 924.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-03-16",
+    "record_id": "97:1960718",
+    "source_id": 1960718,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SERVIZO DE COMIDA EN SAMOS PARA ASISTENTES Á REUNION DE TRABALLO DO PROGRAMA ULTREIA SUDOE S1/4.6/E0068 EN GALICIA",
+    "vendor_name": "IRIA RODRIGUEZ RIVAS"
+  },
+  {
+    "amount_eur": 245.19,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-03-16",
+    "record_id": "97:1960752",
+    "source_id": 1960752,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SERVIZO DE ALMORZO E CAFÉ EN SAMOS PARA ASISTENTES REUNIÓN DE TRABALLO DO PROGRAMA ULTREIA SUDOE S1/4.6/E0068 EN GALICIA",
+    "vendor_name": "ANA MARIA LOPEZ LOPEZ"
+  },
+  {
+    "amount_eur": 824.19,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-03-16",
+    "record_id": "97:1961110",
+    "source_id": 1961110,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "BILLETE DE AVION PARA DIRECTOR S.A. XESTION XACOBEO PARA ASISTENCIA INAUGURACION MOUTEIRA  DO CAMIÑO EN SICILIA",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 490.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-03-16",
+    "record_id": "97:1961585",
+    "source_id": 1961585,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SERVIZO DE CEA NO CEBREIRO PARA OS ASISTENTES Á REUNIÓN DE TRABALLO DO PROGRAMA ULTREIA SUDOE S1/4.6/E0068 EN GALICIA",
+    "vendor_name": "HOTEL O CEBREIRO SL"
+  },
+  {
+    "amount_eur": 718.91,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-03-18",
+    "record_id": "97:1964372",
+    "source_id": 1964372,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "BILETES DE AVION IDA E VOLTA PARTICIPACION DIRECTOR NO FORO &#34;RUTAS DEL CAMINO DE SANTIAGO EN UCRAINA&#34;",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 62.73,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-03-23",
+    "record_id": "97:1967521",
+    "source_id": 1967521,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "HONORARIOS REXISTRO MERCANTIL LEGALIZACION LIBROS CONTABLES EXERCICIO 2025 DA SA DE XESTION PLAN XACOBEO E",
+    "vendor_name": "MARIA PILAR RODRIGUEZ BUGALLO"
+  },
+  {
+    "amount_eur": 6826.05,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-03-23",
+    "record_id": "97:1967525",
+    "source_id": 1967525,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "HONORARIOS DOCUMENTACIÓN E XESTIONS LEGALIZACION INDUSTRIA INSTALACION ELECTRICA ALBERGUE DE PORRIÑO",
+    "vendor_name": "VICTOR SANCHEZ VILLAR"
+  },
+  {
+    "amount_eur": 503.42,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-03-23",
+    "record_id": "97:1967533",
+    "source_id": 1967533,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SERVIZO DE COPIAS FOTOCOPIADORA BIZHUB 550i KONICA MINOLTA DURANTE O ANO 2025",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 704.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-03-23",
+    "record_id": "97:1967535",
+    "source_id": 1967535,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SERVIZO DE RESTAURANTE (14 PAX.) PARA CEA VISITA INSTITUCIONAL DELEGACION PROVINCIA DE CORDOBA (ARXENTINA)",
+    "vendor_name": "CABANAS CALVIÑO SAN JAIME, S.L."
+  },
+  {
+    "amount_eur": 420.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-03-31",
+    "record_id": "97:1976590",
+    "source_id": 1976590,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "TRANSPORTE PARA MEMBROS DO CONSORCIO ASISTENTES Á REUNION DE TRABALLO DO PROGRAMA ULTREIA SUDOE S1/4.6/E0068 EN SAMOS",
+    "vendor_name": "AUTOCARES RIAS BAIXAS SL"
+  },
+  {
+    "amount_eur": 4348.74,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-03-31",
+    "record_id": "97:1976660",
+    "source_id": 1976660,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SERVIZO DE CONSULTORÍA TECNOLÓXICA PARA INFORMES PARAMETRIZADOS SOBRE FLUXOS DE PEREGRINOS NO TRAMO CEBREIRO-SARRIA",
+    "vendor_name": "SEEKETING, S.L."
+  },
+  {
+    "amount_eur": 720.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-03-31",
+    "record_id": "97:1977036",
+    "source_id": 1977036,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "subject": "SERVIZO DE COMIDA PARA 15 PERSOAS O 10/03/2026 EN TRIACASTELA PARA ASISTENTES REUNION DE TRABALLO PROGRAMA ULTREIA-SUDOE",
+    "vendor_name": "COMPLEXO XACOBEO, CB"
+  }
+]

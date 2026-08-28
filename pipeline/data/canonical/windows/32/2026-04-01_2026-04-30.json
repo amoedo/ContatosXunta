@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 1403.6,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-04-02",
+    "record_id": "32:1978550",
+    "source_id": 1978550,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-22 Presentacion Evento Leader 35 anos facendo medrar o rural entre todos",
+    "vendor_name": "LUCIA RODRIGUEZ VAZQUEZ"
+  },
+  {
+    "amount_eur": 11797.5,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-04-10",
+    "record_id": "32:1983170",
+    "source_id": 1983170,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-21 Servicio de vídeos para o evento LEADER: 35 anos facendo medrar o rural entre todos",
+    "vendor_name": "ESEAELE MARKETING DIFERENCIAL SOCIEDAD LIMITADA"
+  },
+  {
+    "amount_eur": 420.02,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-04-10",
+    "record_id": "32:1983199",
+    "source_id": 1983199,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-17 Servicio cambio de rodas Citroen Berlingo 8479KHZ",
+    "vendor_name": "PINAQUE SL"
+  },
+  {
+    "amount_eur": 665.5,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-04-10",
+    "record_id": "32:1983205",
+    "source_id": 1983205,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-23 Aluguer espazos para evento Leader &#34;35 anos facendo medrar o rural entre todos&#34;",
+    "vendor_name": "PAZO VISTA ALEGRE SL"
+  },
+  {
+    "amount_eur": 48.4,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-04-22",
+    "record_id": "32:1992046",
+    "source_id": 1992046,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-35 Lavado de vehículo Opel Corsa 8312MCM",
+    "vendor_name": "JOSE MANUEL GARCIA SANTISO"
+  },
+  {
+    "amount_eur": 52.3,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-04-22",
+    "record_id": "32:1992181",
+    "source_id": 1992181,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-24 Revisión vehículo 8475KHZ",
+    "vendor_name": "SUPERVISION CONTROL SA"
+  },
+  {
+    "amount_eur": 1916.53,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-04-24",
+    "record_id": "32:1994769",
+    "source_id": 1994769,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-13 Subm. mnaterial de oficina non inventariable e outros",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  }
+]

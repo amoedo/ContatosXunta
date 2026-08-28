@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 97.0,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-05-19",
+    "record_id": "273:2013037",
+    "source_id": 2013037,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Parymar abril",
+    "vendor_name": "PARYMAR SA"
+  },
+  {
+    "amount_eur": 141.57,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-05-19",
+    "record_id": "273:2013453",
+    "source_id": 2013453,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Gestoría marzo",
+    "vendor_name": "GESTORIA DE LA TORRE, S.L."
+  },
+  {
+    "amount_eur": 235.71,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-05-20",
+    "record_id": "273:2014548",
+    "source_id": 2014548,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "P. Ledoira 0247340",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 157.57,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-05-28",
+    "record_id": "273:2019892",
+    "source_id": 2019892,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "ELECTRICIDAD",
+    "vendor_name": "ENGIE ELECTRABEL"
+  },
+  {
+    "amount_eur": 185.13,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-05-29",
+    "record_id": "273:2021947",
+    "source_id": 2021947,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "subject": "Gestoría abril",
+    "vendor_name": "GESTORIA DE LA TORRE, S.L."
+  }
+]

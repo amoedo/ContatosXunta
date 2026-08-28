@@ -1,0 +1,200 @@
+[
+  {
+    "amount_eur": 4500.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-20",
+    "record_id": "151:1908153",
+    "source_id": 1908153,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "subministro de gasóleo calefacción 2026",
+    "vendor_name": "GALURESA, S.A."
+  },
+  {
+    "amount_eur": 900.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-20",
+    "record_id": "151:1908157",
+    "source_id": 1908157,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "subministro de auga / aluguer e mantemento coolers 2026",
+    "vendor_name": "CULLIGAN WATER SPAIN SL"
+  },
+  {
+    "amount_eur": 2003.76,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-22",
+    "record_id": "151:1908445",
+    "source_id": 1908445,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "aloxamento e mantemento dos servidores portal web e aplicaci",
+    "vendor_name": "SIXTEMA PROXECTOS DE INFORMACIÓN, SL"
+  },
+  {
+    "amount_eur": 615.68,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-26",
+    "record_id": "151:1920352",
+    "source_id": 1920352,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "Subscripción - Revista Española de Derecho del Trabajo",
+    "vendor_name": "ARANZADI LA LEY, S.A.U."
+  },
+  {
+    "amount_eur": 250.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-26",
+    "record_id": "151:1920355",
+    "source_id": 1920355,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "envíos correos 2026",
+    "vendor_name": "SOCIEDAD ESTATAL CORREOS Y TELEGRAFOS, S.A."
+  },
+  {
+    "amount_eur": 526.85,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-26",
+    "record_id": "151:1920356",
+    "source_id": 1920356,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "envíos Correos diciembre 2025",
+    "vendor_name": "SOCIEDAD ESTATAL CORREOS Y TELEGRAFOS, S.A."
+  },
+  {
+    "amount_eur": 700.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-26",
+    "record_id": "151:1920365",
+    "source_id": 1920365,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "envíos JC Courier 2026",
+    "vendor_name": "J C COURIER,SL"
+  },
+  {
+    "amount_eur": 36.52,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-26",
+    "record_id": "151:1920366",
+    "source_id": 1920366,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "servizos mensaxería decembro 2025",
+    "vendor_name": "J C COURIER,SL"
+  },
+  {
+    "amount_eur": 264.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-26",
+    "record_id": "151:1920367",
+    "source_id": 1920367,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "reciclaxe papel e cartón 2026",
+    "vendor_name": "COGAMI RECICLADO DE GALICIA SL"
+  },
+  {
+    "amount_eur": 22.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-26",
+    "record_id": "151:1920368",
+    "source_id": 1920368,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "recollida papel e cartón decembro 2025",
+    "vendor_name": "COGAMI RECICLADO DE GALICIA SL"
+  },
+  {
+    "amount_eur": 1305.35,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-26",
+    "record_id": "151:1920370",
+    "source_id": 1920370,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "INFORME SOBRE A DIXITALIZACIÓN NOS CONVENIOS COLECTIVOS DO S",
+    "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
+  },
+  {
+    "amount_eur": 581.51,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-26",
+    "record_id": "151:1920371",
+    "source_id": 1920371,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "100 exemplares  PROTOCOLO PARA PREVENCIÓN E ACTUACIÓN FRENTE",
+    "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
+  },
+  {
+    "amount_eur": 416.24,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-26",
+    "record_id": "151:1920374",
+    "source_id": 1920374,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "XXI EGRL - Entrega e montaxe roll-ups",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 70.18,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-26",
+    "record_id": "151:1920377",
+    "source_id": 1920377,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "dominio revistagalegadedereitosocialdocgrl.gal 2026",
+    "vendor_name": "SIXTEMA PROXECTOS DE INFORMACIÓN, SL"
+  },
+  {
+    "amount_eur": 5759.6,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-26",
+    "record_id": "151:1920378",
+    "source_id": 1920378,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "asistencias técnicas portal web 2026",
+    "vendor_name": "SIXTEMA PROXECTOS DE INFORMACIÓN, SL"
+  },
+  {
+    "amount_eur": 6140.76,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-26",
+    "record_id": "151:1920379",
+    "source_id": 1920379,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "asistencias técnicas base de datos/aplicación web de Conveni",
+    "vendor_name": "SIXTEMA PROXECTOS DE INFORMACIÓN, SL"
+  },
+  {
+    "amount_eur": 344.25,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-26",
+    "record_id": "151:1920392",
+    "source_id": 1920392,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "50 RATON DIGUAN CON GRABACIÓN A 1 TINTA 1 POSICION (ref. 195",
+    "vendor_name": "SERVIDEAS SERVICIOS INTEGRALES SLL"
+  },
+  {
+    "amount_eur": 7000.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-01-26",
+    "record_id": "151:1920396",
+    "source_id": 1920396,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "Arrendamento multicopia + custo copias",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  }
+]

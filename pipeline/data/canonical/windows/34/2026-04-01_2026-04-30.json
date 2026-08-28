@@ -1,0 +1,134 @@
+[
+  {
+    "amount_eur": 6047.58,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-04-02",
+    "record_id": "34:1978542",
+    "source_id": 1978542,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Realización de control arqueolóxico da dragaxe nos portos de Maniños-Barallobre e Pontedeume",
+    "vendor_name": "ANGEL MARCELO RODRIGUEZ CASTRO"
+  },
+  {
+    "amount_eur": 17278.8,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-04-02",
+    "record_id": "34:1979324",
+    "source_id": 1979324,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Realización de batimetrías en varios portos das Zonas Norte e Centro",
+    "vendor_name": "TOPCAD INGENIERIA SL"
+  },
+  {
+    "amount_eur": 9359.35,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-04-02",
+    "record_id": "34:1979446",
+    "source_id": 1979446,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Redacción do proxecto de Mellora de abrigo no porto de Morás. Fase 1",
+    "vendor_name": "MC VALNERA SLU"
+  },
+  {
+    "amount_eur": 8470.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-04-08",
+    "record_id": "34:1980812",
+    "source_id": 1980812,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Redacción do proxecto de finalización dos traballos de reforma da nave S.D. Tirán no porto de Moaña",
+    "vendor_name": "CRISTOBAL ANGEL OCARIZ MEANA"
+  },
+  {
+    "amount_eur": 4617.48,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-04-08",
+    "record_id": "34:1981126",
+    "source_id": 1981126,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Ribadeo: Búsqueda e reparación fuga na rede xeral do peirao de Mirasol",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 12701.37,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-04-15",
+    "record_id": "34:1986579",
+    "source_id": 1986579,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Barallobre: Sinalización de corte de viario por motivos de seguridade",
+    "vendor_name": "CONSTRUC  Y CANALIZACIONES JOSE SAA S L"
+  },
+  {
+    "amount_eur": 2737.65,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-04-17",
+    "record_id": "34:1988728",
+    "source_id": 1988728,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "SSCC: Mantemento hardware e software do sistema de control horario (NETTIME-SPEC)",
+    "vendor_name": "SPEC, S.A."
+  },
+  {
+    "amount_eur": 23837.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-04-21",
+    "record_id": "34:1991500",
+    "source_id": 1991500,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Instalación de marquesina na contorna do porto de Malpica",
+    "vendor_name": "MARTINEZ Y CAAMAÑO SL"
+  },
+  {
+    "amount_eur": 18142.74,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-04-22",
+    "record_id": "34:1992488",
+    "source_id": 1992488,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Monitorización en continuo de turbidez en puntos de control das rías de Ferrol, Ares e Betanzos",
+    "vendor_name": "ZUMALAB SL UNIPERSONAL"
+  },
+  {
+    "amount_eur": 17962.75,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-04-22",
+    "record_id": "34:1992519",
+    "source_id": 1992519,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Dirección ambiental da obra Dragaxe nos portos de Maniños-Barallobre, Miño e Pontedeume",
+    "vendor_name": "TECNO AMBIENTE SL"
+  },
+  {
+    "amount_eur": 15694.91,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-04-22",
+    "record_id": "34:1992520",
+    "source_id": 1992520,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Traballos de vixilancia ambiental da obra Mellora de abrigo e ampliación de atracadas no porto de Portosín",
+    "vendor_name": "TECNO AMBIENTE SL"
+  },
+  {
+    "amount_eur": 8470.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-04-29",
+    "record_id": "34:1998182",
+    "source_id": 1998182,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "subject": "Modificación do proxecto de deseño e instalación de módulos para almacenaxe de útiles de pesca no porto de Sanxenxo",
+    "vendor_name": "IGLESIAS VEIGA ARQUITECTOS, S.L.P."
+  }
+]

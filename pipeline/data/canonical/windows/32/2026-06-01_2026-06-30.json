@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 10110.65,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-06-15",
+    "record_id": "32:2033908",
+    "source_id": 2033908,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-31 Servizo de asisentcia técnica - Paisactivo",
+    "vendor_name": "ESTRATEGIA Y ORGANIZACION, SA"
+  },
+  {
+    "amount_eur": 18065.3,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-06-15",
+    "record_id": "32:2034839",
+    "source_id": 2034839,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-47  Patrocinio &#34;3º Olimpiadas rurais&#34;  Colectivo Hércules",
+    "vendor_name": "CLUB COLECTIVO HERCULES"
+  },
+  {
+    "amount_eur": 17847.5,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-06-16",
+    "record_id": "32:2035865",
+    "source_id": 2035865,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-45 Plan_formacion_mulleres_WOMENALIA SL",
+    "vendor_name": "WOMENALIA DE GESTION SL"
+  },
+  {
+    "amount_eur": 18089.5,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-06-16",
+    "record_id": "32:2036129",
+    "source_id": 2036129,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-49 Patrocinio III FESTIVAS RURAL PRETORIANOS CLUB",
+    "vendor_name": "PRETORIANOS CLUB"
+  },
+  {
+    "amount_eur": 18029.0,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-06-16",
+    "record_id": "32:2036135",
+    "source_id": 2036135,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/32/contratosmenores/table",
+    "subject": "CM26-56 Estudo de politicas e proceso participativo FGS",
+    "vendor_name": "FUNDACION GALICIA SUSTENTABLE"
+  }
+]

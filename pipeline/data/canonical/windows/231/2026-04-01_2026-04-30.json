@@ -1,0 +1,189 @@
+[
+  {
+    "amount_eur": 392.04,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-01",
+    "record_id": "231:1977925",
+    "source_id": 1977925,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "audiovisuais EIC",
+    "vendor_name": "IT EVENT SERVICES SPAIN SL"
+  },
+  {
+    "amount_eur": 104.2,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-01",
+    "record_id": "231:1978225",
+    "source_id": 1978225,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Comida Networking CL2",
+    "vendor_name": "MIGUEZ REGO SL"
+  },
+  {
+    "amount_eur": 392.04,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-09",
+    "record_id": "231:1982380",
+    "source_id": 1982380,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Infoday convocatorias Horizonte Europa CL2: Cultura, creativ",
+    "vendor_name": "IT EVENT SERVICES SPAIN SL"
+  },
+  {
+    "amount_eur": 10043.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-09",
+    "record_id": "231:1982655",
+    "source_id": 1982655,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Servizo secretaría técnica apoio e seguimento participación",
+    "vendor_name": "INGENYUS MARKETING INTELIGENTE, SL."
+  },
+  {
+    "amount_eur": 835.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-14",
+    "record_id": "231:1985431",
+    "source_id": 1985431,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Final Review Meeting do proxecto AI_REDGIO",
+    "vendor_name": "GRUPO VIAXES JELBAL, S.L.L."
+  },
+  {
+    "amount_eur": 580.8,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-15",
+    "record_id": "231:1985766",
+    "source_id": 1985766,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Elaboración e impresión de 2 roll-up e 2 carteis para a divu",
+    "vendor_name": "JAVIER SANCHEZ CASTRILLON"
+  },
+  {
+    "amount_eur": 121.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-15",
+    "record_id": "231:1985767",
+    "source_id": 1985767,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Roll up Picobello",
+    "vendor_name": "JAVIER SANCHEZ CASTRILLON"
+  },
+  {
+    "amount_eur": 240.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-15",
+    "record_id": "231:1985955",
+    "source_id": 1985955,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Aloxamento Madrid, feira Science for Industry 2026.",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 220.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-15",
+    "record_id": "231:1985956",
+    "source_id": 1985956,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Billetes avión a Madrid: Feira Science for Industry 2026.",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 244.99,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-15",
+    "record_id": "231:1986542",
+    "source_id": 1986542,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Gastos de Desprazamento e aloxamento de Adeline Marcos Talva",
+    "vendor_name": "GRUPO VIAXES JELBAL, S.L.L."
+  },
+  {
+    "amount_eur": 900.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-22",
+    "record_id": "231:1992596",
+    "source_id": 1992596,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "xestión viaxe relatores EIC",
+    "vendor_name": "GRUPO VIAXES JELBAL, S.L.L."
+  },
+  {
+    "amount_eur": 132.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-28",
+    "record_id": "231:1996308",
+    "source_id": 1996308,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "PAUSA CAFE BREAK CON FECHA 13 DE MARZO",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 132.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-28",
+    "record_id": "231:1996309",
+    "source_id": 1996309,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "PAUSA CAFE BREAK CON FECHA 10 DE ABRIL",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 67.46,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-28",
+    "record_id": "231:1996930",
+    "source_id": 1996930,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Cápsulas cafe para a máquina da Sala de Xuntas",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 907.5,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-30",
+    "record_id": "231:1998424",
+    "source_id": 1998424,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "Servizo enxeñaría punto recarga vehiculo eléctrico",
+    "vendor_name": "MIGUEL ANGEL CORREDOIRA LADO"
+  },
+  {
+    "amount_eur": 1427.55,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-30",
+    "record_id": "231:1998566",
+    "source_id": 1998566,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "VIAXE COPENHAGUE BEST DIH",
+    "vendor_name": "VIAJES TROTTA SA"
+  },
+  {
+    "amount_eur": 368.16,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-04-30",
+    "record_id": "231:1998567",
+    "source_id": 1998567,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/231/contratosmenores/table",
+    "subject": "viaxes Consello Asesor",
+    "vendor_name": "VIAJES TROTTA SA"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 18.86,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-03-03",
+    "record_id": "23:1948271",
+    "source_id": 1948271,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "consumo fotocopiadora KM Bizhub do IGE",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 17968.5,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-03-17",
+    "record_id": "23:1963174",
+    "source_id": 1963174,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "enquisa &#34;sistema educativo, clima escolar e percepción do profesorado en Galicia&#34;",
+    "vendor_name": "INSTITUTO SONDAXE, S.L."
+  },
+  {
+    "amount_eur": 14636.16,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2026-03-17",
+    "record_id": "23:1963176",
+    "source_id": 1963176,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/23/contratosmenores/table",
+    "subject": "&#34;PERCEPCIÓN DA SITUACIÓN DAS MULLERES ENTRE 50 E 60 ANOS EN GALICIA",
+    "vendor_name": "ENQUISA, SL"
+  }
+]

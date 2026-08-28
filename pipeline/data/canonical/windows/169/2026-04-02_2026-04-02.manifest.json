@@ -1,0 +1,11 @@
+{
+  "complete": true,
+  "date_boundaries": "inclusive",
+  "date_end": "2026-04-02",
+  "date_start": "2026-04-02",
+  "generated_at": "2026-08-27T08:30:19Z",
+  "organism_id": 169,
+  "record_count": 4,
+  "records_sha256": "868f3d2fc828fe1fdf3f7dc1987f41648d1e2a9d05677841c069af7b55f267c8",
+  "schema_version": 1
+}

@@ -1,0 +1,9 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import AnalysisRoute from '../components/AnalysisRoute';
+---
+<BaseLayout title="Organismos | Contratos Xunta" description="Actividade contractual por organismo e categoría institucional." descriptionEs="Actividad contractual por organismo y categoría institucional.">
+  <PageHero eyebrow="Sector público autonómico" eyebrowEs="Sector público autonómico" title="Que organismos contratan máis" titleEs="Qué organismos contratan más" copy="Compara volume, importe e categoría institucional na serie publicada." copyEs="Compara volumen, importe y categoría institucional en la serie publicada." />
+  <AnalysisRoute section="organisms" client:load />
+</BaseLayout>

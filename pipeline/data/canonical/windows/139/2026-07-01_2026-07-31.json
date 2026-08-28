@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 120.92,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-07-03",
+    "record_id": "139:2049448",
+    "source_id": 2049448,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "HOTEL PRESIDENTE BILBAO ATLANTIC CITIES",
+    "vendor_name": "BIVES TOUR, SA"
+  },
+  {
+    "amount_eur": 461.63,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-07-09",
+    "record_id": "139:2054016",
+    "source_id": 2054016,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "BILLETES AVIÓN PRESIDENTE BILBAO ASAMBLEA XERAL ATLANTIC CIT",
+    "vendor_name": "BIVES TOUR, SA"
+  },
+  {
+    "amount_eur": 7260.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-07-09",
+    "record_id": "139:2054544",
+    "source_id": 2054544,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "INFORME POLÍTICAS PÚBLICAS NECESARIAS PARA CAMBIOS DEMOGRÁFI",
+    "vendor_name": "UNIVERSIDADE DE SANTIAGO DE COMPOSTELA"
+  },
+  {
+    "amount_eur": 436.47,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-07-14",
+    "record_id": "139:2057594",
+    "source_id": 2057594,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "LICENCIAS ADOBE PDF",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 600.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-07-28",
+    "record_id": "139:2066997",
+    "source_id": 2066997,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/139/contratosmenores/table",
+    "subject": "PINCHO ASISTENTES PLENO DÍA 06/07/2026 APROBACIÓN MEMORIA SO",
+    "vendor_name": "JOSE RAMON SANCHEZ IGLESIAS"
+  }
+]

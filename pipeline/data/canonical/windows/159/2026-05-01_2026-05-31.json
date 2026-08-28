@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 5893.26,
+    "duration": "1 mes",
+    "organism_id": 159,
+    "publication_date": "2026-05-20",
+    "record_id": "159:2013959",
+    "source_id": 2013959,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/159/contratosmenores/table",
+    "subject": "Informe proxecto arquitectura",
+    "vendor_name": "CRISTOBAL ANGEL OCARIZ MEANA"
+  },
+  {
+    "amount_eur": 18137.9,
+    "duration": "1 mes",
+    "organism_id": 159,
+    "publication_date": "2026-05-20",
+    "record_id": "159:2014555",
+    "source_id": 2014555,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/159/contratosmenores/table",
+    "subject": "programa becas youbefy",
+    "vendor_name": "HIGHNOON CONSULTING SOCIEDAD DE BENEFICIO E"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "amount_eur": 228.3,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-03-02",
+    "record_id": "291:1946386",
+    "source_id": 1946386,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SERVIZO DE COBERTURA GRÁFICA",
+    "vendor_name": "SERGIO PEREZ SANZ"
+  },
+  {
+    "amount_eur": 124.32,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-03-02",
+    "record_id": "291:1947106",
+    "source_id": 1947106,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "PAGAMENTO FACTURAS SUBMINISTRACION MATERIAL DE OFICINA",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 35.42,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-03-06",
+    "record_id": "291:1952752",
+    "source_id": 1952752,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "GASTOS DAS MÁQUINAS DE IMPRESION EN XANEIRO DE 2026",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 912.27,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-03-10",
+    "record_id": "291:1955005",
+    "source_id": 1955005,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "PAGAMENTO FACTURAS SUBMINISTRACION MATERIAL DE OFICINA",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 75.83,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-03-18",
+    "record_id": "291:1964762",
+    "source_id": 1964762,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "PAGAMENTO FACTURAS SUBMINISTRACION MATERIAL DE OFICINA",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 904.81,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-03-18",
+    "record_id": "291:1964955",
+    "source_id": 1964955,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "PAGAMENTO FACTURAS SUBMINSTRACIÓN IMPRESIÓNS",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 523.43,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-03-18",
+    "record_id": "291:1964956",
+    "source_id": 1964956,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SUBMINISTRACIÓN DE COPIA IMPRESAS",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 1390.0,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-03-18",
+    "record_id": "291:1965353",
+    "source_id": 1965353,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SERVIZO DE COBERTURA GRÁFICA DE EVENTO INSTITUCIONAL",
+    "vendor_name": "JAVIER BERNAL REVERT"
+  },
+  {
+    "amount_eur": 8298.18,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-03-26",
+    "record_id": "291:1971278",
+    "source_id": 1971278,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "PAGAMENTO FACTURA SUBMINISTRACIÓN UNIFORMIDADES",
+    "vendor_name": "JOSE RODRIGUEZ GOMEZ"
+  },
+  {
+    "amount_eur": 70.53,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-03-30",
+    "record_id": "291:1975283",
+    "source_id": 1975283,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "CONSUMO DAS MÁQUINAS DE IMPRESIÓN NO MES DE FEBREIRO",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 500.0,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-03-31",
+    "record_id": "291:1977063",
+    "source_id": 1977063,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "PAGAMENTO FACTURA COBERTURA GRÁFICA EVENTO INSTITUCIONAL",
+    "vendor_name": "ENNIO LEANZA"
+  }
+]

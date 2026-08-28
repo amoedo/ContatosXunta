@@ -1,0 +1,47 @@
+name: Refresh contract data
+
+on:
+  schedule:
+    - cron: '17 5 * * 1'
+  workflow_dispatch:
+    inputs:
+      history_months:
+        description: Complete rolling months to retain and repair
+        required: true
+        default: '24'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    env:
+      HISTORY_MONTHS: ${{ inputs.history_months || '24' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+      - run: pip install -e './pipeline[dev]'
+      - name: Refresh curated registry
+        run: contratos-xunta discover-entities
+      - name: Repair history and refresh recent months
+        run: contratos-xunta refresh-history --months "$HISTORY_MONTHS"
+      - name: Build public data
+        run: contratos-xunta build-site-data
+      - run: pytest pipeline/tests -q
+      - name: Commit changed data
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pipeline/config/entities.json pipeline/data/canonical/windows
+          git diff --cached --quiet || git commit -m "data: refresh Xunta contracts"
+          git push

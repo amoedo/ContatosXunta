@@ -1,0 +1,134 @@
+[
+  {
+    "amount_eur": 3751.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-04-09",
+    "record_id": "166:1982776",
+    "source_id": 1982776,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Servizo de mantemento preventivo do equipo GCMS 5977 da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "AGILENT TECHNOLOGIES SPAIN SL"
+  },
+  {
+    "amount_eur": 3509.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-04-09",
+    "record_id": "166:1982777",
+    "source_id": 1982777,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Servizo de mantemento preventivo do equipo xerador de nitróxeno PEAK da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "AGILENT TECHNOLOGIES SPAIN SL"
+  },
+  {
+    "amount_eur": 7865.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-04-09",
+    "record_id": "166:1982778",
+    "source_id": 1982778,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Servizo de mantemento preventivo do sistema LCMS 6470 QQQ da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "AGILENT TECHNOLOGIES SPAIN SL"
+  },
+  {
+    "amount_eur": 10890.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-04-10",
+    "record_id": "166:1983105",
+    "source_id": 1983105,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Servizo de mantemento preventivo anual do equipo Acquity Arc (Waters) da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "WATERS CROMATOGRAFIA"
+  },
+  {
+    "amount_eur": 1210.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-04-10",
+    "record_id": "166:1983315",
+    "source_id": 1983315,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración de material funxible para o Laboratorio de Fisicoquímica da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "COMERCIAL HOSPITALARIA GRUPO 3, SL"
+  },
+  {
+    "amount_eur": 3025.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-04-10",
+    "record_id": "166:1983404",
+    "source_id": 1983404,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Servizo de prevención de riscos laborais e vixilancia da saúde para a Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "CONSULTORIA INTEGRAL DE PREVENCION DE RIESGOS LABO"
+  },
+  {
+    "amount_eur": 484.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-04-10",
+    "record_id": "166:1983521",
+    "source_id": 1983521,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Servizo de desinsectación, desratización e desinfección (D.D.D.) das instalacións da Fundación Centro Tecnolóxico da Car",
+    "vendor_name": "COSAPLAG SLUEN CONSTITUCION"
+  },
+  {
+    "amount_eur": 3014.2,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-04-15",
+    "record_id": "166:1986588",
+    "source_id": 1986588,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Servizo de apoio administrativo en materia contable, fiscal e laboral para a Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "ALEN CONSULTING EMPRESARIAL, S.L."
+  },
+  {
+    "amount_eur": 4840.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-04-21",
+    "record_id": "166:1991605",
+    "source_id": 1991605,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Servizo de mantemento anual das fotocopiadoras da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "SISTEMAS DE OFICINA DE OURENSE, S.L."
+  },
+  {
+    "amount_eur": 7260.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-04-21",
+    "record_id": "166:1991642",
+    "source_id": 1991642,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Servizo anual de recollida, transporte e tratamento dos residuos dos laboratorios da Fundación Centro Tecnolóxico da Car",
+    "vendor_name": "HISANTA SL"
+  },
+  {
+    "amount_eur": 1210.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-04-21",
+    "record_id": "166:1991735",
+    "source_id": 1991735,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración de material funxible para o Laboratorio de Fisicoquímica da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "SCHARLAB, SL"
+  },
+  {
+    "amount_eur": 1210.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-04-21",
+    "record_id": "166:1991736",
+    "source_id": 1991736,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/166/contratosmenores/table",
+    "subject": "Subministración de material funxible para o Laboratorio de Fisicoquímica da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "SCHARLAB, SL"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 14958.63,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-05-12",
+    "record_id": "245:2006628",
+    "source_id": 2006628,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/245/contratosmenores/table",
+    "subject": "Impresos taxas modelo A",
+    "vendor_name": "GRAFICAS Y FORMULARIOS SA"
+  },
+  {
+    "amount_eur": 1125.0,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-05-18",
+    "record_id": "245:2011374",
+    "source_id": 2011374,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/245/contratosmenores/table",
+    "subject": "25 mmenus curso Actualización",
+    "vendor_name": "ANA MERCEDES PORTALS CAAMAÑO"
+  },
+  {
+    "amount_eur": 1150.0,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-05-18",
+    "record_id": "245:2012841",
+    "source_id": 2012841,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/245/contratosmenores/table",
+    "subject": "23 Menús Curso actualización",
+    "vendor_name": "A HORTA DO OBRADOIRO SC"
+  },
+  {
+    "amount_eur": 3222.87,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-05-28",
+    "record_id": "245:2019931",
+    "source_id": 2019931,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/245/contratosmenores/table",
+    "subject": "Material merchandising 1100 bolígrafos",
+    "vendor_name": "ALBA MARIA REGO PERNAS"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "amount_eur": 1862.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-04-07",
+    "record_id": "55:1980418",
+    "source_id": 1980418,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "Pago Fact. nº 0001/G26-00065 polos gastos xornada presentación portal ISSGA Nanomateriais 06.03.2026 Coruña",
+    "vendor_name": "LOMAR VIAXES S.L."
+  },
+  {
+    "amount_eur": 3118.17,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-04-07",
+    "record_id": "55:1980511",
+    "source_id": 1980511,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AD polo servizo de impresion folleto Prevención riscos no ma",
+    "vendor_name": "ARTES GRÁFICAS JADFEL, S.L."
+  },
+  {
+    "amount_eur": 311.5,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-04-07",
+    "record_id": "55:1980629",
+    "source_id": 1980629,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "ALMORZO PREVISEL 2026",
+    "vendor_name": "E-6TO SL"
+  },
+  {
+    "amount_eur": 128.42,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-04-13",
+    "record_id": "55:1984167",
+    "source_id": 1984167,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AUGA ISSGA OURENSE 26/01 AO 27/03 DO 2026",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 650.25,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-04-13",
+    "record_id": "55:1984966",
+    "source_id": 1984966,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "Servicio de Dosimetría Personal año 2025",
+    "vendor_name": "CENTRO NACIONAL DE DOSIMETRIA PERSONAL Y"
+  },
+  {
+    "amount_eur": 289.87,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-04-15",
+    "record_id": "55:1985998",
+    "source_id": 1985998,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "-Facturación Contrato Nº 5110195C , para el periodo de fact",
+    "vendor_name": "GENERAL ELECTRIC HEALTHCARE ESPAÑA, S.A."
+  },
+  {
+    "amount_eur": 222.12,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-04-15",
+    "record_id": "55:1986474",
+    "source_id": 1986474,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "CONEXION CENTRAL DE ALARMAS ISSGA SSCC 2 TRIMESTRE",
+    "vendor_name": "SISTEMAS DE SEGURIDAD A1 SL"
+  },
+  {
+    "amount_eur": 37.8,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-04-22",
+    "record_id": "55:1992176",
+    "source_id": 1992176,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "SUMINISTRO AGUA",
+    "vendor_name": "EMPRESA MUNIC DE AGUAS DE CORUÑA"
+  },
+  {
+    "amount_eur": 133.71,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-04-22",
+    "record_id": "55:1992305",
+    "source_id": 1992305,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "Pago fra.nº 940 201164835 Servizo de recollida de unidades hixienicas laboratorio issga Ourense 1T-2026",
+    "vendor_name": "RENTOKIL INITIAL ESPA\\A, S.A."
+  },
+  {
+    "amount_eur": 388.87,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-04-27",
+    "record_id": "55:1995802",
+    "source_id": 1995802,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AD polo servizo de impresion cartel peixarías, carnizarías e",
+    "vendor_name": "AGENCIA GRAFICA GALLEGA SLU"
+  },
+  {
+    "amount_eur": 1391.5,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-04-27",
+    "record_id": "55:1995836",
+    "source_id": 1995836,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AD polo servizo de impresion Triptico Prevención riscos labo",
+    "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
+  },
+  {
+    "amount_eur": 1210.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-04-27",
+    "record_id": "55:1995864",
+    "source_id": 1995864,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "INSERCION REPORTAXE REVISTA AXENDA AGRARIA MES DE ABRIL DE 2026",
+    "vendor_name": "COMUNICANDO CONSULTORIA DE COMUNICACION S.L.U."
+  },
+  {
+    "amount_eur": 1199.44,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-04-27",
+    "record_id": "55:1995964",
+    "source_id": 1995964,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "IMPRESION DOCUMENTACION TECNICA PRESENTACION CAMPAÑA PORTAL",
+    "vendor_name": "ARTES GRÁFICAS JADFEL, S.L."
+  },
+  {
+    "amount_eur": 14950.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-04-27",
+    "record_id": "55:1996069",
+    "source_id": 1996069,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/55/contratosmenores/table",
+    "subject": "AD polo servizo de formación 10 ediccións curso prevención a",
+    "vendor_name": "GESTION PLUS SERVICIOS INTEGRALES A EMPRESAS SL"
+  }
+]

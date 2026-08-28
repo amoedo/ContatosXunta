@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 34780.66,
+    "duration": "1 mes",
+    "organism_id": 159,
+    "publication_date": "2026-02-17",
+    "record_id": "159:1936334",
+    "source_id": 1936334,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/159/contratosmenores/table",
+    "subject": "PAVIMENTACIÓN VÍA ACCESO ELVIÑA I",
+    "vendor_name": "CANARGA, S L"
+  },
+  {
+    "amount_eur": 5747.5,
+    "duration": "1 mes",
+    "organism_id": 159,
+    "publication_date": "2026-02-17",
+    "record_id": "159:1936352",
+    "source_id": 1936352,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/159/contratosmenores/table",
+    "subject": "BANQUILLOS SUPLENTES ACEA DA MA",
+    "vendor_name": "INSTALACIONES DEPORTIVAS GALLEGAS, SL"
+  },
+  {
+    "amount_eur": 17783.0,
+    "duration": "1 mes",
+    "organism_id": 159,
+    "publication_date": "2026-02-17",
+    "record_id": "159:1936730",
+    "source_id": 1936730,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/159/contratosmenores/table",
+    "subject": "SERVIZOS PSICOLOXÍA DEPORTISTAS DGAN",
+    "vendor_name": "COLEXIO OFICIAL DE PSICOLOGOS DE GALICIA"
+  }
+]

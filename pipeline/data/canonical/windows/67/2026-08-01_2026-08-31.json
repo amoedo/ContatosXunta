@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 2371.6,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-08-17",
+    "record_id": "67:2076099",
+    "source_id": 2076099,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Actuaciones en el sistema de pesaje de la planta de transferencia de Ortigueira para su adecuación a las necesidades de",
+    "vendor_name": "INDUSTRIAL SOLUTIONS SERVIPESA SL"
+  },
+  {
+    "amount_eur": 6890.79,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-08-17",
+    "record_id": "67:2076180",
+    "source_id": 2076180,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Ejecución de trabajos adicionales tras la puesta en marcha de las obras de contrucción de la tolva de Biorresiduos de P",
+    "vendor_name": "CIVIS GLOBAL SL"
+  },
+  {
+    "amount_eur": 2541.0,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-08-17",
+    "record_id": "67:2076292",
+    "source_id": 2076292,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Servicio de redacción de Memoria Constructiva para la ampliación de la solera de maniobras para la descarga en la Plant",
+    "vendor_name": "ESTUDIO TECNICO Y CONSULTORIA DE INGENIERIA INTEGR"
+  },
+  {
+    "amount_eur": 623.85,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-08-17",
+    "record_id": "67:2076293",
+    "source_id": 2076293,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/67/contratosmenores/table",
+    "subject": "Suministro tanto de Aparamenta y otros equipos eléctricos, como de repuestos de fontanería, según presupuesto, todos el",
+    "vendor_name": "PADIN LOIS INSTALACIONES SL"
+  }
+]

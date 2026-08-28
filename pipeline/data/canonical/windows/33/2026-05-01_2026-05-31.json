@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 12675.09,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2026-05-18",
+    "record_id": "33:2011648",
+    "source_id": 2011648,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/33/contratosmenores/table",
+    "subject": "Fra OHL SERVICIOS INGEAN, S.A do 15-04-2026",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 10345.5,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2026-05-27",
+    "record_id": "33:2019735",
+    "source_id": 2019735,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/33/contratosmenores/table",
+    "subject": "CONTRATO MEMOR AUDITORIA SEGURIDADE INFORMACIÓN EX. 2026",
+    "vendor_name": "DOOINGIT CIBERSEGURIDAD SL"
+  }
+]

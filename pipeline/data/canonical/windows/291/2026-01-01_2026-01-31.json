@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 400.63,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-01-26",
+    "record_id": "291:1920375",
+    "source_id": 1920375,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SUBMINISTRACIÓN DE MATERIAL DE OFICINA",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 1136.07,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-01-26",
+    "record_id": "291:1920376",
+    "source_id": 1920376,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SUBMINISTRACIÓN DE MATERIAL DE OFICINA",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 480.67,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-01-27",
+    "record_id": "291:1920693",
+    "source_id": 1920693,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SERVIZOS DE IMPRENTA",
+    "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
+  },
+  {
+    "amount_eur": 726.0,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-01-29",
+    "record_id": "291:1920965",
+    "source_id": 1920965,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/291/contratosmenores/table",
+    "subject": "SERVIZOS DE COBERTURA GRÁFICA",
+    "vendor_name": "RAQUEL MANZANARES PABLO"
+  }
+]

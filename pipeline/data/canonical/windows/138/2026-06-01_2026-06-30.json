@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 14700.0,
+    "duration": "1 mes",
+    "organism_id": 138,
+    "publication_date": "2026-06-02",
+    "record_id": "138:2024039",
+    "source_id": 2024039,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/138/contratosmenores/table",
+    "subject": "Servizos de restauración, catering, persoal e loxística para a realización do &#34;Evento cos cociñeiros/as estrelas do cami",
+    "vendor_name": "NCC GALICIA, S.L."
+  },
+  {
+    "amount_eur": 5720.0,
+    "duration": "1 mes",
+    "organism_id": 138,
+    "publication_date": "2026-06-19",
+    "record_id": "138:2039651",
+    "source_id": 2039651,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/138/contratosmenores/table",
+    "subject": "Prestación de servizos de elaboración e servizo de produtos gastronómicos no stand institucional de Galicia Calidade",
+    "vendor_name": "NCC GALICIA, S.L."
+  },
+  {
+    "amount_eur": 18327.0,
+    "duration": "1 mes",
+    "organism_id": 138,
+    "publication_date": "2026-06-19",
+    "record_id": "138:2039873",
+    "source_id": 2039873,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/138/contratosmenores/table",
+    "subject": "Participación de Galicia Calidade no Festival Ibérico  Amigos Para Sempre",
+    "vendor_name": "ASUBIA COMUNICACION SL"
+  },
+  {
+    "amount_eur": 6600.0,
+    "duration": "1 mes",
+    "organism_id": 138,
+    "publication_date": "2026-06-22",
+    "record_id": "138:2040621",
+    "source_id": 2040621,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/138/contratosmenores/table",
+    "subject": "Servizo de catering polo retiro da costiña no Son do Camiño 2026  o día 18 de xuño de 2026",
+    "vendor_name": "FOGON RETIRO DA COSTIÑA SL"
+  },
+  {
+    "amount_eur": 7260.0,
+    "duration": "1 mes",
+    "organism_id": 138,
+    "publication_date": "2026-06-30",
+    "record_id": "138:2046768",
+    "source_id": 2046768,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/138/contratosmenores/table",
+    "subject": "Servizo de promoción da marca Galicia Calidade na II Marcha Cicloturista Eurovelo Compostela 2026",
+    "vendor_name": "ASOC CULTURAL DEPORTIVA E RECREATIVA OS ESCARAVELL"
+  }
+]

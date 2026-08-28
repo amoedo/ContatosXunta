@@ -1,0 +1,200 @@
+[
+  {
+    "amount_eur": 5130.4,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-01",
+    "record_id": "215:2022956",
+    "source_id": 2022956,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "SUBMINISTRACIÓN EQUPOS POSTO DE TRABALLO DX COMUNICACION E SX MEDIOS",
+    "vendor_name": "MICROMEDIA SL"
+  },
+  {
+    "amount_eur": 4000.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-02",
+    "record_id": "215:2023496",
+    "source_id": 2023496,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Servizo de reparación e mantemento de vehículos da AMTEGA",
+    "vendor_name": "LUIS CUTRIN CARBIA"
+  },
+  {
+    "amount_eur": 10887.58,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-04",
+    "record_id": "215:2026165",
+    "source_id": 2026165,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "ADIX-2026-CM-043_SUBMINISTRACIÓN DE UN PUNTO DE ACCESO Á REDE DE iCOUSAS SUBM",
+    "vendor_name": "ELECTRONICA NOROESTE SERVICIOS GENERALES,SL"
+  },
+  {
+    "amount_eur": 18122.17,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-04",
+    "record_id": "215:2026523",
+    "source_id": 2026523,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Mantto subscripción Readspeaker",
+    "vendor_name": "READSPEAKER WEBSERVICES SL"
+  },
+  {
+    "amount_eur": 49.5,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-09",
+    "record_id": "215:2029850",
+    "source_id": 2029850,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Xerencia 2026-CM-928_ SERVICIO DE CATERING EN SALA DEE XUNTAS EL DIA 5 DE MAYO",
+    "vendor_name": "CATERING A CANTINA, SL."
+  },
+  {
+    "amount_eur": 14993.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-11",
+    "record_id": "215:2031211",
+    "source_id": 2031211,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Desenvolvemento de actividades de tempo libre noCampamento Digitalia 2026",
+    "vendor_name": "OSCAR RAMON FREIRE GAGO"
+  },
+  {
+    "amount_eur": 2576.68,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-11",
+    "record_id": "215:2031761",
+    "source_id": 2031761,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "AIS 2026-CM-206_ Servizo de reparación da porta de acceso ao CPD de Domingo Fontán",
+    "vendor_name": "VIDRIERAS COMPOSTELA SL"
+  },
+  {
+    "amount_eur": 11250.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-11",
+    "record_id": "215:2031770",
+    "source_id": 2031770,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Servizo formación tecnolóxica Videoxogos Campamento Digitalia 2026",
+    "vendor_name": "TELEMATICA GALICIA SL"
+  },
+  {
+    "amount_eur": 7986.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-11",
+    "record_id": "215:2032024",
+    "source_id": 2032024,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Servizo formación en Drons no Campamento Digiatlia 2026",
+    "vendor_name": "AEROMEDIA UAV"
+  },
+  {
+    "amount_eur": 10285.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-12",
+    "record_id": "215:2032912",
+    "source_id": 2032912,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "STS_2026_CM_POS_551 servizo De mantemento preventivo de terminais de teleasistencia",
+    "vendor_name": "INFORHOUSE S L"
+  },
+  {
+    "amount_eur": 9570.56,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-15",
+    "record_id": "215:2033660",
+    "source_id": 2033660,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Subministro dun sistema de medición de nivel de combustible",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 9850.07,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-15",
+    "record_id": "215:2033661",
+    "source_id": 2033661,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "subministro dunha climatizadora para o CPD de Domingo Fontán",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 17587.35,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-16",
+    "record_id": "215:2035573",
+    "source_id": 2035573,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "STS-2026-CM-EDU-450_Servizo de evolución do sistema de xestión de dietas",
+    "vendor_name": "G 64 COMUNICACION, SL"
+  },
+  {
+    "amount_eur": 15155.25,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-22",
+    "record_id": "215:2040876",
+    "source_id": 2040876,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "servizo de migración tecnolóxica dos obxectos dixitais de expropiacións (CEERAE) á ferramenta CEPRAE",
+    "vendor_name": "BITNEUTRO"
+  },
+  {
+    "amount_eur": 18113.7,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-22",
+    "record_id": "215:2040943",
+    "source_id": 2040943,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "STS_2026_CM_MAT_426_Servizo de DESENVOLVEMENTO DE NOVAS FUNCIONALIDADES",
+    "vendor_name": "RAUROS ZMCOM SLU"
+  },
+  {
+    "amount_eur": 5753.38,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-23",
+    "record_id": "215:2041469",
+    "source_id": 2041469,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "200 teléfonos inalámbricos (contrato menor AIS-2026-CM-202)",
+    "vendor_name": "SISTEMAS AVANZADOS DE TECNOLOGIA, S.A."
+  },
+  {
+    "amount_eur": 5760.6,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-29",
+    "record_id": "215:2044879",
+    "source_id": 2044879,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "ADIX-2026-CM-047_ Servizo de Soporte OTRS  On-Premise para a contorna de PRE-produción",
+    "vendor_name": "SINGULAR PEOPLE EUROPE SL"
+  },
+  {
+    "amount_eur": 13824.59,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-06-29",
+    "record_id": "215:2045350",
+    "source_id": 2045350,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/215/contratosmenores/table",
+    "subject": "Auditoría eléctrica do CPDI (contrato menor AIS-2026-CM-201)",
+    "vendor_name": "POWERNET I SL"
+  }
+]

@@ -1,0 +1,2 @@
+[console_scripts]
+contratos-xunta = contratos_xunta.cli:main

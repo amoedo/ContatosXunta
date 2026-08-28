@@ -1,0 +1,101 @@
+[
+  {
+    "amount_eur": 684.5,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-02-26",
+    "record_id": "37:1944255",
+    "source_id": 1944255,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "PAGO FRA JUAN CARLOS NEIRA",
+    "vendor_name": "JOSE CARLOS NEIRA FERNANDEZ"
+  },
+  {
+    "amount_eur": 500.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-02-26",
+    "record_id": "37:1944508",
+    "source_id": 1944508,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "SUMINISTRO e CANON DA AUGA 2026",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 296.5,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-02-26",
+    "record_id": "37:1944570",
+    "source_id": 1944570,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "ALUGUER FONTE DE AUGA PARA CONSUMO DO PERSOAL 2026",
+    "vendor_name": "CULLIGAN WATER SPAIN SL"
+  },
+  {
+    "amount_eur": 440.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-02-26",
+    "record_id": "37:1944598",
+    "source_id": 1944598,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "servicio de autobuses dentro do desenv. da xornada INNOMAR",
+    "vendor_name": "AUTOS RICO SL"
+  },
+  {
+    "amount_eur": 8712.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-02-26",
+    "record_id": "37:1944639",
+    "source_id": 1944639,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "XESTIONS DAS REDES SOCIAIS (FACEBOOK, INSTAGRAM,TWITTER e LI",
+    "vendor_name": "OCTO COMUNICACION, S.L."
+  },
+  {
+    "amount_eur": 1089.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-02-26",
+    "record_id": "37:1944640",
+    "source_id": 1944640,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "ESTRATEXIA DE COMUNICACIÓN 4º T 2025",
+    "vendor_name": "OCTO COMUNICACION, S.L."
+  },
+  {
+    "amount_eur": 681.39,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-02-26",
+    "record_id": "37:1944735",
+    "source_id": 1944735,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "SERVIZO DE VIXIANCIA DA SAÚDE E SERVIZO DE PREVENCIÓN",
+    "vendor_name": "TAPREGA PREVENCION DE RIESGOS SL"
+  },
+  {
+    "amount_eur": 18000.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-02-26",
+    "record_id": "37:1944893",
+    "source_id": 1944893,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "PUBLIREPORTAXE DIVULGATIVO",
+    "vendor_name": "PERIODICO ABC, S.L."
+  },
+  {
+    "amount_eur": 10868.92,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-02-27",
+    "record_id": "37:1945824",
+    "source_id": 1945824,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/37/contratosmenores/table",
+    "subject": "Contrato menor - Servizo mantemento informático CIS Galicia",
+    "vendor_name": "ECLIPSE COMUNICACION DIXITAL, SL"
+  }
+]

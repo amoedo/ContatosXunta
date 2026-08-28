@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 1000.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-06-05",
+    "record_id": "151:2027256",
+    "source_id": 2027256,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "subministro e depuración de auga, sumidoiros 2026",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 151.89,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-06-09",
+    "record_id": "151:2029607",
+    "source_id": 2029607,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "material de oficina - mayo 2026",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 457.14,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-06-11",
+    "record_id": "151:2031674",
+    "source_id": 2031674,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "4 tóners orginales HP CF283A",
+    "vendor_name": "INFORMÁTICA RED.SHOP SL"
+  },
+  {
+    "amount_eur": 45.67,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-06-17",
+    "record_id": "151:2036923",
+    "source_id": 2036923,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "renovación de dominio revistagalegadedereitosocial.gal",
+    "vendor_name": "DINAHOSTING  SL"
+  },
+  {
+    "amount_eur": 272.25,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-06-22",
+    "record_id": "151:2040768",
+    "source_id": 2040768,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/151/contratosmenores/table",
+    "subject": "monitor 27&#34; HP series 5 pro 527PQ QHD",
+    "vendor_name": "SOLITIUM SL"
+  }
+]

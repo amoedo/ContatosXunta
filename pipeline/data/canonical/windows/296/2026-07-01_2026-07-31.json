@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 2631.46,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2026-07-21",
+    "record_id": "296:2063304",
+    "source_id": 2063304,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/296/contratosmenores/table",
+    "subject": "[1T2026] Servicios de mantenimiento de ascensores",
+    "vendor_name": "ASCENSORES ENOR SL"
+  },
+  {
+    "amount_eur": 1149.5,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2026-07-21",
+    "record_id": "296:2063305",
+    "source_id": 2063305,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/296/contratosmenores/table",
+    "subject": "[2T2025] Servicios de mantenimiento de ascensores",
+    "vendor_name": "ASCENSORES ENOR SL"
+  },
+  {
+    "amount_eur": 297.6,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2026-07-21",
+    "record_id": "296:2063644",
+    "source_id": 2063644,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/296/contratosmenores/table",
+    "subject": "[2T2026] Servicios de asesoría e información jurídica",
+    "vendor_name": "BALTIC LEI AS"
+  }
+]

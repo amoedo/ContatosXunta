@@ -1,0 +1,101 @@
+[
+  {
+    "amount_eur": 2488.24,
+    "duration": "1 mes",
+    "organism_id": 14,
+    "publication_date": "2026-04-02",
+    "record_id": "14:1978524",
+    "source_id": 1978524,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/14/contratosmenores/table",
+    "subject": "LU-2026-GMX-05_Reparación VPP en Travesía do Miño 7, e en Rúa Miño 26. Lugo",
+    "vendor_name": "JOSE MANUEL LOPEZ FERNANDEZ"
+  },
+  {
+    "amount_eur": 1404.27,
+    "duration": "1 mes",
+    "organism_id": 14,
+    "publication_date": "2026-04-02",
+    "record_id": "14:1978720",
+    "source_id": 1978720,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/14/contratosmenores/table",
+    "subject": "MANTEM 2 EQS. OF TEC. DO 26.03.206 ATE O 25.03.2027.",
+    "vendor_name": "VSM SISTEMAS CORUÑA, SA"
+  },
+  {
+    "amount_eur": 776.67,
+    "duration": "1 mes",
+    "organism_id": 14,
+    "publication_date": "2026-04-02",
+    "record_id": "14:1978724",
+    "source_id": 1978724,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/14/contratosmenores/table",
+    "subject": "INSTAL PLACAS ALUM BRANCO FONDO PAREDE EXTINTORES. SS.CC",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 192.21,
+    "duration": "1 mes",
+    "organism_id": 14,
+    "publication_date": "2026-04-02",
+    "record_id": "14:1979040",
+    "source_id": 1979040,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/14/contratosmenores/table",
+    "subject": "SUBM AUGA E TAXA LIXO CONT. I22BE057529J.",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 25.36,
+    "duration": "1 mes",
+    "organism_id": 14,
+    "publication_date": "2026-04-02",
+    "record_id": "14:1979041",
+    "source_id": 1979041,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/14/contratosmenores/table",
+    "subject": "SUBM AUGA E TAXA CONT. SS.CC. C22SC003708Z.",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 18137.9,
+    "duration": "1 mes",
+    "organism_id": 14,
+    "publication_date": "2026-04-02",
+    "record_id": "14:1979594",
+    "source_id": 1979594,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/14/contratosmenores/table",
+    "subject": "INFRAESTR. AUDIOVISUAL MEETING GALIBUILD EDIF. BANDALUX 12,",
+    "vendor_name": "AUDIOVISUALES MCN, S.L"
+  },
+  {
+    "amount_eur": 1009.14,
+    "duration": "1 mes",
+    "organism_id": 14,
+    "publication_date": "2026-04-02",
+    "record_id": "14:1979615",
+    "source_id": 1979615,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/14/contratosmenores/table",
+    "subject": "INFRAESTR. AUDIOVISUAL VISITA CONSELLEIRA ACTO LICITA CONSTR",
+    "vendor_name": "SANTACOMPAÑA PRODUCCIONES"
+  },
+  {
+    "amount_eur": 6.34,
+    "duration": "1 mes",
+    "organism_id": 14,
+    "publication_date": "2026-04-02",
+    "record_id": "14:1979885",
+    "source_id": 1979885,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/14/contratosmenores/table",
+    "subject": "TAXA LIXO CONT. SS.CC. C22SC003708Z.",
+    "vendor_name": "CONCELLO DE SANTIAGO DE COMPOSTELA"
+  },
+  {
+    "amount_eur": 271.06,
+    "duration": "1 mes",
+    "organism_id": 14,
+    "publication_date": "2026-04-02",
+    "record_id": "14:1979886",
+    "source_id": 1979886,
+    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/14/contratosmenores/table",
+    "subject": "TAXA LIXO CONT. SS.CC. I22BE057529J.",
+    "vendor_name": "CONCELLO DE SANTIAGO DE COMPOSTELA"
+  }
+]

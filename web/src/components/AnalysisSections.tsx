@@ -5,6 +5,8 @@ import {
   type AnalysisData,
   type RankedEntity,
 } from '../lib/analysis';
+import { withBase } from '../lib/basePath';
+import { formatEuro, formatInteger, formatPercent } from '../lib/format';
 
 type Language = 'gl' | 'es';
 export type AnalysisSection = 'timeline' | 'vendors' | 'amounts' | 'organisms';
@@ -93,25 +95,17 @@ const categoryTranslations: Record<string, string> = {
   'Sociedades mercantís públicas autonómicas': 'Sociedades mercantiles públicas autonómicas',
 };
 
-function currency(value: number, language: Language, compact = false) {
-  return new Intl.NumberFormat(language === 'gl' ? 'gl-ES' : 'es-ES', {
-    style: 'currency',
-    currency: 'EUR',
-    notation: compact ? 'compact' : 'standard',
-    maximumFractionDigits: compact ? 1 : 2,
-  }).format(value);
+function currency(value: number, compact = false) {
+  return formatEuro(value, compact);
 }
 
-function percent(value: number, language: Language) {
-  return new Intl.NumberFormat(language === 'gl' ? 'gl-ES' : 'es-ES', {
-    style: 'percent',
-    maximumFractionDigits: 1,
-  }).format(value);
+function percent(value: number) {
+  return formatPercent(value);
 }
 
 function RankingBars({ items, language, year, organisms }: { items: RankedEntity[]; language: Language; year: number | null; organisms: string[] }) {
   const largest = items[0]?.total_amount_eur ?? 1;
-  const explorerPath = `${import.meta.env.BASE_URL}explorador`;
+  const explorerPath = withBase('/explorador');
   return <ol className="analysis-ranking">
     {items.slice(0, 10).map((item, index) => {
       const params = new URLSearchParams({ q: item.name });
@@ -124,7 +118,7 @@ function RankingBars({ items, language, year, organisms }: { items: RankedEntity
           <a href={`${explorerPath}?${params.toString()}`} title={item.name}>{item.name}</a>
           <span className="analysis-bar"><i style={{ width: `${Math.max(2, item.total_amount_eur / largest * 100)}%` }} /></span>
         </div>
-        <strong>{currency(item.total_amount_eur, language, true)}</strong>
+        <strong>{currency(item.total_amount_eur, true)}</strong>
       </li>;
     })}
   </ol>;
@@ -156,7 +150,7 @@ export default function AnalysisSections({
 
   useEffect(() => {
     const controller = new AbortController();
-    fetch(`${import.meta.env.BASE_URL}data/analysis.json`, { signal: controller.signal })
+    fetch(withBase('/data/analysis.json'), { signal: controller.signal })
       .then((response) => {
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         return response.json();
@@ -267,10 +261,10 @@ export default function AnalysisSections({
     </div>
 
     <div className="analysis-kpis">
-      <article><span>{t.median}</span><strong>{currency(scope.summary.median_amount_eur, language)}</strong></article>
-      <article><span>{t.p90}</span><strong>{currency(scope.amounts.percentiles.p90, language)}</strong></article>
-      <article><span>{t.vendors}</span><strong>{scope.summary.unique_vendor_names.toLocaleString(language)}</strong></article>
-      <article><span>{t.top5}</span><strong>{percent(scope.vendors.concentration.top5_share, language)}</strong></article>
+      <article><span>{t.median}</span><strong>{currency(scope.summary.median_amount_eur)}</strong></article>
+      <article><span>{t.p90}</span><strong>{currency(scope.amounts.percentiles.p90)}</strong></article>
+      <article><span>{t.vendors}</span><strong>{formatInteger(scope.summary.unique_vendor_names)}</strong></article>
+      <article><span>{t.top5}</span><strong>{percent(scope.vendors.concentration.top5_share)}</strong></article>
     </div>
 
     {section === 'timeline' && <div className="analysis-block timeline-analysis">
@@ -278,10 +272,10 @@ export default function AnalysisSections({
       {scope.timeseries.monthly.length < 2 && <p className="coverage-warning">{t.limitedTimeline}</p>}
       <div className="month-chart" aria-label={t.timelineNote}>
         {scope.timeseries.monthly.map((item) => <div className="month-column" key={item.key}>
-          <div className="month-value">{currency(item.total_amount_eur, language, true)}</div>
+          <div className="month-value">{currency(item.total_amount_eur, true)}</div>
           <div className="month-bar"><span style={{ height: `${Math.max(5, item.total_amount_eur / largestMonth * 100)}%` }} /></div>
           <strong>{item.key}</strong>
-          <small>{item.record_count.toLocaleString(language)} {t.records}</small>
+          <small>{formatInteger(item.record_count)} {t.records}</small>
         </div>)}
       </div>
     </div>}
@@ -292,11 +286,11 @@ export default function AnalysisSections({
         <div><h4>{t.byAmount}</h4><RankingBars items={scope.vendors.ranking_by_amount} language={language} year={scopeKey === 'all' ? null : Number(scopeKey)} organisms={organismKeys} /></div>
         <div>
           <h4>{t.byCount}</h4>
-          <ol className="count-ranking">{scope.vendors.ranking_by_count.slice(0, 10).map((item, index) => <li key={item.id}><span>{index + 1}</span><strong>{item.name}</strong><b>{item.record_count.toLocaleString(language)}</b></li>)}</ol>
+          <ol className="count-ranking">{scope.vendors.ranking_by_count.slice(0, 10).map((item, index) => <li key={item.id}><span>{index + 1}</span><strong>{item.name}</strong><b>{formatInteger(item.record_count)}</b></li>)}</ol>
           <div className="concentration-strip" aria-label={t.concentration}>
-            <span><small>{t.top1}</small><strong>{percent(scope.vendors.concentration.top1_share, language)}</strong></span>
-            <span><small>{t.top5}</small><strong>{percent(scope.vendors.concentration.top5_share, language)}</strong></span>
-            <span><small>{t.top10}</small><strong>{percent(scope.vendors.concentration.top10_share, language)}</strong></span>
+            <span><small>{t.top1}</small><strong>{percent(scope.vendors.concentration.top1_share)}</strong></span>
+            <span><small>{t.top5}</small><strong>{percent(scope.vendors.concentration.top5_share)}</strong></span>
+            <span><small>{t.top10}</small><strong>{percent(scope.vendors.concentration.top10_share)}</strong></span>
           </div>
         </div>
       </div>
@@ -306,12 +300,12 @@ export default function AnalysisSections({
       <div className="analysis-block-heading"><h3>{t.amounts}</h3><p>{t.amountsNote}</p></div>
       <div className="analysis-two-column amount-layout">
         <div className="amount-bands">{scope.amounts.bands.map((item) => <div key={item.band}>
-          <span><strong>{item.band} €</strong><small>{item.record_count.toLocaleString(language)}</small></span>
+          <span><strong>{item.band} €</strong><small>{formatInteger(item.record_count)}</small></span>
           <i><b style={{ width: `${item.record_count / largestBand * 100}%` }} /></i>
         </div>)}</div>
         <div className="largest-contracts"><h4>{t.largest}</h4>{scope.amounts.largest_contracts.slice(0, 6).map((item) => <article key={item.record_id}>
           <div><strong>{item.subject || '—'}</strong><span>{item.vendor_name} · {item.organism_name}</span></div>
-          <b>{currency(item.amount_eur, language)}</b>
+          <b>{currency(item.amount_eur)}</b>
           <a href={item.source_url} target="_blank" rel="noreferrer" aria-label={t.openSource} title={t.openSource}><ExternalLink size={16} /></a>
         </article>)}</div>
       </div>
@@ -321,17 +315,17 @@ export default function AnalysisSections({
       <div className="analysis-block category-analysis">
         <div className="analysis-block-heading"><h3>{t.organisms}</h3><p>{t.organismsNote}</p></div>
         <div className="category-bars">{scope.organisms.map((item) => <div key={item.id}>
-          <span><strong>{item.name}</strong><small>{item.record_count.toLocaleString(language)} {t.records}</small></span>
+          <span><strong>{item.name}</strong><small>{formatInteger(item.record_count)} {t.records}</small></span>
           <i><b style={{ width: `${Math.max(2, item.total_amount_eur / largestOrganism * 100)}%` }} /></i>
-          <strong>{currency(item.total_amount_eur, language, true)}</strong>
+          <strong>{currency(item.total_amount_eur, true)}</strong>
         </div>)}</div>
       </div>
       <div className="analysis-block category-analysis">
         <div className="analysis-block-heading"><h3>{t.categories}</h3><p>{t.categoriesNote}</p></div>
         <div className="category-bars">{scope.categories.map((item) => <div key={item.id}>
-          <span><strong>{language === 'es' ? categoryTranslations[item.name] ?? item.name : item.name}</strong><small>{item.record_count.toLocaleString(language)} {t.records}</small></span>
+          <span><strong>{language === 'es' ? categoryTranslations[item.name] ?? item.name : item.name}</strong><small>{formatInteger(item.record_count)} {t.records}</small></span>
           <i><b style={{ width: `${Math.max(2, item.total_amount_eur / largestCategory * 100)}%` }} /></i>
-          <strong>{currency(item.total_amount_eur, language, true)}</strong>
+          <strong>{currency(item.total_amount_eur, true)}</strong>
         </div>)}</div>
       </div>
     </>}

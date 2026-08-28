@@ -16,7 +16,9 @@ import {
   Users,
   WalletCards,
 } from 'lucide-react';
+import { withBase } from '../lib/basePath';
 import { buildContractsCsv } from '../lib/contractsCsv';
+import { formatEuro, formatInteger } from '../lib/format';
 
 type Language = 'gl' | 'es';
 
@@ -203,24 +205,19 @@ const categoryTranslations: Record<string, string> = {
 };
 
 const pageSize = 20;
+const monthNames: Record<Language, string[]> = {
+  gl: ['xan.', 'feb.', 'mar.', 'abr.', 'maio', 'xuño', 'xul.', 'ago.', 'set.', 'out.', 'nov.', 'dec.'],
+  es: ['ene.', 'feb.', 'mar.', 'abr.', 'may.', 'jun.', 'jul.', 'ago.', 'sept.', 'oct.', 'nov.', 'dic.'],
+};
 
-function formatCurrency(value: number, language: Language, compact = false) {
-  return new Intl.NumberFormat(language === 'gl' ? 'gl-ES' : 'es-ES', {
-    style: 'currency',
-    currency: 'EUR',
-    notation: compact ? 'compact' : 'standard',
-    maximumFractionDigits: compact ? 1 : 2,
-  }).format(value);
+function formatCurrency(value: number, compact = false) {
+  return formatEuro(value, compact);
 }
 
-function formatDate(value: string | null, language: Language) {
+export function formatDate(value: string | null, language: Language) {
   if (!value) return '—';
-  return new Intl.DateTimeFormat(language === 'gl' ? 'gl-ES' : 'es-ES', {
-    day: 'numeric',
-    month: 'short',
-    year: 'numeric',
-    timeZone: 'UTC',
-  }).format(new Date(`${value}T00:00:00Z`));
+  const [year, month, day] = value.split('-').map(Number);
+  return `${day} ${monthNames[language][month - 1]} ${year}`;
 }
 
 export default function ContractsExplorer({
@@ -254,7 +251,7 @@ export default function ContractsExplorer({
       return;
     }
     const controller = new AbortController();
-    fetch(`${import.meta.env.BASE_URL}data/explorer/manifest.json`, { signal: controller.signal })
+    fetch(withBase('/data/explorer/manifest.json'), { signal: controller.signal })
       .then((response) => {
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         return response.json();
@@ -311,7 +308,7 @@ export default function ContractsExplorer({
     const loadYear = async () => {
       const loadedRecords: ContractRecord[] = [];
       for (const [index, shard] of shards.entries()) {
-        const response = await fetch(`${import.meta.env.BASE_URL}data/${shard.path}`, {
+        const response = await fetch(withBase(`/data/${shard.path}`), {
           signal: controller.signal,
         });
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -364,8 +361,6 @@ export default function ContractsExplorer({
   const selectedShards = selectedMonth === 'all'
     ? yearMetadata?.shards ?? []
     : yearMetadata?.months.find((item) => item.month === selectedMonth)?.shards ?? [];
-  const base = import.meta.env.BASE_URL;
-
   useEffect(() => {
     if (!urlReady || selectedYear === null) return;
     const params = new URLSearchParams(window.location.search);
@@ -420,11 +415,11 @@ export default function ContractsExplorer({
         <section className="metrics" aria-label={language === 'gl' ? 'Resumo' : 'Resumen'}>
           <article>
             <span className="metric-icon blue"><FileText size={20} /></span>
-            <div><strong>{dashboard.record_count.toLocaleString(language)}</strong><span>{t.contracts}</span></div>
+            <div><strong>{formatInteger(dashboard.record_count)}</strong><span>{t.contracts}</span></div>
           </article>
           <article>
             <span className="metric-icon coral"><WalletCards size={20} /></span>
-            <div><strong>{formatCurrency(dashboard.total_amount_eur, language, true)}</strong><span>{t.amount}</span></div>
+            <div><strong>{formatCurrency(dashboard.total_amount_eur, true)}</strong><span>{t.amount}</span></div>
           </article>
           <article>
             <span className="metric-icon gold"><Landmark size={20} /></span>
@@ -441,10 +436,10 @@ export default function ContractsExplorer({
             <div><h2 id="questions-title">{t.questions}</h2><p>{t.questionsNote}</p></div>
           </div>
           <div className="question-grid">
-            <a href={`${base}adjudicatarios`}><Users size={20} /><strong>{t.whoReceives}</strong></a>
-            <a href={`${base}evolucion`}><TrendingUp size={20} /><strong>{t.howEvolves}</strong></a>
-            <a href={`${base}importes`}><WalletCards size={20} /><strong>{t.amountShape}</strong></a>
-            <a href={`${base}explorador`}><Search size={20} /><strong>{t.searchContracts}</strong></a>
+            <a href={withBase('/adjudicatarios')}><Users size={20} /><strong>{t.whoReceives}</strong></a>
+            <a href={withBase('/evolucion')}><TrendingUp size={20} /><strong>{t.howEvolves}</strong></a>
+            <a href={withBase('/importes')}><WalletCards size={20} /><strong>{t.amountShape}</strong></a>
+            <a href={withBase('/explorador')}><Search size={20} /><strong>{t.searchContracts}</strong></a>
           </div>
         </section>
 
@@ -459,7 +454,7 @@ export default function ContractsExplorer({
                 <span className="rank">{String(index + 1).padStart(2, '0')}</span>
                 <span className="bar-name" title={item.name}>{item.name}</span>
                 <div className="bar-track"><span style={{ width: `${Math.max(3, item.total_amount_eur / largestAmount * 100)}%` }} /></div>
-                <strong>{formatCurrency(item.total_amount_eur, language, true)}</strong>
+                <strong>{formatCurrency(item.total_amount_eur, true)}</strong>
               </div>
             ))}
           </div>
@@ -468,7 +463,7 @@ export default function ContractsExplorer({
 
         {view === 'explorer' && <section className="explorer" aria-labelledby="explorer-title">
           <div className="section-heading explorer-heading">
-            <div><h2 id="explorer-title">{t.explorer}</h2><p>{filtered.length.toLocaleString(language)} {t.results}</p></div>
+            <div><h2 id="explorer-title">{t.explorer}</h2><p>{formatInteger(filtered.length)} {t.results}</p></div>
             <button
               type="button"
               className="download-button"
@@ -506,7 +501,7 @@ export default function ContractsExplorer({
                 {!manifest && <option value="">{t.allYears}</option>}
                 {manifest?.years.map((item) => (
                   <option value={item.year} key={item.year}>
-                    {item.year} · {item.record_count.toLocaleString(language)}
+                    {item.year} · {formatInteger(item.record_count)}
                   </option>
                 ))}
               </select>
@@ -524,7 +519,7 @@ export default function ContractsExplorer({
                 <option value="all">{t.allMonths}</option>
                 {yearMetadata?.months.map((item) => (
                   <option value={item.month} key={item.month}>
-                    {item.month} · {item.record_count.toLocaleString(language)}
+                    {item.month} · {formatInteger(item.record_count)}
                   </option>
                 ))}
               </select>
@@ -555,7 +550,7 @@ export default function ContractsExplorer({
                     <td data-label={t.vendor}>{contract.vendor_name || '—'}</td>
                     <td data-label={t.organism}><span className="organism-cell">{contract.organism_name}</span></td>
                     <td data-label={t.date}>{formatDate(contract.publication_date, language)}</td>
-                    <td data-label={t.value} className="numeric amount-cell">{formatCurrency(contract.amount_eur, language)}</td>
+                    <td data-label={t.value} className="numeric amount-cell">{formatCurrency(contract.amount_eur)}</td>
                     <td className="source-cell"><a href={contract.source_url} target="_blank" rel="noreferrer" title={t.source} aria-label={t.source}><ExternalLink size={17} /></a></td>
                   </tr>
                 ))}

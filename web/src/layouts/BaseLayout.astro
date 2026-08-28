@@ -1,5 +1,6 @@
 ---
 import { ExternalLink, Landmark } from 'lucide-react';
+import { withBase } from '../lib/basePath';
 import '../styles/global.css';
 
 interface Props {
@@ -11,7 +12,6 @@ interface Props {
 
 const { title, description, titleEs = title, descriptionEs = description } = Astro.props;
 const base = import.meta.env.BASE_URL;
-const withBase = (path: string) => `${base}${path.replace(/^\//, '')}`;
 const currentPath = Astro.url.pathname.replace(base, '/').replace(/\/$/, '') || '/';
 const navItems = [
   ['/', 'Inicio', 'Inicio'],

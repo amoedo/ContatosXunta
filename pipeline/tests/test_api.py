@@ -557,7 +557,10 @@ def test_build_annual_package_creates_self_contained_verified_archive(tmp_path: 
         "https://www.contratosdegalicia.gal/licitacion?N=42"
     )
     assert payload["records"][0]["organism_name"] == "Presidencia"
-    assert "nif" not in index.lower()
+    payload_text = payload_bytes.decode("utf-8").lower()
+    assert '"nif"' not in payload_text
+    assert '"cif"' not in payload_text
+    assert_no_tax_identifiers(payload)
     assert "DecompressionStream('gzip')" in index
     assert manifest["records_sha256"] == hashlib.sha256(payload_bytes).hexdigest()
     assert manifest["index_sha256"] == hashlib.sha256(index_bytes).hexdigest()

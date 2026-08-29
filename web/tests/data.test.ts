@@ -51,7 +51,8 @@ describe('generated public data', () => {
     }
 
     expect(shardRecordCount).toBe(manifest.total_available);
-    expect(manifest.total_available).toBe(dashboard.record_count);
+    expect(manifest.total_available).toBeLessThanOrEqual(dashboard.record_count);
+    expect(manifest.historical_total).toBe(dashboard.record_count);
     expect(new Set(recordIds).size).toBe(recordIds.length);
   });
 

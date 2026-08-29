@@ -35,20 +35,27 @@ it('matches only contracts inside every alert boundary', () => {
 });
 
 describe('multi-organism analysis', () => {
-  it('recomposes the global analysis exactly from all organism scopes', () => {
+  it('recomposes a year exactly from organism scopes with raw composition', () => {
+    const year = Object.keys(analysis.years).find((yearKey) =>
+      Object.values(analysis.organism_scopes).some(
+        (organism) => organism.years[yearKey]?.composition !== undefined,
+      ));
+    expect(year).toBeDefined();
+    const expected = analysis.years[year!];
     const combined = combineAnalysisScopes(
-      Object.values(analysis.organism_scopes).map((organism) => organism.all),
+      Object.values(analysis.organism_scopes)
+        .flatMap((organism) => organism.years[year!] ? [organism.years[year!]] : []),
     );
 
-    expect(combined.summary).toEqual(analysis.all.summary);
-    expect(combined.timeseries).toEqual(analysis.all.timeseries);
-    expect(combined.amounts.percentiles).toEqual(analysis.all.amounts.percentiles);
-    expect(combined.amounts.bands).toEqual(analysis.all.amounts.bands);
-    expect(combined.amounts.largest_contracts).toEqual(analysis.all.amounts.largest_contracts);
-    expect(combined.vendors.concentration).toEqual(analysis.all.vendors.concentration);
-    expect(combined.vendors.ranking_by_amount).toEqual(analysis.all.vendors.ranking_by_amount);
-    expect(combined.vendors.ranking_by_count).toEqual(analysis.all.vendors.ranking_by_count);
-    expect(combined.patterns).toEqual(analysis.all.patterns);
+    expect(combined.summary).toEqual(expected.summary);
+    expect(combined.timeseries).toEqual(expected.timeseries);
+    expect(combined.amounts.percentiles).toEqual(expected.amounts.percentiles);
+    expect(combined.amounts.bands).toEqual(expected.amounts.bands);
+    expect(combined.amounts.largest_contracts).toEqual(expected.amounts.largest_contracts);
+    expect(combined.vendors.concentration).toEqual(expected.vendors.concentration);
+    expect(combined.vendors.ranking_by_amount).toEqual(expected.vendors.ranking_by_amount);
+    expect(combined.vendors.ranking_by_count).toEqual(expected.vendors.ranking_by_count);
+    expect(combined.patterns).toEqual(expected.patterns);
   });
 
   it('combines compact scopes when released history has no raw composition', () => {

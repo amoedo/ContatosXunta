@@ -105,7 +105,8 @@ const copy = {
     allCategories: 'Todas as categorías',
     allOrganisms: 'Todos os organismos',
     results: 'resultados',
-    detailCoverage: (months: number) => `detalle dos últimos ${months} meses`,
+    resultsIn: (period: string) => `en ${period}`,
+    organismSeriesTotal: (count: string) => `${count} contratos na serie completa`,
     subject: 'Obxecto',
     vendor: 'Adxudicatario',
     organism: 'Organismo',
@@ -174,7 +175,8 @@ const copy = {
     allCategories: 'Todas las categorías',
     allOrganisms: 'Todos los organismos',
     results: 'resultados',
-    detailCoverage: (months: number) => `detalle de los últimos ${months} meses`,
+    resultsIn: (period: string) => `en ${period}`,
+    organismSeriesTotal: (count: string) => `${count} contratos en la serie completa`,
     subject: 'Objeto',
     vendor: 'Adjudicatario',
     organism: 'Organismo',
@@ -398,6 +400,10 @@ export default function ContractsExplorer({
   const pageCount = Math.max(1, Math.ceil(filtered.length / pageSize));
   const currentPage = Math.min(page, pageCount);
   const visibleContracts = filtered.slice((currentPage - 1) * pageSize, currentPage * pageSize);
+  const selectedOrganism = organisms.find((item) => String(item.organism_id) === organism);
+  const resultPeriod = selectedMonth === 'all'
+    ? String(selectedYear ?? '')
+    : selectedMonth;
   const topOrganisms = [...organisms]
     .filter((item) => item.total_amount_eur > 0)
     .sort((a, b) => b.total_amount_eur - a.total_amount_eur)
@@ -520,7 +526,13 @@ export default function ContractsExplorer({
 
         {view === 'explorer' && <section className="explorer" aria-labelledby="explorer-title">
           <div className="section-heading explorer-heading">
-            <div><h2 id="explorer-title">{t.explorer}</h2><p>{formatInteger(filtered.length)} {t.results} · {t.detailCoverage(manifest?.detail_months ?? 24)}</p></div>
+            <div>
+              <h2 id="explorer-title">{t.explorer}</h2>
+              <p>
+                {formatInteger(filtered.length)} {t.results} {t.resultsIn(resultPeriod)}
+                {selectedOrganism && <> · {t.organismSeriesTotal(formatInteger(selectedOrganism.record_count))}</>}
+              </p>
+            </div>
             <button
               type="button"
               className="download-button"

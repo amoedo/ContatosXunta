@@ -52,6 +52,12 @@ test('filters, exports, translates, and opens methodology', async ({ page }, tes
       /^https:\/\/www\.contratosdegalicia\.gal\/licitacion\?N=\d+$/,
     );
 
+    const organismFilter = page.getByRole('combobox', { name: 'Todos os organismos' });
+    await organismFilter.selectOption('215');
+    await expect(page.locator('.explorer-heading p')).toContainText('8 resultados en 2026-08');
+    await expect(page.locator('.explorer-heading p')).toContainText('375 contratos na serie completa');
+    await organismFilter.selectOption('');
+
     const organismName = (await page.locator('tbody tr').first().locator('.organism-cell').textContent())?.trim();
     expect(organismName).toBeTruthy();
     const search = page.getByRole('searchbox');

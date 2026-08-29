@@ -29,6 +29,7 @@ from contratos_xunta.privacy import assert_no_tax_identifiers
 from contratos_xunta.registry import Entity, load_registry, parse_entities
 from contratos_xunta.retention import detail_cutoff, prune_archived_windows
 from contratos_xunta.site_data import (
+    build_analysis_scope,
     build_site_data,
     partition_explorer_records,
     retain_recent_months,
@@ -408,6 +409,60 @@ def test_build_site_data_emits_sanitized_aggregates(tmp_path: Path) -> None:
         assert hashlib.sha256(content).hexdigest() == shard["sha256"]
         payload = json.loads(content)
         assert all("/licitacion?N=" in item["source_url"] for item in payload["records"])
+
+
+def test_analysis_finds_normalized_repeat_clusters_inside_30_days() -> None:
+    def record(record_id: str, publication_date: str, subject: str) -> dict[str, object]:
+        return {
+            "record_id": record_id,
+            "source_id": int(record_id),
+            "organism_id": 291,
+            "organism_name": "Presidencia",
+            "category": "Consellerías",
+            "publication_date": publication_date,
+            "subject": subject,
+            "amount_eur": 100.0,
+            "vendor_name": "Empresa Test",
+            "duration": "1 mes",
+            "source_url": f"https://example.test/{record_id}",
+        }
+
+    scope = build_analysis_scope(
+        [
+            record("1", "2026-01-01", "Mantemento do sistema"),
+            record("2", "2026-01-10", "MANTEMENTO DO SISTEMA."),
+            record("3", "2026-01-30", "Mantemento do sistéma"),
+            record("4", "2026-03-15", "Mantemento do sistema"),
+        ]
+    )
+
+    clusters = scope["patterns"]["repeat_clusters"]
+    assert len(clusters) == 1
+    assert clusters[0]["record_count"] == 3
+    assert clusters[0]["window_days"] == 29
+    assert clusters[0]["normalized_subject"] == "mantemento do sistema"
+    assert [item["record_id"] for item in clusters[0]["contracts"]] == ["1", "2", "3"]
+
+
+def test_repeat_cluster_evidence_is_bounded() -> None:
+    records = [
+        {
+            "record_id": str(index),
+            "organism_id": 291,
+            "organism_name": "Presidencia",
+            "category": "Consellerías",
+            "publication_date": "2026-01-10",
+            "subject": "Mantemento",
+            "amount_eur": 100.0,
+            "vendor_name": "Empresa Test",
+            "source_url": f"https://example.test/{index}",
+        }
+        for index in range(25)
+    ]
+
+    cluster = build_analysis_scope(records)["patterns"]["repeat_clusters"][0]
+    assert cluster["record_count"] == 25
+    assert len(cluster["contracts"]) == 20
 
 
 def test_explorer_partitioning_is_complete_bounded_and_maximal() -> None:

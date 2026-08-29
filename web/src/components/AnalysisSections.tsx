@@ -1,9 +1,10 @@
 import { useEffect, useMemo, useState } from 'react';
-import { ChevronDown, ExternalLink } from 'lucide-react';
+import { ChevronDown, ExternalLink, Search } from 'lucide-react';
 import {
   selectAnalysisBreakdown,
   type AnalysisData,
   type RankedEntity,
+  type RepeatCluster,
 } from '../lib/analysis';
 import { withBase } from '../lib/basePath';
 import { formatEuro, formatInteger, formatPercent } from '../lib/format';
@@ -46,6 +47,14 @@ const copy = {
     allOrganisms: 'Todos os organismos',
     selectedOrganisms: (count: number) => `${count} organismos seleccionados`,
     clearOrganisms: 'Mostrar todos',
+    repeatPatterns: 'Contratos repetidos en períodos curtos',
+    repeatPatternsNote: 'Posibles repeticións: mesmo organismo, adxudicatario e obxecto normalizado, con 3 ou máis publicacións nun máximo de 30 días.',
+    noRepeatPatterns: 'Non se detectaron patróns repetidos cos filtros actuais.',
+    inDays: (count: number) => `en ${count} días`,
+    amountRange: 'Rango de importes',
+    contractEvidence: 'Contratos do período',
+    evidenceSample: (shown: number, total: number) => `${shown} de ${total} contratos`,
+    explorePattern: 'Ver no explorador',
   },
   es: {
     title: 'Análisis ampliado',
@@ -81,6 +90,14 @@ const copy = {
     allOrganisms: 'Todos los organismos',
     selectedOrganisms: (count: number) => `${count} organismos seleccionados`,
     clearOrganisms: 'Mostrar todos',
+    repeatPatterns: 'Contratos repetidos en periodos cortos',
+    repeatPatternsNote: 'Posibles repeticiones: mismo organismo, adjudicatario y objeto normalizado, con 3 o más publicaciones en un máximo de 30 días.',
+    noRepeatPatterns: 'No se detectaron patrones repetidos con los filtros actuales.',
+    inDays: (count: number) => `en ${count} días`,
+    amountRange: 'Rango de importes',
+    contractEvidence: 'Contratos del periodo',
+    evidenceSample: (shown: number, total: number) => `${shown} de ${total} contratos`,
+    explorePattern: 'Ver en el explorador',
   },
 } as const;
 
@@ -101,6 +118,31 @@ function currency(value: number, compact = false) {
 
 function percent(value: number) {
   return formatPercent(value);
+}
+
+const monthNames: Record<Language, string[]> = {
+  gl: ['xan.', 'feb.', 'mar.', 'abr.', 'maio', 'xuño', 'xul.', 'ago.', 'set.', 'out.', 'nov.', 'dec.'],
+  es: ['ene.', 'feb.', 'mar.', 'abr.', 'may.', 'jun.', 'jul.', 'ago.', 'sept.', 'oct.', 'nov.', 'dic.'],
+};
+
+function formatDate(value: string, language: Language) {
+  const [year, month, day] = value.split('-').map(Number);
+  return `${day} ${monthNames[language][month - 1]} ${year}`;
+}
+
+function repeatExplorerUrl(cluster: RepeatCluster, language: Language) {
+  const params = new URLSearchParams({
+    year: cluster.date_start.slice(0, 4),
+    month: 'all',
+    organism: String(cluster.organism_id),
+    repeatSubject: cluster.normalized_subject,
+    repeatLabel: cluster.subject,
+    repeatVendor: cluster.vendor_name,
+    dateFrom: cluster.date_start,
+    dateTo: cluster.date_end,
+  });
+  if (language === 'es') params.set('lang', 'es');
+  return `${withBase('/explorador')}?${params.toString()}`;
 }
 
 function RankingBars({ items, language, year, organisms }: { items: RankedEntity[]; language: Language; year: number | null; organisms: string[] }) {
@@ -221,6 +263,7 @@ export default function AnalysisSections({
     : organismKeys.length === 1
       ? analysis.organism_scopes[organismKeys[0]].name
       : t.selectedOrganisms(organismKeys.length);
+  const repeatClusters = scope.patterns?.repeat_clusters ?? [];
 
   return <section className="analytics" id="analysis" aria-labelledby="analysis-title">
     <div className="section-heading">
@@ -280,21 +323,47 @@ export default function AnalysisSections({
       </div>
     </div>}
 
-    {section === 'vendors' && <div className="analysis-block">
-      <div className="analysis-block-heading"><h3>{t.awardees}</h3><p>{t.awardeesNote}</p></div>
-      <div className="analysis-two-column">
-        <div><h4>{t.byAmount}</h4><RankingBars items={scope.vendors.ranking_by_amount} language={language} year={scopeKey === 'all' ? null : Number(scopeKey)} organisms={organismKeys} /></div>
-        <div>
-          <h4>{t.byCount}</h4>
-          <ol className="count-ranking">{scope.vendors.ranking_by_count.slice(0, 10).map((item, index) => <li key={item.id}><span>{index + 1}</span><strong>{item.name}</strong><b>{formatInteger(item.record_count)}</b></li>)}</ol>
-          <div className="concentration-strip" aria-label={t.concentration}>
-            <span><small>{t.top1}</small><strong>{percent(scope.vendors.concentration.top1_share)}</strong></span>
-            <span><small>{t.top5}</small><strong>{percent(scope.vendors.concentration.top5_share)}</strong></span>
-            <span><small>{t.top10}</small><strong>{percent(scope.vendors.concentration.top10_share)}</strong></span>
+    {section === 'vendors' && <>
+      <div className="analysis-block">
+        <div className="analysis-block-heading"><h3>{t.awardees}</h3><p>{t.awardeesNote}</p></div>
+        <div className="analysis-two-column">
+          <div><h4>{t.byAmount}</h4><RankingBars items={scope.vendors.ranking_by_amount} language={language} year={scopeKey === 'all' ? null : Number(scopeKey)} organisms={organismKeys} /></div>
+          <div>
+            <h4>{t.byCount}</h4>
+            <ol className="count-ranking">{scope.vendors.ranking_by_count.slice(0, 10).map((item, index) => <li key={item.id}><span>{index + 1}</span><strong>{item.name}</strong><b>{formatInteger(item.record_count)}</b></li>)}</ol>
+            <div className="concentration-strip" aria-label={t.concentration}>
+              <span><small>{t.top1}</small><strong>{percent(scope.vendors.concentration.top1_share)}</strong></span>
+              <span><small>{t.top5}</small><strong>{percent(scope.vendors.concentration.top5_share)}</strong></span>
+              <span><small>{t.top10}</small><strong>{percent(scope.vendors.concentration.top10_share)}</strong></span>
+            </div>
           </div>
         </div>
       </div>
-    </div>}
+      <div className="analysis-block repeat-analysis">
+        <div className="analysis-block-heading"><h3>{t.repeatPatterns}</h3><p>{t.repeatPatternsNote}</p></div>
+        {repeatClusters.length === 0
+          ? <p className="empty-state repeat-empty">{t.noRepeatPatterns}</p>
+          : <div className="repeat-clusters">{repeatClusters.slice(0, 20).map((cluster) => <details className="repeat-cluster" key={cluster.id}>
+            <summary>
+              <span className="repeat-count"><strong>{formatInteger(cluster.record_count)}</strong><small>{t.records}</small></span>
+              <span className="repeat-identity"><strong>{cluster.subject}</strong><small>{cluster.vendor_name} · {cluster.organism_name}</small></span>
+              <span className="repeat-window"><strong>{t.inDays(cluster.window_days)}</strong><small>{formatDate(cluster.date_start, language)} – {formatDate(cluster.date_end, language)}</small></span>
+              <span className="repeat-total"><strong>{currency(cluster.total_amount_eur, true)}</strong><small>{t.amountRange}: {currency(cluster.minimum_amount_eur, true)} – {currency(cluster.maximum_amount_eur, true)}</small></span>
+              <a className="repeat-explorer-link" href={repeatExplorerUrl(cluster, language)} onClick={(event) => event.stopPropagation()} aria-label={t.explorePattern} title={t.explorePattern}><Search size={15} aria-hidden="true" /><span>{t.explorePattern}</span></a>
+              <ChevronDown size={18} aria-hidden="true" />
+            </summary>
+            <div className="repeat-evidence" aria-label={t.contractEvidence}>
+              <p>{t.evidenceSample(cluster.contracts.length, cluster.record_count)}</p>
+              {cluster.contracts.map((contract) => <article key={contract.record_id}>
+                <time dateTime={contract.publication_date}>{formatDate(contract.publication_date, language)}</time>
+                <span><strong>{contract.subject}</strong><small>{contract.vendor_name}</small></span>
+                <b>{currency(contract.amount_eur)}</b>
+                <a href={contract.source_url} target="_blank" rel="noreferrer" aria-label={t.openSource} title={t.openSource}><ExternalLink size={16} /></a>
+              </article>)}
+            </div>
+          </details>)}</div>}
+      </div>
+    </>}
 
     {section === 'amounts' && <div className="analysis-block">
       <div className="analysis-block-heading"><h3>{t.amounts}</h3><p>{t.amountsNote}</p></div>

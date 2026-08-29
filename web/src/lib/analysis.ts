@@ -22,6 +22,52 @@ export type ContractExcerpt = {
   source_url: string;
 };
 
+export type RepeatCluster = {
+  id: string;
+  organism_id: number;
+  organism_name: string;
+  vendor_name: string;
+  subject: string;
+  normalized_subject: string;
+  record_count: number;
+  date_start: string;
+  date_end: string;
+  window_days: number;
+  total_amount_eur: number;
+  minimum_amount_eur: number;
+  maximum_amount_eur: number;
+  contracts: ContractExcerpt[];
+};
+
+export function normalizePatternText(value: string) {
+  return value.toLocaleLowerCase()
+    .normalize('NFKD')
+    .replace(/\p{M}/gu, '')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .trim()
+    .replace(/\s+/g, ' ');
+}
+
+export type RepeatPatternFilter = {
+  subject: string;
+  label: string;
+  vendor: string;
+  dateStart: string;
+  dateEnd: string;
+};
+
+export function matchesRepeatPattern(
+  contract: { subject: string; vendor_name: string; publication_date: string },
+  filter: RepeatPatternFilter | null,
+) {
+  return !filter || (
+    normalizePatternText(contract.subject) === filter.subject
+    && contract.vendor_name === filter.vendor
+    && contract.publication_date >= filter.dateStart
+    && contract.publication_date <= filter.dateEnd
+  );
+}
+
 export type AnalysisScope = {
   summary: {
     record_count: number;
@@ -46,6 +92,11 @@ export type AnalysisScope = {
     maximum_eur: number;
     bands: Array<{ band: string; record_count: number }>;
     largest_contracts: ContractExcerpt[];
+  };
+  patterns?: {
+    window_days: number;
+    minimum_records: number;
+    repeat_clusters: RepeatCluster[];
   };
 };
 
@@ -126,6 +177,26 @@ function mergeSeries(groups: SeriesPoint[][]) {
     .sort((left, right) => left.key.localeCompare(right.key));
 }
 
+function mergeRepeatClusters(scopes: AnalysisScope[]) {
+  const clusters = new Map<string, RepeatCluster>();
+  for (const scope of scopes) {
+    for (const cluster of scope.patterns?.repeat_clusters ?? []) {
+      const current = clusters.get(cluster.id);
+      if (!current || cluster.record_count > current.record_count
+        || (cluster.record_count === current.record_count && cluster.window_days < current.window_days)
+        || (cluster.record_count === current.record_count && cluster.window_days === current.window_days
+          && cluster.total_amount_eur > current.total_amount_eur)) {
+        clusters.set(cluster.id, cluster);
+      }
+    }
+  }
+  return [...clusters.values()]
+    .sort((left, right) => right.record_count - left.record_count
+      || left.window_days - right.window_days
+      || right.total_amount_eur - left.total_amount_eur
+      || left.id.localeCompare(right.id))
+    .slice(0, 50);
+}
 function combineCompactAnalysisScopes(scopes: ComposableAnalysisScope[]): AnalysisScope {
   const recordCount = scopes.reduce((sum, scope) => sum + scope.summary.record_count, 0);
   const totalAmount = round(scopes.reduce((sum, scope) => sum + scope.summary.total_amount_eur, 0));
@@ -203,6 +274,11 @@ function combineCompactAnalysisScopes(scopes: ComposableAnalysisScope[]): Analys
         .sort((left, right) => right.amount_eur - left.amount_eur
           || left.record_id.localeCompare(right.record_id))
         .slice(0, 20),
+    },
+    patterns: {
+      window_days: 30,
+      minimum_records: 3,
+      repeat_clusters: mergeRepeatClusters(scopes),
     },
   };
 }
@@ -284,6 +360,11 @@ export function combineAnalysisScopes(scopes: ComposableAnalysisScope[]): Analys
         .sort((left, right) => right.amount_eur - left.amount_eur
           || left.record_id.localeCompare(right.record_id))
         .slice(0, 20),
+    },
+    patterns: {
+      window_days: 30,
+      minimum_records: 3,
+      repeat_clusters: mergeRepeatClusters(scopes),
     },
   };
 }

@@ -2,7 +2,9 @@ from __future__ import annotations
 
 import json
 import hashlib
+import re
 import shutil
+import unicodedata
 from collections import Counter, defaultdict
 from datetime import date, datetime, timezone
 from pathlib import Path
@@ -27,6 +29,10 @@ PUBLIC_RECORD_FIELDS = {
 DEFAULT_SHARD_BYTES = 750_000
 DEFAULT_DETAIL_MONTHS = 24
 ANALYSIS_RANKING_LIMIT = 100
+REPEAT_CLUSTER_LIMIT = 50
+REPEAT_EVIDENCE_LIMIT = 20
+REPEAT_MIN_RECORDS = 3
+REPEAT_WINDOW_DAYS = 30
 AMOUNT_BANDS = (
     ("0-500", 0, 500),
     ("500-2000", 500, 2_000),
@@ -35,6 +41,90 @@ AMOUNT_BANDS = (
     ("10000-15000", 10_000, 15_000),
     ("15000+", 15_000, None),
 )
+
+
+def normalize_pattern_text(value: str) -> str:
+    decomposed = unicodedata.normalize("NFKD", value.casefold())
+    unaccented = "".join(
+        character for character in decomposed if not unicodedata.combining(character)
+    )
+    return " ".join(re.sub(r"[^a-z0-9]+", " ", unaccented).split())
+
+
+def find_repeat_clusters(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    grouped: dict[tuple[int, str, str], list[dict[str, Any]]] = defaultdict(list)
+    for record in records:
+        normalized_subject = normalize_pattern_text(str(record["subject"]))
+        vendor_name = str(record["vendor_name"]).strip()
+        if normalized_subject and vendor_name:
+            grouped[(record["organism_id"], vendor_name, normalized_subject)].append(record)
+
+    clusters: list[dict[str, Any]] = []
+    for (organism_id, vendor_name, normalized_subject), group in grouped.items():
+        if len(group) < REPEAT_MIN_RECORDS:
+            continue
+        ordered = sorted(group, key=lambda item: (item["publication_date"], item["record_id"]))
+        dates = [date.fromisoformat(item["publication_date"]) for item in ordered]
+        left = 0
+        best: list[dict[str, Any]] = []
+        best_total = 0.0
+        for right, right_date in enumerate(dates):
+            while (right_date - dates[left]).days > REPEAT_WINDOW_DAYS:
+                left += 1
+            candidate = ordered[left : right + 1]
+            candidate_total = sum(float(item["amount_eur"]) for item in candidate)
+            if len(candidate) > len(best) or (
+                len(candidate) == len(best) and candidate_total > best_total
+            ):
+                best = candidate
+                best_total = candidate_total
+        if len(best) < REPEAT_MIN_RECORDS:
+            continue
+
+        amounts = [float(item["amount_eur"]) for item in best]
+        date_start = best[0]["publication_date"]
+        date_end = best[-1]["publication_date"]
+        group_key = f"{organism_id}\0{vendor_name}\0{normalized_subject}"
+        clusters.append(
+            {
+                "id": hashlib.sha256(group_key.encode("utf-8")).hexdigest()[:16],
+                "organism_id": organism_id,
+                "organism_name": best[0]["organism_name"],
+                "vendor_name": vendor_name,
+                "subject": best[0]["subject"],
+                "normalized_subject": normalized_subject,
+                "record_count": len(best),
+                "date_start": date_start,
+                "date_end": date_end,
+                "window_days": max(
+                    1, (date.fromisoformat(date_end) - date.fromisoformat(date_start)).days
+                ),
+                "total_amount_eur": round(best_total, 2),
+                "minimum_amount_eur": round(min(amounts), 2),
+                "maximum_amount_eur": round(max(amounts), 2),
+                "contracts": [
+                    {
+                        "record_id": item["record_id"],
+                        "publication_date": item["publication_date"],
+                        "subject": item["subject"],
+                        "vendor_name": item["vendor_name"],
+                        "organism_name": item["organism_name"],
+                        "amount_eur": item["amount_eur"],
+                        "source_url": item["source_url"],
+                    }
+                    for item in best[:REPEAT_EVIDENCE_LIMIT]
+                ],
+            }
+        )
+    return sorted(
+        clusters,
+        key=lambda item: (
+            -item["record_count"],
+            item["window_days"],
+            -item["total_amount_eur"],
+            item["id"],
+        ),
+    )[:REPEAT_CLUSTER_LIMIT]
 
 
 def encode_explorer_shard(year: int, records: list[dict[str, Any]]) -> bytes:
@@ -209,6 +299,11 @@ def build_analysis_scope(
                 key=lambda record: (-record["amount_eur"], record["record_id"]),
             )[:20],
         },
+        "patterns": {
+            "window_days": REPEAT_WINDOW_DAYS,
+            "minimum_records": REPEAT_MIN_RECORDS,
+            "repeat_clusters": find_repeat_clusters(records),
+        },
     }
     if include_composition:
         scope["composition"] = {
@@ -322,6 +417,29 @@ def combine_compact_analysis_scopes(scopes: list[dict[str, Any]]) -> dict[str, A
         ),
         key=lambda item: (-item["amount_eur"], item["record_id"]),
     )[:20]
+    repeat_clusters_by_id: dict[str, dict[str, Any]] = {}
+    for scope in scopes:
+        for cluster in scope.get("patterns", {}).get("repeat_clusters", []):
+            current = repeat_clusters_by_id.get(cluster["id"])
+            if current is None or (
+                cluster["record_count"],
+                -cluster["window_days"],
+                cluster["total_amount_eur"],
+            ) > (
+                current["record_count"],
+                -current["window_days"],
+                current["total_amount_eur"],
+            ):
+                repeat_clusters_by_id[cluster["id"]] = cluster
+    repeat_clusters = sorted(
+        repeat_clusters_by_id.values(),
+        key=lambda item: (
+            -item["record_count"],
+            item["window_days"],
+            -item["total_amount_eur"],
+            item["id"],
+        ),
+    )[:REPEAT_CLUSTER_LIMIT]
     ranking_limit = max(scope["vendors"]["ranking_limit"] for scope in scopes)
     return {
         "summary": {
@@ -361,6 +479,11 @@ def combine_compact_analysis_scopes(scopes: list[dict[str, Any]]) -> dict[str, A
                 for label, _, _ in AMOUNT_BANDS
             ],
             "largest_contracts": largest_contracts,
+        },
+        "patterns": {
+            "window_days": REPEAT_WINDOW_DAYS,
+            "minimum_records": REPEAT_MIN_RECORDS,
+            "repeat_clusters": repeat_clusters,
         },
     }
 

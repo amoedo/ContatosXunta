@@ -15,7 +15,9 @@ import {
   TrendingUp,
   Users,
   WalletCards,
+  X,
 } from 'lucide-react';
+import { matchesRepeatPattern, type RepeatPatternFilter } from '../lib/analysis';
 import { withBase } from '../lib/basePath';
 import { buildContractsCsv } from '../lib/contractsCsv';
 import { formatEuro, formatInteger } from '../lib/format';
@@ -152,6 +154,9 @@ const copy = {
     howEvolves: 'Como evoluciona?',
     amountShape: 'Como se distribúen os importes?',
     searchContracts: 'Buscar contratos',
+    repeatFilter: 'Filtro dunha alerta de repetición',
+    repeatFilterNote: (vendor: string, dateStart: string, dateEnd: string) => `${vendor} · do ${dateStart} ao ${dateEnd}`,
+    clearRepeatFilter: 'Quitar filtro da alerta',
   },
   es: {
     kicker: 'Transparencia contractual',
@@ -218,6 +223,9 @@ const copy = {
     howEvolves: '¿Cómo evoluciona?',
     amountShape: '¿Cómo se distribuyen los importes?',
     searchContracts: 'Buscar contratos',
+    repeatFilter: 'Filtro de una alerta de repetición',
+    repeatFilterNote: (vendor: string, dateStart: string, dateEnd: string) => `${vendor} · del ${dateStart} al ${dateEnd}`,
+    clearRepeatFilter: 'Quitar filtro de la alerta',
   },
 } as const;
 
@@ -266,6 +274,7 @@ export default function ContractsExplorer({
   const deferredSearch = useDeferredValue(search);
   const [category, setCategory] = useState('');
   const [organism, setOrganism] = useState('');
+  const [repeatFilter, setRepeatFilter] = useState<RepeatPatternFilter | null>(null);
   const [page, setPage] = useState(1);
   const [urlReady, setUrlReady] = useState(false);
   const t = copy[language];
@@ -293,6 +302,19 @@ export default function ContractsExplorer({
         const requestedPage = Number(params.get('page'));
         const requestedCategory = params.get('category') ?? '';
         const requestedOrganism = params.get('organism') ?? '';
+        const repeatSubject = params.get('repeatSubject')?.trim() ?? '';
+        const repeatVendor = params.get('repeatVendor')?.trim() ?? '';
+        const dateStart = params.get('dateFrom') ?? '';
+        const dateEnd = params.get('dateTo') ?? '';
+        const validDateBounds = /^\d{4}-\d{2}-\d{2}$/.test(dateStart)
+          && /^\d{4}-\d{2}-\d{2}$/.test(dateEnd) && dateStart <= dateEnd;
+        setRepeatFilter(repeatSubject && repeatVendor && validDateBounds ? {
+          subject: repeatSubject,
+          label: params.get('repeatLabel')?.trim() || repeatSubject,
+          vendor: repeatVendor,
+          dateStart,
+          dateEnd,
+        } : null);
         setSearch(params.get('q') ?? '');
         setCategory(
           organisms.some((item) => item.category === requestedCategory) ? requestedCategory : '',
@@ -365,8 +387,10 @@ export default function ContractsExplorer({
       `${contract.subject} ${contract.vendor_name} ${contract.organism_name}`
         .toLocaleLowerCase(language)
         .includes(normalizedSearch);
+    const matchesRepeat = matchesRepeatPattern(contract, repeatFilter);
     return (
       matchesSearch &&
+      matchesRepeat &&
       (!category || contract.category === category) &&
       (!organism || String(contract.organism_id) === organism)
     );
@@ -402,6 +426,11 @@ export default function ContractsExplorer({
     setParam('q', search, search.length > 0);
     setParam('category', category, category.length > 0);
     setParam('organism', organism, organism.length > 0);
+    setParam('repeatSubject', repeatFilter?.subject ?? '', repeatFilter !== null);
+    setParam('repeatLabel', repeatFilter?.label ?? '', repeatFilter !== null);
+    setParam('repeatVendor', repeatFilter?.vendor ?? '', repeatFilter !== null);
+    setParam('dateFrom', repeatFilter?.dateStart ?? '', repeatFilter !== null);
+    setParam('dateTo', repeatFilter?.dateEnd ?? '', repeatFilter !== null);
     setParam('page', String(currentPage), currentPage > 1);
     const query = params.toString();
     window.history.replaceState(
@@ -409,7 +438,7 @@ export default function ContractsExplorer({
       '',
       `${window.location.pathname}${query ? `?${query}` : ''}${window.location.hash}`,
     );
-  }, [category, currentPage, language, organism, search, selectedMonth, selectedYear, urlReady]);
+  }, [category, currentPage, language, organism, repeatFilter, search, selectedMonth, selectedYear, urlReady]);
 
   const downloadCsv = () => {
     if (loadState !== 'ready' || selectedYear === null || filtered.length === 0) return;
@@ -567,6 +596,11 @@ export default function ContractsExplorer({
               </select>
             </label>
           </div>
+          {repeatFilter && <aside className="explorer-alert-filter">
+            <CircleAlert size={19} aria-hidden="true" />
+            <div><strong>{t.repeatFilter}</strong><span>{repeatFilter.label}</span><small>{t.repeatFilterNote(repeatFilter.vendor, formatDate(repeatFilter.dateStart, language), formatDate(repeatFilter.dateEnd, language))}</small></div>
+            <button type="button" onClick={() => { setRepeatFilter(null); setPage(1); }} title={t.clearRepeatFilter} aria-label={t.clearRepeatFilter}><X size={18} /></button>
+          </aside>}
 
           <div className="table-wrap">
             <table>

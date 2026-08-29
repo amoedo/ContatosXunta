@@ -1,9 +1,38 @@
 import { describe, expect, it } from 'vitest';
 
 import analysisPayload from '../public/data/analysis.json';
-import { combineAnalysisScopes, type AnalysisData } from '../src/lib/analysis';
+import {
+  combineAnalysisScopes,
+  matchesRepeatPattern,
+  normalizePatternText,
+  type AnalysisData,
+  type RepeatPatternFilter,
+} from '../src/lib/analysis';
 
 const analysis = analysisPayload as unknown as AnalysisData;
+
+it('normalizes alert subjects consistently with the pipeline', () => {
+  expect(normalizePatternText('Mantemento do sistéma.')).toBe('mantemento do sistema');
+});
+
+it('matches only contracts inside every alert boundary', () => {
+  const filter: RepeatPatternFilter = {
+    subject: 'mantemento do sistema',
+    label: 'Mantemento do sistema',
+    vendor: 'Empresa Test',
+    dateStart: '2026-01-01',
+    dateEnd: '2026-01-30',
+  };
+  const contract = {
+    subject: 'MANTEMENTO DO SISTÉMA.',
+    vendor_name: 'Empresa Test',
+    publication_date: '2026-01-15',
+  };
+
+  expect(matchesRepeatPattern(contract, filter)).toBe(true);
+  expect(matchesRepeatPattern({ ...contract, vendor_name: 'Outra Empresa' }, filter)).toBe(false);
+  expect(matchesRepeatPattern({ ...contract, publication_date: '2026-01-31' }, filter)).toBe(false);
+});
 
 describe('multi-organism analysis', () => {
   it('recomposes the global analysis exactly from all organism scopes', () => {
@@ -19,6 +48,7 @@ describe('multi-organism analysis', () => {
     expect(combined.vendors.concentration).toEqual(analysis.all.vendors.concentration);
     expect(combined.vendors.ranking_by_amount).toEqual(analysis.all.vendors.ranking_by_amount);
     expect(combined.vendors.ranking_by_count).toEqual(analysis.all.vendors.ranking_by_count);
+    expect(combined.patterns).toEqual(analysis.all.patterns);
   });
 
   it('combines compact scopes when released history has no raw composition', () => {

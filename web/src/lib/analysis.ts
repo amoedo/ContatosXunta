@@ -39,6 +39,46 @@ export type RepeatCluster = {
   contracts: ContractExcerpt[];
 };
 
+export type TranchingCandidate = {
+  id: string;
+  reference_id: string;
+  reference_eur: number;
+  organism_id: number;
+  organism_name: string;
+  vendor_name: string;
+  record_count: number;
+  date_start: string;
+  date_end: string;
+  window_days: number;
+  total_amount_eur: number;
+  minimum_amount_eur: number;
+  maximum_amount_eur: number;
+  has_near_reference: boolean;
+  same_normalized_subject: boolean;
+  contracts: ContractExcerpt[];
+};
+
+export type ContractReferenceSignal = {
+  id: string;
+  net_amount_eur: number;
+  published_reference_eur: number;
+  near_minimum_eur: number;
+  near_record_count: number;
+  at_or_above_record_count: number;
+  near_contracts: ContractExcerpt[];
+  at_or_above_contracts: ContractExcerpt[];
+};
+
+export type ContractSignals = {
+  assumed_vat_rate: number;
+  near_fraction: number;
+  window_days: number;
+  analyzed_record_count: number;
+  scope_record_count: number;
+  references: ContractReferenceSignal[];
+  tranching_candidates: TranchingCandidate[];
+};
+
 export function normalizePatternText(value: string) {
   return value.toLocaleLowerCase()
     .normalize('NFKD')
@@ -97,6 +137,7 @@ export type AnalysisScope = {
     window_days: number;
     minimum_records: number;
     repeat_clusters: RepeatCluster[];
+    contract_signals?: ContractSignals;
   };
 };
 
@@ -197,6 +238,67 @@ function mergeRepeatClusters(scopes: AnalysisScope[]) {
       || left.id.localeCompare(right.id))
     .slice(0, 50);
 }
+
+function mergeContractExcerpts(items: ContractExcerpt[]) {
+  return [...new Map(items.map((item) => [item.record_id, item])).values()]
+    .sort((left, right) => right.amount_eur - left.amount_eur
+      || left.record_id.localeCompare(right.record_id))
+    .slice(0, 20);
+}
+
+function mergeContractSignals(scopes: AnalysisScope[]): ContractSignals | undefined {
+  const signals = scopes.flatMap((scope) => scope.patterns?.contract_signals
+    ? [scope.patterns.contract_signals]
+    : []);
+  if (signals.length === 0) return undefined;
+
+  const references = new Map<string, ContractReferenceSignal>();
+  const candidates = new Map<string, TranchingCandidate>();
+  for (const signal of signals) {
+    for (const candidate of signal.tranching_candidates) candidates.set(candidate.id, candidate);
+    for (const reference of signal.references) {
+      const current = references.get(reference.id);
+      references.set(reference.id, current ? {
+        ...current,
+        near_record_count: current.near_record_count + reference.near_record_count,
+        at_or_above_record_count: current.at_or_above_record_count + reference.at_or_above_record_count,
+        near_contracts: mergeContractExcerpts([...current.near_contracts, ...reference.near_contracts]),
+        at_or_above_contracts: mergeContractExcerpts([
+          ...current.at_or_above_contracts,
+          ...reference.at_or_above_contracts,
+        ]),
+      } : { ...reference });
+    }
+  }
+  return {
+    assumed_vat_rate: signals[0].assumed_vat_rate,
+    near_fraction: signals[0].near_fraction,
+    window_days: signals[0].window_days,
+    analyzed_record_count: signals.reduce((sum, signal) => sum + (signal.analyzed_record_count ?? 0), 0),
+    scope_record_count: scopes.reduce((sum, scope) => sum + scope.summary.record_count, 0),
+    references: [...references.values()].sort(
+      (left, right) => left.published_reference_eur - right.published_reference_eur,
+    ),
+    tranching_candidates: [...candidates.values()]
+      .sort((left, right) => Number(right.same_normalized_subject) - Number(left.same_normalized_subject)
+        || Number(right.has_near_reference ?? false) - Number(left.has_near_reference ?? false)
+        || right.maximum_amount_eur / right.reference_eur - left.maximum_amount_eur / left.reference_eur
+        || right.total_amount_eur - left.total_amount_eur
+        || left.window_days - right.window_days
+        || left.id.localeCompare(right.id))
+      .slice(0, 50),
+  };
+}
+
+function patternSummary(scopes: AnalysisScope[]) {
+  const contractSignals = mergeContractSignals(scopes);
+  return {
+    window_days: 30,
+    minimum_records: 3,
+    repeat_clusters: mergeRepeatClusters(scopes),
+    ...(contractSignals ? { contract_signals: contractSignals } : {}),
+  };
+}
 function combineCompactAnalysisScopes(scopes: ComposableAnalysisScope[]): AnalysisScope {
   const recordCount = scopes.reduce((sum, scope) => sum + scope.summary.record_count, 0);
   const totalAmount = round(scopes.reduce((sum, scope) => sum + scope.summary.total_amount_eur, 0));
@@ -275,11 +377,7 @@ function combineCompactAnalysisScopes(scopes: ComposableAnalysisScope[]): Analys
           || left.record_id.localeCompare(right.record_id))
         .slice(0, 20),
     },
-    patterns: {
-      window_days: 30,
-      minimum_records: 3,
-      repeat_clusters: mergeRepeatClusters(scopes),
-    },
+    patterns: patternSummary(scopes),
   };
 }
 
@@ -361,11 +459,7 @@ export function combineAnalysisScopes(scopes: ComposableAnalysisScope[]): Analys
           || left.record_id.localeCompare(right.record_id))
         .slice(0, 20),
     },
-    patterns: {
-      window_days: 30,
-      minimum_records: 3,
-      repeat_clusters: mergeRepeatClusters(scopes),
-    },
+    patterns: patternSummary(scopes),
   };
 }
 
@@ -373,7 +467,60 @@ export function selectAnalysisBreakdown(analysis: AnalysisData, organismIds: str
   const selected = organismIds
     .map((id) => analysis.organism_scopes[id])
     .filter((scope): scope is OrganismAnalysis => scope !== undefined);
-  if (selected.length === 0) return analysis;
+  const emptyScope = (template: AnalysisScope): AnalysisScope => ({
+    summary: {
+      record_count: 0,
+      total_amount_eur: 0,
+      mean_amount_eur: 0,
+      median_amount_eur: 0,
+      unique_vendor_names: 0,
+      active_organism_count: 0,
+    },
+    timeseries: { monthly: [], yearly: [] },
+    vendors: {
+      ranking_limit: template.vendors.ranking_limit,
+      ranking_by_amount: [],
+      ranking_by_count: [],
+      concentration: { top1_share: 0, top5_share: 0, top10_share: 0 },
+    },
+    organisms: [],
+    categories: [],
+    amounts: {
+      percentiles: { p10: 0, p25: 0, p50: 0, p75: 0, p90: 0, p95: 0 },
+      minimum_eur: 0,
+      maximum_eur: 0,
+      bands: template.amounts.bands.map((item) => ({ ...item, record_count: 0 })),
+      largest_contracts: [],
+    },
+    patterns: {
+      window_days: template.patterns?.window_days ?? 30,
+      minimum_records: template.patterns?.minimum_records ?? 3,
+      repeat_clusters: [],
+      ...(template.patterns?.contract_signals ? {
+        contract_signals: {
+          ...template.patterns.contract_signals,
+          analyzed_record_count: 0,
+          scope_record_count: 0,
+          tranching_candidates: [],
+          references: template.patterns.contract_signals.references.map((reference) => ({
+            ...reference,
+            near_record_count: 0,
+            at_or_above_record_count: 0,
+            near_contracts: [],
+            at_or_above_contracts: [],
+          })),
+        },
+      } : {}),
+    },
+  });
+  if (selected.length === 0) return {
+    all: emptyScope(analysis.all),
+    years: Object.fromEntries(Object.entries(analysis.years).map(([year, scope]) => [
+      year,
+      emptyScope(scope),
+    ])),
+  };
+  if (selected.length === Object.keys(analysis.organism_scopes).length) return analysis;
   if (selected.length === 1) return selected[0];
 
   const yearKeys = new Set(selected.flatMap((scope) => Object.keys(scope.years)));

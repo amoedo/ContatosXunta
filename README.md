@@ -19,6 +19,8 @@ O compilador xera `web/public/data/analysis.json` con ámbitos globais, anuais e
 
 Unha alerta de repetición agrupa polo menos tres publicacións do mesmo organismo e adxudicatario, cun obxecto equivalente tras normalizar maiúsculas, acentos e puntuación, dentro dunha xanela máxima de 30 días. Son pistas para investigar, non probas de fraccionamento nin de ningunha irregularidade. Cada alerta enlaza cunha vista do explorador cos contratos exactos segundo organismo, adxudicatario, obxecto normalizado e intervalo de datas.
 
+Os sinais de acumulación agrupan dúas ou máis publicacións do mesmo organismo e adxudicatario nun máximo de 30 días cando cada importe está baixo unha referencia publicada (18.150 € ou 48.400 €) e a suma a alcanza ou supera. A proximidade individual á referencia e a equivalencia do obxecto só priorizan a orde; non son requisitos. As referencias asumen un IVE do 21% e estes sinais son pistas para revisar os expedientes, non conclusións xurídicas.
+
 As páxinas de análise permiten seleccionar un ano e calquera combinación de organismos e gardan ese ámbito na URL. Os ámbitos recentes con detalle recompóñense exactamente. Nos resumos anuais compactos, os totais e as series temporais seguen sendo exactos; os percentís combinados, os adxudicatarios únicos entre anos e as clasificacións construídas a partir de listas limitadas son estimacións.
 
 Os adxudicatarios agrúpanse polo nome exacto publicado porque os artefactos públicos non conteñen identificadores fiscais. As variantes ortográficas poden aparecer separadas. A análise temporal usa datas de publicación e o mes natural en curso debe considerarse parcial.
@@ -117,6 +119,8 @@ La web incluye vistas de resumen, adjudicatarios, organismos, importes, evoluci�
 El compilador genera `web/public/data/analysis.json` con ámbitos globales, anuales y por organismo. Incluye series temporales, clasificaciones de adjudicatarios y organismos, concentración del importe, percentiles, tramos de importe, mayores contratos y alertas de posibles repeticiones en periodos cortos.
 
 Una alerta de repetición agrupa al menos tres publicaciones del mismo organismo y adjudicatario, con un objeto equivalente tras normalizar mayúsculas, acentos y puntuación, dentro de una ventana máxima de 30 días. Son pistas para investigar, no pruebas de fraccionamiento ni de ninguna irregularidad. Cada alerta enlaza con una vista del explorador con los contratos exactos según organismo, adjudicatario, objeto normalizado e intervalo de fechas.
+
+Las señales de acumulación agrupan dos o más publicaciones del mismo organismo y adjudicatario en un máximo de 30 días cuando cada importe está bajo una referencia publicada (18.150 € o 48.400 €) y la suma la alcanza o supera. La proximidad individual a la referencia y la equivalencia del objeto solo priorizan el orden; no son requisitos. Las referencias asumen un IVA del 21% y estas señales son pistas para revisar los expedientes, no conclusiones jurídicas.
 
 Las páginas de análisis permiten seleccionar un año y cualquier combinación de organismos y guardan ese ámbito en la URL. Los ámbitos recientes con detalle se recomponen exactamente. En los resúmenes anuales compactos, los totales y las series temporales siguen siendo exactos; los percentiles combinados, los adjudicatarios únicos entre años y las clasificaciones construidas a partir de listas limitadas son estimaciones.
 
@@ -228,6 +232,8 @@ Awardees are grouped by their exact published name because public artifacts do n
 The interface reports the curated organizational scope, validated publication-date coverage, privacy policy, and source limitations. Publication dates must not be interpreted as execution dates, and bidder competition or procedure details are not inferred when the source does not provide them.
 
 Potential repetition alerts group at least three publications from the same organization to the same awardee, with an equivalent subject after case, accent, and punctuation normalization, inside a maximum 30-day window. These are investigative leads, not evidence of contract splitting or other wrongdoing. Each alert links to an explorer view containing the exact contracts selected by organization, awardee, normalized subject, and date range. Topic classification remains deferred until a Xunta-specific subject taxonomy is validated. Competition analysis remains unavailable because the source does not publish bidder counts or procedure fields.
+
+Cumulative signals group two or more publications from the same organization to the same awardee within 30 days when every amount is below a published reference (€18,150 or €48,400) and their sum reaches or exceeds it. Individual proximity to the reference and equivalent subjects affect ranking only; neither is required. The references assume 21% VAT, and the signals are leads for reviewing the underlying files rather than legal conclusions.
 
 ### Local setup
 

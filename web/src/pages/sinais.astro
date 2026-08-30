@@ -1,0 +1,9 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
+import AnalysisRoute from '../components/AnalysisRoute';
+---
+<BaseLayout title="Sinais | Contratos Xunta" titleEs="Señales | Contratos Xunta" description="Sinais explicables para investigar repeticións, proximidade a referencias de importe e posible fraccionamento." descriptionEs="Señales explicables para investigar repeticiones, proximidad a referencias de importe y posible fraccionamiento.">
+  <PageHero eyebrow="Lectura investigable" eyebrowEs="Lectura investigable" title="Sinais nos contratos publicados" titleEs="Señales en los contratos publicados" copy="Revisa patróns calculados e abre sempre a evidencia na fonte oficial." copyEs="Revisa patrones calculados y abre siempre la evidencia en la fuente oficial." />
+  <AnalysisRoute section="issues" client:load />
+</BaseLayout>

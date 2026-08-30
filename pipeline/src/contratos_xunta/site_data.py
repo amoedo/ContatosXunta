@@ -33,6 +33,14 @@ REPEAT_CLUSTER_LIMIT = 50
 REPEAT_EVIDENCE_LIMIT = 20
 REPEAT_MIN_RECORDS = 3
 REPEAT_WINDOW_DAYS = 30
+SIGNAL_CLUSTER_LIMIT = 50
+SIGNAL_EVIDENCE_LIMIT = 20
+SIGNAL_NEAR_FRACTION = 0.05
+SIGNAL_WINDOW_DAYS = 30
+SIGNAL_REFERENCES = (
+    {"id": "supplies-services", "net_amount_eur": 15_000, "published_reference_eur": 18_150},
+    {"id": "works", "net_amount_eur": 40_000, "published_reference_eur": 48_400},
+)
 AMOUNT_BANDS = (
     ("0-500", 0, 500),
     ("500-2000", 500, 2_000),
@@ -49,6 +57,252 @@ def normalize_pattern_text(value: str) -> str:
         character for character in decomposed if not unicodedata.combining(character)
     )
     return " ".join(re.sub(r"[^a-z0-9]+", " ", unaccented).split())
+
+
+def contract_excerpt(record: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "record_id": record["record_id"],
+        "publication_date": record["publication_date"],
+        "subject": record["subject"],
+        "vendor_name": record["vendor_name"],
+        "organism_name": record["organism_name"],
+        "amount_eur": record["amount_eur"],
+        "source_url": record["source_url"],
+    }
+
+
+def find_contract_signals(records: list[dict[str, Any]]) -> dict[str, Any]:
+    ordered = sorted(
+        records,
+        key=lambda item: (item["publication_date"], item["record_id"]),
+    )
+    grouped: dict[tuple[int, str], list[dict[str, Any]]] = defaultdict(list)
+    for record in ordered:
+        vendor_name = str(record["vendor_name"]).strip()
+        if vendor_name:
+            grouped[(record["organism_id"], vendor_name)].append(record)
+
+    candidates: list[dict[str, Any]] = []
+    reference_summaries: list[dict[str, Any]] = []
+    for reference in SIGNAL_REFERENCES:
+        reference_eur = float(reference["published_reference_eur"])
+        near_start = reference_eur * (1 - SIGNAL_NEAR_FRACTION)
+        near_records = [
+            record
+            for record in ordered
+            if near_start <= float(record["amount_eur"]) < reference_eur
+        ]
+        over_records = [
+            record for record in ordered if float(record["amount_eur"]) >= reference_eur
+        ]
+        reference_summaries.append(
+            {
+                **reference,
+                "near_minimum_eur": round(near_start, 2),
+                "near_record_count": len(near_records),
+                "at_or_above_record_count": len(over_records),
+                "near_contracts": [
+                    contract_excerpt(record)
+                    for record in sorted(
+                        near_records,
+                        key=lambda item: (-item["amount_eur"], item["record_id"]),
+                    )[:SIGNAL_EVIDENCE_LIMIT]
+                ],
+                "at_or_above_contracts": [
+                    contract_excerpt(record)
+                    for record in sorted(
+                        over_records,
+                        key=lambda item: (-item["amount_eur"], item["record_id"]),
+                    )[:SIGNAL_EVIDENCE_LIMIT]
+                ],
+            }
+        )
+
+        for (organism_id, vendor_name), group in grouped.items():
+            eligible = [
+                record for record in group if float(record["amount_eur"]) < reference_eur
+            ]
+            if len(eligible) < 2:
+                continue
+            dates = [date.fromisoformat(item["publication_date"]) for item in eligible]
+            left = 0
+            best: list[dict[str, Any]] = []
+            best_score: tuple[int, int, int, float, float] | None = None
+            for right, right_date in enumerate(dates):
+                while (right_date - dates[left]).days > SIGNAL_WINDOW_DAYS:
+                    left += 1
+                window = eligible[left : right + 1]
+                if len(window) < 2:
+                    continue
+                total = sum(float(item["amount_eur"]) for item in window)
+                near_gap = min(reference_eur - float(item["amount_eur"]) for item in window)
+                if total < reference_eur:
+                    continue
+                normalized_subjects = {
+                    normalize_pattern_text(str(item["subject"])) for item in window
+                }
+                same_subject = len(normalized_subjects) == 1
+                has_near_reference = near_gap <= reference_eur * SIGNAL_NEAR_FRACTION
+                score = (
+                    int(same_subject),
+                    int(has_near_reference),
+                    len(window),
+                    -near_gap,
+                    total,
+                )
+                if best_score is None or score > best_score:
+                    best = window
+                    best_score = score
+            if not best:
+                continue
+
+            amounts = [float(item["amount_eur"]) for item in best]
+            normalized_subjects = {
+                normalize_pattern_text(str(item["subject"])) for item in best
+            }
+            date_start = best[0]["publication_date"]
+            date_end = best[-1]["publication_date"]
+            candidate_key = "\0".join(
+                [
+                    str(reference["id"]),
+                    str(organism_id),
+                    vendor_name,
+                    *(str(item["record_id"]) for item in best),
+                ]
+            )
+            candidates.append(
+                {
+                    "id": hashlib.sha256(candidate_key.encode("utf-8")).hexdigest()[:16],
+                    "reference_id": reference["id"],
+                    "reference_eur": reference["published_reference_eur"],
+                    "organism_id": organism_id,
+                    "organism_name": best[0]["organism_name"],
+                    "vendor_name": vendor_name,
+                    "record_count": len(best),
+                    "date_start": date_start,
+                    "date_end": date_end,
+                    "window_days": (
+                        date.fromisoformat(date_end) - date.fromisoformat(date_start)
+                    ).days,
+                    "total_amount_eur": round(sum(amounts), 2),
+                    "minimum_amount_eur": round(min(amounts), 2),
+                    "maximum_amount_eur": round(max(amounts), 2),
+                    "has_near_reference": (
+                        reference_eur - max(amounts)
+                        <= reference_eur * SIGNAL_NEAR_FRACTION
+                    ),
+                    "same_normalized_subject": len(normalized_subjects) == 1,
+                    "contracts": [
+                        contract_excerpt(item) for item in best[:SIGNAL_EVIDENCE_LIMIT]
+                    ],
+                }
+            )
+
+    return {
+        "assumed_vat_rate": 0.21,
+        "near_fraction": SIGNAL_NEAR_FRACTION,
+        "window_days": SIGNAL_WINDOW_DAYS,
+        "analyzed_record_count": len(records),
+        "scope_record_count": len(records),
+        "references": reference_summaries,
+        "tranching_candidates": sorted(
+            candidates,
+            key=lambda item: (
+                -int(item["same_normalized_subject"]),
+                -int(item["has_near_reference"]),
+                -(item["maximum_amount_eur"] / item["reference_eur"]),
+                -item["total_amount_eur"],
+                item["window_days"],
+                item["id"],
+            ),
+        )[:SIGNAL_CLUSTER_LIMIT],
+    }
+
+
+def merge_contract_signals(scopes: list[dict[str, Any]]) -> dict[str, Any]:
+    signals = [
+        scope.get("patterns", {}).get("contract_signals")
+        for scope in scopes
+    ]
+    available = [signal for signal in signals if isinstance(signal, dict)]
+    if not available:
+        return find_contract_signals([])
+
+    candidates_by_id: dict[str, dict[str, Any]] = {}
+    references_by_id: dict[str, dict[str, Any]] = {}
+    for signal in available:
+        for candidate in signal.get("tranching_candidates", []):
+            candidates_by_id[candidate["id"]] = candidate
+        for reference in signal.get("references", []):
+            reference_id = reference["id"]
+            merged = references_by_id.setdefault(
+                reference_id,
+                {
+                    **reference,
+                    "near_record_count": 0,
+                    "at_or_above_record_count": 0,
+                    "near_contracts": [],
+                    "at_or_above_contracts": [],
+                },
+            )
+            merged["near_record_count"] += reference["near_record_count"]
+            merged["at_or_above_record_count"] += reference["at_or_above_record_count"]
+            merged["near_contracts"].extend(reference["near_contracts"])
+            merged["at_or_above_contracts"].extend(reference["at_or_above_contracts"])
+
+    def bounded_contracts(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+        unique = {item["record_id"]: item for item in items}
+        return sorted(
+            unique.values(),
+            key=lambda item: (-item["amount_eur"], item["record_id"]),
+        )[:SIGNAL_EVIDENCE_LIMIT]
+
+    references = []
+    for configured in SIGNAL_REFERENCES:
+        reference = references_by_id.get(str(configured["id"]))
+        if reference is None:
+            reference = {
+                **configured,
+                "near_minimum_eur": round(
+                    float(configured["published_reference_eur"])
+                    * (1 - SIGNAL_NEAR_FRACTION),
+                    2,
+                ),
+                "near_record_count": 0,
+                "at_or_above_record_count": 0,
+                "near_contracts": [],
+                "at_or_above_contracts": [],
+            }
+        else:
+            reference["near_contracts"] = bounded_contracts(reference["near_contracts"])
+            reference["at_or_above_contracts"] = bounded_contracts(
+                reference["at_or_above_contracts"]
+            )
+        references.append(reference)
+
+    return {
+        "assumed_vat_rate": 0.21,
+        "near_fraction": SIGNAL_NEAR_FRACTION,
+        "window_days": SIGNAL_WINDOW_DAYS,
+        "analyzed_record_count": sum(
+            int(signal.get("analyzed_record_count", 0)) for signal in available
+        ),
+        "scope_record_count": sum(
+            int(scope.get("summary", {}).get("record_count", 0)) for scope in scopes
+        ),
+        "references": references,
+        "tranching_candidates": sorted(
+            candidates_by_id.values(),
+            key=lambda item: (
+                -int(item["same_normalized_subject"]),
+                -int(item.get("has_near_reference", False)),
+                -(item["maximum_amount_eur"] / item["reference_eur"]),
+                -item["total_amount_eur"],
+                item["window_days"],
+                item["id"],
+            ),
+        )[:SIGNAL_CLUSTER_LIMIT],
+    }
 
 
 def find_repeat_clusters(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -303,6 +557,7 @@ def build_analysis_scope(
             "window_days": REPEAT_WINDOW_DAYS,
             "minimum_records": REPEAT_MIN_RECORDS,
             "repeat_clusters": find_repeat_clusters(records),
+            "contract_signals": find_contract_signals(records),
         },
     }
     if include_composition:
@@ -484,6 +739,7 @@ def combine_compact_analysis_scopes(scopes: list[dict[str, Any]]) -> dict[str, A
             "window_days": REPEAT_WINDOW_DAYS,
             "minimum_records": REPEAT_MIN_RECORDS,
             "repeat_clusters": repeat_clusters,
+            "contract_signals": merge_contract_signals(scopes),
         },
     }
 

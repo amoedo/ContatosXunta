@@ -5,6 +5,7 @@ import {
   combineAnalysisScopes,
   matchesRepeatPattern,
   normalizePatternText,
+  selectAnalysisBreakdown,
   type AnalysisData,
   type RepeatPatternFilter,
 } from '../src/lib/analysis';
@@ -35,6 +36,14 @@ it('matches only contracts inside every alert boundary', () => {
 });
 
 describe('multi-organism analysis', () => {
+  it('returns a zero scope for an explicit empty organism selection', () => {
+    const selected = selectAnalysisBreakdown(analysis, []);
+
+    expect(selected.all.summary.record_count).toBe(0);
+    expect(selected.all.summary.total_amount_eur).toBe(0);
+    expect(selected.all.amounts.bands.every((band) => band.record_count === 0)).toBe(true);
+  });
+
   it('recomposes a year exactly from organism scopes with raw composition', () => {
     const year = Object.keys(analysis.years).find((yearKey) =>
       Object.values(analysis.organism_scopes).some(

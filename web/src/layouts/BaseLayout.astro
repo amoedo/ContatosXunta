@@ -19,10 +19,11 @@ const navItems = [
   ['/organismos', 'Organismos', 'Organismos'],
   ['/importes', 'Importes', 'Importes'],
   ['/evolucion', 'Evolución', 'Evolución'],
+  ['/sinais', 'Sinais', 'Señales'],
   ['/explorador', 'Explorador', 'Explorador'],
   ['/metodoloxia', 'Metodoloxía', 'Metodología'],
 ] as const;
-const analysisPaths = new Set(['/adjudicatarios', '/organismos', '/importes', '/evolucion']);
+const analysisPaths = new Set(['/adjudicatarios', '/organismos', '/importes', '/evolucion', '/sinais', '/explorador']);
 const canonical = new URL(Astro.url.pathname, Astro.site ?? Astro.url);
 ---
 <!doctype html>

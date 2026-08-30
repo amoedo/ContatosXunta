@@ -31,6 +31,7 @@ from contratos_xunta.retention import detail_cutoff, prune_archived_windows
 from contratos_xunta.site_data import (
     build_analysis_scope,
     build_site_data,
+    find_contract_signals,
     partition_explorer_records,
     retain_recent_months,
 )
@@ -463,6 +464,119 @@ def test_repeat_cluster_evidence_is_bounded() -> None:
     cluster = build_analysis_scope(records)["patterns"]["repeat_clusters"][0]
     assert cluster["record_count"] == 25
     assert len(cluster["contracts"]) == 20
+
+
+def test_contract_signals_apply_reference_and_date_boundaries() -> None:
+    def record(
+        record_id: str,
+        publication_date: str,
+        amount: float,
+        *,
+        subject: str = "Mantemento",
+    ) -> dict[str, object]:
+        return {
+            "record_id": record_id,
+            "organism_id": 291,
+            "organism_name": "Presidencia",
+            "publication_date": publication_date,
+            "subject": subject,
+            "amount_eur": amount,
+            "vendor_name": "Empresa Test",
+            "source_url": f"https://example.test/{record_id}",
+        }
+
+    signals = find_contract_signals(
+        [
+            record("1", "2026-01-01", 17_242.50),
+            record("2", "2026-01-31", 1_000),
+            record("3", "2026-03-03", 18_149.99),
+            record("4", "2026-04-03", 1_000),
+            record("5", "2026-05-01", 18_150),
+        ]
+    )
+
+    first_reference = signals["references"][0]
+    assert first_reference["near_minimum_eur"] == 17_242.50
+    assert first_reference["near_record_count"] == 2
+    assert first_reference["at_or_above_record_count"] == 1
+    candidates = signals["tranching_candidates"]
+    assert len(candidates) == 1
+    assert [item["record_id"] for item in candidates[0]["contracts"]] == ["1", "2"]
+    assert candidates[0]["window_days"] == 30
+
+
+def test_contract_signals_rank_same_subject_candidate_first() -> None:
+    records = [
+        {
+            "record_id": record_id,
+            "organism_id": organism_id,
+            "organism_name": f"Organismo {organism_id}",
+            "publication_date": publication_date,
+            "subject": subject,
+            "amount_eur": amount,
+            "vendor_name": vendor,
+            "source_url": f"https://example.test/{record_id}",
+        }
+        for record_id, organism_id, publication_date, subject, amount, vendor in (
+            ("1", 1, "2026-01-01", "Servizo A", 18_000, "Empresa A"),
+            ("2", 1, "2026-01-10", "Servizo B", 1_000, "Empresa A"),
+            ("3", 2, "2026-01-01", "Servizo C", 17_500, "Empresa B"),
+            ("4", 2, "2026-01-10", "SERVIZO C.", 1_000, "Empresa B"),
+        )
+    ]
+
+    candidates = find_contract_signals(records)["tranching_candidates"]
+
+    assert [item["organism_id"] for item in candidates] == [2, 1]
+    assert candidates[0]["same_normalized_subject"] is True
+    assert candidates[1]["same_normalized_subject"] is False
+
+
+def test_contract_signals_flag_any_30_day_total_over_reference() -> None:
+    records = [
+        {
+            "record_id": str(index),
+            "organism_id": 291,
+            "organism_name": "Presidencia",
+            "publication_date": publication_date,
+            "subject": "Servizo recorrente",
+            "amount_eur": amount,
+            "vendor_name": "Empresa Test",
+            "source_url": f"https://example.test/{index}",
+        }
+        for index, publication_date, amount in (
+            (1, "2026-01-01", 10_000),
+            (2, "2026-01-30", 9_000),
+        )
+    ]
+
+    candidates = find_contract_signals(records)["tranching_candidates"]
+
+    assert len(candidates) == 1
+    assert candidates[0]["total_amount_eur"] == 19_000
+    assert candidates[0]["has_near_reference"] is False
+
+
+def test_analysis_scope_exposes_contract_signals() -> None:
+    records = [
+        {
+            "record_id": str(index),
+            "organism_id": index,
+            "organism_name": f"Organismo {index}",
+            "category": "Consellerías",
+            "publication_date": "2026-01-10",
+            "subject": "Mantemento",
+            "amount_eur": amount,
+            "vendor_name": f"Empresa {index}",
+            "source_url": f"https://example.test/{index}",
+        }
+        for index, amount in ((1, 18_149.99), (2, 18_150), (3, 48_400))
+    ]
+
+    signals = build_analysis_scope(records)["patterns"]["contract_signals"]
+
+    assert [item["near_record_count"] for item in signals["references"]] == [1, 0]
+    assert [item["at_or_above_record_count"] for item in signals["references"]] == [2, 1]
 
 
 def test_explorer_partitioning_is_complete_bounded_and_maximal() -> None:

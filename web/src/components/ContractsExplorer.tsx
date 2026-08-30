@@ -21,6 +21,8 @@ import { matchesRepeatPattern, type RepeatPatternFilter } from '../lib/analysis'
 import { withBase } from '../lib/basePath';
 import { buildContractsCsv } from '../lib/contractsCsv';
 import { formatEuro, formatInteger } from '../lib/format';
+import { parseOrganismSelection, writeOrganismSelection } from '../lib/organismFilter';
+import OrganismMultiSelect from './OrganismMultiSelect';
 
 type Language = 'gl' | 'es';
 
@@ -88,6 +90,20 @@ type ExplorerManifest = {
   years: ExplorerYear[];
 };
 
+type SortOrder = '' | 'amount-desc' | 'amount-asc';
+
+export function sortContracts<T extends Pick<ContractRecord, 'amount_eur' | 'publication_date' | 'source_id'>>(
+  contracts: T[],
+  sortOrder: SortOrder,
+) {
+  if (!sortOrder) return contracts;
+  const direction = sortOrder === 'amount-desc' ? -1 : 1;
+  return [...contracts].sort((left, right) =>
+    direction * (left.amount_eur - right.amount_eur)
+    || right.publication_date.localeCompare(left.publication_date)
+    || right.source_id - left.source_id);
+}
+
 const copy = {
   gl: {
     kicker: 'Transparencia contractual',
@@ -104,6 +120,15 @@ const copy = {
     search: 'Buscar por obxecto, adxudicatario ou organismo',
     allCategories: 'Todas as categorías',
     allOrganisms: 'Todos os organismos',
+    noOrganisms: 'Ningún organismo',
+    selectedOrganisms: (count: number) => `${count} organismos seleccionados`,
+    selectAllOrganisms: 'Seleccionar todos',
+    selectNoOrganisms: 'Deseleccionar todos',
+    organismFilter: 'Organismos do explorador',
+    sort: 'Ordenación',
+    sourceOrder: 'Publicación máis recente',
+    amountDescending: 'Importe: maior a menor',
+    amountAscending: 'Importe: menor a maior',
     results: 'resultados',
     resultsIn: (period: string) => `en ${period}`,
     organismSeriesTotal: (count: string) => `${count} contratos na serie completa`,
@@ -136,6 +161,8 @@ const copy = {
     limitations: 'Límites da fonte',
     limitationsDetail: 'Non se infiren licitadores, competencia nin procedemento cando a fonte non ofrece eses campos.',
     publicationNote: 'As datas corresponden á publicación do contrato, non necesariamente á súa execución. O explorador conserva o detalle recente; os anos pechados incorpóranse como resumos analíticos e arquivos anuais descargables.',
+    cumulativeSignals: 'Sinais de acumulación',
+    cumulativeSignalsDetail: 'Agrúpanse dúas ou máis publicacións do mesmo organismo e adxudicatario nun máximo de 30 días cando cada importe está baixo 18.150 € ou 48.400 € e a suma alcanza esa referencia. A proximidade e o obxecto equivalente só priorizan a orde; son pistas de investigación, non conclusións xurídicas.',
     classificationTitle: 'Clasificación como «contrato menor»',
     classificationIntro: 'Os datos desta web reproducen a clasificación publicada polas fontes oficiais da Xunta. Esa clasificación non permite concluír por si soa cal foi o procedemento xurídico empregado en cada expediente.',
     classificationLaw: 'A Lei 9/2017 de Contratos do Sector Público establece con carácter xeral no seu artigo 118 que son contratos menores os de valor estimado inferior a 40.000 € en obras e a 15.000 € en subministracións ou servizos.',
@@ -174,6 +201,15 @@ const copy = {
     search: 'Buscar por objeto, adjudicatario u organismo',
     allCategories: 'Todas las categorías',
     allOrganisms: 'Todos los organismos',
+    noOrganisms: 'Ningún organismo',
+    selectedOrganisms: (count: number) => `${count} organismos seleccionados`,
+    selectAllOrganisms: 'Seleccionar todos',
+    selectNoOrganisms: 'Deseleccionar todos',
+    organismFilter: 'Organismos del explorador',
+    sort: 'Ordenación',
+    sourceOrder: 'Publicación más reciente',
+    amountDescending: 'Importe: mayor a menor',
+    amountAscending: 'Importe: menor a mayor',
     results: 'resultados',
     resultsIn: (period: string) => `en ${period}`,
     organismSeriesTotal: (count: string) => `${count} contratos en la serie completa`,
@@ -206,6 +242,8 @@ const copy = {
     limitations: 'Límites de la fuente',
     limitationsDetail: 'No se infieren licitadores, competencia ni procedimiento cuando la fuente no ofrece esos campos.',
     publicationNote: 'Las fechas corresponden a la publicación del contrato, no necesariamente a su ejecución. El explorador conserva el detalle reciente; los años cerrados se incorporan como resúmenes analíticos y archivos anuales descargables.',
+    cumulativeSignals: 'Señales de acumulación',
+    cumulativeSignalsDetail: 'Se agrupan dos o más publicaciones del mismo organismo y adjudicatario en un máximo de 30 días cuando cada importe está bajo 18.150 € o 48.400 € y la suma alcanza esa referencia. La proximidad y el objeto equivalente solo priorizan el orden; son pistas de investigación, no conclusiones jurídicas.',
     classificationTitle: 'Clasificación como «contrato menor»',
     classificationIntro: 'Los datos de esta web reproducen la clasificación publicada por las fuentes oficiales de la Xunta. Esa clasificación no permite concluir por sí sola cuál fue el procedimiento jurídico utilizado en cada expediente.',
     classificationLaw: 'La Ley 9/2017 de Contratos del Sector Público establece con carácter general en su artículo 118 que son contratos menores los de valor estimado inferior a 40.000 € en obras y a 15.000 € en suministros o servicios.',
@@ -275,12 +313,14 @@ export default function ContractsExplorer({
   const [search, setSearch] = useState('');
   const deferredSearch = useDeferredValue(search);
   const [category, setCategory] = useState('');
-  const [organism, setOrganism] = useState('');
+  const [organismKeys, setOrganismKeys] = useState<string[]>([]);
+  const [sortOrder, setSortOrder] = useState<SortOrder>('');
   const [repeatFilter, setRepeatFilter] = useState<RepeatPatternFilter | null>(null);
   const [page, setPage] = useState(1);
   const [urlReady, setUrlReady] = useState(false);
   const t = copy[language];
   const organisms = dashboard.organisms;
+  const allOrganismIds = organisms.map((item) => String(item.organism_id));
 
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
@@ -303,7 +343,6 @@ export default function ContractsExplorer({
         const requestedMonth = params.get('month') ?? '';
         const requestedPage = Number(params.get('page'));
         const requestedCategory = params.get('category') ?? '';
-        const requestedOrganism = params.get('organism') ?? '';
         const repeatSubject = params.get('repeatSubject')?.trim() ?? '';
         const repeatVendor = params.get('repeatVendor')?.trim() ?? '';
         const dateStart = params.get('dateFrom') ?? '';
@@ -321,11 +360,11 @@ export default function ContractsExplorer({
         setCategory(
           organisms.some((item) => item.category === requestedCategory) ? requestedCategory : '',
         );
-        setOrganism(
-          organisms.some((item) => String(item.organism_id) === requestedOrganism)
-            ? requestedOrganism
-            : '',
-        );
+        setOrganismKeys(parseOrganismSelection(params, allOrganismIds));
+        const requestedSort = params.get('sort');
+        setSortOrder(requestedSort === 'amount-desc' || requestedSort === 'amount-asc'
+          ? requestedSort
+          : '');
         setPage(Number.isInteger(requestedPage) && requestedPage > 0 ? requestedPage : 1);
         const resolvedYear = payload.years.find((item) => item.year === requestedYear)
           ?? latestYearMetadata;
@@ -383,6 +422,7 @@ export default function ContractsExplorer({
     a.localeCompare(b, language),
   );
   const normalizedSearch = deferredSearch.trim().toLocaleLowerCase(language);
+  const selectedOrganismIds = new Set(organismKeys);
   const filtered = contracts.filter((contract) => {
     const matchesSearch =
       !normalizedSearch ||
@@ -394,13 +434,16 @@ export default function ContractsExplorer({
       matchesSearch &&
       matchesRepeat &&
       (!category || contract.category === category) &&
-      (!organism || String(contract.organism_id) === organism)
+      selectedOrganismIds.has(String(contract.organism_id))
     );
   });
-  const pageCount = Math.max(1, Math.ceil(filtered.length / pageSize));
+  const orderedContracts = sortContracts(filtered, sortOrder);
+  const pageCount = Math.max(1, Math.ceil(orderedContracts.length / pageSize));
   const currentPage = Math.min(page, pageCount);
-  const visibleContracts = filtered.slice((currentPage - 1) * pageSize, currentPage * pageSize);
-  const selectedOrganism = organisms.find((item) => String(item.organism_id) === organism);
+  const visibleContracts = orderedContracts.slice((currentPage - 1) * pageSize, currentPage * pageSize);
+  const selectedOrganism = organismKeys.length === 1
+    ? organisms.find((item) => String(item.organism_id) === organismKeys[0])
+    : undefined;
   const resultPeriod = selectedMonth === 'all'
     ? String(selectedYear ?? '')
     : selectedMonth;
@@ -431,7 +474,8 @@ export default function ContractsExplorer({
     setParam('month', selectedMonth, selectedMonth.length > 0);
     setParam('q', search, search.length > 0);
     setParam('category', category, category.length > 0);
-    setParam('organism', organism, organism.length > 0);
+    writeOrganismSelection(params, organismKeys, allOrganismIds);
+    setParam('sort', sortOrder, sortOrder.length > 0);
     setParam('repeatSubject', repeatFilter?.subject ?? '', repeatFilter !== null);
     setParam('repeatLabel', repeatFilter?.label ?? '', repeatFilter !== null);
     setParam('repeatVendor', repeatFilter?.vendor ?? '', repeatFilter !== null);
@@ -444,11 +488,17 @@ export default function ContractsExplorer({
       '',
       `${window.location.pathname}${query ? `?${query}` : ''}${window.location.hash}`,
     );
-  }, [category, currentPage, language, organism, repeatFilter, search, selectedMonth, selectedYear, urlReady]);
+    document.querySelectorAll<HTMLAnchorElement>('[data-analysis-route]').forEach((link) => {
+      const destination = new URL(link.href);
+      writeOrganismSelection(destination.searchParams, organismKeys, allOrganismIds);
+      if (selectedYear !== null) destination.searchParams.set('year', String(selectedYear));
+      link.href = destination.toString();
+    });
+  }, [category, currentPage, language, organismKeys, repeatFilter, search, selectedMonth, selectedYear, sortOrder, urlReady]);
 
   const downloadCsv = () => {
     if (loadState !== 'ready' || selectedYear === null || filtered.length === 0) return;
-    const blob = new Blob([buildContractsCsv(filtered, language)], {
+    const blob = new Blob([buildContractsCsv(orderedContracts, language)], {
       type: 'text/csv;charset=utf-8',
     });
     const url = URL.createObjectURL(blob);
@@ -600,11 +650,29 @@ export default function ContractsExplorer({
                 {categories.map((item) => <option value={item} key={item}>{language === 'es' ? categoryTranslations[item] ?? item : item}</option>)}
               </select>
             </label>
+            <div className="explorer-organism-filter">
+              <span className="sr-only">{t.organismFilter}</span>
+              <OrganismMultiSelect
+                options={organisms.map((item) => ({ id: String(item.organism_id), name: item.name }))}
+                selectedIds={organismKeys}
+                onChange={(ids) => { setOrganismKeys(ids); setPage(1); }}
+                label={t.organismFilter}
+                allLabel={t.allOrganisms}
+                noneLabel={t.noOrganisms}
+                selectedLabel={t.selectedOrganisms}
+                selectAllLabel={t.selectAllOrganisms}
+                selectNoneLabel={t.selectNoOrganisms}
+              />
+            </div>
             <label>
-              <span className="sr-only">{t.allOrganisms}</span>
-              <select value={organism} onChange={(event) => changeFilter(setOrganism, event.target.value)}>
-                <option value="">{t.allOrganisms}</option>
-                {organisms.map((item) => <option value={item.organism_id} key={item.organism_id}>{item.name}</option>)}
+              <span className="sr-only">{t.sort}</span>
+              <select value={sortOrder} onChange={(event) => {
+                setSortOrder(event.target.value as SortOrder);
+                setPage(1);
+              }}>
+                <option value="">{t.sourceOrder}</option>
+                <option value="amount-desc">{t.amountDescending}</option>
+                <option value="amount-asc">{t.amountAscending}</option>
               </select>
             </label>
           </div>
@@ -668,6 +736,10 @@ export default function ContractsExplorer({
             <article>
               <CircleAlert size={20} aria-hidden="true" />
               <div><h3>{t.limitations}</h3><p>{t.limitationsDetail} {t.publicationNote}</p></div>
+            </article>
+            <article>
+              <Search size={20} aria-hidden="true" />
+              <div><h3>{t.cumulativeSignals}</h3><p>{t.cumulativeSignalsDetail}</p></div>
             </article>
           </div>
           <aside className="classification-warning" aria-labelledby="classification-warning-title">

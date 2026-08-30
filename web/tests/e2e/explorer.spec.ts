@@ -24,8 +24,27 @@ test('navigates across the supported analysis pages', async ({ page }, testInfo)
     await expect(page.getByRole('heading', { level: 1, name: 'Cambios de ritmo e meses atípicos' })).toBeVisible();
     await expect(page.getByRole('heading', { name: 'Evolución das publicacións' })).toBeVisible();
 
+    await navigation.getByRole('link', { name: 'Sinais' }).click();
+    await expect(page.getByRole('heading', { level: 1, name: 'Sinais nos contratos publicados' })).toBeVisible();
+    await expect(page.getByRole('heading', { name: 'Acumulación baixo referencias en 30 días' })).toBeVisible();
+    await expect(page.getByRole('heading', { name: 'Contratos repetidos en períodos curtos' })).toBeVisible();
+    await expect(page.getByRole('heading', { name: 'Importes próximos ou superiores ás referencias' })).toBeVisible();
+
+    const candidateSort = page.getByRole('combobox', { name: 'Ordenar candidatos' });
+    await candidateSort.selectOption('total');
+    const candidateAmounts = await page.locator('.signal-cluster .repeat-total strong').allTextContents();
+    const parseCompactAmount = (value: string) => {
+      const amount = Number(value.replace(/\./g, '').replace(',', '.').replace(/[^0-9.]/g, ''));
+      return amount * (/\bM\s*€/.test(value) ? 1_000_000 : value.includes('mil') ? 1_000 : 1);
+    };
+    expect(candidateAmounts.map(parseCompactAmount)).toEqual([...candidateAmounts.map(parseCompactAmount)].sort((a, b) => b - a));
+    await expect(page.getByText('Páxina 1 de 3', { exact: true })).toBeVisible();
+    await page.getByRole('button', { name: 'Páxina seguinte' }).click();
+    await expect(page.getByText('Páxina 2 de 3', { exact: true })).toBeVisible();
+
     await page.locator('.organism-multiselect summary').click();
     const organismGroup = page.getByRole('group', { name: 'Organismo da análise' });
+    await organismGroup.getByRole('button', { name: 'Deseleccionar todos' }).click();
     await organismGroup.getByRole('checkbox', { name: 'Consellería de Sanidade', exact: true }).check();
     await organismGroup.getByRole('checkbox', { name: 'Consellería de Política Social e Igualdade', exact: true }).check();
     await expect(page.locator('.organism-multiselect summary')).toHaveText('2 organismos seleccionados');
@@ -52,11 +71,34 @@ test('filters, exports, translates, and opens methodology', async ({ page }, tes
       /^https:\/\/www\.contratosdegalicia\.gal\/licitacion\?N=\d+$/,
     );
 
-    const organismFilter = page.getByRole('combobox', { name: 'Todos os organismos' });
-    await organismFilter.selectOption('215');
+    const organismSummary = page.locator('.explorer-organism-filter summary');
+    await expect(organismSummary).toHaveText('Todos os organismos');
+    await organismSummary.click();
+    const organismFilter = page.getByRole('group', { name: 'Organismos do explorador' });
+    const excludedOrganism = organismFilter.getByRole('checkbox', {
+      name: 'Axencia para a Modernización Tecnolóxica de Galicia (Amtega)',
+      exact: true,
+    });
+    await expect(excludedOrganism).toBeChecked();
+    await excludedOrganism.uncheck();
+    await expect(page).toHaveURL(/excludeOrganisms=215/);
+    await organismFilter.getByRole('button', { name: 'Deseleccionar todos' }).click();
+    await excludedOrganism.check();
+    await expect(page).toHaveURL(/organisms=215/);
     await expect(page.locator('.explorer-heading p')).toContainText('8 resultados en 2026-08');
     await expect(page.locator('.explorer-heading p')).toContainText('375 contratos na serie completa');
-    await organismFilter.selectOption('');
+    await organismFilter.getByRole('button', { name: 'Seleccionar todos', exact: true }).click();
+
+    const sort = page.getByRole('combobox', { name: 'Ordenación' });
+    await sort.selectOption('amount-desc');
+    await expect(page).toHaveURL(/sort=amount-desc/);
+    const descendingAmounts = await page.locator('tbody .amount-cell').allTextContents();
+    const parseAmount = (value: string) => Number(value.replace(/\./g, '').replace(',', '.').replace(/[^0-9.]/g, ''));
+    expect(descendingAmounts.map(parseAmount)).toEqual([...descendingAmounts.map(parseAmount)].sort((a, b) => b - a));
+    await sort.selectOption('amount-asc');
+    await expect(page).toHaveURL(/sort=amount-asc/);
+    const ascendingAmounts = await page.locator('tbody .amount-cell').allTextContents();
+    expect(ascendingAmounts.map(parseAmount)).toEqual([...ascendingAmounts.map(parseAmount)].sort((a, b) => a - b));
 
     const organismName = (await page.locator('tbody tr').first().locator('.organism-cell').textContent())?.trim();
     expect(organismName).toBeTruthy();

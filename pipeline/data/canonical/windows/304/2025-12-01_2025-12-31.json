@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 242.0,
+    "duration": "1 mes",
+    "organism_id": 304,
+    "publication_date": "2025-12-15",
+    "record_id": "304:1875458",
+    "source_id": 1875458,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1875458",
+    "subject": "HONORARIOS PROFESIONALES",
+    "vendor_name": "B C L  ECONOMISTAS, SL"
+  },
+  {
+    "amount_eur": 1007.93,
+    "duration": "1 mes",
+    "organism_id": 304,
+    "publication_date": "2025-12-15",
+    "record_id": "304:1876233",
+    "source_id": 1876233,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1876233",
+    "subject": "MATERIAL DE CONSULTA",
+    "vendor_name": "SUMINISTROS MEDICOS VIGUESES UNO SL"
+  },
+  {
+    "amount_eur": 22.94,
+    "duration": "1 mes",
+    "organism_id": 304,
+    "publication_date": "2025-12-15",
+    "record_id": "304:1876903",
+    "source_id": 1876903,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1876903",
+    "subject": "MENSAXERIA",
+    "vendor_name": "M.A.F. 1-SANTIAGO, S.L."
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 18.07,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2024-09-13",
+    "record_id": "139:1587633",
+    "source_id": 1587633,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1587633",
+    "subject": "AUGA SANITARIA CES GALICIA",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 147.66,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2024-09-13",
+    "record_id": "139:1587634",
+    "source_id": 1587634,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1587634",
+    "subject": "AUGA SANITARIA CES GALICIA",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 570.2,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2024-09-20",
+    "record_id": "139:1590353",
+    "source_id": 1590353,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1590353",
+    "subject": "NOVA TOMA DATOS PARA IMPRESORA, PROLONGACIÓN TOMA ELÉCTRICA",
+    "vendor_name": "ELECTRONICA NOROESTE SERVICIOS GENERALES,SL"
+  },
+  {
+    "amount_eur": 484.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2024-09-24",
+    "record_id": "139:1591447",
+    "source_id": 1591447,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1591447",
+    "subject": "CAMBIO MOBILIARIO DENTRO DO PAZO DE AMARANTE",
+    "vendor_name": "BEIROA DUARTE SC"
+  },
+  {
+    "amount_eur": 56.92,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2024-09-27",
+    "record_id": "139:1592532",
+    "source_id": 1592532,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1592532",
+    "subject": "FOTOCOPIAS CES GALICIA CTO 74096879 ENERO 2024",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 56.92,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2024-09-27",
+    "record_id": "139:1592533",
+    "source_id": 1592533,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1592533",
+    "subject": "FOTOCOPIAS CES GALICIA CTO 74096879 DECEMBRO 2023",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  }
+]

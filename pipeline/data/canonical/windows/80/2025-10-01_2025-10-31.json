@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 20.4,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2025-10-06",
+    "record_id": "80:1844570",
+    "source_id": 1844570,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1844570",
+    "subject": "Departamento económico/asuntos económicos LIBROS BIBLIOTECAS",
+    "vendor_name": "LIBRERIA FOLLAS NOVAS S L"
+  },
+  {
+    "amount_eur": 83.36,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2025-10-16",
+    "record_id": "80:1848540",
+    "source_id": 1848540,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1848540",
+    "subject": "SUMINISTRO PANTALLA",
+    "vendor_name": "INFORMATICA Y NETWORKING COMPOSTELA S.L.U."
+  }
+]

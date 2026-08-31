@@ -1,0 +1,112 @@
+[
+  {
+    "amount_eur": 210.46,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2025-04-01",
+    "record_id": "225:1725301",
+    "source_id": 1725301,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1725301",
+    "subject": "CM 24/2025 Subministración material de oficina",
+    "vendor_name": "PAZ   DISMAC SL"
+  },
+  {
+    "amount_eur": 1147.3,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2025-04-07",
+    "record_id": "225:1730806",
+    "source_id": 1730806,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1730806",
+    "subject": "CM 17/2025 Servizo instalación control accesos oficinas E. Pondal",
+    "vendor_name": "FERRVA HERRAJES SL"
+  },
+  {
+    "amount_eur": 48.75,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2025-04-14",
+    "record_id": "225:1736613",
+    "source_id": 1736613,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1736613",
+    "subject": "Servizos restauración reunións director IET",
+    "vendor_name": "SANTO LIBRE COCTELERIA SL"
+  },
+  {
+    "amount_eur": 2178.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2025-04-14",
+    "record_id": "225:1736657",
+    "source_id": 1736657,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1736657",
+    "subject": "MONTAXE E RESERVA ESPAZO PRESENTACION Estratexia Galega de I",
+    "vendor_name": "AC DOS SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 50.4,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2025-04-22",
+    "record_id": "225:1740350",
+    "source_id": 1740350,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1740350",
+    "subject": "Servicio en despacho, Sala de Renovables, servicio realizado",
+    "vendor_name": "GASTROMESA,S.L."
+  },
+  {
+    "amount_eur": 3000.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2025-04-25",
+    "record_id": "225:1742469",
+    "source_id": 1742469,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1742469",
+    "subject": "ASESORAMIENTO EXPERTO GIFT",
+    "vendor_name": "JUAN ANTONIO CARIDAD GRAÑA"
+  },
+  {
+    "amount_eur": 595.62,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2025-04-28",
+    "record_id": "225:1743581",
+    "source_id": 1743581,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1743581",
+    "subject": "Xestión comunidade edificio E. Pondal",
+    "vendor_name": "COMPOSTELA BEACH SA"
+  },
+  {
+    "amount_eur": 588.6,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2025-04-28",
+    "record_id": "225:1743582",
+    "source_id": 1743582,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1743582",
+    "subject": "Xestión comunidade edificio E. Pondal (decembro 2025)",
+    "vendor_name": "COMPOSTELA BEACH SA"
+  },
+  {
+    "amount_eur": 638.75,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2025-04-28",
+    "record_id": "225:1743583",
+    "source_id": 1743583,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1743583",
+    "subject": "Xestión comunidade edificio E. Pondal (febreiro 2025)",
+    "vendor_name": "COMPOSTELA BEACH SA"
+  },
+  {
+    "amount_eur": 774.19,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2025-04-29",
+    "record_id": "225:1744942",
+    "source_id": 1744942,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1744942",
+    "subject": "Xestión comunidade edificio E. Pondal (marzo 2025)",
+    "vendor_name": "COMPOSTELA BEACH SA"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 31.12,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-02-05",
+    "record_id": "291:1674799",
+    "source_id": 1674799,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1674799",
+    "subject": "Nº pedido: 74092406 - Nº albarán: 74092406",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 302.5,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-02-05",
+    "record_id": "291:1674925",
+    "source_id": 1674925,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1674925",
+    "subject": "PAGAMENTO FACTURA COBERTURA GRÁFICA EVENTO INSTITUCIONAL",
+    "vendor_name": "COMUNICACIONES MIL SC"
+  },
+  {
+    "amount_eur": 7659.3,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-02-27",
+    "record_id": "291:1695073",
+    "source_id": 1695073,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1695073",
+    "subject": "SUBMINISTRACIÓN UNIFORMES PERSOAL SX PRESIDENCIA",
+    "vendor_name": "JOSE RODRIGUEZ GOMEZ"
+  },
+  {
+    "amount_eur": 48.99,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-02-28",
+    "record_id": "291:1699871",
+    "source_id": 1699871,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1699871",
+    "subject": "Nº pedido: 74092406 - Nº albarán: 74092406",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  }
+]

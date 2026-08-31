@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 100.1,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2024-11-07",
+    "record_id": "23:1606810",
+    "source_id": 1606810,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1606810",
+    "subject": "Servicio de comida, dia 28/10/2024, Esther Lopez Vizcaino",
+    "vendor_name": "GASTROMESA,S.L."
+  },
+  {
+    "amount_eur": 219.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2024-11-13",
+    "record_id": "23:1609622",
+    "source_id": 1609622,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1609622",
+    "subject": "Factura nº A24/2322 pago pola adquisición dun radiador de baixo consumo",
+    "vendor_name": "JEMAGA SANTIAGO SLU"
+  },
+  {
+    "amount_eur": 2532.53,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2024-11-21",
+    "record_id": "23:1613035",
+    "source_id": 1613035,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1613035",
+    "subject": "Pagamento material serigrafiado enquisas",
+    "vendor_name": "GRAFICAS ANDURIÑA SDAD COOP GALEGA"
+  }
+]

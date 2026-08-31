@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 15362.18,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2025-11-07",
+    "record_id": "33:1854701",
+    "source_id": 1854701,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1854701",
+    "subject": "Factura IN2025-25379 -OHL SERVICIOS INGESAN, S.A",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 354.91,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2025-11-28",
+    "record_id": "33:1867812",
+    "source_id": 1867812,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1867812",
+    "subject": "Factura 1788 do 13-11-2025. Cadeira servizo xestión econom.",
+    "vendor_name": "KL 1 MOBILIARIO OFICINA SL"
+  },
+  {
+    "amount_eur": 1332.43,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2025-11-28",
+    "record_id": "33:1867830",
+    "source_id": 1867830,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1867830",
+    "subject": "Factura v1/25-002601 DO 31-10-2025",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  }
+]

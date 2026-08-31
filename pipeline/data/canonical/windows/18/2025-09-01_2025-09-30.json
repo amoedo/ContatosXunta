@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 1230.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-09-01",
+    "record_id": "18:1830492",
+    "source_id": 1830492,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1830492",
+    "subject": "Cursos EGAP.",
+    "vendor_name": "FED ASOC FAVOR MINUS PSIQUI GALICIA"
+  },
+  {
+    "amount_eur": 400.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-09-19",
+    "record_id": "18:1837948",
+    "source_id": 1837948,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1837948",
+    "subject": "ACTIVIDADES RELACIONADAS CO DÍA DAS LETRAS GALEGAS 2024- XUR",
+    "vendor_name": "OSCAR JAVIER CASTRO MARTINEZ"
+  },
+  {
+    "amount_eur": 200.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-09-19",
+    "record_id": "18:1837952",
+    "source_id": 1837952,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1837952",
+    "subject": "ACTIVIDADES RELACIONADAS CO DÍA DAS LETRAS GALEGAS 2024- XUR",
+    "vendor_name": "BLANCA ANA ROIG RECHOU"
+  },
+  {
+    "amount_eur": 206.25,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-09-29",
+    "record_id": "18:1841868",
+    "source_id": 1841868,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1841868",
+    "subject": "PRESENTACION PLAN DE ACTIVIDADES FORMATIVAS E PUBLICACIONS D",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  }
+]

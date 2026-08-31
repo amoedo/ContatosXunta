@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 777.57,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2025-10-01",
+    "record_id": "97:1843125",
+    "source_id": 1843125,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1843125",
+    "subject": "COMPRA DE MATERIAL DE OFICINA DIVERSO PARA A S.A. DE XESTION DO PLAN XACOBEO",
+    "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
+  },
+  {
+    "amount_eur": 282.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2025-10-21",
+    "record_id": "97:1849766",
+    "source_id": 1849766,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1849766",
+    "subject": "SERVIZO DE GUIA PARA VISITA INSTITUCIONAL A CIDADE DE SANTIAGO PARA DELEGACION PROVINCIA DE WARMIA (POLONIA)",
+    "vendor_name": "MARIA INMACULADA VARELA SUAREZ"
+  },
+  {
+    "amount_eur": 215.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2025-10-21",
+    "record_id": "97:1849887",
+    "source_id": 1849887,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1849887",
+    "subject": "ALOXAMENTO EN OVIEDO PARA ASISTENCIA DIRECTOR XACOBEO 10º ANIVERSARIO DECLARACION DO CAMIÑO NORTE PATRIMONIO UNESCO",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 2085.6,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2025-10-21",
+    "record_id": "97:1849990",
+    "source_id": 1849990,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1849990",
+    "subject": "VISITA AO PAZO DO FARAMELLO E DEGUSTACIÓN PRODUCTOS GALEGOS PARA DELEGACION WARMIA (POLONIA)",
+    "vendor_name": "DMC GALICIA GROUP TRAVEL SL"
+  }
+]

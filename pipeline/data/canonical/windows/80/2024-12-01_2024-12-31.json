@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 154.15,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2024-12-04",
+    "record_id": "80:1619650",
+    "source_id": 1619650,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1619650",
+    "subject": "Fact 1/000442. Webcam e auriculares",
+    "vendor_name": "INFORMATICA Y NETWORKING COMPOSTELA S.L.U."
+  },
+  {
+    "amount_eur": 198.11,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2024-12-10",
+    "record_id": "80:1621906",
+    "source_id": 1621906,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1621906",
+    "subject": "SUBMINISTRACIÓN AGUA. Periodo 05/2024",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 484.38,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2024-12-13",
+    "record_id": "80:1624468",
+    "source_id": 1624468,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1624468",
+    "subject": "Adquisición equipamento informático CCG - IMPRESORA HP",
+    "vendor_name": "INFORMATICA Y NETWORKING COMPOSTELA S.L.U."
+  },
+  {
+    "amount_eur": 2526.48,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2024-12-17",
+    "record_id": "80:1625609",
+    "source_id": 1625609,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1625609",
+    "subject": "TRABALLOS REALIZADOS POR OUTRAS EMPRESAS: MEMORIA CASTELLANO 2023",
+    "vendor_name": "GRAFICAS GARABAL SL"
+  }
+]

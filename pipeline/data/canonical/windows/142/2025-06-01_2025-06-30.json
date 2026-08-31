@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 18148.79,
+    "duration": "1 mes",
+    "organism_id": 142,
+    "publication_date": "2025-06-03",
+    "record_id": "142:1771885",
+    "source_id": 1771885,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1771885",
+    "subject": "Servizo para a contratación da limpeza das oficinas centrais de SPI Galicia, SA e do Xurado de Expropiación de Galicia (",
+    "vendor_name": "LIMPIEZAS SALGADO SL"
+  },
+  {
+    "amount_eur": 2057.0,
+    "duration": "1 mes",
+    "organism_id": 142,
+    "publication_date": "2025-06-12",
+    "record_id": "142:1779952",
+    "source_id": 1779952,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1779952",
+    "subject": "Antivirus Kaspersky: 25 licenzas Endpoint Security for Business-Select e 16 licenzas Security for Mail Server",
+    "vendor_name": "COREMAIN SLU"
+  }
+]

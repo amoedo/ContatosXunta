@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 968.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2025-05-05",
+    "record_id": "141:1747963",
+    "source_id": 1747963,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1747963",
+    "subject": "Servizo profesional seguimento diario medios audiovisuais",
+    "vendor_name": "ORION PRESS SL"
+  },
+  {
+    "amount_eur": 1200.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2025-05-07",
+    "record_id": "141:1750991",
+    "source_id": 1750991,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1750991",
+    "subject": "Informes para CB10 AM 2/2023 Creatividades 3 campañas",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  },
+  {
+    "amount_eur": 2584.21,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2025-05-14",
+    "record_id": "141:1755464",
+    "source_id": 1755464,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1755464",
+    "subject": "Servizo cobertura audiovisual dos actos da Xunta de Galicia",
+    "vendor_name": "AGN AXENCIA GALEGA DE NOTICIAS SA"
+  },
+  {
+    "amount_eur": 368.35,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2025-05-14",
+    "record_id": "141:1755894",
+    "source_id": 1755894,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1755894",
+    "subject": "Servizo reparación vehículo",
+    "vendor_name": "YAÑEZ SL"
+  }
+]

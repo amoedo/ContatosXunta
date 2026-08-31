@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 361.79,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2025-12-04",
+    "record_id": "80:1870141",
+    "source_id": 1870141,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1870141",
+    "subject": "ADQUISICION MOBILIARIO: CADEIRA OFICINA CCG.",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 83.19,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2025-12-11",
+    "record_id": "80:1872401",
+    "source_id": 1872401,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1872401",
+    "subject": "ADQUISICIÓN CAFETERA",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 514.25,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2025-12-15",
+    "record_id": "80:1878045",
+    "source_id": 1878045,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1878045",
+    "subject": "MATERIAL OFICINA NON INVENTARIABLE CCG. Papel A4.",
+    "vendor_name": "OFFICE2GALICIA SC"
+  },
+  {
+    "amount_eur": 269.35,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2025-12-15",
+    "record_id": "80:1878046",
+    "source_id": 1878046,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1878046",
+    "subject": "FACT.Nº 1/20250887. MATERIAL INFORMÁTICO NON INVENTARIABLE C",
+    "vendor_name": "OFFICE2GALICIA SC"
+  }
+]

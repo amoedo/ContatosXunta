@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 97.09,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-08-05",
+    "record_id": "18:1816914",
+    "source_id": 1816914,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1816914",
+    "subject": "Cafetería EGAP.",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 1727.61,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-08-08",
+    "record_id": "18:1818752",
+    "source_id": 1818752,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1818752",
+    "subject": "Modificacións acceso garaxe EGAP.",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 181.5,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-08-08",
+    "record_id": "18:1818981",
+    "source_id": 1818981,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1818981",
+    "subject": "Tarxetas Directora EGAP.",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 101.6,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-08-22",
+    "record_id": "18:1826069",
+    "source_id": 1826069,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1826069",
+    "subject": "Gastos de restauración",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  }
+]

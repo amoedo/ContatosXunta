@@ -1,0 +1,101 @@
+[
+  {
+    "amount_eur": 404.37,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-12-04",
+    "record_id": "291:1869942",
+    "source_id": 1869942,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1869942",
+    "subject": "PAGAMENTO FACTURA ADQUISICIÓN MATERIAL DE OFICINA",
+    "vendor_name": "JUAN MANUEL LOPEZ DA SILVA"
+  },
+  {
+    "amount_eur": 302.5,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-12-08",
+    "record_id": "291:1871145",
+    "source_id": 1871145,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1871145",
+    "subject": "PAGAMENTO FACTURA COBERTURA GRÁFICA EVENTO INSITUTCIONAL",
+    "vendor_name": "DIEGO LUIS LOBATO VAZQUEZ"
+  },
+  {
+    "amount_eur": 403.68,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-12-08",
+    "record_id": "291:1871376",
+    "source_id": 1871376,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1871376",
+    "subject": "SUBMINISTRACIÓN DE MATERIAL DE OFICINA",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 972.95,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-12-10",
+    "record_id": "291:1871788",
+    "source_id": 1871788,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1871788",
+    "subject": "SUBMINISTRACIÓN DE MATERIAL DE OFICINA",
+    "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
+  },
+  {
+    "amount_eur": 395.78,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-12-15",
+    "record_id": "291:1875611",
+    "source_id": 1875611,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1875611",
+    "subject": "PAGAMENTO FACTURA SUBMINISTRACION MATERIAL DE OFICINA",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 302.5,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-12-15",
+    "record_id": "291:1878137",
+    "source_id": 1878137,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1878137",
+    "subject": "PAGAMENTO FACTURA COBERTURA GRÁFICA EVENTO INSITUTCIONAL",
+    "vendor_name": "PAUL DAVID HANNA"
+  },
+  {
+    "amount_eur": 700.0,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-12-18",
+    "record_id": "291:1886003",
+    "source_id": 1886003,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1886003",
+    "subject": "PAGAMENTO FACTURA COBERTURA GRÁFICA EVENTO INSTITUCIONAL",
+    "vendor_name": "EDELMIRO ÁLVAREZ JIMÉNEZ"
+  },
+  {
+    "amount_eur": 4472.25,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-12-24",
+    "record_id": "291:1899044",
+    "source_id": 1899044,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1899044",
+    "subject": "CONTRATO CENTRALIZADO ACCESO BASES XURÍDICAS",
+    "vendor_name": "ARANZADI LA LEY, S.A.U."
+  },
+  {
+    "amount_eur": 36.58,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-12-30",
+    "record_id": "291:1901558",
+    "source_id": 1901558,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1901558",
+    "subject": "CONSUMO E MANTEMENTO MÁQUINAS DE IMPRESIÓN E DIXITALIZACION",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  }
+]

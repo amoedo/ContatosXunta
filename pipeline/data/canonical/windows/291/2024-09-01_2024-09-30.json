@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 1021.29,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2024-09-06",
+    "record_id": "291:1585941",
+    "source_id": 1585941,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1585941",
+    "subject": "PAGAMENTO FACTURA SUBMINISTRACIÓN MATERIAL DE OFICINA",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 1995.05,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2024-09-06",
+    "record_id": "291:1586046",
+    "source_id": 1586046,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1586046",
+    "subject": "PAGAMENTO FACTURA SUBMINISTRACIÓN MATERIAL DE OFICINA",
+    "vendor_name": "SERVIDEAS SERVICIOS INTEGRALES SLL"
+  },
+  {
+    "amount_eur": 18.05,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2024-09-17",
+    "record_id": "291:1589330",
+    "source_id": 1589330,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1589330",
+    "subject": "Nº pedido: 74092406 - Nº albarán: 74092406",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 14.71,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2024-09-23",
+    "record_id": "291:1590997",
+    "source_id": 1590997,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1590997",
+    "subject": "Nº pedido: 74092406 - Nº albarán: 74092406",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  }
+]

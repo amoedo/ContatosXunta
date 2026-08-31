@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 19360.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-01-10",
+    "record_id": "207:1653080",
+    "source_id": 1653080,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1653080",
+    "subject": "un sensor multiparamétrico CT(D) CAPTA",
+    "vendor_name": "EMS SISTEMAS MONITORIZACION MEDIO AMBIEN"
+  },
+  {
+    "amount_eur": 24805.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-01-13",
+    "record_id": "207:1657565",
+    "source_id": 1657565,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1657565",
+    "subject": "un servicio de asistencia técnica a CETMAR para el apoyo técnico en la fabricación de patrulleras guardacostas II Genera",
+    "vendor_name": "LAGE REY NAVAL S.L."
+  },
+  {
+    "amount_eur": 363.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-01-17",
+    "record_id": "207:1660150",
+    "source_id": 1660150,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1660150",
+    "subject": "una licencia de ZOOM por un período de 12 meses Patrulleras 2024-2026",
+    "vendor_name": "Zoom Video Communications, Inc."
+  },
+  {
+    "amount_eur": 60.5,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-01-20",
+    "record_id": "207:1660262",
+    "source_id": 1660262,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1660262",
+    "subject": "una suscripción anual a la edición digital de la Revista Marítima Industrias Pesqueras Proyectos CETMAR",
+    "vendor_name": "SERVICIOS INDUSTRIALES PESQUEROS SA"
+  }
+]

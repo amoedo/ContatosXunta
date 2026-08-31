@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 27500.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-12-03",
+    "record_id": "207:1869750",
+    "source_id": 1869750,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1869750",
+    "subject": "Catering Cetmar",
+    "vendor_name": "DOLORES FERNANDEZ E HIJOS S.L."
+  },
+  {
+    "amount_eur": 12100.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-12-24",
+    "record_id": "207:1899315",
+    "source_id": 1899315,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1899315",
+    "subject": "suministración de material de oficina para CETMAR de duración 10 meses (II) Proyectos CETMAR",
+    "vendor_name": "PAZ   DISMAC SL"
+  }
+]

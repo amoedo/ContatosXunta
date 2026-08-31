@@ -6,7 +6,7 @@
     "publication_date": "2026-08-26",
     "record_id": "273:2079626",
     "source_id": 2079626,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2079626",
     "subject": "Parymar 6476",
     "vendor_name": "PARYMAR SA"
   },
@@ -17,8 +17,41 @@
     "publication_date": "2026-08-26",
     "record_id": "273:2079881",
     "source_id": 2079881,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/273/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2079881",
     "subject": "Gestoría xuño",
     "vendor_name": "GESTORIA DE LA TORRE, S.L."
+  },
+  {
+    "amount_eur": 44.97,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-08-28",
+    "record_id": "273:2080829",
+    "source_id": 2080829,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2080829",
+    "subject": "Comida Delegación española CdR",
+    "vendor_name": "DIPUTACION GENERAL DE ARAGON"
+  },
+  {
+    "amount_eur": 44.97,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-08-28",
+    "record_id": "273:2080830",
+    "source_id": 2080830,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2080830",
+    "subject": "Comida Delegación española CdR",
+    "vendor_name": "DIPUTACION GENERAL DE ARAGON"
+  },
+  {
+    "amount_eur": 44.97,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-08-28",
+    "record_id": "273:2080831",
+    "source_id": 2080831,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2080831",
+    "subject": "Comida Delegación española CdR",
+    "vendor_name": "DIPUTACION GENERAL DE ARAGON"
   }
 ]

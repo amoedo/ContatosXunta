@@ -1,0 +1,90 @@
+[
+  {
+    "amount_eur": 3115.88,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-10-06",
+    "record_id": "18:1844458",
+    "source_id": 1844458,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1844458",
+    "subject": "Colocación porta entrada dúas follas",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 26.97,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-10-06",
+    "record_id": "18:1844585",
+    "source_id": 1844585,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1844585",
+    "subject": "Número de fotocopias realizadas",
+    "vendor_name": "XESTION DIXITAL COMPOSTELA, SL"
+  },
+  {
+    "amount_eur": 228.9,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-10-07",
+    "record_id": "18:1844911",
+    "source_id": 1844911,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1844911",
+    "subject": "Gastos viaxes Directora EGAP",
+    "vendor_name": "VIAJES TROTTA SA"
+  },
+  {
+    "amount_eur": 533.31,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-10-16",
+    "record_id": "18:1848375",
+    "source_id": 1848375,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1848375",
+    "subject": "Material informático EGAP.",
+    "vendor_name": "INFORMATICA ELINFO,SL"
+  },
+  {
+    "amount_eur": 312.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-10-16",
+    "record_id": "18:1848471",
+    "source_id": 1848471,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1848471",
+    "subject": "libros constitución española",
+    "vendor_name": "JOSE LUIS TEOFILO COMUNICACION SL"
+  },
+  {
+    "amount_eur": 6667.1,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-10-23",
+    "record_id": "18:1850835",
+    "source_id": 1850835,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1850835",
+    "subject": "SUBMINISTRO PELLETS",
+    "vendor_name": "GESTCALOR SL"
+  },
+  {
+    "amount_eur": 300.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-10-30",
+    "record_id": "18:1852523",
+    "source_id": 1852523,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1852523",
+    "subject": "PAGO COMISIÓN AVALIACIÓNBOLSA DEREITO ADMINISTRATIVO EGAP",
+    "vendor_name": "JACINTO LAREO JIMENEZ"
+  },
+  {
+    "amount_eur": 300.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-10-30",
+    "record_id": "18:1852532",
+    "source_id": 1852532,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1852532",
+    "subject": "PAGO COMISIÓN AVALIACIÓNBOLSA DEREITO ADMINISTRATIVO EGAP",
+    "vendor_name": "ALEJANDRO VILLANUEVA TURNES"
+  }
+]

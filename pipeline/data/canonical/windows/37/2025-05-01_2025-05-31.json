@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 42.83,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2025-05-06",
+    "record_id": "37:1749375",
+    "source_id": 1749375,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1749375",
+    "subject": "MATERIAL DE OFICINA",
+    "vendor_name": "OFIAGUS S L"
+  },
+  {
+    "amount_eur": 225.33,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2025-05-06",
+    "record_id": "37:1749692",
+    "source_id": 1749692,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1749692",
+    "subject": "REPARACION DE VW GOLF MATRICULA 1060BSJ CON 308415 KM",
+    "vendor_name": "TALLERES UZALVI SL"
+  },
+  {
+    "amount_eur": 8470.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2025-05-06",
+    "record_id": "37:1749806",
+    "source_id": 1749806,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1749806",
+    "subject": "FORO ABC CLEAN TEACH - ENERGÍAS RENOVABLES Y EFICIENCIA ENERGÉTICA",
+    "vendor_name": "PERIODICO ABC, S.L."
+  },
+  {
+    "amount_eur": 355.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2025-05-13",
+    "record_id": "37:1754458",
+    "source_id": 1754458,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1754458",
+    "subject": "ALOJAMIENTO EN HOTEL TRAVELODGE METROPOLITANO MADRID - JAVIE",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 3630.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2025-05-20",
+    "record_id": "37:1760871",
+    "source_id": 1760871,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1760871",
+    "subject": "COLABORACIÓN XVIII SYMPOSIUM SOBRE ENERGÍAS RENOVABLES E EFI",
+    "vendor_name": "FUNDACION&#34;FERIAS EXPOSICIONES DE OURENSE"
+  },
+  {
+    "amount_eur": 585.87,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2025-05-21",
+    "record_id": "37:1761353",
+    "source_id": 1761353,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1761353",
+    "subject": "póliza 48556345 - seguro OPEL CORSA 7624MBZ",
+    "vendor_name": "AXA SEGUROS GENERALES SA DE SEGUROS Y REASEGUROS S"
+  }
+]

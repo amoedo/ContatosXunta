@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 609.84,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-02-12",
+    "record_id": "297:1681811",
+    "source_id": 1681811,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1681811",
+    "subject": "SISTEMA DE SEGURIDAD EN LA SEDE DEL CCVV",
+    "vendor_name": "SECURITAS DIRECT ESPAÑA, S.A."
+  },
+  {
+    "amount_eur": 340.69,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-02-12",
+    "record_id": "297:1682136",
+    "source_id": 1682136,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1682136",
+    "subject": "COPIAS LLAVES E31",
+    "vendor_name": "MUEBLES DE COCINA VICENTE DE LA FUENTE S"
+  },
+  {
+    "amount_eur": 567.15,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-02-12",
+    "record_id": "297:1682305",
+    "source_id": 1682305,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1682305",
+    "subject": "GESTIÓN DE NÓMINAS",
+    "vendor_name": "UNION DE PROFESIONALES SL"
+  },
+  {
+    "amount_eur": 3005.64,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-02-12",
+    "record_id": "297:1682311",
+    "source_id": 1682311,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1682311",
+    "subject": "LIMPIEZA SEDE CCVV",
+    "vendor_name": "LIMPIEZAS CIES SL"
+  }
+]

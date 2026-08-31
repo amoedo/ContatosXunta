@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 363.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2025-05-21",
+    "record_id": "124:1761114",
+    "source_id": 1761114,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1761114",
+    "subject": "CTS-2025-0034 - Subministro e instalación de termo de Auga Quente Sanitaria",
+    "vendor_name": "VEOLIA SERVICIOS NORTE SAU"
+  },
+  {
+    "amount_eur": 4840.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2025-05-21",
+    "record_id": "124:1761554",
+    "source_id": 1761554,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1761554",
+    "subject": "CTS-2025-0038 - Subministro de Gasoil para Grupo Electróxeno",
+    "vendor_name": "LOS ANGELES GAS, SL"
+  },
+  {
+    "amount_eur": 1700.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2025-05-21",
+    "record_id": "124:1761603",
+    "source_id": 1761603,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1761603",
+    "subject": "CTS-2025-0035 - Inscrición NoLineal2025",
+    "vendor_name": "CONGRESOS SANT YAGO, S.L."
+  },
+  {
+    "amount_eur": 13915.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2025-05-21",
+    "record_id": "124:1761628",
+    "source_id": 1761628,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1761628",
+    "subject": "CTS-2025-0025 - Limpeza das instalacións do CESGA",
+    "vendor_name": "LIMPERGAL, SL"
+  },
+  {
+    "amount_eur": 4477.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2025-05-21",
+    "record_id": "124:1761989",
+    "source_id": 1761989,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1761989",
+    "subject": "CTS-2025-0030 - Auditoría externa Calidade",
+    "vendor_name": "DET NORSKE VERITAS BUSINESS ASSURANCE ESPAÑA SL"
+  },
+  {
+    "amount_eur": 569.5,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2025-05-21",
+    "record_id": "124:1762085",
+    "source_id": 1762085,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1762085",
+    "subject": "CTS-2025-0036 - Inscrición FiSes 2025",
+    "vendor_name": "REAL SOCIEDAD ESPAÑOLA DE FISICA"
+  }
+]

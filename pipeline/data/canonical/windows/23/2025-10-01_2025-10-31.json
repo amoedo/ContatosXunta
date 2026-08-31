@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 256.92,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2025-10-23",
+    "record_id": "23:1850674",
+    "source_id": 1850674,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1850674",
+    "subject": "SR REBOREDO NOGUEIRA/ JUAN CARLOS",
+    "vendor_name": "ARASOLIS VIAXES S L L"
+  },
+  {
+    "amount_eur": 362.85,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2025-10-23",
+    "record_id": "23:1850868",
+    "source_id": 1850868,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1850868",
+    "subject": "EXPTE: 2025-626.1/06 &#34;Subscrición ferramenta Mentimeter Pro&#34;",
+    "vendor_name": "MENTIMETER"
+  },
+  {
+    "amount_eur": 18125.8,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2025-10-28",
+    "record_id": "23:1851783",
+    "source_id": 1851783,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1851783",
+    "subject": "Servizo de mellora e actualización do portal web do IGE",
+    "vendor_name": "DIMENSIONA CONSULTORIA TEXNOLOXIC,S.L."
+  }
+]

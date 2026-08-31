@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 688.28,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2025-10-01",
+    "record_id": "34:1843159",
+    "source_id": 1843159,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1843159",
+    "subject": "LUGO : Adaptación do sistema de alarma á normativa vixente UNE-EN 50131",
+    "vendor_name": "PROTESE S L"
+  },
+  {
+    "amount_eur": 17847.5,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2025-10-03",
+    "record_id": "34:1843906",
+    "source_id": 1843906,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1843906",
+    "subject": "A.T. Para a avaliación e selección de operacións susceptibles de ser financiadas con  FEMPA (Fondo europeo Marítimo de P",
+    "vendor_name": "ESTRATEGIA Y ORGANIZACION, SA"
+  },
+  {
+    "amount_eur": 13621.45,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2025-10-06",
+    "record_id": "34:1844558",
+    "source_id": 1844558,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1844558",
+    "subject": "Asistencia técnica para a revisión do documento do plan interior marítimo da EPE Portos de Galicia",
+    "vendor_name": "TECNO AMBIENTE SL"
+  },
+  {
+    "amount_eur": 4840.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2025-10-23",
+    "record_id": "34:1850640",
+    "source_id": 1850640,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1850640",
+    "subject": "SSCC: Servizo de consultoría e soporte no entorno tecnolóxico das aplicacións TAO",
+    "vendor_name": "T-SYSTEMS ITC IBERIA S.A."
+  }
+]

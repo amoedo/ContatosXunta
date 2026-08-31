@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 248.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2024-11-01",
+    "record_id": "18:1605885",
+    "source_id": 1605885,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1605885",
+    "subject": "FACTURAS CS24/4497 E CS24/6269",
+    "vendor_name": "PERIODICO ABC, S.L."
+  },
+  {
+    "amount_eur": 1925.57,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2024-11-06",
+    "record_id": "18:1606254",
+    "source_id": 1606254,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1606254",
+    "subject": "Cambio de grifos en la cocina de la cafetería por requerimie",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 354.21,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2024-11-07",
+    "record_id": "18:1606736",
+    "source_id": 1606736,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1606736",
+    "subject": "Suministro auga EGAP.",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 9583.2,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2024-11-25",
+    "record_id": "18:1614655",
+    "source_id": 1614655,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1614655",
+    "subject": "FACTURA 85 POWEREDGE R760 SERVER",
+    "vendor_name": "DELL COMPUTER SA"
+  },
+  {
+    "amount_eur": 3242.41,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2024-11-25",
+    "record_id": "18:1614869",
+    "source_id": 1614869,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1614869",
+    "subject": "FACTURA 1969 ADQUISICIÓN 16 SILLAS",
+    "vendor_name": "KL 1 MOBILIARIO OFICINA SL"
+  },
+  {
+    "amount_eur": 1596.61,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2024-11-25",
+    "record_id": "18:1614881",
+    "source_id": 1614881,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1614881",
+    "subject": "FACTURA 39-000340-A",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 110.95,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2024-11-26",
+    "record_id": "18:1615711",
+    "source_id": 1615711,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1615711",
+    "subject": "SERVICIO DE CAFETERIA Y COMEDOR DIRECCION MES OCTUBRE 20024",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  }
+]

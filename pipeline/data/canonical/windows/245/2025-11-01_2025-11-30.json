@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 2165.9,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2025-11-07",
+    "record_id": "245:1854826",
+    "source_id": 1854826,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1854826",
+    "subject": "2 palets papel",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 7685.92,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2025-11-07",
+    "record_id": "245:1854983",
+    "source_id": 1854983,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1854983",
+    "subject": "Goolzoom, plan avanzado (2) e profesional (30)",
+    "vendor_name": "GOOLINVENT"
+  },
+  {
+    "amount_eur": 496.38,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2025-11-18",
+    "record_id": "245:1859352",
+    "source_id": 1859352,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1859352",
+    "subject": "Mantemento nave parque tecnolóxico",
+    "vendor_name": "PARQUE TECNOLOGICO DE GALICIA,SA"
+  },
+  {
+    "amount_eur": 18059.25,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2025-11-18",
+    "record_id": "245:1859755",
+    "source_id": 1859755,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1859755",
+    "subject": "testemuñas inmobiliarias",
+    "vendor_name": "ACCUMIN INTELLIGENTE SL"
+  },
+  {
+    "amount_eur": 4116.42,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2025-11-26",
+    "record_id": "245:1865999",
+    "source_id": 1865999,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1865999",
+    "subject": "Mobiliario Del. Ourense",
+    "vendor_name": "ALBERTO MANUEL QUINTELA SUAREZ"
+  },
+  {
+    "amount_eur": 121.0,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2025-11-26",
+    "record_id": "245:1866000",
+    "source_id": 1866000,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1866000",
+    "subject": "recogida nave mobiliario para delegación",
+    "vendor_name": "ALBERTO MANUEL QUINTELA SUAREZ"
+  },
+  {
+    "amount_eur": 13332.8,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2025-11-26",
+    "record_id": "245:1866068",
+    "source_id": 1866068,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1866068",
+    "subject": "Testemuñas inmobiliarias",
+    "vendor_name": "GLOVAL VALUATION SA"
+  }
+]

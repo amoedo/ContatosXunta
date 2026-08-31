@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 43.38,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2025-01-08",
+    "record_id": "245:1652272",
+    "source_id": 1652272,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1652272",
+    "subject": "ID79710/84917",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 441.48,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2025-01-30",
+    "record_id": "245:1667554",
+    "source_id": 1667554,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1667554",
+    "subject": "Desplazamento Madrid",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 519.79,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2025-01-30",
+    "record_id": "245:1667599",
+    "source_id": 1667599,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1667599",
+    "subject": "Suscrición 3 memento fiscal 2025",
+    "vendor_name": "LEFEBVRE-EL DERECHO SA"
+  }
+]

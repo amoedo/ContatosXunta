@@ -6,7 +6,7 @@
     "publication_date": "2026-08-04",
     "record_id": "16:2070703",
     "source_id": 2070703,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2070703",
     "subject": "Mantemento cabinas almacenaxe de IBM V3700",
     "vendor_name": "ECONOCOM SERVICIOS SA"
   },
@@ -17,7 +17,7 @@
     "publication_date": "2026-08-04",
     "record_id": "16:2070769",
     "source_id": 2070769,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2070769",
     "subject": "Contratación aloxamento, cea e aluguer salón para os invitados á XVI edición dSemana Internacional Contract Galicia 2026",
     "vendor_name": "ELIANGRAMAOS S.L."
   },
@@ -28,7 +28,7 @@
     "publication_date": "2026-08-04",
     "record_id": "16:2070818",
     "source_id": 2070818,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2070818",
     "subject": "Pedido de material de oficina variado",
     "vendor_name": "OFFICE2GALICIA SC"
   },
@@ -39,7 +39,7 @@
     "publication_date": "2026-08-04",
     "record_id": "16:2070819",
     "source_id": 2070819,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2070819",
     "subject": "Bolígrafo IGAPE para reuniones",
     "vendor_name": "OFFICE2GALICIA SC"
   },
@@ -50,7 +50,7 @@
     "publication_date": "2026-08-04",
     "record_id": "16:2070820",
     "source_id": 2070820,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2070820",
     "subject": "Paquete de Etiquetas de cor gris metalizado para inventariar",
     "vendor_name": "OFFICE2GALICIA SC"
   },
@@ -61,8 +61,19 @@
     "publication_date": "2026-08-04",
     "record_id": "16:2070822",
     "source_id": 2070822,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/16/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2070822",
     "subject": "Xestión da viaxe para visita de Inaba Foods.",
     "vendor_name": "LA MANGA CORPORATION, S.L."
+  },
+  {
+    "amount_eur": 1040.6,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-08-31",
+    "record_id": "16:2081327",
+    "source_id": 2081327,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2081327",
+    "subject": "ELABORACION DE INFORMES DE AVALIACION FINANCIERA PARA A OEG - Pescanova",
+    "vendor_name": "AUREN CORPORATE SP SLP"
   }
 ]

@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 1089.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2025-10-03",
+    "record_id": "37:1844012",
+    "source_id": 1844012,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1844012",
+    "subject": "ANALISE E AVALIACIÓN ESTRATEXIA RRSS 3º TRIMESTRE",
+    "vendor_name": "OCTO COMUNICACION, S.L."
+  },
+  {
+    "amount_eur": 9075.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2025-10-03",
+    "record_id": "37:1844149",
+    "source_id": 1844149,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1844149",
+    "subject": "CONTRATO D.O. PROXECTO DE ILUMINACIÓN DE FACHADAS IES OTERO",
+    "vendor_name": "ESTUDIO DE ARQUITECTURA VICTOR M LOPEZ"
+  },
+  {
+    "amount_eur": 191.93,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2025-10-09",
+    "record_id": "37:1846005",
+    "source_id": 1846005,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1846005",
+    "subject": "MAERIAL DE OFICINA (LIBRETAS E BOLÍGRAFOS) MES DE SETEMBRO",
+    "vendor_name": "OFIAGUS S L"
+  }
+]

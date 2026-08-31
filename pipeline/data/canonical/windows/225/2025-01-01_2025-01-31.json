@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 3300.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2025-01-06",
+    "record_id": "225:1651689",
+    "source_id": 1651689,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1651689",
+    "subject": "CM 69/2024 Servizo: Gravado Dolmen de Meis",
+    "vendor_name": "JOSE LUIS HOLGUERA GARCIA"
+  },
+  {
+    "amount_eur": 18137.9,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2025-01-06",
+    "record_id": "225:1651976",
+    "source_id": 1651976,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1651976",
+    "subject": "Asistencia técnica para traballos de auditoría eanálisis cic",
+    "vendor_name": "SHERPA PROJECT SLU"
+  },
+  {
+    "amount_eur": 1499.99,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2025-01-08",
+    "record_id": "225:1652113",
+    "source_id": 1652113,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1652113",
+    "subject": "CM 81/2024 Actuaciones  para adaptación de puestos de trabajo en nuevas",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 134.13,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2025-01-08",
+    "record_id": "225:1652248",
+    "source_id": 1652248,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1652248",
+    "subject": "CM 80/2024 Subministración material oficina",
+    "vendor_name": "PAZ   DISMAC SL"
+  },
+  {
+    "amount_eur": 525.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2025-01-08",
+    "record_id": "225:1652316",
+    "source_id": 1652316,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1652316",
+    "subject": "CM 82/2024 Servizo restauración acto presentación cartográfico Ourense",
+    "vendor_name": "CAFE CABANILLAS, S.C."
+  }
+]

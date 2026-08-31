@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 2288.11,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2024-12-12",
+    "record_id": "225:1623031",
+    "source_id": 1623031,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1623031",
+    "subject": "CM 77/2024 Servizo traballos instalacións edificio Basquiños",
+    "vendor_name": "JOSE CONDE CARAMES"
+  },
+  {
+    "amount_eur": 11.52,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2024-12-12",
+    "record_id": "225:1623592",
+    "source_id": 1623592,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1623592",
+    "subject": "Dotación de consumibles-ACORDO MARCO 62/2016_AM_3ºCD",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 2666.05,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2024-12-16",
+    "record_id": "225:1624734",
+    "source_id": 1624734,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1624734",
+    "subject": "CM 26/2024 Servizo limpeza edificio Basquiños (novembro 2024)",
+    "vendor_name": "SAMAIN SERVIZOS A COMUNIDADE SA"
+  },
+  {
+    "amount_eur": 5445.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2024-12-16",
+    "record_id": "225:1625218",
+    "source_id": 1625218,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1625218",
+    "subject": "CM 66/2024 Difusión parques naturais de Galicia en bicicleta",
+    "vendor_name": "CLUB CICLISTA &#34;RIAS BAIXAS&#34;"
+  },
+  {
+    "amount_eur": 56.56,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2024-12-19",
+    "record_id": "225:1628254",
+    "source_id": 1628254,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1628254",
+    "subject": "CM 78/2024 Subministración material oficina",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 2637.8,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2024-12-24",
+    "record_id": "225:1637311",
+    "source_id": 1637311,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1637311",
+    "subject": "CM 76/2024 Elaboración guía para a redacción de plans de acción da paisaxe de Galicia",
+    "vendor_name": "ANA DIAZ PEREZ"
+  },
+  {
+    "amount_eur": 1735.28,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2024-12-24",
+    "record_id": "225:1638825",
+    "source_id": 1638825,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1638825",
+    "subject": "FACTURA DE ELECTRICIDAD 2024-10-01 2024-10-31",
+    "vendor_name": "IBERDROLA CLIENTES SA"
+  }
+]

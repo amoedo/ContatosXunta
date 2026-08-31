@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 4089.8,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2024-09-18",
+    "record_id": "141:1589403",
+    "source_id": 1589403,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1589403",
+    "subject": "Servizo seguimento fotográfico",
+    "vendor_name": "JAVIER IGUACEL PEÑA"
+  },
+  {
+    "amount_eur": 907.5,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2024-09-18",
+    "record_id": "141:1589772",
+    "source_id": 1589772,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1589772",
+    "subject": "Servizo profesional seguimento diario medios audiovisuais",
+    "vendor_name": "ORION PRESS SL"
+  },
+  {
+    "amount_eur": 1200.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2024-09-20",
+    "record_id": "141:1590591",
+    "source_id": 1590591,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1590591",
+    "subject": "Informes para CB5 AM 2/2023 Creatividades 2 campañas.2 lotes",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  }
+]

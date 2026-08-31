@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 218.04,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2025-05-12",
+    "record_id": "23:1753604",
+    "source_id": 1753604,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1753604",
+    "subject": "subministración de  diverso material",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 5553.9,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2025-05-14",
+    "record_id": "23:1755994",
+    "source_id": 1755994,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1755994",
+    "subject": "adquisición dunha ensobradora para o IGE",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 10570.56,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2025-05-22",
+    "record_id": "23:1762414",
+    "source_id": 1762414,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1762414",
+    "subject": "EXPTE: 2025-626.1/02 &#34;70 licencias por un año de Microsoft 3",
+    "vendor_name": "INETUM ESPAÑA SA"
+  }
+]

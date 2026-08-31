@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 600.0,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-03-03",
+    "record_id": "291:1701131",
+    "source_id": 1701131,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1701131",
+    "subject": "PAGAMENTO FACTURA COBERTURA GRÁFICA EVENTO INSTITUCIONAL",
+    "vendor_name": "EDELMIRO ÁLVAREZ JIMÉNEZ"
+  },
+  {
+    "amount_eur": 228.3,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-03-20",
+    "record_id": "291:1714307",
+    "source_id": 1714307,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1714307",
+    "subject": "SERVIZO DE COBERTURA GRÁFICA DE EVENTO INSTITUCIONAL",
+    "vendor_name": "SERGIO PEREZ SANZ"
+  }
+]

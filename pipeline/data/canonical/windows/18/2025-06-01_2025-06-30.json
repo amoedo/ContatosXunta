@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 1250.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-06-05",
+    "record_id": "18:1773090",
+    "source_id": 1773090,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1773090",
+    "subject": "CONVITE CELEBRACION DÍA DAS LETRAS GALEGAS",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 3200.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-06-12",
+    "record_id": "18:1780256",
+    "source_id": 1780256,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1780256",
+    "subject": "Organización excursión Día das Letras Galegas",
+    "vendor_name": "LAGUAGUA SERVICIOS SOCIOLACULTURALES SL"
+  },
+  {
+    "amount_eur": 66.9,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-06-30",
+    "record_id": "18:1791074",
+    "source_id": 1791074,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1791074",
+    "subject": "Servizo de reatauración",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  }
+]

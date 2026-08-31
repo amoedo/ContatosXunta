@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 451.75,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2025-06-23",
+    "record_id": "139:1787551",
+    "source_id": 1787551,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1787551",
+    "subject": "RECOÑECEMENTO MÉDICO PERSOAL CES GALICIA 2024",
+    "vendor_name": "VITALY HEALTH SERVICES, S.L."
+  },
+  {
+    "amount_eur": 362.76,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2025-06-26",
+    "record_id": "139:1789876",
+    "source_id": 1789876,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1789876",
+    "subject": "HOTEL PRESIDENTE REUNIÓN ANUAL CES ESPAÑOIS EN CANARIAS",
+    "vendor_name": "BIVES TOUR, SAL"
+  },
+  {
+    "amount_eur": 362.76,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2025-06-26",
+    "record_id": "139:1789877",
+    "source_id": 1789877,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1789877",
+    "subject": "HOTEL SECRETARIO XERAL REUNIÓN ANUAL CES ESPAÑOIS EN CANARIA",
+    "vendor_name": "BIVES TOUR, SAL"
+  }
+]

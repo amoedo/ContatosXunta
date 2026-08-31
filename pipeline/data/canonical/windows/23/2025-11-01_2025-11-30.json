@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 2980.5,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2025-11-13",
+    "record_id": "23:1858163",
+    "source_id": 1858163,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1858163",
+    "subject": "Subministro dun conmutador de 48 puertos modelo Juniper EX41",
+    "vendor_name": "SISTEMAS AVANZADOS DE TECNOLOGIA, S.A."
+  },
+  {
+    "amount_eur": 1228.57,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2025-11-13",
+    "record_id": "23:1858240",
+    "source_id": 1858240,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1858240",
+    "subject": "subministración de auriculares para os enquisadores do IGE",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 968.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2025-11-27",
+    "record_id": "23:1867314",
+    "source_id": 1867314,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1867314",
+    "subject": "Material enquisas",
+    "vendor_name": "PARSAN GRAFICA, SL"
+  }
+]

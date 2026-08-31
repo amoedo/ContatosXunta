@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 2584.21,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2024-10-18",
+    "record_id": "141:1600044",
+    "source_id": 1600044,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1600044",
+    "subject": "Servizo cobertura audiovisual dos actos da Xunta de Galicia",
+    "vendor_name": "AGN AXENCIA GALEGA DE NOTICIAS SA"
+  },
+  {
+    "amount_eur": 261.41,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2024-10-18",
+    "record_id": "141:1600129",
+    "source_id": 1600129,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1600129",
+    "subject": "Servizo de reparación",
+    "vendor_name": "SERVICIOS TECNICOS ELECTRONICOS SA"
+  },
+  {
+    "amount_eur": 1125.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2024-10-18",
+    "record_id": "141:1600155",
+    "source_id": 1600155,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1600155",
+    "subject": "Servizo exclusivo subministro información mediante axencia",
+    "vendor_name": "SERVIMEDIA, S.A."
+  },
+  {
+    "amount_eur": 1508.01,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2024-10-18",
+    "record_id": "141:1600265",
+    "source_id": 1600265,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1600265",
+    "subject": "Equipamento audiovisual con accesorios",
+    "vendor_name": "GONZALEZ ALMACEN FOTOGRAFICO MAYORISTA SL."
+  },
+  {
+    "amount_eur": 907.5,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2024-10-18",
+    "record_id": "141:1600388",
+    "source_id": 1600388,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1600388",
+    "subject": "Servizo profesional seguimento diario medios audiovisuais",
+    "vendor_name": "ORION PRESS SL"
+  },
+  {
+    "amount_eur": 3000.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2024-10-22",
+    "record_id": "141:1601550",
+    "source_id": 1601550,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1601550",
+    "subject": "Divulgativo: Reportaxe Medallas Castelao e difusión en web",
+    "vendor_name": "AGENCIA AUDIOVISUAL GALLEGA DE COMUNICACIONES, SL"
+  }
+]

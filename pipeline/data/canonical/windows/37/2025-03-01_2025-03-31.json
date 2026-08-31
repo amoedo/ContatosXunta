@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 598.15,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2025-03-04",
+    "record_id": "37:1701256",
+    "source_id": 1701256,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1701256",
+    "subject": "Instalación de tomas eléctricas y de agua  para máquinas de",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 114.95,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2025-03-10",
+    "record_id": "37:1704425",
+    "source_id": 1704425,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1704425",
+    "subject": "Lavado de 4 vehículos",
+    "vendor_name": "JOSE MANUEL GARCIA SANTISO"
+  }
+]

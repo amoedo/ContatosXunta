@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 93.55,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2024-10-08",
+    "record_id": "291:1595683",
+    "source_id": 1595683,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1595683",
+    "subject": "PAGAMENTO FACTURA SERVIZOS DE MATERIAL DE IMPRESIÓN",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 63.16,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2024-10-08",
+    "record_id": "291:1595762",
+    "source_id": 1595762,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1595762",
+    "subject": "PAGAMENTO FACTURA SERVIZOS DE MATERIAL DE IMPRESIÓN",
+    "vendor_name": "SERVIDEAS SERVICIOS INTEGRALES SLL"
+  },
+  {
+    "amount_eur": 600.31,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2024-10-15",
+    "record_id": "291:1598116",
+    "source_id": 1598116,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1598116",
+    "subject": "PAGAMENTO FACTURAS SUBMINISTRACIÓN MATERIAL DE OFICINA",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 34.68,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2024-10-24",
+    "record_id": "291:1602549",
+    "source_id": 1602549,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1602549",
+    "subject": "Nº pedido: 74092406 - Nº albarán: 74092406",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 228.3,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2024-10-25",
+    "record_id": "291:1602634",
+    "source_id": 1602634,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1602634",
+    "subject": "PAGAMENTO FACTURA COBERTURA GRÁFICA EVENTO INSTITUCIONAL",
+    "vendor_name": "SERGIO PEREZ SANZ"
+  },
+  {
+    "amount_eur": 907.5,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2024-10-25",
+    "record_id": "291:1603116",
+    "source_id": 1603116,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1603116",
+    "subject": "PAGAMENTO FACTURA COBERTURA GRÁFICA EVENTO INSTITUCIONAL",
+    "vendor_name": "PAUL DAVID HANNA"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 678.3,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2024-11-07",
+    "record_id": "80:1606820",
+    "source_id": 1606820,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1606820",
+    "subject": "Adquisición equipamento informático CCG - PORTÁTIL HP",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 235.95,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2024-11-22",
+    "record_id": "80:1613557",
+    "source_id": 1613557,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1613557",
+    "subject": "Fact 1/000441. Monitor Lenovo Thinkvisión S24E Led",
+    "vendor_name": "INFORMATICA Y NETWORKING COMPOSTELA S.L.U."
+  }
+]

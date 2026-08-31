@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 296.45,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2024-10-08",
+    "record_id": "97:1595644",
+    "source_id": 1595644,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1595644",
+    "subject": "SERVIZO DE GUIA PARA VISITA A SANTIAGO E ENTRADA AO PORTICO DA GLORIA PARA GRUPO PREPARATORIO VISITA DELEGACION WAKAYAMA",
+    "vendor_name": "SECCHI, SL"
+  },
+  {
+    "amount_eur": 240.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2024-10-08",
+    "record_id": "97:1595769",
+    "source_id": 1595769,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1595769",
+    "subject": "SERVIZO RESTAURANTE O 26/09/2024 PARA GRUPO PREPARATORIO DA VISITA DA DELEGACION DE WAKAYAMA (XAPÓN)",
+    "vendor_name": "CABANAS CALVIÑO SAN JAIME, S.L."
+  },
+  {
+    "amount_eur": 539.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2024-10-11",
+    "record_id": "97:1596901",
+    "source_id": 1596901,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1596901",
+    "subject": "ALOXAMENTO 14-17/10 DUAS PERSOAS AREA CULTURA PARA REUNION SOCIOS PROXECTO ULTREIA SUDOE VILAPOUCA DE AGUIAR (PORTUGAL)",
+    "vendor_name": "VIAJES HALCON, S A"
+  },
+  {
+    "amount_eur": 1719.58,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2024-10-17",
+    "record_id": "97:1599478",
+    "source_id": 1599478,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1599478",
+    "subject": "BILLETE DE AVIÓN, ALOXAMENTO E TRASLADOS PARA ASISTENCIA DIRECTOR S.A XESTION XACOBEO INAUGURACION MOUTEIRA DURHAM (UK)",
+    "vendor_name": "VIAJES ORZAN SA"
+  }
+]

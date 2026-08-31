@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 284.35,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2024-11-01",
+    "record_id": "33:1605694",
+    "source_id": 1605694,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1605694",
+    "subject": "Fra. MOUSE DISTRIBUCION SANTIAGO, SL. V1/24-002293 - deshumidificador",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 5926.58,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2024-11-01",
+    "record_id": "33:1605842",
+    "source_id": 1605842,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1605842",
+    "subject": "FACTURA Nº 98/2024 Acondicionamiento de espazos de oficinas",
+    "vendor_name": "OBRADOIRO DE SERVICIOS Y REFORMAS S.L."
+  },
+  {
+    "amount_eur": 17687.78,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2024-11-15",
+    "record_id": "33:1610486",
+    "source_id": 1610486,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1610486",
+    "subject": "Fra. 4/2024 do23-10-2024 controis sobre o terreo LUGO",
+    "vendor_name": "ROCIO VILLAR GONZALEZ"
+  }
+]

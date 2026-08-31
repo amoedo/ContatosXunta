@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 1936.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2025-02-03",
+    "record_id": "144:1672173",
+    "source_id": 1672173,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1672173",
+    "subject": "Servizo de realización de certificacións anuais de estacións de radiodifusión (11 Tipo C, 2 Tipo D e 1 tipo B) conforme",
+    "vendor_name": "APPLUS NORCONTROL SL"
+  },
+  {
+    "amount_eur": 3872.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2025-02-03",
+    "record_id": "144:1672242",
+    "source_id": 1672242,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1672242",
+    "subject": "Contratación das licenzas necesarias para o sistema de gravación, ofuscación e descarga automática de imaxes das cámaras",
+    "vendor_name": "CINFO CONTENIDOS INFORMAT PERSONALIZ SL"
+  },
+  {
+    "amount_eur": 1815.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2025-02-10",
+    "record_id": "144:1678279",
+    "source_id": 1678279,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1678279",
+    "subject": "Revisións do mantemento anual dos centros de transformación dos C.E. Xistral (Muras, Lugo) e Páramo (O Páramo, Lugo).",
+    "vendor_name": "HALLMAN ENERGIE"
+  },
+  {
+    "amount_eur": 9075.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2025-02-14",
+    "record_id": "144:1685559",
+    "source_id": 1685559,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1685559",
+    "subject": "Subministración de 100 cintas LTO.",
+    "vendor_name": "CATALANA DE INFORMATICA 90 SL"
+  },
+  {
+    "amount_eur": 605.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2025-02-17",
+    "record_id": "144:1686148",
+    "source_id": 1686148,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1686148",
+    "subject": "Reparación Volkswagen Passat 0393DXF 2024",
+    "vendor_name": "AUTO REPARACIONES VIVER S.L."
+  },
+  {
+    "amount_eur": 2662.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2025-02-17",
+    "record_id": "144:1686149",
+    "source_id": 1686149,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1686149",
+    "subject": "Reparación vehículo 7246GPV, substitución embrague e varios filtros",
+    "vendor_name": "AUTO REPARACIONES VIVER S.L."
+  },
+  {
+    "amount_eur": 7744.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2025-02-27",
+    "record_id": "144:1696028",
+    "source_id": 1696028,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1696028",
+    "subject": "Contratación da subministración sucesiva enn réxime de alugueiro de 2 codificadores UDH",
+    "vendor_name": "SA DE PRODUCTOS ELECTRONICOS Y DE COMUNI"
+  }
+]

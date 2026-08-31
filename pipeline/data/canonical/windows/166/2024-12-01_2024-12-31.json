@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 3078.24,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2024-12-06",
+    "record_id": "166:1621455",
+    "source_id": 1621455,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1621455",
+    "subject": "MATERIAL FUNXIBLE PROXECTOS",
+    "vendor_name": "AGILENT TECHNOLOGIES SPAIN SL"
+  },
+  {
+    "amount_eur": 3078.24,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2024-12-24",
+    "record_id": "166:1640266",
+    "source_id": 1640266,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1640266",
+    "subject": "MATERIAL FUNXIBLE PROXECTOS",
+    "vendor_name": "AGILENT TECHNOLOGIES SPAIN SL"
+  },
+  {
+    "amount_eur": 3078.24,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2024-12-25",
+    "record_id": "166:1640872",
+    "source_id": 1640872,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1640872",
+    "subject": "MATERIAL FUNXIBLE PROXECTOS",
+    "vendor_name": "AGILENT TECHNOLOGIES SPAIN SL"
+  }
+]

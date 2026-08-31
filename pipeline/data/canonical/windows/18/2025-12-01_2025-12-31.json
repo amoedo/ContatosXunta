@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 925.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-12-08",
+    "record_id": "18:1871141",
+    "source_id": 1871141,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1871141",
+    "subject": "gastos cafetería Premio Manuel Colmeiro",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 4723.84,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-12-17",
+    "record_id": "18:1883278",
+    "source_id": 1883278,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1883278",
+    "subject": "SUBMINISTRO ANUAL PELLETS PARA A EGAP",
+    "vendor_name": "GESTCALOR SL"
+  },
+  {
+    "amount_eur": 320.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-12-31",
+    "record_id": "18:1902485",
+    "source_id": 1902485,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1902485",
+    "subject": "material oficina",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  }
+]

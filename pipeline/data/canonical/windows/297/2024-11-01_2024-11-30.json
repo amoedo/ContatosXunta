@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 1028.5,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-11-14",
+    "record_id": "297:1609892",
+    "source_id": 1609892,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1609892",
+    "subject": "REDACCIÓN DE LA MEMORIA ANUAL 2023",
+    "vendor_name": "IGNACIO LOPEZ GUERRA ROMAN"
+  },
+  {
+    "amount_eur": 363.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-11-14",
+    "record_id": "297:1610035",
+    "source_id": 1610035,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1610035",
+    "subject": "PRUEBA DE ESTANQUEIDAD DE CHIMENEAS EN RIBEIRA DO BERBES",
+    "vendor_name": "ENMACOSA CONSULTORIA TECNICA S.A."
+  },
+  {
+    "amount_eur": 108.9,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-11-14",
+    "record_id": "297:1610084",
+    "source_id": 1610084,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1610084",
+    "subject": "RENOVACIÓN CERTIFICADOS DIGITALES",
+    "vendor_name": "AC CAMERFIRMA SA"
+  },
+  {
+    "amount_eur": 2728.9,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-11-14",
+    "record_id": "297:1610234",
+    "source_id": 1610234,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1610234",
+    "subject": "CONTROL ARQUEOLÓGICO EN HORTAS-SAN SEBASTIÁN",
+    "vendor_name": "ANTA DE MOURA S L"
+  },
+  {
+    "amount_eur": 5687.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-11-14",
+    "record_id": "297:1610357",
+    "source_id": 1610357,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1610357",
+    "subject": "ASESORAMIENTO EN PROCESO DE AUDITORIA DE CUENTAS ANUALES 2023",
+    "vendor_name": "FUNDACION CANARIA UNIVERSITARIA DE LAS PALMAS"
+  },
+  {
+    "amount_eur": 312.3,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-11-21",
+    "record_id": "297:1612712",
+    "source_id": 1612712,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1612712",
+    "subject": "SEGURO MULTIRRIESGO OFICINA CCVV",
+    "vendor_name": "REALE AUTOS Y SEGUROS GENERALES SA"
+  },
+  {
+    "amount_eur": 2820.7,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-11-28",
+    "record_id": "297:1617116",
+    "source_id": 1617116,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1617116",
+    "subject": "INTERVENCIÓN EN CUBIERTA RB27-29",
+    "vendor_name": "CONSTRUCCIONES ABAL SA"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 2068.99,
+    "duration": "1 mes",
+    "organism_id": 441,
+    "publication_date": "2025-11-18",
+    "record_id": "441:1859350",
+    "source_id": 1859350,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1859350",
+    "subject": "GASTOS DE EXECUCIÓN DAS XORNADAS PERIODISMO E LITERATURA DE ONT E HOX EN IRIA Y MADRID",
+    "vendor_name": "VIAJES PIÑA SA"
+  },
+  {
+    "amount_eur": 203.5,
+    "duration": "1 mes",
+    "organism_id": 441,
+    "publication_date": "2025-11-18",
+    "record_id": "441:1859815",
+    "source_id": 1859815,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1859815",
+    "subject": "Gastos de execución das xornadas de PERIODISMO E LITERATURA de onte e de hoxe en Iria Flavia e Madrid",
+    "vendor_name": "FOGAR DE BREOGAN PAZOS SC"
+  }
+]

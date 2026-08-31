@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 3000.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2025-08-01",
+    "record_id": "141:1815618",
+    "source_id": 1815618,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1815618",
+    "subject": "Divulgativo: reportaxe Medallas Castelao e difusión en web",
+    "vendor_name": "EVENTOS INSUELA S.L."
+  },
+  {
+    "amount_eur": 2584.21,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2025-08-11",
+    "record_id": "141:1819376",
+    "source_id": 1819376,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1819376",
+    "subject": "Servizo cobertura audiovisual dos actgos da Xunta de Galicia",
+    "vendor_name": "AGN AXENCIA GALEGA DE NOTICIAS SA"
+  },
+  {
+    "amount_eur": 968.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2025-08-11",
+    "record_id": "141:1819842",
+    "source_id": 1819842,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1819842",
+    "subject": "Servizo profesional seguimento diario medios audiovisuais",
+    "vendor_name": "ORION PRESS SL"
+  },
+  {
+    "amount_eur": 2202.2,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2025-08-26",
+    "record_id": "141:1827919",
+    "source_id": 1827919,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1827919",
+    "subject": "Servizo de seguimento fotográfico",
+    "vendor_name": "JAVIER IGUACEL PEÑA"
+  },
+  {
+    "amount_eur": 17995.12,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2025-08-28",
+    "record_id": "141:1828919",
+    "source_id": 1828919,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1828919",
+    "subject": "Actualización creatividades",
+    "vendor_name": "IMAXE INTERMEDIA SA"
+  }
+]

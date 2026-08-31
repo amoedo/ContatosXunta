@@ -1,0 +1,101 @@
+[
+  {
+    "amount_eur": 1200.0,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2025-06-06",
+    "record_id": "221:1775094",
+    "source_id": 1775094,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1775094",
+    "subject": "Subministración de medios de dixitalización e impresión en rede para a AXI en Santiago de Compostela na modalidade de pa",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 1000.0,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2025-06-06",
+    "record_id": "221:1775262",
+    "source_id": 1775262,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1775262",
+    "subject": "Subministración de medios de dixitalización e impresión en rede empregadas pola AXI na Delegación Territorial da Xunta d",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 1500.0,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2025-06-06",
+    "record_id": "221:1775263",
+    "source_id": 1775263,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1775263",
+    "subject": "Subministración de medios de dixitalización e impresión en rede para o Servizo Provincial da AXI en Ourense na modalidad",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 6500.0,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2025-06-09",
+    "record_id": "221:1775720",
+    "source_id": 1775720,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1775720",
+    "subject": "Cobertura gráfica da Consellería de Vivenda e Planificación de Infraestruturas en actos relacionados coas Infraestrutura",
+    "vendor_name": "AGN AXENCIA GALEGA DE NOTICIAS SA"
+  },
+  {
+    "amount_eur": 3813.92,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2025-06-09",
+    "record_id": "221:1777120",
+    "source_id": 1777120,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1777120",
+    "subject": "Conexión da ponte internacional coa PO-510 (Salvaterra de Miño)",
+    "vendor_name": "EUROTEC INSPECCCION SL"
+  },
+  {
+    "amount_eur": 16698.0,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2025-06-13",
+    "record_id": "221:1781181",
+    "source_id": 1781181,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1781181",
+    "subject": "Rehabilitación de varias obras de drenaxe transversal nas estradas PO-331 e PO-532",
+    "vendor_name": "K2 ESTUDIO DE INGENIERIA SL"
+  },
+  {
+    "amount_eur": 4502.41,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2025-06-27",
+    "record_id": "221:1791007",
+    "source_id": 1791007,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1791007",
+    "subject": "MSV na PO-531. Treito: PO-310 - VG-4.8",
+    "vendor_name": "EUROTEC INSPECCCION SL"
+  },
+  {
+    "amount_eur": 936.54,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2025-06-27",
+    "record_id": "221:1791008",
+    "source_id": 1791008,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1791008",
+    "subject": "Mellora da mobilidade peonil na intersección das estradas PO-548 e PO-192",
+    "vendor_name": "EUROTEC INSPECCCION SL"
+  },
+  {
+    "amount_eur": 48319.68,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2025-06-30",
+    "record_id": "221:1791313",
+    "source_id": 1791313,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1791313",
+    "subject": "Mellora de capacidade da glorieta do PQ 26+020 na VG-4.1",
+    "vendor_name": "CONSTRUCCIONES OBRAS Y VIALES SA"
+  }
+]

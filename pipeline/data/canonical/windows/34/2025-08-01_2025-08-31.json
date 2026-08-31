@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 15333.12,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2025-08-06",
+    "record_id": "34:1817647",
+    "source_id": 1817647,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1817647",
+    "subject": "Servizo de prestación/colaboración/consulta en xestión servizos de persoal, nóminas e laboral da Entidade Pública Empres",
+    "vendor_name": "FISELA SL"
+  },
+  {
+    "amount_eur": 13794.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2025-08-19",
+    "record_id": "34:1824420",
+    "source_id": 1824420,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1824420",
+    "subject": "MUGARDOS: Informe inspección pasarela peonil",
+    "vendor_name": "LIGNIA INGENIERIA Y CONSTRUCCION EN MADERA"
+  },
+  {
+    "amount_eur": 24841.25,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2025-08-19",
+    "record_id": "34:1824501",
+    "source_id": 1824501,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1824501",
+    "subject": "Rinlo: Renovación varanda e pavimento contedores RSU",
+    "vendor_name": "VIGAPUGA ESTRUCTURAS SOCIEDAD LIMITADA"
+  }
+]

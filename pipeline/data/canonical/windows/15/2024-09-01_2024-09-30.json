@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 5118.36,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2024-09-20",
+    "record_id": "15:1590327",
+    "source_id": 1590327,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1590327",
+    "subject": "SEGURO VEHICULOS IGCC",
+    "vendor_name": "HOWDEN IBERIA SA"
+  },
+  {
+    "amount_eur": 10164.0,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2024-09-20",
+    "record_id": "15:1590386",
+    "source_id": 1590386,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1590386",
+    "subject": "CAMPAÑA CONSUMO RESPONDE MACETAS",
+    "vendor_name": "COPINOVA DIXITAL SL"
+  }
+]

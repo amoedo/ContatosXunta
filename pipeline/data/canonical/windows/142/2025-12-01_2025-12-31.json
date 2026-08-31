@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 696.96,
+    "duration": "1 mes",
+    "organism_id": 142,
+    "publication_date": "2025-12-22",
+    "record_id": "142:1893567",
+    "source_id": 1893567,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1893567",
+    "subject": "Contrato de mantemento da licenza P050405014 do software Presto (31/12/2025 - 31/12/2026)",
+    "vendor_name": "CLAVE INFORMATICA SL"
+  },
+  {
+    "amount_eur": 3509.0,
+    "duration": "1 mes",
+    "organism_id": 142,
+    "publication_date": "2025-12-22",
+    "record_id": "142:1893915",
+    "source_id": 1893915,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1893915",
+    "subject": "Adquisición de un Switch de 48 portos a 1Gb, 4 portos a 10Gb e fontes de alimentación redundantes para as instalacións d",
+    "vendor_name": "BAKSTECH GROUP SL"
+  }
+]

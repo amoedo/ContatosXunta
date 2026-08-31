@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 444.6,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-07-15",
+    "record_id": "18:1803208",
+    "source_id": 1803208,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1803208",
+    "subject": "Entrega de libros de Dereito",
+    "vendor_name": "ARANZADI LA LEY, S.A.U."
+  },
+  {
+    "amount_eur": 99.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-07-15",
+    "record_id": "18:1803392",
+    "source_id": 1803392,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1803392",
+    "subject": "Fotocopias EGAP.",
+    "vendor_name": "XESTION DIXITAL COMPOSTELA, SL"
+  }
+]

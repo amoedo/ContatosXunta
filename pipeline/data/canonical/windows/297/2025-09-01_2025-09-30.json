@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 1694.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-09-12",
+    "record_id": "297:1835212",
+    "source_id": 1835212,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1835212",
+    "subject": "PROTECCIÓN DATOS",
+    "vendor_name": "OBP SERVICIOS INFORMÁTICOS E INFRAESTRUCTURAS DE"
+  },
+  {
+    "amount_eur": 732.47,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-09-12",
+    "record_id": "297:1835333",
+    "source_id": 1835333,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1835333",
+    "subject": "PREVENCIÓN DE RIESGOS LABORALES",
+    "vendor_name": "MAS PREVENCION SERVICIO DE PREVENCION, SL"
+  },
+  {
+    "amount_eur": 3630.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-09-15",
+    "record_id": "297:1835403",
+    "source_id": 1835403,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1835403",
+    "subject": "PROYECTO DE DEMOLICIÓN, DIRECCIÓN DE OBRA Y CSS RB27",
+    "vendor_name": "ANTONIO MANUEL ARIAS RODRIGUEZ"
+  },
+  {
+    "amount_eur": 5808.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-09-15",
+    "record_id": "297:1836004",
+    "source_id": 1836004,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1836004",
+    "subject": "ASESORAMIENTO AUDITORIA CUENTAS ANUALES 2024",
+    "vendor_name": "FUNDACION CANARIA UNIVERSITARIA DE LAS PALMAS"
+  }
+]

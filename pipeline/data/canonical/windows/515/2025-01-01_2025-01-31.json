@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 496.89,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2025-01-06",
+    "record_id": "515:1652047",
+    "source_id": 1652047,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1652047",
+    "subject": "SERVIZO DIXITALIZACIÓN IMPRESIÓN E PLOTEADO DE PLANOS",
+    "vendor_name": "OFFICE2GALICIA SC"
+  },
+  {
+    "amount_eur": 377.36,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2025-01-09",
+    "record_id": "515:1652383",
+    "source_id": 1652383,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1652383",
+    "subject": "ALOXAMENTO EN MADRID E BILLETE TREN SANTIAGO-MADRID-SANTIAGO 01-02/12 DX URB.",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 396.26,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2025-01-30",
+    "record_id": "515:1667697",
+    "source_id": 1667697,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1667697",
+    "subject": "Nº pedido: 74044681 - Nº albarán: 74044681",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  }
+]

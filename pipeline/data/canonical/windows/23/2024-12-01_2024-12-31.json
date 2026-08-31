@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 418.36,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2024-12-02",
+    "record_id": "23:1618847",
+    "source_id": 1618847,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1618847",
+    "subject": "Compra diverso material de oficina",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 3111.09,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2024-12-02",
+    "record_id": "23:1618848",
+    "source_id": 1618848,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1618848",
+    "subject": "discos externos",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 3375.9,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2024-12-05",
+    "record_id": "23:1619886",
+    "source_id": 1619886,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1619886",
+    "subject": "SUMINISTRO IMAGERUNNER ADV C5550I Nº 2JC05956",
+    "vendor_name": "VSM SISTEMAS CORUÑA, SA"
+  }
+]

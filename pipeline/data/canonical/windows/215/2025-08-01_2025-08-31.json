@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 943.51,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2025-08-12",
+    "record_id": "215:1820573",
+    "source_id": 1820573,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1820573",
+    "subject": "ADIX-2025-CM-083-Licenza-CRM",
+    "vendor_name": "NATICA, SISTEMAS DE INFORMACION, SL"
+  },
+  {
+    "amount_eur": 7649.11,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2025-08-27",
+    "record_id": "215:1828464",
+    "source_id": 1828464,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1828464",
+    "subject": "Contrato menor AIS-2025-CM-208_subministro climatizadora para sala de comunicacións Cª Facenda (San Caetano)",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 2057.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2025-08-27",
+    "record_id": "215:1828465",
+    "source_id": 1828465,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1828465",
+    "subject": "Contrato menor AIS-2025-CM-207_SUBMINISTRO DUN VENTILADOR",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 17998.75,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2025-08-27",
+    "record_id": "215:1828616",
+    "source_id": 1828616,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1828616",
+    "subject": "STS-2025-CM-MAT-402 Servizo integración aplicación REGANUZ c",
+    "vendor_name": "BALIDEA CONSULTING & PROGRAMING, S.L."
+  },
+  {
+    "amount_eur": 17424.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2025-08-27",
+    "record_id": "215:1828722",
+    "source_id": 1828722,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1828722",
+    "subject": "Servizo de apoio á coordinación do proxecto  Nodo de Información cidadá _Financiado PRTR",
+    "vendor_name": "PM4GOV S.L"
+  }
+]

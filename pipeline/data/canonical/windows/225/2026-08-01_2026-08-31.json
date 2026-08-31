@@ -6,7 +6,7 @@
     "publication_date": "2026-08-04",
     "record_id": "225:2070688",
     "source_id": 2070688,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2070688",
     "subject": "Cambio iluminación oficinas Eduardo Pondal",
     "vendor_name": "AGUSTIN MIRAMONTES CURROS"
   },
@@ -17,7 +17,7 @@
     "publication_date": "2026-08-10",
     "record_id": "225:2072853",
     "source_id": 2072853,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2072853",
     "subject": "Servizo limpeza oficinas Eduardo Pondal (xullo 2026)",
     "vendor_name": "SAMAIN SERVIZOS A COMUNIDADE SA"
   },
@@ -28,7 +28,7 @@
     "publication_date": "2026-08-10",
     "record_id": "225:2073141",
     "source_id": 2073141,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2073141",
     "subject": "Material oficina Proxecto GIFT",
     "vendor_name": "PAZ   DISMAC SL"
   },
@@ -39,8 +39,30 @@
     "publication_date": "2026-08-17",
     "record_id": "225:2075774",
     "source_id": 2075774,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/225/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2075774",
     "subject": "CM 04/2026 Gastos comunidade edificio IET Eduardo Pondal 30",
     "vendor_name": "COMPOSTELA BEACH SA"
+  },
+  {
+    "amount_eur": 359.1,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-08-28",
+    "record_id": "225:2080600",
+    "source_id": 2080600,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2080600",
+    "subject": "CM5/2026 Subministración electricidade edificio E. Pondal 30",
+    "vendor_name": "IBERDROLA CLIENTES SA"
+  },
+  {
+    "amount_eur": 112.82,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-08-28",
+    "record_id": "225:2080601",
+    "source_id": 2080601,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2080601",
+    "subject": "CUPS: ES0022000008277253FT. Electricidad oficina planta 4o C",
+    "vendor_name": "IBERDROLA CLIENTES SA"
   }
 ]

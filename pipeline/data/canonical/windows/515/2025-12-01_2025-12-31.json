@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 7.84,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2025-12-01",
+    "record_id": "515:1868640",
+    "source_id": 1868640,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1868640",
+    "subject": "pagamento da fac. do pedido 74044681. Impresión copias color",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 118.25,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2025-12-03",
+    "record_id": "515:1869518",
+    "source_id": 1869518,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1869518",
+    "subject": "Axudas de custo DXU",
+    "vendor_name": "NH HOTELES ESPAÑA SA"
+  },
+  {
+    "amount_eur": 118.25,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2025-12-03",
+    "record_id": "515:1869519",
+    "source_id": 1869519,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1869519",
+    "subject": "Axudas de custo DXU",
+    "vendor_name": "NH HOTELES ESPAÑA SA"
+  },
+  {
+    "amount_eur": 919.6,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2025-12-11",
+    "record_id": "515:1872404",
+    "source_id": 1872404,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1872404",
+    "subject": "SUBMINISTRACIÓN DE 4 CADEIRAS DE OFICINA PARA O DT DE OURENSE DA CONS. DE VIVENDA E PLANIF. INF.",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 1946.5,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2025-12-17",
+    "record_id": "515:1881479",
+    "source_id": 1881479,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1881479",
+    "subject": "FACTURA F251200113 EMITIDA POR INFORHOUSE SL RELATIVA A LICENZAS SOFTWARE PARA A CONSELLERÍA DE VIVENDA E PLANIF. INF.",
+    "vendor_name": "INFORHOUSE S L"
+  },
+  {
+    "amount_eur": 480.98,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2025-12-17",
+    "record_id": "515:1882335",
+    "source_id": 1882335,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1882335",
+    "subject": "FACTURA FR-250622 EMITIDA POR ÁRTABRA COMUNICACIÓN SL DESEÑO PRESENTACIÓN CONSTRUÍNDO GALICIA",
+    "vendor_name": "ARTABRA COMUNICACION SL"
+  },
+  {
+    "amount_eur": 1048.0,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2025-12-22",
+    "record_id": "515:1893775",
+    "source_id": 1893775,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1893775",
+    "subject": "VIAXES ZONDA SL",
+    "vendor_name": "ZONDA SL"
+  }
+]

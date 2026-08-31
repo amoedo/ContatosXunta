@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 18150.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-04-11",
+    "record_id": "207:1734509",
+    "source_id": 1734509,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1734509",
+    "subject": "asistencia técnica REGINA",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  },
+  {
+    "amount_eur": 18150.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-04-11",
+    "record_id": "207:1734520",
+    "source_id": 1734520,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1734520",
+    "subject": "subcontratación del Desarrollo de un Portal Web de Entrada y Visualización de Datos PT2 _PCC Mariñas",
+    "vendor_name": "SAEC DATA SA"
+  },
+  {
+    "amount_eur": 16456.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-04-11",
+    "record_id": "207:1734527",
+    "source_id": 1734527,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1734527",
+    "subject": "Servicio de diseño y desarrollo del portal web de la Red NOR-WATER BlueWWater",
+    "vendor_name": "SIXTEMA PROXECTOS DE INFORMACIÓN, SL"
+  },
+  {
+    "amount_eur": 9680.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-04-11",
+    "record_id": "207:1734530",
+    "source_id": 1734530,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1734530",
+    "subject": "vídeo de presentación del proyecto BlueWWater",
+    "vendor_name": "MIL OJOS PRODUCEN SL"
+  },
+  {
+    "amount_eur": 484.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-04-15",
+    "record_id": "207:1737515",
+    "source_id": 1737515,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1737515",
+    "subject": "USB serigrafiados con el logo de CETMAR Generales",
+    "vendor_name": "ALMA MATER SL"
+  }
+]

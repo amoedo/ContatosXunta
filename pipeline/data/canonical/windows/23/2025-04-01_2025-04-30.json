@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 77.97,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2025-04-09",
+    "record_id": "23:1732566",
+    "source_id": 1732566,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1732566",
+    "subject": "diverso material de ofcina",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 210.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2025-04-14",
+    "record_id": "23:1736218",
+    "source_id": 1736218,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1736218",
+    "subject": "Servicio de Catering dia 8 de Abril 2025",
+    "vendor_name": "GASTROMESA,S.L."
+  }
+]

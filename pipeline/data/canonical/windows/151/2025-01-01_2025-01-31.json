@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 875.6,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2025-01-03",
+    "record_id": "151:1651420",
+    "source_id": 1651420,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1651420",
+    "subject": "Convite de Navidad - Pazo de Amarante 20.12.2024",
+    "vendor_name": "CATERING ALMIREZ,S.L."
+  },
+  {
+    "amount_eur": 186.34,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2025-01-10",
+    "record_id": "151:1653133",
+    "source_id": 1653133,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1653133",
+    "subject": "matrícula curso A tu Aire: Auditoría Laboral 2024",
+    "vendor_name": "FORMACION FRANCIS LEFEBVRE SL"
+  },
+  {
+    "amount_eur": 550.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2025-01-14",
+    "record_id": "151:1659042",
+    "source_id": 1659042,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1659042",
+    "subject": "Menú de Nadal - CGRL 2024",
+    "vendor_name": "SOMOS ABASTOS S.L."
+  },
+  {
+    "amount_eur": 272.47,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2025-01-16",
+    "record_id": "151:1659630",
+    "source_id": 1659630,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1659630",
+    "subject": "XX EGRL - letras corpóreas + tarjetones",
+    "vendor_name": "GLOBIINK"
+  },
+  {
+    "amount_eur": 5154.6,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2025-01-29",
+    "record_id": "151:1667352",
+    "source_id": 1667352,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1667352",
+    "subject": "Actualización do OJS do CGRL",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  },
+  {
+    "amount_eur": 7000.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2025-01-29",
+    "record_id": "151:1667422",
+    "source_id": 1667422,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1667422",
+    "subject": "Arrendamento multicopia + custo copias",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 149.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2025-01-30",
+    "record_id": "151:1667583",
+    "source_id": 1667583,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1667583",
+    "subject": "21 Fontecelta 500 PET Pack (24)",
+    "vendor_name": "DISGOBE SA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "amount_eur": 103.52,
+    "duration": "1 mes",
+    "organism_id": 304,
+    "publication_date": "2025-11-06",
+    "record_id": "304:1854334",
+    "source_id": 1854334,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1854334",
+    "subject": "MATERIAL OFICINA",
+    "vendor_name": "MANUEL CASTRO PORTO"
+  },
+  {
+    "amount_eur": 52.03,
+    "duration": "1 mes",
+    "organism_id": 304,
+    "publication_date": "2025-11-06",
+    "record_id": "304:1854335",
+    "source_id": 1854335,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1854335",
+    "subject": "MATERIAL OFICINA",
+    "vendor_name": "MANUEL CASTRO PORTO"
+  },
+  {
+    "amount_eur": 24.2,
+    "duration": "1 mes",
+    "organism_id": 304,
+    "publication_date": "2025-11-06",
+    "record_id": "304:1854552",
+    "source_id": 1854552,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1854552",
+    "subject": "AGUA POTABLE",
+    "vendor_name": "CERLIS VENDING SLU"
+  },
+  {
+    "amount_eur": 22.94,
+    "duration": "1 mes",
+    "organism_id": 304,
+    "publication_date": "2025-11-06",
+    "record_id": "304:1854553",
+    "source_id": 1854553,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1854553",
+    "subject": "MENSAXERIA",
+    "vendor_name": "M.A.F. 1-SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 173.27,
+    "duration": "1 mes",
+    "organism_id": 304,
+    "publication_date": "2025-11-06",
+    "record_id": "304:1854608",
+    "source_id": 1854608,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1854608",
+    "subject": "MATERIAL OFICINA",
+    "vendor_name": "OFFICE2GALICIA SC"
+  },
+  {
+    "amount_eur": 181.02,
+    "duration": "1 mes",
+    "organism_id": 304,
+    "publication_date": "2025-11-06",
+    "record_id": "304:1854609",
+    "source_id": 1854609,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1854609",
+    "subject": "MATERIAL OFICINA",
+    "vendor_name": "OFFICE2GALICIA SC"
+  },
+  {
+    "amount_eur": 9.68,
+    "duration": "1 mes",
+    "organism_id": 304,
+    "publication_date": "2025-11-06",
+    "record_id": "304:1854625",
+    "source_id": 1854625,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1854625",
+    "subject": "FLETE",
+    "vendor_name": "TOPCON EUROPE MEDICAL B.V. SUCURSAL EN ESPAÑA"
+  },
+  {
+    "amount_eur": 25.41,
+    "duration": "1 mes",
+    "organism_id": 304,
+    "publication_date": "2025-11-06",
+    "record_id": "304:1854626",
+    "source_id": 1854626,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1854626",
+    "subject": "PAPEL TERMICO",
+    "vendor_name": "TOPCON EUROPE MEDICAL B.V. SUCURSAL EN ESPAÑA"
+  }
+]

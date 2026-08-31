@@ -1,0 +1,90 @@
+[
+  {
+    "amount_eur": 1200.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-01-06",
+    "record_id": "18:1651693",
+    "source_id": 1651693,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1651693",
+    "subject": "TRABALLOS COLABORACIÓN E APOIO PARA A REALIZACIÓN DO CONSELL",
+    "vendor_name": "BEATRIZ ALVARIÑO DIAZ DEL RIO"
+  },
+  {
+    "amount_eur": 3526.7,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-01-06",
+    "record_id": "18:1651779",
+    "source_id": 1651779,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1651779",
+    "subject": "Pintado de estancias zona Servizo de Publicaciones edificio",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 7290.25,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-01-06",
+    "record_id": "18:1651780",
+    "source_id": 1651780,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1651780",
+    "subject": "Pintado de zona Cafetería edificio de la EGAP. 3750(2)-SL-FA",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 3993.6,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-01-06",
+    "record_id": "18:1651810",
+    "source_id": 1651810,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1651810",
+    "subject": "FACTURA 2024-VN/FVA0003661",
+    "vendor_name": "EDITORIAL ARANZADI, S.A."
+  },
+  {
+    "amount_eur": 11340.4,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-01-06",
+    "record_id": "18:1651848",
+    "source_id": 1651848,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1651848",
+    "subject": "FACTURA 02283. COMPOÑENTES ELECTRÓNICOS",
+    "vendor_name": "INFORMATICA ELINFO,SL"
+  },
+  {
+    "amount_eur": 5350.0,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-01-06",
+    "record_id": "18:1651851",
+    "source_id": 1651851,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1651851",
+    "subject": "FACTURA 44.",
+    "vendor_name": "LTM SERVICIOS BIBLIOTECARIOS, S L"
+  },
+  {
+    "amount_eur": 211.07,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-01-15",
+    "record_id": "18:1659290",
+    "source_id": 1659290,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1659290",
+    "subject": "Suministro auga EGAP.",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 120.81,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-01-20",
+    "record_id": "18:1660235",
+    "source_id": 1660235,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1660235",
+    "subject": "FACTURA 2412329718",
+    "vendor_name": "ALTIA CONSULTORES SA"
+  }
+]

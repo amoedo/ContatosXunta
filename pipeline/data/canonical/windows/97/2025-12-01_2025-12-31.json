@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 493.58,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2025-12-12",
+    "record_id": "97:1873329",
+    "source_id": 1873329,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1873329",
+    "subject": "BILLETE DE AVION, ALOXAMENTO E TRASLADOS PARA VIAXE XEFE AREA CULTURA XACOBEA A CORDOBA PARA CONFERENCIA CAMIÑO SANTIAGO",
+    "vendor_name": "VIAJES HALCON, S A"
+  },
+  {
+    "amount_eur": 11321.74,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2025-12-15",
+    "record_id": "97:1875981",
+    "source_id": 1875981,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1875981",
+    "subject": "EXECUCION DAS OBRAS DOS PROXECTOS DE TELECOMUNICACIONS NOS ALBERGUES DE PIÑOR E FERROL",
+    "vendor_name": "INGAEL OURENSE SL"
+  },
+  {
+    "amount_eur": 4840.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2025-12-15",
+    "record_id": "97:1877097",
+    "source_id": 1877097,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1877097",
+    "subject": "ELABORACION ESTUDIO SOCIOECONOMICO DOS CAMIÑOS DE SANTIAGO PARA PROGRAMA ULTREIA SUDOE",
+    "vendor_name": "AYECONOMICS RESEARCH CENTRE"
+  }
+]

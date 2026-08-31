@@ -6,7 +6,7 @@
     "publication_date": "2026-08-24",
     "record_id": "97:2078495",
     "source_id": 2078495,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2078495",
     "subject": "SERVIZO DE GUIA E ALUGUER DE AUDIOGUIAS PARA VISITA PROXECTO NEW FOOTSTEPS ON THE CAMINO ORGANIZADO POLA FEDER. PORTUGUE",
     "vendor_name": "MARIA INMACULADA VARELA SUAREZ"
   },
@@ -17,8 +17,52 @@
     "publication_date": "2026-08-27",
     "record_id": "97:2080209",
     "source_id": 2080209,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/97/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2080209",
     "subject": "BILLETES DE AVION E ALOXAMENTO ASISTENCIA DIRECTOR S.A  XESTIÓN XACOBEO A ENCONTRO ASOCIAC. ITALIANAS EN SAN SEPOLCRO",
     "vendor_name": "BIVES TOUR, SA"
+  },
+  {
+    "amount_eur": 2843.5,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-08-31",
+    "record_id": "97:2080857",
+    "source_id": 2080857,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2080857",
+    "subject": "TRABALLOS DE DESBROCE E LIMPEZA FINCA CARBALLO CEN POLAS E XARONDA EN REDONDELA",
+    "vendor_name": "MANUEL DOSANTOS VARELA"
+  },
+  {
+    "amount_eur": 774.5,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-08-31",
+    "record_id": "97:2081054",
+    "source_id": 2081054,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2081054",
+    "subject": "GASTOS DE VIAXE E ALOXAMENTO PARA ASISTENCIA CONSELLEIRO DELEGADO A EVENTO DE PROMOCION EN GRANADA ENTREGA PREMIOS VUELT",
+    "vendor_name": "VIAJES GALITUR SL"
+  },
+  {
+    "amount_eur": 1430.22,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-08-31",
+    "record_id": "97:2081161",
+    "source_id": 2081161,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2081161",
+    "subject": "SOPORTE E LICENZA PROGRAMA INFORMATICO A3 CON ASESOR CON INFORMACION BOE FISCAL E MODULO INMOVILIZADO POR UN ANO",
+    "vendor_name": "LANDIN INFORMATICA SL"
+  },
+  {
+    "amount_eur": 33.88,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-08-31",
+    "record_id": "97:2081361",
+    "source_id": 2081361,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2081361",
+    "subject": "TAXAS FNMT POR EMISION CERTIFICADOS DIXITAIS DE REPRESENTANTE DE PERSOA XURIDICA XEFA DEPT.ADMINISTRACION E XURIDICO S.A",
+    "vendor_name": "FABRICA NACIONAL DE MONEDA Y TIMBRE M H"
   }
 ]

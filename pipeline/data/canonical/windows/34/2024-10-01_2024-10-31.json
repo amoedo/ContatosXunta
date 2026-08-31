@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 719.65,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2024-10-01",
+    "record_id": "34:1593236",
+    "source_id": 1593236,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1593236",
+    "subject": "SSCC: Adaptación da sala de xuntas de Dirección para comunicación por videoconferencia.",
+    "vendor_name": "DUNID, S L"
+  },
+  {
+    "amount_eur": 1936.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2024-10-01",
+    "record_id": "34:1593292",
+    "source_id": 1593292,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1593292",
+    "subject": "SSCC: Bolsa de horas para o mantemento da Guia nautica de Galicia",
+    "vendor_name": "ZADIA SOFWARE S.L."
+  },
+  {
+    "amount_eur": 4457.64,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2024-10-01",
+    "record_id": "34:1593295",
+    "source_id": 1593295,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1593295",
+    "subject": "Adquisición de licenzas da aplicación de medicións e orzamentos Presto",
+    "vendor_name": "VIRTUAL TIC SL"
+  },
+  {
+    "amount_eur": 18099.54,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2024-10-02",
+    "record_id": "34:1593584",
+    "source_id": 1593584,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1593584",
+    "subject": "Traballos de revisión, informe e proxecto de rehabilitación e aumento da vida útil do acceso á Illa das Goritas - Cambad",
+    "vendor_name": "TIPOLOGIAS ESTRUC. EN MADERA HORM. A.SL"
+  },
+  {
+    "amount_eur": 18099.54,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2024-10-23",
+    "record_id": "34:1602029",
+    "source_id": 1602029,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1602029",
+    "subject": "Traballos de revisión, informe e proxecto de rehabilitación e aumento da vida útil de estrutura de peirao no porto de Ba",
+    "vendor_name": "MECANISMO DISEÑO Y CALCULO DE ESTRUCTURAS SL"
+  },
+  {
+    "amount_eur": 17968.65,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2024-10-29",
+    "record_id": "34:1604242",
+    "source_id": 1604242,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1604242",
+    "subject": "Apoio administrativo para carga de datos masivos  e xeración de documentos administrativos  empregando modelos dos exped",
+    "vendor_name": "NOCECA SERVIS SLU EN CONSTITUCION"
+  },
+  {
+    "amount_eur": 17975.25,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2024-10-30",
+    "record_id": "34:1604439",
+    "source_id": 1604439,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1604439",
+    "subject": "Servizo de consultoría para o apoio á revisión e regularización masiva de expedientes de autorización, concesión ou cesi",
+    "vendor_name": "STEFFAN ABELLA ABAD"
+  }
+]

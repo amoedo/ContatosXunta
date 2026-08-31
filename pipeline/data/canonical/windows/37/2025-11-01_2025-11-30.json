@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 14870.9,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2025-11-04",
+    "record_id": "37:1853782",
+    "source_id": 1853782,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1853782",
+    "subject": "Mapa o Catálogo de capacidades industriales de la EÓLICA MA",
+    "vendor_name": "GHENOVA MARINE RENEWABLES, S.L."
+  },
+  {
+    "amount_eur": 1403.6,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2025-11-05",
+    "record_id": "37:1853944",
+    "source_id": 1853944,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1853944",
+    "subject": "SUBMINISTRACIÓN BANDEIRAS PARA AUDITORIO DA PLANTA BAIXA DO INEGA",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 6050.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2025-11-11",
+    "record_id": "37:1857316",
+    "source_id": 1857316,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1857316",
+    "subject": "PARTICIPACIÓN INSTITUCIONAL NA CELEBRACIÓN DOS ENERGYDAYS NA",
+    "vendor_name": "ASOC.CLUSTER GALLEGO DE LA IND. Y SERV."
+  }
+]

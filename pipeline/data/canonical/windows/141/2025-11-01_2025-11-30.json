@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 5203.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2025-11-07",
+    "record_id": "141:1854781",
+    "source_id": 1854781,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1854781",
+    "subject": "Deseño e produción gráfica",
+    "vendor_name": "IDEA CREATIVIDAD Y COMUNICACION SL"
+  },
+  {
+    "amount_eur": 968.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2025-11-07",
+    "record_id": "141:1854932",
+    "source_id": 1854932,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1854932",
+    "subject": "Servizo profesional seguimento diario medios audiovisuais",
+    "vendor_name": "ORION PRESS SL"
+  },
+  {
+    "amount_eur": 12463.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2025-11-21",
+    "record_id": "141:1864251",
+    "source_id": 1864251,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1864251",
+    "subject": "Actualización cretatividades",
+    "vendor_name": "IDEA CREATIVIDAD Y COMUNICACION SL"
+  }
+]

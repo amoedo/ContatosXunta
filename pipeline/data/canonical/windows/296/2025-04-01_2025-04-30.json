@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 523.81,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2025-04-24",
+    "record_id": "296:1742105",
+    "source_id": 1742105,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1742105",
+    "subject": "[1T2025] Servicios de mantenimiento de ascensores (Contrato 24/25)",
+    "vendor_name": "ASCENSORES ENOR SL"
+  },
+  {
+    "amount_eur": 1687.73,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2025-04-25",
+    "record_id": "296:1742519",
+    "source_id": 1742519,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1742519",
+    "subject": "[4T2024/1T2025] Servicios de estudios de mercado",
+    "vendor_name": "EUROVALORACIONES, S.A."
+  },
+  {
+    "amount_eur": 1726.56,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2025-04-25",
+    "record_id": "296:1742719",
+    "source_id": 1742719,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1742719",
+    "subject": "[1T2025] Servicios de suscripción",
+    "vendor_name": "CLUB FINANCIERO VIGO, SA"
+  },
+  {
+    "amount_eur": 292.61,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2025-04-25",
+    "record_id": "296:1742776",
+    "source_id": 1742776,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1742776",
+    "subject": "[1T2025] Explotación del suministro de agua",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 1572.84,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2025-04-25",
+    "record_id": "296:1742876",
+    "source_id": 1742876,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1742876",
+    "subject": "[1T2025] Servicios de seguridad",
+    "vendor_name": "SISTEMAS DE SEGURIDAD A1 SL"
+  },
+  {
+    "amount_eur": 242.0,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2025-04-25",
+    "record_id": "296:1743147",
+    "source_id": 1743147,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1743147",
+    "subject": "[1T2025] Servicios de reparación y mantenimiento de calefac",
+    "vendor_name": "CALEMA SANTIAGO SL"
+  },
+  {
+    "amount_eur": 2156.98,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2025-04-25",
+    "record_id": "296:1743286",
+    "source_id": 1743286,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1743286",
+    "subject": "[4T2024/1T2025] Servicios de documentación y certificación jurídica",
+    "vendor_name": "REMUÑAN Y AMIGO CB"
+  }
+]

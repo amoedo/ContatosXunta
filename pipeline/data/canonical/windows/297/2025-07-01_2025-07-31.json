@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 338.8,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-07-25",
+    "record_id": "297:1811745",
+    "source_id": 1811745,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1811745",
+    "subject": "LONAS PARA EDIFICIOS EN REHABILITACIÓN",
+    "vendor_name": "CORPORACION DE COMUNICACIONES SL"
+  },
+  {
+    "amount_eur": 12705.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-07-25",
+    "record_id": "297:1811755",
+    "source_id": 1811755,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1811755",
+    "subject": "PROYECTO DE MEDIDAS URGENTES Y ESTRUCTURA EN RB25",
+    "vendor_name": "REBOREDA MARTINEZ ANTONIO 000439934Y SLNE"
+  },
+  {
+    "amount_eur": 5670.27,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-07-25",
+    "record_id": "297:1811979",
+    "source_id": 1811979,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1811979",
+    "subject": "REPARACIONES EN FACHADA R25",
+    "vendor_name": "AISLAMIENTOS ECOLOGICOS DE VIGO S.L."
+  }
+]

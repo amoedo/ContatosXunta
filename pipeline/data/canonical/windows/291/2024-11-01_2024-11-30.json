@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 228.3,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2024-11-07",
+    "record_id": "291:1606478",
+    "source_id": 1606478,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1606478",
+    "subject": "PAGAMENTO FACTURA COBERTURA GRÁFICA EVENTO INSTITUCIONAL",
+    "vendor_name": "SERGIO PEREZ SANZ"
+  },
+  {
+    "amount_eur": 661.82,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2024-11-07",
+    "record_id": "291:1606824",
+    "source_id": 1606824,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1606824",
+    "subject": "SUBMINISTRACIÓN DE MATERIAL DE OFICINA",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 284.89,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2024-11-28",
+    "record_id": "291:1617176",
+    "source_id": 1617176,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1617176",
+    "subject": "SUBMINISTRACIÓN DE MATERIAL DE OFICINA",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 40.93,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2024-11-29",
+    "record_id": "291:1618413",
+    "source_id": 1618413,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1618413",
+    "subject": "Nº pedido: 74092406 - Nº albarán: 74092406",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 1210.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-07-22",
+    "record_id": "207:1808166",
+    "source_id": 1808166,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1808166",
+    "subject": "un servicio de inspección OCA (Organismo de Control Autorizado) en baja tensión Generales",
+    "vendor_name": "I2C INSPECCIONES SL"
+  },
+  {
+    "amount_eur": 10890.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-07-23",
+    "record_id": "207:1809967",
+    "source_id": 1809967,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1809967",
+    "subject": "un servicio de auditoría de cuentas anuales para el ejercicio 2024 Generales",
+    "vendor_name": "SERV AUDITORIA CONSULTING EMP SL"
+  },
+  {
+    "amount_eur": 1210.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-07-24",
+    "record_id": "207:1811005",
+    "source_id": 1811005,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1811005",
+    "subject": "un servicio de mantenimiento de alarmas 2025-2026 Generales",
+    "vendor_name": "MONTAJES TECNICOS GALICIA SL"
+  },
+  {
+    "amount_eur": 484.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-07-24",
+    "record_id": "207:1811204",
+    "source_id": 1811204,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1811204",
+    "subject": "detector de gas radón AIXOLA 2025",
+    "vendor_name": "AMAZON EU SARL SUCURSAL EN ESPAÑA"
+  }
+]

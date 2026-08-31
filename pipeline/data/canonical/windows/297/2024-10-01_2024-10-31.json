@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 6941.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-10-02",
+    "record_id": "297:1593666",
+    "source_id": 1593666,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1593666",
+    "subject": "CARPINTERÍA EXTERIOS SS24-26",
+    "vendor_name": "XA QUESTAMOS S.L."
+  },
+  {
+    "amount_eur": 810.16,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-10-03",
+    "record_id": "297:1594159",
+    "source_id": 1594159,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1594159",
+    "subject": "PREVENCIÓN DE RIESGOS LABORALES",
+    "vendor_name": "MAS PREVENCION SERVICIO DE PREVENCION, SL"
+  },
+  {
+    "amount_eur": 2803.57,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-10-15",
+    "record_id": "297:1597897",
+    "source_id": 1597897,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1597897",
+    "subject": "REPORTAJES FOTOGRÁFICOS EDIFICIOS CCVV",
+    "vendor_name": "VIDAL ALEJANDRO FERNANDEZ LLAMAZARES"
+  },
+  {
+    "amount_eur": 5445.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-10-15",
+    "record_id": "297:1598283",
+    "source_id": 1598283,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1598283",
+    "subject": "CONCILIACIÓN SALDOS CONTABLES, PRESUPUESTARIOS Y FINANCIEROS 2023",
+    "vendor_name": "FUNDACION CANARIA UNIVERSITARIA DE LAS PALMAS"
+  },
+  {
+    "amount_eur": 3011.69,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-10-28",
+    "record_id": "297:1603635",
+    "source_id": 1603635,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1603635",
+    "subject": "ESTUDIO GEOTÉCNICO A8-14",
+    "vendor_name": "GALAICONTROL SL"
+  },
+  {
+    "amount_eur": 5808.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-10-28",
+    "record_id": "297:1603864",
+    "source_id": 1603864,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1603864",
+    "subject": "ELABORACIÓN DE CUENTAS ANUALES 2023",
+    "vendor_name": "FUNDACION CANARIA UNIVERSITARIA DE LAS PALMAS"
+  }
+]

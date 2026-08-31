@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 1194.32,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2025-09-09",
+    "record_id": "32:1833054",
+    "source_id": 1833054,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1833054",
+    "subject": "SERVIZO DE TRASLADO E SUMINISTRO DE DIVERSO MATERIAL DE OFICINA NON INVENTARIABLE",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 135.0,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2025-09-09",
+    "record_id": "32:1833074",
+    "source_id": 1833074,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1833074",
+    "subject": "05082025_ Servicio de Visita e cata nos bancales da Ribeira Sacra",
+    "vendor_name": "ALMA DAS DONAS, S.L."
+  },
+  {
+    "amount_eur": 4840.0,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2025-09-25",
+    "record_id": "32:1841292",
+    "source_id": 1841292,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1841292",
+    "subject": "Pedido Festa IX labrega e olimpiadas rurais- Eventos Seiramar",
+    "vendor_name": "EVENTOS SEIRAMAR SL"
+  },
+  {
+    "amount_eur": 4207.78,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2025-09-29",
+    "record_id": "32:1842080",
+    "source_id": 1842080,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1842080",
+    "subject": "CM25-63 Ampliacioón sistem alarma incendio e intrusión - BOEL",
+    "vendor_name": "BOEL SEGURIDAD SL"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 968.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2025-03-06",
+    "record_id": "141:1703164",
+    "source_id": 1703164,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1703164",
+    "subject": "Servizo profesional seguimento diario medios audiovisuais",
+    "vendor_name": "ORION PRESS SL"
+  },
+  {
+    "amount_eur": 11132.0,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2025-03-24",
+    "record_id": "141:1717742",
+    "source_id": 1717742,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1717742",
+    "subject": "Manual",
+    "vendor_name": "COSTA COMUNICACIÓN VISUAL SL"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 19.25,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2025-09-04",
+    "record_id": "23:1831414",
+    "source_id": 1831414,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1831414",
+    "subject": "2 Cajas agua de Sousas (35 Unid)",
+    "vendor_name": "JOSE MANUEL IGLESIAS PEREZ"
+  },
+  {
+    "amount_eur": 4585.9,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2025-09-11",
+    "record_id": "23:1834790",
+    "source_id": 1834790,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1834790",
+    "subject": "maquetación e impresión de libretas",
+    "vendor_name": "PARSAN GRAFICA, SL"
+  },
+  {
+    "amount_eur": 10980.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2025-09-23",
+    "record_id": "23:1840008",
+    "source_id": 1840008,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1840008",
+    "subject": "Recollida de datos estudantes galegos",
+    "vendor_name": "INSTITUTO SONDAXE, S.L."
+  }
+]

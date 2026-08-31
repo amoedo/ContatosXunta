@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 925.65,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2024-11-11",
+    "record_id": "34:1608131",
+    "source_id": 1608131,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1608131",
+    "subject": "Gasto de publicación en prensa de anuncio de información pública sobre bens e dereitos que se consideran de necesaria e",
+    "vendor_name": "EDITORIAL LA CAPITAL SL"
+  },
+  {
+    "amount_eur": 11495.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2024-11-13",
+    "record_id": "34:1609246",
+    "source_id": 1609246,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1609246",
+    "subject": "Revisión Plans de protección do Porto segundo o RD 1617/2007. Xestión auditora do Sistema de protección das instalacións",
+    "vendor_name": "COMISARIO ESPAÑOL MARITIMO SA"
+  },
+  {
+    "amount_eur": 13310.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2024-11-14",
+    "record_id": "34:1609987",
+    "source_id": 1609987,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1609987",
+    "subject": "Asistencia técnica á dirección das obras Acondicionamento dos locais de armadores do porto de San Cibrao",
+    "vendor_name": "JAVIER PARDIÑAS SUAREZ"
+  },
+  {
+    "amount_eur": 48294.35,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2024-11-14",
+    "record_id": "34:1610164",
+    "source_id": 1610164,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1610164",
+    "subject": "Cedeira: Acondicionamento támara por desprendemento na zona da praia",
+    "vendor_name": "VILLASUSO ORTEGAL,S.L."
+  },
+  {
+    "amount_eur": 4235.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2024-11-20",
+    "record_id": "34:1612239",
+    "source_id": 1612239,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1612239",
+    "subject": "Subministración de gasoil calefacción.",
+    "vendor_name": "PETROKAYEMAR, S.L."
+  },
+  {
+    "amount_eur": 17057.37,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2024-11-27",
+    "record_id": "34:1617039",
+    "source_id": 1617039,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1617039",
+    "subject": "Asistencia técnica para a xestión de datos e elaboración de informes en relación coa xestión de residuos portuarios",
+    "vendor_name": "MC VALNERA SLU"
+  },
+  {
+    "amount_eur": 14579.9,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2024-11-28",
+    "record_id": "34:1617185",
+    "source_id": 1617185,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1617185",
+    "subject": "Camariñas: R.P. Extracción Urxente do fondo marino da embarcación JAUNGOIKOA localizada no porto de Camariñas",
+    "vendor_name": "MAR SERVICIOS SUMARINOS, S.L"
+  }
+]

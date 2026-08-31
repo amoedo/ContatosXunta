@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 1766.0,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2024-10-17",
+    "record_id": "23:1599860",
+    "source_id": 1599860,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1599860",
+    "subject": "Factura nº 158 adquisición de 7 cadeiras ergonómicas",
+    "vendor_name": "FH SOLUCIONES EN MIBILIARIO SC &#34; EN CONSTITUCI"
+  },
+  {
+    "amount_eur": 362.85,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2024-10-23",
+    "record_id": "23:1602284",
+    "source_id": 1602284,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1602284",
+    "subject": "EXPTE: 2024-626.1/06 &#34;Subscrición ferramenta Mentimeter Pro&#34;",
+    "vendor_name": "MENTIMETER"
+  }
+]

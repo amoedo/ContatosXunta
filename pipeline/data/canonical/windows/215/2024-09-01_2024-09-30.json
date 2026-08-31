@@ -1,0 +1,101 @@
+[
+  {
+    "amount_eur": 1418.18,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2024-09-04",
+    "record_id": "215:1584575",
+    "source_id": 1584575,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1584575",
+    "subject": "MATERIAL INFORMÁTICO NON INVENTARIABLE PARA A DELEGACIÓN TERRITORIAL OURENSE",
+    "vendor_name": "GABRIEL CALVIÑO FERNANDEZ"
+  },
+  {
+    "amount_eur": 356.3,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2024-09-09",
+    "record_id": "215:1586401",
+    "source_id": 1586401,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1586401",
+    "subject": "Gastos desprazamentos de persoal AMTEGA",
+    "vendor_name": "VIAJES GALITUR SL"
+  },
+  {
+    "amount_eur": 4228.5,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2024-09-09",
+    "record_id": "215:1586459",
+    "source_id": 1586459,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1586459",
+    "subject": "Servizo de mantemento técnico e soporte técnico especializado da infraestrutura tecnolóxica da plataforma de biblioteca",
+    "vendor_name": "ODILO TID SL"
+  },
+  {
+    "amount_eur": 4356.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2024-09-17",
+    "record_id": "215:1589267",
+    "source_id": 1589267,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1589267",
+    "subject": "TDF-2024-CM-621 serV.medios audiovisuais,escenográficos,tec.",
+    "vendor_name": "SPICA SL"
+  },
+  {
+    "amount_eur": 1217.03,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2024-09-17",
+    "record_id": "215:1589314",
+    "source_id": 1589314,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1589314",
+    "subject": "TDF-2024-CM-620_ serv.impresión encadernación dos xogos libr",
+    "vendor_name": "ARTES GRAFICAS ALONSO SL"
+  },
+  {
+    "amount_eur": 4694.36,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2024-09-20",
+    "record_id": "215:1590369",
+    "source_id": 1590369,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1590369",
+    "subject": "Material non inventariable Xustiza",
+    "vendor_name": "MICROMEDIA SL"
+  },
+  {
+    "amount_eur": 14904.37,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2024-09-20",
+    "record_id": "215:1590552",
+    "source_id": 1590552,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1590552",
+    "subject": "TDF-2024-CM-627 Homoxeneizacion documentación Orzamento 2025",
+    "vendor_name": "INDRA SOLUCIONES TECNOLOGIAS DE LA INFORMACION SL"
+  },
+  {
+    "amount_eur": 7500.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2024-09-20",
+    "record_id": "215:1590589",
+    "source_id": 1590589,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1590589",
+    "subject": "OAEP 2024-CM-704_serv-tec.especial.inte.artificial en Galici",
+    "vendor_name": "UNIVERSIDADE DE SANTIAGO DE COMPOSTELA"
+  },
+  {
+    "amount_eur": 9164.81,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2024-09-30",
+    "record_id": "215:1593077",
+    "source_id": 1593077,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1593077",
+    "subject": "OTRS Global Managed Services: OTRS On-Premise PLATINUM_15-Ma",
+    "vendor_name": "OTRS SA DE CV"
+  }
+]

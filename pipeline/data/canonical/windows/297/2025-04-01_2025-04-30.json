@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 105.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-04-17",
+    "record_id": "297:1739242",
+    "source_id": 1739242,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1739242",
+    "subject": "SUSTITUCION BISAGRAS Y AJUSTES VENTANAS RB29",
+    "vendor_name": "MUEBLES DE COCINA VICENTE DE LA FUENTE S"
+  },
+  {
+    "amount_eur": 3012.9,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-04-17",
+    "record_id": "297:1739432",
+    "source_id": 1739432,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1739432",
+    "subject": "ASESORAMIENTO FISCAL",
+    "vendor_name": "UNION DE PROFESIONALES SL"
+  },
+  {
+    "amount_eur": 968.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-04-17",
+    "record_id": "297:1739611",
+    "source_id": 1739611,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1739611",
+    "subject": "ASESORAMIENTO FISCAL",
+    "vendor_name": "KPMG ESTUDIO JURIDICO TRIBUTARIO SL"
+  }
+]

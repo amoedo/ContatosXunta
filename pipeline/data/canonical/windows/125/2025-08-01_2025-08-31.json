@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 2342.56,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2025-08-01",
+    "record_id": "125:1815114",
+    "source_id": 1815114,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1815114",
+    "subject": "Consumiciones personal SV",
+    "vendor_name": "RICARDO LOPEZ RODRIGUEZ"
+  },
+  {
+    "amount_eur": 336.6,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2025-08-01",
+    "record_id": "125:1815115",
+    "source_id": 1815115,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1815115",
+    "subject": "Consumiciones Agility SV y Patronato",
+    "vendor_name": "RICARDO LOPEZ RODRIGUEZ"
+  },
+  {
+    "amount_eur": 462.99,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2025-08-01",
+    "record_id": "125:1815116",
+    "source_id": 1815116,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1815116",
+    "subject": "Consumiciones Oposicions",
+    "vendor_name": "RICARDO LOPEZ RODRIGUEZ"
+  },
+  {
+    "amount_eur": 406.01,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2025-08-01",
+    "record_id": "125:1815117",
+    "source_id": 1815117,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1815117",
+    "subject": "Consumiciones Equina  y Comite Galiforest",
+    "vendor_name": "RICARDO LOPEZ RODRIGUEZ"
+  },
+  {
+    "amount_eur": 574.15,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2025-08-01",
+    "record_id": "125:1815528",
+    "source_id": 1815528,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1815528",
+    "subject": "Tecnico reparación Encriptado Servidores",
+    "vendor_name": "INFORHOUSE S L"
+  },
+  {
+    "amount_eur": 72.96,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2025-08-01",
+    "record_id": "125:1815532",
+    "source_id": 1815532,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1815532",
+    "subject": "Lavado de manteles y toldos",
+    "vendor_name": "GONZALUACES, S.L."
+  },
+  {
+    "amount_eur": 264.29,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2025-08-04",
+    "record_id": "125:1816496",
+    "source_id": 1816496,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1816496",
+    "subject": "Material mantenimiento maquinaria",
+    "vendor_name": "MECANICA DE CAMPO SL"
+  }
+]

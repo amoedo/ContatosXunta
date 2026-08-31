@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 69.09,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2025-06-25",
+    "record_id": "33:1789346",
+    "source_id": 1789346,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1789346",
+    "subject": "MOBILIARIO E UTENSILIOS",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 10844.63,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2025-06-25",
+    "record_id": "33:1789539",
+    "source_id": 1789539,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1789539",
+    "subject": "AUDITORIA ENERXETICA PARA A MELLORA EFICIENCIA C. ADM. SALGU",
+    "vendor_name": "EPTISA SERVICIOS DE INGENIERIA SL"
+  },
+  {
+    "amount_eur": 1487.27,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2025-06-27",
+    "record_id": "33:1790901",
+    "source_id": 1790901,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1790901",
+    "subject": "SUBMINISTRACIÓN DE AUGA PARA O CONSUMO DO PERSOAL DO FOGGA EN SALGUEIRIÑOS",
+    "vendor_name": "CERLIS VENDING SLU"
+  }
+]

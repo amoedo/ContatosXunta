@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 258.12,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2025-08-05",
+    "record_id": "23:1817035",
+    "source_id": 1817035,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1817035",
+    "subject": "Compra diverso material de oficina",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 308.96,
+    "duration": "1 mes",
+    "organism_id": 23,
+    "publication_date": "2025-08-05",
+    "record_id": "23:1817036",
+    "source_id": 1817036,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1817036",
+    "subject": "Compra diverso material de oficina",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  }
+]

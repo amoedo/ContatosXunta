@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 106.14,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2024-09-02",
+    "record_id": "151:1583747",
+    "source_id": 1583747,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1583747",
+    "subject": "augas para xuntanzas",
+    "vendor_name": "DISGOBE SA"
+  },
+  {
+    "amount_eur": 1187.16,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2024-09-02",
+    "record_id": "151:1583933",
+    "source_id": 1583933,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1583933",
+    "subject": "servizos cloud cgrl 2024",
+    "vendor_name": "CLOUD.GAL SLU"
+  },
+  {
+    "amount_eur": 7521.36,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2024-09-04",
+    "record_id": "151:1585078",
+    "source_id": 1585078,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1585078",
+    "subject": "Equipamiento diverso para videoconferencias en sala de reuni",
+    "vendor_name": "INFORHOUSE S L"
+  },
+  {
+    "amount_eur": 362.76,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2024-09-05",
+    "record_id": "151:1585496",
+    "source_id": 1585496,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1585496",
+    "subject": "2 salas de videoconferencia de hasta 100 interlocutores",
+    "vendor_name": "FUTURA SERVICE PROVIDER SA"
+  },
+  {
+    "amount_eur": 260.15,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2024-09-12",
+    "record_id": "151:1587099",
+    "source_id": 1587099,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1587099",
+    "subject": "ARMARIO LIBRERIA OHSY CON ESTANTES",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 914.76,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2024-09-16",
+    "record_id": "151:1588673",
+    "source_id": 1588673,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1588673",
+    "subject": "SILLA FLY 950-4GT GIRATORIA BASE CUATRO PATAS POLIP. BLANCO",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 52.9,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2024-09-24",
+    "record_id": "151:1591246",
+    "source_id": 1591246,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1591246",
+    "subject": "Despedida xubilación de persoal do CGRL 19.09.2024",
+    "vendor_name": "PASTELERIA O FORNO SL"
+  }
+]

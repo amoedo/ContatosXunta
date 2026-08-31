@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 2226.4,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2025-01-03",
+    "record_id": "64:1651582",
+    "source_id": 1651582,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1651582",
+    "subject": "SERV.INSPECCIÓNS PERIÓD.REGUL.INSTAL.CONTRA INCENDIOS E ELÉCTRICAS BAIXA TENSIÓN DO ST",
+    "vendor_name": "OK3 SEGURIDAD INDUSTRIAL SL"
+  },
+  {
+    "amount_eur": 1735.52,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2025-01-31",
+    "record_id": "64:1668125",
+    "source_id": 1668125,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1668125",
+    "subject": "Agencia Gráfica Gallega_Servizo impresión dos catálogos Shor",
+    "vendor_name": "AGENCIA GRAFICA GALLEGA SLU"
+  }
+]

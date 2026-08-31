@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 566.28,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2025-08-21",
+    "record_id": "144:1825576",
+    "source_id": 1825576,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1825576",
+    "subject": "Publicación do anuncio de aprobación inicial e información pública do expediente expropiatorio do centro Vedra",
+    "vendor_name": "LA VOZ DE GALICIA SA"
+  },
+  {
+    "amount_eur": 12463.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2025-08-28",
+    "record_id": "144:1829056",
+    "source_id": 1829056,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1829056",
+    "subject": "Modificacións das condicións de subministro eléctrico en Ortigueira.",
+    "vendor_name": "ELECTRIFICACIONES MIÑONES SL"
+  },
+  {
+    "amount_eur": 7865.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2025-08-29",
+    "record_id": "144:1829397",
+    "source_id": 1829397,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1829397",
+    "subject": "Revisión, reparación e substitución temporal de trafo para o centro de Xesteiras en Pontevedra.",
+    "vendor_name": "ELECNOR SERVICIOS Y PROYECTOS S.A.U."
+  },
+  {
+    "amount_eur": 7260.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2025-08-29",
+    "record_id": "144:1829414",
+    "source_id": 1829414,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1829414",
+    "subject": "Prestación sucesiva por prezo unitario dun servizo de prevención alleo para Redes de Telecomunicación Galegas Retegal, S",
+    "vendor_name": "VITALY HEALTH SERVICES, S.L."
+  },
+  {
+    "amount_eur": 847.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2025-08-29",
+    "record_id": "144:1829421",
+    "source_id": 1829421,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1829421",
+    "subject": "Substitución de autoválvulas Liña Media Tensión no centro de San Marcos",
+    "vendor_name": "ROO MONTAJES ELECTRICOS, S L"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 145.2,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2025-07-23",
+    "record_id": "296:1809420",
+    "source_id": 1809420,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1809420",
+    "subject": "[2T2025] Servicios de mantenimiento de ascensores",
+    "vendor_name": "EUROCONTROL,SA"
+  },
+  {
+    "amount_eur": 2363.11,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2025-07-23",
+    "record_id": "296:1810051",
+    "source_id": 1810051,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1810051",
+    "subject": "[1T2025] Servicios de mantenimiento de ascensores",
+    "vendor_name": "ASCENSORES ENOR SL"
+  },
+  {
+    "amount_eur": 346.39,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2025-07-23",
+    "record_id": "296:1810513",
+    "source_id": 1810513,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1810513",
+    "subject": "[2T2025] Servicios de documentación y certificación jurídica",
+    "vendor_name": "REMUÑAN Y AMIGO CB"
+  },
+  {
+    "amount_eur": 723.58,
+    "duration": "1 mes",
+    "organism_id": 296,
+    "publication_date": "2025-07-25",
+    "record_id": "296:1811628",
+    "source_id": 1811628,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1811628",
+    "subject": "[1T2025] Servicios de limpieza",
+    "vendor_name": "LIMPIEZAS SALGADO SL"
+  }
+]

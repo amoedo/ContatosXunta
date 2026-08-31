@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 690.52,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-01-03",
+    "record_id": "291:1651553",
+    "source_id": 1651553,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1651553",
+    "subject": "PAGAMENTO FACTURAS SUBMINSTRACIÓN IMPRESIÓNS",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 774.44,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-01-30",
+    "record_id": "291:1667485",
+    "source_id": 1667485,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1667485",
+    "subject": "SUBMINISTRACION DE MATERIAL DE OFICINA",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 326.7,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2025-01-30",
+    "record_id": "291:1667511",
+    "source_id": 1667511,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1667511",
+    "subject": "SERVIZOS DE IMPRENTA",
+    "vendor_name": "SERVIDEAS SERVICIOS INTEGRALES SLL"
+  }
+]

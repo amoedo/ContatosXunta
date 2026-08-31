@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 11000.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2024-09-05",
+    "record_id": "225:1585676",
+    "source_id": 1585676,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1585676",
+    "subject": "CM 38/2024 Organización viaxes-Charlas paisaxe Proxecto Mestres Gandeiros",
+    "vendor_name": "SOCIEDADE COOP A CARQUEIXA"
+  },
+  {
+    "amount_eur": 2666.05,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2024-09-19",
+    "record_id": "225:1589919",
+    "source_id": 1589919,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1589919",
+    "subject": "CM 26/2024 Servizo limpeza edificio Basquiños (agosto 2024)",
+    "vendor_name": "SAMAIN SERVIZOS A COMUNIDADE SA"
+  },
+  {
+    "amount_eur": 1193.06,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2024-09-19",
+    "record_id": "225:1590095",
+    "source_id": 1590095,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1590095",
+    "subject": "Medios AUDIOVISUALES - IET - Portosin",
+    "vendor_name": "AUDIOVISUALES MCN, S.L"
+  },
+  {
+    "amount_eur": 560.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2024-09-19",
+    "record_id": "225:1590096",
+    "source_id": 1590096,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1590096",
+    "subject": "Asistir a unas jornadas de trabajo en Zagreb (Croacia)del 13",
+    "vendor_name": "INFINITA EVENTOS Y VIAJES SL"
+  },
+  {
+    "amount_eur": 2868.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2024-09-19",
+    "record_id": "225:1590097",
+    "source_id": 1590097,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1590097",
+    "subject": "Asistir a unas jornadas de trabajo en Zagreb (Croacia)del 13",
+    "vendor_name": "INFINITA EVENTOS Y VIAJES SL"
+  },
+  {
+    "amount_eur": 1672.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2024-09-19",
+    "record_id": "225:1590098",
+    "source_id": 1590098,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1590098",
+    "subject": "Asistir a unas jornadas de trabajo en Zagreb (Croacia)del 13",
+    "vendor_name": "INFINITA EVENTOS Y VIAJES SL"
+  },
+  {
+    "amount_eur": 1500.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2024-09-25",
+    "record_id": "225:1591785",
+    "source_id": 1591785,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1591785",
+    "subject": "CM 46/2024 Subministro e xestión de medios dixitais",
+    "vendor_name": "SOLITIUM SL"
+  }
+]

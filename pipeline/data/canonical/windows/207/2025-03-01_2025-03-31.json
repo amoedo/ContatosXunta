@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 7865.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-03-10",
+    "record_id": "207:1704407",
+    "source_id": 1704407,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1704407",
+    "subject": "un servicio de limpieza y cuidado de las zonas exteriores de CETMAR Generales",
+    "vendor_name": "LIMPIADORES ESPEC INTEGR SERVI MANTENI"
+  },
+  {
+    "amount_eur": 6050.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-03-18",
+    "record_id": "207:1712826",
+    "source_id": 1712826,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1712826",
+    "subject": "un servicio de asesoramiento legal Generales",
+    "vendor_name": "CUATRECASAS ABOGADOS. SRL"
+  },
+  {
+    "amount_eur": 18150.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-03-27",
+    "record_id": "207:1719965",
+    "source_id": 1719965,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1719965",
+    "subject": "un servicio de asesoría laboral Generales",
+    "vendor_name": "UNION DE PROFESIONALES SL"
+  },
+  {
+    "amount_eur": 18150.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-03-27",
+    "record_id": "207:1719966",
+    "source_id": 1719966,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1719966",
+    "subject": "un servicio de asesoría laboral Generales",
+    "vendor_name": "UNION DE PROFESIONALES SL"
+  },
+  {
+    "amount_eur": 14520.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2025-03-27",
+    "record_id": "207:1721027",
+    "source_id": 1721027,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1721027",
+    "subject": "un servicio de prevención de riesgos laborales (PRL) y vigilancia de la salud (VS) Generales",
+    "vendor_name": "IBERSYS SEGURIDAD Y SALUD SL"
+  }
+]

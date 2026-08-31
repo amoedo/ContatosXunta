@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 111.05,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2025-02-20",
+    "record_id": "15:1690893",
+    "source_id": 1690893,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1690893",
+    "subject": "PRESTACION SERVICIOS ENERO",
+    "vendor_name": "TRANSPORTES AUTO RADIO SA"
+  },
+  {
+    "amount_eur": 105.74,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2025-02-20",
+    "record_id": "15:1690894",
+    "source_id": 1690894,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1690894",
+    "subject": "PRESTACION SERVICIOS DICIEMBRE",
+    "vendor_name": "TRANSPORTES AUTO RADIO SA"
+  },
+  {
+    "amount_eur": 16516.5,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2025-02-20",
+    "record_id": "15:1691465",
+    "source_id": 1691465,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1691465",
+    "subject": "Contrato Servizo educación en materia de Consumo na EGC",
+    "vendor_name": "ESTUDIOS RAFER S.L"
+  },
+  {
+    "amount_eur": 2116.58,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2025-02-21",
+    "record_id": "15:1693417",
+    "source_id": 1693417,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1693417",
+    "subject": "Cota vixilancia Laboratorio",
+    "vendor_name": "ASOC DE EMPRESARIOS DEL POLIGONO INDUSTR"
+  },
+  {
+    "amount_eur": 75.0,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2025-02-24",
+    "record_id": "15:1694917",
+    "source_id": 1694917,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1694917",
+    "subject": "ASISTENCIA XXXII ANIV.CIRCULO DE EMPRESARIOS",
+    "vendor_name": "ASOC CLUB FINANCIERO DE VIGO"
+  },
+  {
+    "amount_eur": 42.25,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2025-02-27",
+    "record_id": "15:1696531",
+    "source_id": 1696531,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1696531",
+    "subject": "<contrato>2074403</contrato><periodicidad>BIMESTRAL</periodi",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 25.51,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2025-02-27",
+    "record_id": "15:1697721",
+    "source_id": 1697721,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1697721",
+    "subject": "Dotación de consumibles-ACORDO MARCO 62/2016_AM_3ºCD",
+    "vendor_name": "SOLITIUM SL"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 580.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2025-12-05",
+    "record_id": "139:1870627",
+    "source_id": 1870627,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1870627",
+    "subject": "SERVIZO AUTOBÚS VIAXE A NAVANTIA FERROL DENDE VIGO E VOLTA",
+    "vendor_name": "EMPRESA RAUL SA"
+  },
+  {
+    "amount_eur": 7260.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2025-12-05",
+    "record_id": "139:1871107",
+    "source_id": 1871107,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1871107",
+    "subject": "INFORME USC PARA COMITÉ ORIENTACIÓNS DA RTA EN ROUEN",
+    "vendor_name": "UNIVERSIDADE DE SANTIAGO DE COMPOSTELA"
+  },
+  {
+    "amount_eur": 469.7,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2025-12-11",
+    "record_id": "139:1871975",
+    "source_id": 1871975,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1871975",
+    "subject": "Cóctel 30 persoas 17/11/2025",
+    "vendor_name": "JOSE RAMON SANCHEZ IGLESIAS"
+  }
+]

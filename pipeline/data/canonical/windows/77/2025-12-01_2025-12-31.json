@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 569.22,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2025-12-01",
+    "record_id": "77:1868228",
+    "source_id": 1868228,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1868228",
+    "subject": "Factura 2251041628",
+    "vendor_name": "LABORATORIO DR  F  ECHEVARNE ANALISIS SA"
+  },
+  {
+    "amount_eur": 221.77,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2025-12-11",
+    "record_id": "77:1872812",
+    "source_id": 1872812,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1872812",
+    "subject": "Factura 01-5 Cambio neumaticos vehiculo 9325JBW Lugo",
+    "vendor_name": "LUISAUTO, CB"
+  },
+  {
+    "amount_eur": 274.19,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2025-12-15",
+    "record_id": "77:1874585",
+    "source_id": 1874585,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1874585",
+    "subject": "Subministro de EPIS o persoal do Servizo Técnico da APLU que realiza tarefas de campo.",
+    "vendor_name": "PABLO CARRON REBOREDO"
+  }
+]

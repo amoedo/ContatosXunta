@@ -6,7 +6,7 @@
     "publication_date": "2026-08-05",
     "record_id": "34:2071386",
     "source_id": 2071386,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2071386",
     "subject": "Control de calidade nas obras de emerxencia: Obra de abrigo en Barallobre (porto de Maniños-Barallobre)",
     "vendor_name": "EPTISA SERVICIOS DE INGENIERIA SL"
   },
@@ -17,7 +17,7 @@
     "publication_date": "2026-08-05",
     "record_id": "34:2071387",
     "source_id": 2071387,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2071387",
     "subject": "Control de calidade nas obras de emerxencia: Obra de abrigo en Barallobre (porto de Maniños-Barallobre)",
     "vendor_name": "EPTISA SERVICIOS DE INGENIERIA SL"
   },
@@ -28,7 +28,7 @@
     "publication_date": "2026-08-07",
     "record_id": "34:2072495",
     "source_id": 2072495,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2072495",
     "subject": "Asistencia técnica á dirección das obras do proxecto modificado da Rehabilitación e mellora do peirao mexiloeiro de Moañ",
     "vendor_name": "MECANISMO DISEÑO Y CALCULO DE ESTRUCTURAS SL"
   },
@@ -39,7 +39,7 @@
     "publication_date": "2026-08-07",
     "record_id": "34:2072496",
     "source_id": 2072496,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2072496",
     "subject": "Redacción do proxecto modificado da obra Rehabilitación e mellora do peirao mexilloeiro do porto de Moaña e proxecto de",
     "vendor_name": "MECANISMO DISEÑO Y CALCULO DE ESTRUCTURAS SL"
   },
@@ -50,7 +50,7 @@
     "publication_date": "2026-08-10",
     "record_id": "34:2073231",
     "source_id": 2073231,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2073231",
     "subject": "Control de calidade da auga durante a dragaxe no porto de Pontedeume",
     "vendor_name": "INDROPS LABORATORIO DE ANALISIS Y CALIDAD MEDIAMBI"
   },
@@ -61,7 +61,7 @@
     "publication_date": "2026-08-24",
     "record_id": "34:2078813",
     "source_id": 2078813,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2078813",
     "subject": "Redacción de Proxecto de Remodelación e mellora das instalacións eléctricas da Zona Centro",
     "vendor_name": "TALLER DE INGENIERIA MYL,SL"
   },
@@ -72,7 +72,7 @@
     "publication_date": "2026-08-27",
     "record_id": "34:2080326",
     "source_id": 2080326,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2080326",
     "subject": "Burela: Renovación da cuberta dos almacéns de armadores tipo B (Bloque 1)",
     "vendor_name": "GALICUBIERTAS S.L"
   },
@@ -83,7 +83,7 @@
     "publication_date": "2026-08-27",
     "record_id": "34:2080335",
     "source_id": 2080335,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2080335",
     "subject": "Elaboración de estudo de transporte e dispersión de sedimentos na zona de vertedura E/8",
     "vendor_name": "AQUATICA INGENIERIA CIVIL SL"
   },
@@ -94,7 +94,7 @@
     "publication_date": "2026-08-27",
     "record_id": "34:2080351",
     "source_id": 2080351,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2080351",
     "subject": "Ribadeo: Certificado e verificación da báscula de pesaxe do porto comercial (Mirasol)",
     "vendor_name": "APPLUS METROLOGY SLU"
   },
@@ -105,8 +105,19 @@
     "publication_date": "2026-08-27",
     "record_id": "34:2080371",
     "source_id": 2080371,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/34/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2080371",
     "subject": "Coordinación en materia de seguridade e saúde na fase de execución da obra Reposición de pavimentos en instalacións flot",
     "vendor_name": "NORMANSYS, SL"
+  },
+  {
+    "amount_eur": 11300.34,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-08-31",
+    "record_id": "34:2081056",
+    "source_id": 2081056,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2081056",
+    "subject": "Coordinación en materia de seguridade e saúde na fase de execución da obra Rehabilitación e mellora do peirao mexilloeir",
+    "vendor_name": "APPLUS NORCONTROL SL"
   }
 ]

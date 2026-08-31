@@ -6,7 +6,7 @@
     "publication_date": "2026-08-03",
     "record_id": "64:2069882",
     "source_id": 2069882,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2069882",
     "subject": "Fact.202643 -Dereitos autoría Paula Carballeira correspond.a &#34;Somos os monstros&#34; no ST",
     "vendor_name": "PAULA CARBALLEIRA CABANA"
   },
@@ -17,7 +17,7 @@
     "publication_date": "2026-08-03",
     "record_id": "64:2070243",
     "source_id": 2070243,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2070243",
     "subject": "Servizo de reparación e acondicionamento das instalacións da FG",
     "vendor_name": "CAMARGAL OBRAS Y MANTENIMIENTOS SL"
   },
@@ -28,7 +28,7 @@
     "publication_date": "2026-08-03",
     "record_id": "64:2070321",
     "source_id": 2070321,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2070321",
     "subject": "Servizo de mantemento da maquinaria e elementos escénicos do Salón Teatro",
     "vendor_name": "ALTERNATIVAS ELECTRICAS S L"
   },
@@ -39,7 +39,7 @@
     "publication_date": "2026-08-06",
     "record_id": "64:2072019",
     "source_id": 2072019,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2072019",
     "subject": "AD(d) - Patrocinio publicitario da preestrea da película gal",
     "vendor_name": "ZEITUN FILMS SL"
   },
@@ -50,7 +50,7 @@
     "publication_date": "2026-08-21",
     "record_id": "64:2078478",
     "source_id": 2078478,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2078478",
     "subject": "Coprodución espectáculo teatral No Kings Parte I: Molestia",
     "vendor_name": "TURBINA - ASSOCIAÇAO CULTURAL"
   },
@@ -61,7 +61,7 @@
     "publication_date": "2026-08-24",
     "record_id": "64:2078820",
     "source_id": 2078820,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2078820",
     "subject": "Servizo de mantemento, reparación e revisión do vehículo Fiat Dobló matrícula 6267 DHV para a ITV",
     "vendor_name": "MANUEL LAGO CARTELLE SL"
   },
@@ -72,7 +72,7 @@
     "publication_date": "2026-08-24",
     "record_id": "64:2079098",
     "source_id": 2079098,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2079098",
     "subject": "Serv.organización desenv.e xest.Xornada competición e ocio dixital en galego",
     "vendor_name": "VIDEOXOGO.GAL ASOC GALEGA DE VIDEOXOGOS E CONTIDOS"
   },
@@ -83,8 +83,118 @@
     "publication_date": "2026-08-25",
     "record_id": "64:2079358",
     "source_id": 2079358,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/64/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2079358",
     "subject": "FILMOTECA_Dimensiona Consultoría Tecnolóxica_Subministración",
     "vendor_name": "DIMENSIONA CONSULTORIA TEXNOLOXIC,S.L."
+  },
+  {
+    "amount_eur": 3630.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-31",
+    "record_id": "64:2080845",
+    "source_id": 2080845,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2080845",
+    "subject": "FILMOTECA_Begoña Combo Castro_Serv. de revisión lingüística",
+    "vendor_name": "BEGOÑA COMBO CASTRO"
+  },
+  {
+    "amount_eur": 1210.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-31",
+    "record_id": "64:2080855",
+    "source_id": 2080855,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2080855",
+    "subject": "FILMOTECA_Servizo de tratament dixital da imaxe da película",
+    "vendor_name": "ERICA DIAZ CASTRO"
+  },
+  {
+    "amount_eur": 4840.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-31",
+    "record_id": "64:2080856",
+    "source_id": 2080856,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2080856",
+    "subject": "AUDIOVISUAL_Adriana Páramo Pérez_Servizo de organización da",
+    "vendor_name": "ADRIANA PARAMO PEREZ"
+  },
+  {
+    "amount_eur": 774.99,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-31",
+    "record_id": "64:2081071",
+    "source_id": 2081071,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2081071",
+    "subject": "Facts. 2991 e 3309 - Subm. listóns madeira e af. coitelas para Hamlet",
+    "vendor_name": "MADERAS RAMOS MOREIRA SL"
+  },
+  {
+    "amount_eur": 2407.9,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-31",
+    "record_id": "64:2081345",
+    "source_id": 2081345,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2081345",
+    "subject": "Represent.espectác.danza 'BeneQuerer(me)&#180;de F.Sieira en A Estrada - MED.2026.190",
+    "vendor_name": "URDIME S.COOP.GALEGA"
+  },
+  {
+    "amount_eur": 12584.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-31",
+    "record_id": "64:2081346",
+    "source_id": 2081346,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2081346",
+    "subject": "FILMOTECA_NUMAX SDAD.COOP._Servizo de creación publicidade p",
+    "vendor_name": "NUMAX S COOP GALEGA"
+  },
+  {
+    "amount_eur": 1936.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-31",
+    "record_id": "64:2081349",
+    "source_id": 2081349,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2081349",
+    "subject": "FILMOTECA_Asoc. Cult. Enfoques_Subministración catro películ",
+    "vendor_name": "ASOC CULTURAL POLA CREACION ARTISTICA ENFOQUES-TUI"
+  },
+  {
+    "amount_eur": 14975.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-31",
+    "record_id": "64:2081350",
+    "source_id": 2081350,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2081350",
+    "subject": "FILMOTECA_A Bao A Qu_Servizo de xestión, coordinación, execu",
+    "vendor_name": "A BAO A QU ASSOCIACIO"
+  },
+  {
+    "amount_eur": 14995.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-31",
+    "record_id": "64:2081351",
+    "source_id": 2081351,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2081351",
+    "subject": "FILMOTECA_A BAO A QU_Servizo de execución e seguimento do pr",
+    "vendor_name": "A BAO A QU ASSOCIACIO"
+  },
+  {
+    "amount_eur": 14990.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-08-31",
+    "record_id": "64:2081352",
+    "source_id": 2081352,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2081352",
+    "subject": "FILMOTECA_A BAO A QU_Servizo de coordinación, execución e se",
+    "vendor_name": "A BAO A QU ASSOCIACIO"
   }
 ]

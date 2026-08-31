@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 3630.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-12-17",
+    "record_id": "297:1878380",
+    "source_id": 1878380,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1878380",
+    "subject": "COORDINACIÓN PUBLICACIÓN CCVV",
+    "vendor_name": "MARIA MARTA VILAS RODRIGUEZ"
+  },
+  {
+    "amount_eur": 1946.83,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-12-17",
+    "record_id": "297:1878382",
+    "source_id": 1878382,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1878382",
+    "subject": "REPARACION VENTANA F5",
+    "vendor_name": "GRACIANO BRUÑA SANCHEZ"
+  },
+  {
+    "amount_eur": 1519.4,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-12-17",
+    "record_id": "297:1881306",
+    "source_id": 1881306,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1881306",
+    "subject": "REPARACIÓN MURO EXTREMERO SS18-20",
+    "vendor_name": "SERVICIOS MEDIO-AMBIENTALES DEL MIÑO S.L."
+  },
+  {
+    "amount_eur": 18137.9,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-12-17",
+    "record_id": "297:1881506",
+    "source_id": 1881506,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1881506",
+    "subject": "CONTABILIDAD, FACTURACION Y FUNCIONES ANEXAS",
+    "vendor_name": "UNION DE PROFESIONALES SL"
+  },
+  {
+    "amount_eur": 4162.4,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-12-17",
+    "record_id": "297:1881509",
+    "source_id": 1881509,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1881509",
+    "subject": "ESTUDIO GEOTÉCNICO RB25-27",
+    "vendor_name": "GALAICONTROL SL"
+  }
+]

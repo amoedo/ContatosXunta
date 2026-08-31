@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 152.22,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2025-10-08",
+    "record_id": "139:1845444",
+    "source_id": 1845444,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1845444",
+    "subject": "AUGA E LIXO",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 18.07,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2025-10-08",
+    "record_id": "139:1845445",
+    "source_id": 1845445,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1845445",
+    "subject": "AUGA",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 467.72,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2025-10-21",
+    "record_id": "139:1849814",
+    "source_id": 1849814,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1849814",
+    "subject": "PINCHO PROTOCOLARIO PARA O CES GALICIA (APROBACIÓN MEMORIA S",
+    "vendor_name": "JOSE RAMON SANCHEZ IGLESIAS"
+  }
+]

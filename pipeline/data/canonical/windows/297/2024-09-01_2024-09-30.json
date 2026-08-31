@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 393.25,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-09-13",
+    "record_id": "297:1587203",
+    "source_id": 1587203,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1587203",
+    "subject": "ICT SUBIDA CASTELO 9",
+    "vendor_name": "FRANCISCO JAVIER CID ROMERO"
+  },
+  {
+    "amount_eur": 292.82,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-09-30",
+    "record_id": "297:1592899",
+    "source_id": 1592899,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1592899",
+    "subject": "REVISIÓN LÍNEAS DE VIDA E31",
+    "vendor_name": "FORMACION VERTICAL SL (EN CONST)"
+  },
+  {
+    "amount_eur": 3630.0,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-09-30",
+    "record_id": "297:1592938",
+    "source_id": 1592938,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1592938",
+    "subject": "DISEÑO Y ELABORACIÓN PÁGINA WEB",
+    "vendor_name": "HACCE SOLUCIONES TIC, SL"
+  },
+  {
+    "amount_eur": 3139.95,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2024-09-30",
+    "record_id": "297:1593069",
+    "source_id": 1593069,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1593069",
+    "subject": "REPARACIONES MENORES EN EDIFICIOS",
+    "vendor_name": "MARS MANT RECUPERACION E SERVICIOS SCL"
+  }
+]

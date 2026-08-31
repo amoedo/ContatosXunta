@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 198.34,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2025-01-09",
+    "record_id": "32:1652480",
+    "source_id": 1652480,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1652480",
+    "subject": "CAJA EMBALAJE CARTON 60X40X40 DOBLE CANAL",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 389.58,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2025-01-30",
+    "record_id": "32:1667469",
+    "source_id": 1667469,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1667469",
+    "subject": "Adquisición de cable de carga vehículo",
+    "vendor_name": "SONEPAR IBÉRICA SPAIN S.A."
+  },
+  {
+    "amount_eur": 81.55,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2025-01-30",
+    "record_id": "32:1667510",
+    "source_id": 1667510,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1667510",
+    "subject": "COTIZACION PARA DISTRIBUCION DE AGUA EMBOTELLADA  NÚMERO DE",
+    "vendor_name": "SERVICIOS VENDING DE GALICIA S.L."
+  }
+]

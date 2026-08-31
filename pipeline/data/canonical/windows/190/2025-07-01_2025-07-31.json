@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 6292.0,
+    "duration": "1 mes",
+    "organism_id": 190,
+    "publication_date": "2025-07-10",
+    "record_id": "190:1799467",
+    "source_id": 1799467,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1799467",
+    "subject": "AUDITORIÍA EXTERNA CONTAS 2024",
+    "vendor_name": "MARIA ARES GARCIA"
+  },
+  {
+    "amount_eur": 6050.0,
+    "duration": "1 mes",
+    "organism_id": 190,
+    "publication_date": "2025-07-22",
+    "record_id": "190:1808324",
+    "source_id": 1808324,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1808324",
+    "subject": "SUMINISTRO 7000 LITROS GASÓLEO CALEFACCIÓN",
+    "vendor_name": "COMPAÑIA ESPAÑOLA PETROLEOS S.A."
+  }
+]

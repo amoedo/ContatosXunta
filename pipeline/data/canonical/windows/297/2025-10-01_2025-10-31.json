@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 1634.59,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-10-08",
+    "record_id": "297:1845322",
+    "source_id": 1845322,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1845322",
+    "subject": "SEGURO RESPONSABILIDAD CIVIL CCVV",
+    "vendor_name": "CAMPOS Y RIAL SA"
+  },
+  {
+    "amount_eur": 3826.02,
+    "duration": "1 mes",
+    "organism_id": 297,
+    "publication_date": "2025-10-13",
+    "record_id": "297:1847248",
+    "source_id": 1847248,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1847248",
+    "subject": "REPARACIONES MENORES EN EDIFICIOS",
+    "vendor_name": "MARS MANT RECUPERACION E SERVICIOS SCL"
+  }
+]

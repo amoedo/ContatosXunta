@@ -6,7 +6,7 @@
     "publication_date": "2026-08-03",
     "record_id": "77:2070648",
     "source_id": 2070648,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2070648",
     "subject": "Factua consumos calefacion aplu mes de abril 2026",
     "vendor_name": "CDAD PROP XOSE CHAO REGO"
   },
@@ -17,7 +17,7 @@
     "publication_date": "2026-08-06",
     "record_id": "77:2071448",
     "source_id": 2071448,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2071448",
     "subject": "Redacción de proxecto demolición nave industrial, camiño das Fontiñas s/n, Lugar de Vilafranca, Parroquia de San Miguel",
     "vendor_name": "SANTIAGO COTON DIAZ"
   },
@@ -28,7 +28,7 @@
     "publication_date": "2026-08-20",
     "record_id": "77:2077977",
     "source_id": 2077977,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2077977",
     "subject": "Facturas 845307926 maio e 845334936 xuño 2026",
     "vendor_name": "RICOH ESPAÑA SLU"
   },
@@ -39,8 +39,30 @@
     "publication_date": "2026-08-20",
     "record_id": "77:2077978",
     "source_id": 2077978,
-    "source_url": "https://www.contratosdegalicia.gal/api/v1/organismos/77/contratosmenores/table",
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2077978",
     "subject": "Factura 845334938 xuño  2026",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 40.95,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-08-31",
+    "record_id": "77:2081274",
+    "source_id": 2081274,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2081274",
+    "subject": "Factura 845362000 xullo 2026",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 57.81,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-08-31",
+    "record_id": "77:2081275",
+    "source_id": 2081275,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2081275",
+    "subject": "Factura 845361998 xullo 2026",
     "vendor_name": "RICOH ESPAÑA SLU"
   }
 ]

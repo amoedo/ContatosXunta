@@ -1,0 +1,68 @@
+[
+  {
+    "amount_eur": 387.2,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-04-10",
+    "record_id": "18:1733458",
+    "source_id": 1733458,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1733458",
+    "subject": "Cambio de vidrio en puerta pasillo cafetería EGAP  EGAP - Rú",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 329.78,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-04-10",
+    "record_id": "18:1733732",
+    "source_id": 1733732,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1733732",
+    "subject": "Consumo de auga EGAP.",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 88.92,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-04-15",
+    "record_id": "18:1737251",
+    "source_id": 1737251,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1737251",
+    "subject": "FACTURA 2025-VN/FV00008617 LIBROS",
+    "vendor_name": "ARANZADI LA LEY, S.A.U."
+  },
+  {
+    "amount_eur": 602.58,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-04-22",
+    "record_id": "18:1740347",
+    "source_id": 1740347,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1740347",
+    "subject": "material informática EGAP",
+    "vendor_name": "TESEC AV & EVENTS, SL"
+  },
+  {
+    "amount_eur": 114.75,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-04-25",
+    "record_id": "18:1742504",
+    "source_id": 1742504,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1742504",
+    "subject": "Gastos cafetería.",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 108.74,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2025-04-28",
+    "record_id": "18:1744205",
+    "source_id": 1744205,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1744205",
+    "subject": "Fotocopias EGAP.",
+    "vendor_name": "XESTION DIXITAL COMPOSTELA, SL"
+  }
+]

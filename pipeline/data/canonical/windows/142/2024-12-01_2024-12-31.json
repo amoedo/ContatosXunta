@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 696.96,
+    "duration": "1 mes",
+    "organism_id": 142,
+    "publication_date": "2024-12-20",
+    "record_id": "142:1629206",
+    "source_id": 1629206,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1629206",
+    "subject": "Contrato de mantemento da licenza P050405014 do software Presto (31/12/2024 - 31/12/2025)",
+    "vendor_name": "CLAVE INFORMATICA SL"
+  },
+  {
+    "amount_eur": 18150.0,
+    "duration": "1 mes",
+    "organism_id": 142,
+    "publication_date": "2024-12-20",
+    "record_id": "142:1629604",
+    "source_id": 1629604,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1629604",
+    "subject": "Servizo de asistencia técnica para actualización proxecto de construción de aparcamento e anteproxecto para concesión de",
+    "vendor_name": "EPTISA SERVICIOS DE INGENIERIA SL"
+  }
+]

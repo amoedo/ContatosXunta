@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 9700.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2025-01-17",
+    "record_id": "139:1660163",
+    "source_id": 1660163,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1660163",
+    "subject": "SUBMINISTRACIÓN COMBUSTIBLE CALEFACCIÓN (GASOIL) CES GALICIA",
+    "vendor_name": "GALURESA, S.A."
+  },
+  {
+    "amount_eur": 3365.31,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2025-01-17",
+    "record_id": "139:1660178",
+    "source_id": 1660178,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1660178",
+    "subject": "ALUGUER EQUIPO DE IMPRESIÓN E FOTOCOPIADORA DO CES GALICIA",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 800.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2025-01-17",
+    "record_id": "139:1660183",
+    "source_id": 1660183,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=1660183",
+    "subject": "MATERIAL DE OFICINA NON INVENTARIABLE PARA O CES GALICIA XAN",
+    "vendor_name": "BEIROA DUARTE SC"
+  }
+]

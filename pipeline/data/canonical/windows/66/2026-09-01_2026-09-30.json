@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 60450.0,
+    "duration": "1 mes",
+    "organism_id": 66,
+    "publication_date": "2026-09-03",
+    "record_id": "66:2082707",
+    "source_id": 2082707,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082707",
+    "subject": "Estudo predición produción en base a algoritmos cultivo mill",
+    "vendor_name": "FORTOP TOPOGRAFIA, S.L."
+  },
+  {
+    "amount_eur": 2290.0,
+    "duration": "1 mes",
+    "organism_id": 66,
+    "publication_date": "2026-09-03",
+    "record_id": "66:2082728",
+    "source_id": 2082728,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082728",
+    "subject": "subministración de 10 taquillas dobres con candado",
+    "vendor_name": "TOP 10 GLOBAL FERRETERIA SL"
+  }
+]

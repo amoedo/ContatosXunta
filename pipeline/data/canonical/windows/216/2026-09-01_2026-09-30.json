@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 855.49,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-09-04",
+    "record_id": "216:2082985",
+    "source_id": 2082985,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082985",
+    "subject": "BILLETES AVION CORUÑA-MADRID-CORUÑA 13-17/04 ALFONSO TAMAYO",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 311.0,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-09-04",
+    "record_id": "216:2082986",
+    "source_id": 2082986,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082986",
+    "subject": "HABITACION HOTEL AGUMAR ATOCHA 13-17/04 ALFONSO TAMAYO RODRI",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 1158.42,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-09-04",
+    "record_id": "216:2082987",
+    "source_id": 2082987,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082987",
+    "subject": "DESPLAZAMIENTO CORUÑA-MADRID-CORUÑA 19-22/05 ALFONSO TAMAYO",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 231.0,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-09-04",
+    "record_id": "216:2082988",
+    "source_id": 2082988,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082988",
+    "subject": "HABITACION HOTEL MEDIODÍA MADRID 19-22/05 ALFONSO TAMAYO",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  }
+]

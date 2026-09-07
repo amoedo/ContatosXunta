@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 1727.53,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-02",
+    "record_id": "329:2082125",
+    "source_id": 2082125,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082125",
+    "subject": "factura servizos parque tecnolóxico cis madeira",
+    "vendor_name": "PARQUE TECNOLOGICO DE GALICIA,SA"
+  },
+  {
+    "amount_eur": 240.52,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-02",
+    "record_id": "329:2082297",
+    "source_id": 2082297,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082297",
+    "subject": "factura material ferretería cis madeira",
+    "vendor_name": "SUMINISTROS INDUSTRIALES LEMOS ORENSE SL"
+  }
+]

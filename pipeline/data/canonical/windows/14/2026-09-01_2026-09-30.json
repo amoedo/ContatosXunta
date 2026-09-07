@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 1694.0,
+    "duration": "1 mes",
+    "organism_id": 14,
+    "publication_date": "2026-09-03",
+    "record_id": "14:2082559",
+    "source_id": 2082559,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082559",
+    "subject": "LU-2026-GMX-67_Redacción de proxecto de consolidación do edificio sito na Rúa Porta de Cima 9 do concello de Vilalba, pr",
+    "vendor_name": "ROQUE ALVAREZ AROSA"
+  },
+  {
+    "amount_eur": 364.8,
+    "duration": "1 mes",
+    "organism_id": 14,
+    "publication_date": "2026-09-03",
+    "record_id": "14:2082750",
+    "source_id": 2082750,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082750",
+    "subject": "HONORARIOS ADMINISTRADORA EDIFICIO 74 VPP RÚA PRADO NOVO 20-",
+    "vendor_name": "XEXCONTADMON S.L."
+  },
+  {
+    "amount_eur": 406.05,
+    "duration": "1 mes",
+    "organism_id": 14,
+    "publication_date": "2026-09-03",
+    "record_id": "14:2082866",
+    "source_id": 2082866,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082866",
+    "subject": "PO-2026-GMX-21_Sustitucion de chave e terminal de auga quente na entrada da vivenda e arranxo de cadeira adaptada de bañ",
+    "vendor_name": "INNOVA GESTION DE OBRAS SLU"
+  }
+]

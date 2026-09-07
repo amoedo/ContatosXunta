@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 96.8,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-09-02",
+    "record_id": "139:2082093",
+    "source_id": 2082093,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082093",
+    "subject": "SUBSTITUCIÓN BOMBA CALEFACCIÓN PAZO AMARANTE",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 1134.75,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-09-02",
+    "record_id": "139:2082265",
+    "source_id": 2082265,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082265",
+    "subject": "ENCADERNACIÓN MEMORIA SOCIOECONÓMICA 2025",
+    "vendor_name": "SILO SERVICIOS GRAFICOS SL LABORAL"
+  }
+]

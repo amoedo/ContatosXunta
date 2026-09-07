@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 1349.15,
+    "duration": "1 mes",
+    "organism_id": 169,
+    "publication_date": "2026-09-02",
+    "record_id": "169:2082224",
+    "source_id": 2082224,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082224",
+    "subject": "PUBLICIDAD EN AUTOBUS URBANO DE SANTIAGO &#34;HOLI GAIAS&#34;",
+    "vendor_name": "YAGO S PUBLICIDAD SL"
+  },
+  {
+    "amount_eur": 8470.0,
+    "duration": "1 mes",
+    "organism_id": 169,
+    "publication_date": "2026-09-02",
+    "record_id": "169:2082388",
+    "source_id": 2082388,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082388",
+    "subject": "Preparación dos materiais definitivos da web.",
+    "vendor_name": "COSTA COMUNICACIÓN VISUAL SL"
+  },
+  {
+    "amount_eur": 42.59,
+    "duration": "1 mes",
+    "organism_id": 169,
+    "publication_date": "2026-09-02",
+    "record_id": "169:2082514",
+    "source_id": 2082514,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082514",
+    "subject": "dereito Reprodución e distribución obras de autores de VEGAP folleto expo As estacións do ano",
+    "vendor_name": "VISUAL ENTIDAD DE GESTION DE ARTISTAS PLASTICOS"
+  },
+  {
+    "amount_eur": 291.01,
+    "duration": "1 mes",
+    "organism_id": 169,
+    "publication_date": "2026-09-02",
+    "record_id": "169:2082515",
+    "source_id": 2082515,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082515",
+    "subject": "dereitos Autor Reprodución e distribución obras de autores de VEGAP dossier prensa As estacions",
+    "vendor_name": "VISUAL ENTIDAD DE GESTION DE ARTISTAS PLASTICOS"
+  }
+]

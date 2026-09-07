@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 53.9,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-09-03",
+    "record_id": "32:2082555",
+    "source_id": 2082555,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082555",
+    "subject": "CM26-73 Servizo de cafetería EGAP 28/06/2026 e 15/07/2026",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 1343.16,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-09-03",
+    "record_id": "32:2082719",
+    "source_id": 2082719,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082719",
+    "subject": "CM26-54 Subm. Power Bank",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 1159.07,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-09-03",
+    "record_id": "32:2082720",
+    "source_id": 2082720,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082720",
+    "subject": "CM26-66 Sub. material de Oficina",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 41.6,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-09-03",
+    "record_id": "32:2082770",
+    "source_id": 2082770,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082770",
+    "subject": "CM26-75 Servizo de cafeteria ARAMARK San Ceatano",
+    "vendor_name": "ARAMARK SERVICIOS DE CATERING SLU"
+  },
+  {
+    "amount_eur": 765.57,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-09-07",
+    "record_id": "32:2084177",
+    "source_id": 2084177,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2084177",
+    "subject": "CM26-52 SUBM. TELEVISION E SOPORTE PAREDE",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  }
+]

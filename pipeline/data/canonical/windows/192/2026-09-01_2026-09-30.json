@@ -1,0 +1,123 @@
+[
+  {
+    "amount_eur": 7865.0,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-04",
+    "record_id": "192:2083053",
+    "source_id": 2083053,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2083053",
+    "subject": "AG/M20260826D-EQUIPO DILUMAT EXPERT - BIOMERIEUX ESPAÑA S.A.",
+    "vendor_name": "BIOMERIEUX ESPAÑA, S.A."
+  },
+  {
+    "amount_eur": 982.22,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-04",
+    "record_id": "192:2083088",
+    "source_id": 2083088,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2083088",
+    "subject": "AG/M20260825A_ BALANZA PRECISIÓN PORTATIL - PROQUINORTE S.A.",
+    "vendor_name": "PROQUINORTE SA"
+  },
+  {
+    "amount_eur": 1508.14,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-04",
+    "record_id": "192:2083089",
+    "source_id": 2083089,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2083089",
+    "subject": "AG/M20260826A_ EQUIPO- MEZCLADOR LABORATORIO WARINGO - PROQU",
+    "vendor_name": "PROQUINORTE SA"
+  },
+  {
+    "amount_eur": 2227.42,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-04",
+    "record_id": "192:2083312",
+    "source_id": 2083312,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2083312",
+    "subject": "DC/X20260818A E. JULIO SL - Cambios iluminarias a led",
+    "vendor_name": "ELECTRICIDAD JULIO SL"
+  },
+  {
+    "amount_eur": 359.45,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-04",
+    "record_id": "192:2083313",
+    "source_id": 2083313,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2083313",
+    "subject": "DC/A20260824A T.S. IGLESIAS Mantenimiento Renault Kangoo FRA SEF Nº2026 494",
+    "vendor_name": "TALLERES SANTIAGO IGLESIAS S L"
+  },
+  {
+    "amount_eur": 300.08,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-04",
+    "record_id": "192:2083316",
+    "source_id": 2083316,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2083316",
+    "subject": "DC/I20260831A - COMPRA TABLET LENOVO - F1 AYUDA INFORMATICA",
+    "vendor_name": "F1 AYUDA INFORMATICA SL"
+  },
+  {
+    "amount_eur": 3623.95,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-04",
+    "record_id": "192:2083329",
+    "source_id": 2083329,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2083329",
+    "subject": "AG/M20260826B- EQQUIPO BOMBA PERISTÁLTICA - CH GRUPO 3 S.L.",
+    "vendor_name": "COMERCIAL HOSPITALARIA GRUPO 3, SL"
+  },
+  {
+    "amount_eur": 2926.53,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-04",
+    "record_id": "192:2083467",
+    "source_id": 2083467,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2083467",
+    "subject": "AG/M20260826C FISHER SCIENTIFIC SL - ESTUFA IF110 SINGLEDISP",
+    "vendor_name": "FISHER SCIENTIFIC, S.L."
+  },
+  {
+    "amount_eur": 106.6,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-07",
+    "record_id": "192:2083531",
+    "source_id": 2083531,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2083531",
+    "subject": "DC/X20260821A JOSE A RAPOSO FONTANEIRO Reparacion sanitario FRA SEF Nº2026 517",
+    "vendor_name": "JOSE A RAPOSO IBAÑEZ"
+  },
+  {
+    "amount_eur": 273.57,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-07",
+    "record_id": "192:2084249",
+    "source_id": 2084249,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2084249",
+    "subject": "DC/X20260820A PAZ DISMAC Material oficina FRA SEF Nº2026 512",
+    "vendor_name": "PAZ   DISMAC SL"
+  },
+  {
+    "amount_eur": 51.79,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-07",
+    "record_id": "192:2084259",
+    "source_id": 2084259,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2084259",
+    "subject": "DC/X20260824A CASTROMAN Varios ferreteria FRA SEF Nº2026 516",
+    "vendor_name": "CASTROMAN I, S.L"
+  }
+]

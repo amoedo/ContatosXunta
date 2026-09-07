@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 3267.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-09-02",
+    "record_id": "34:2081996",
+    "source_id": 2081996,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2081996",
+    "subject": "Apertura de nova ventá nas oficinas da Confraría de Pescadores A Pastoriza de Vilanova de Arousa sitas no edificio da Co",
+    "vendor_name": "JORGE AROSA ROMERO"
+  },
+  {
+    "amount_eur": 1936.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-09-02",
+    "record_id": "34:2082079",
+    "source_id": 2082079,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082079",
+    "subject": "Reparación de fuga de auga no porto de Campelo.",
+    "vendor_name": "VEOLIA SERVICIOS NORTE SAU"
+  },
+  {
+    "amount_eur": 3025.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-09-02",
+    "record_id": "34:2082470",
+    "source_id": 2082470,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082470",
+    "subject": "Reconstrucción da balaustrada do porto de Bueu",
+    "vendor_name": "MRV CONSTRUCCIONES SAN MIGUEL S.L."
+  },
+  {
+    "amount_eur": 4235.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-09-02",
+    "record_id": "34:2082471",
+    "source_id": 2082471,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082471",
+    "subject": "Reconstrucción da escaleira de madeira anexa ao clube e tratamento superficial dos elementos de madeira da escaleira e d",
+    "vendor_name": "SERVICIOS BORMAGAL S.L."
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 133.16,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-09-07",
+    "record_id": "48:2084256",
+    "source_id": 2084256,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2084256",
+    "subject": "submInistracion de material para operacions de mantemento da",
+    "vendor_name": "FERROESTRADA SL"
+  },
+  {
+    "amount_eur": 394.13,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-09-07",
+    "record_id": "48:2084257",
+    "source_id": 2084257,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2084257",
+    "subject": "material para operacions de mantemento dos almacens da Agasp",
+    "vendor_name": "FERROESTRADA SL"
+  }
+]

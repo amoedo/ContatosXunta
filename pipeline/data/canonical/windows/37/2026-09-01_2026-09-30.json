@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 502.49,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-09-01",
+    "record_id": "37:2081452",
+    "source_id": 2081452,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2081452",
+    "subject": "BILLETES DE AVIÓN CORUÑA-MADRID-CORUÑA 22/04/2026",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 207.49,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-09-03",
+    "record_id": "37:2082595",
+    "source_id": 2082595,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082595",
+    "subject": "BILLETE DE AVIÓN TRABALLADOR DO INEGA",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 363.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-09-03",
+    "record_id": "37:2082598",
+    "source_id": 2082598,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082598",
+    "subject": "Pago factura R31001195869 Acceso a internet no CIS Galicia x",
+    "vendor_name": "R CABLE Y TELECABLE TELECOMUNICACIONES SA"
+  },
+  {
+    "amount_eur": 341.82,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-09-03",
+    "record_id": "37:2082600",
+    "source_id": 2082600,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082600",
+    "subject": "Pago factura 206340484 - Auga e lixo CIS Galicia, maio e xuñ",
+    "vendor_name": "EMAFESA"
+  },
+  {
+    "amount_eur": 683.11,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-09-03",
+    "record_id": "37:2082761",
+    "source_id": 2082761,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082761",
+    "subject": "RECTIFICATIVA ABONO POR DOBLE FACTURACIÓN DOS RECOÑECEMENTOS",
+    "vendor_name": "TAPREGA PREVENCION DE RIESGOS SL"
+  }
+]

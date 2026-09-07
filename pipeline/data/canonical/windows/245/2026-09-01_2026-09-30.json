@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 1135.78,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-09-03",
+    "record_id": "245:2082603",
+    "source_id": 2082603,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082603",
+    "subject": "Reparación calefacción planta baixa edf Pastoriza",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 1904.54,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-09-03",
+    "record_id": "245:2082723",
+    "source_id": 2082723,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082723",
+    "subject": "2 Postos (silla/mesa/caixoneira/ala)",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 163.17,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-09-03",
+    "record_id": "245:2082727",
+    "source_id": 2082727,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082727",
+    "subject": "Material oficina sscc:1200  Subcarpetas",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 72.25,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-09-03",
+    "record_id": "245:2082731",
+    "source_id": 2082731,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082731",
+    "subject": "1 calculadora e 14 tacos de notas",
+    "vendor_name": "PRELO S L"
+  },
+  {
+    "amount_eur": 353.68,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-09-03",
+    "record_id": "245:2082806",
+    "source_id": 2082806,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082806",
+    "subject": "Etiquetas 10 caixas, 50 caixas de grapas e 4 paquetes dossier",
+    "vendor_name": "OFIDAR SUMINISTROS SL"
+  }
+]

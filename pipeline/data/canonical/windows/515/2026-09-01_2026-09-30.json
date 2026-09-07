@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 80.51,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-02",
+    "record_id": "515:2082426",
+    "source_id": 2082426,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082426",
+    "subject": "FACT. 845361948 XULLO_SERV. MANTEMENTO IMPRESORAS EQUIP. DEP. TERRITORIAL OURENSE",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 158.4,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-02",
+    "record_id": "515:2082427",
+    "source_id": 2082427,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082427",
+    "subject": "FACTURACIÓN POR COPIAS CVPI. SERVIZO DE URBANISMO DE OURENSE",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 15.97,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-02",
+    "record_id": "515:2082428",
+    "source_id": 2082428,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082428",
+    "subject": "SUL",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 47.07,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-04",
+    "record_id": "515:2083181",
+    "source_id": 2083181,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2083181",
+    "subject": "Pago mensual máquina auga",
+    "vendor_name": "CULLIGAN WATER SPAIN SL"
+  },
+  {
+    "amount_eur": 251.44,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-04",
+    "record_id": "515:2083310",
+    "source_id": 2083310,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2083310",
+    "subject": "FACT. SERIE T4326 NÚMERO 115_TAMBO MOTOR SLU_MANTEMENTO E REPARACIÓN VEHÍCULO MATRÍCULA 8149LVH",
+    "vendor_name": "TAMBO MOTOR SLU"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 235.95,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-09-07",
+    "record_id": "291:2083552",
+    "source_id": 2083552,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2083552",
+    "subject": "PAGAMENTO FACTURA SERVIZO DE IMPRESIÓN",
+    "vendor_name": "JUAN MANUEL LOPEZ DA SILVA"
+  },
+  {
+    "amount_eur": 36.54,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-09-07",
+    "record_id": "291:2083553",
+    "source_id": 2083553,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2083553",
+    "subject": "SUBMINISTRACIÓN DE MATERIAL DE OFICINA",
+    "vendor_name": "JUAN MANUEL LOPEZ DA SILVA"
+  },
+  {
+    "amount_eur": 332.51,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-09-07",
+    "record_id": "291:2084179",
+    "source_id": 2084179,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2084179",
+    "subject": "SUBMINISTRACIÓN DE MATERIAL DE OFICINA",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
+  },
+  {
+    "amount_eur": 38.57,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-09-07",
+    "record_id": "291:2084510",
+    "source_id": 2084510,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2084510",
+    "subject": "GASTOS DE CONSUMO E MANTEMENTO DAS MÁQUINAS DE IMPRESIÓN XULLO 2026",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  }
+]

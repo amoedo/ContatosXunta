@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 567.6,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-09-02",
+    "record_id": "225:2082344",
+    "source_id": 2082344,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082344",
+    "subject": "Aperitivo liga das sebes",
+    "vendor_name": "MANDABOCA , S.L."
+  },
+  {
+    "amount_eur": 1178.29,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-09-07",
+    "record_id": "225:2083674",
+    "source_id": 2083674,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2083674",
+    "subject": "Limpeza oficinas IET Eduardo Pondal 30 (agosto 2026)",
+    "vendor_name": "SAMAIN SERVIZOS A COMUNIDADE SA"
+  }
+]

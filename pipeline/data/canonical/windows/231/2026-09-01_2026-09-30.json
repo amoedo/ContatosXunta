@@ -53,5 +53,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082872",
     "subject": "Tóner impresora Secretaría de dirección da Área de Xestión",
     "vendor_name": "OFFICE2GALICIA SC"
+  },
+  {
+    "amount_eur": 25.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-09-09",
+    "record_id": "231:2085018",
+    "source_id": 2085018,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085018",
+    "subject": "Limpeza vehículo",
+    "vendor_name": "ADRIAN AMENEIRO SANIN"
+  },
+  {
+    "amount_eur": 321.94,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-09-09",
+    "record_id": "231:2085333",
+    "source_id": 2085333,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085333",
+    "subject": "Reunión Tribunal Oportunius_30/07/2026",
+    "vendor_name": "PR2 RESTA SL"
+  },
+  {
+    "amount_eur": 363.97,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-09-09",
+    "record_id": "231:2085334",
+    "source_id": 2085334,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085334",
+    "subject": "Gastos derivados da reunión do tribunal Oportunius-22/07/202",
+    "vendor_name": "PR2 RESTA SL"
   }
 ]

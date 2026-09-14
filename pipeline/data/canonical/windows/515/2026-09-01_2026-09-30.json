@@ -53,5 +53,60 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2083310",
     "subject": "FACT. SERIE T4326 NÚMERO 115_TAMBO MOTOR SLU_MANTEMENTO E REPARACIÓN VEHÍCULO MATRÍCULA 8149LVH",
     "vendor_name": "TAMBO MOTOR SLU"
+  },
+  {
+    "amount_eur": 647.35,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-10",
+    "record_id": "515:2085463",
+    "source_id": 2085463,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085463",
+    "subject": "Acordo cooperación Fisterra Praza do Campo",
+    "vendor_name": "GERMAN PEREZ FREIRE"
+  },
+  {
+    "amount_eur": 1458.05,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-10",
+    "record_id": "515:2085464",
+    "source_id": 2085464,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085464",
+    "subject": "Acordo cooperación Fisterra Praza do Campo",
+    "vendor_name": "GERMAN PEREZ FREIRE"
+  },
+  {
+    "amount_eur": 42.0,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-10",
+    "record_id": "515:2085800",
+    "source_id": 2085800,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085800",
+    "subject": "FACT. FV 70 CATERING PARA REUNIÓN CONSELLERÍA",
+    "vendor_name": "PASTELERIA SUEVIA, SL"
+  },
+  {
+    "amount_eur": 33.44,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-10",
+    "record_id": "515:2085822",
+    "source_id": 2085822,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085822",
+    "subject": "Factura agosto",
+    "vendor_name": "REAL PIKAÑA SL"
+  },
+  {
+    "amount_eur": 75.7,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-11",
+    "record_id": "515:2086264",
+    "source_id": 2086264,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086264",
+    "subject": "FACTURA 1801032/195/062026 (01/06/2026 ao 30/06/2026) EMITIDA POR ARAMARK SERVICIOS DE CATERING SLU",
+    "vendor_name": "ARAMARK SERVICIOS DE CATERING SLU"
   }
 ]

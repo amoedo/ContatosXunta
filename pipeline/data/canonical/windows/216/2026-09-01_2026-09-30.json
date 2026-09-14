@@ -42,5 +42,82 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082988",
     "subject": "HABITACION HOTEL MEDIODÍA MADRID 19-22/05 ALFONSO TAMAYO",
     "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 560.43,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-09-10",
+    "record_id": "216:2085532",
+    "source_id": 2085532,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085532",
+    "subject": "DESPLAZAMIENTO MADRID 27-28/05 SONIA BOTANA SOTO",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 77.0,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-09-10",
+    "record_id": "216:2085533",
+    "source_id": 2085533,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085533",
+    "subject": "1 HABITACION HOTEL ACTA MADFOR MADRID 27-28/05 SONIA BOTANA",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 170.31,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-09-10",
+    "record_id": "216:2086069",
+    "source_id": 2086069,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086069",
+    "subject": "AUG10.FR.CT:13605-1/1-210498.C/LOPEZ NEIRA,3-4 OFS-VIGO",
+    "vendor_name": "AQUALIA-F.C.C., UTE-(AQUALIA-FCC VIGO UTE) (GEST.I"
+  },
+  {
+    "amount_eur": 90.75,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-09-11",
+    "record_id": "216:2086199",
+    "source_id": 2086199,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086199",
+    "subject": "GA 26039 Panel para a presentación &#34;OH.232.832 - renov.rede",
+    "vendor_name": "AGENCIA GRAFICA GALLEGA SLU"
+  },
+  {
+    "amount_eur": 19.95,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-09-14",
+    "record_id": "216:2086360",
+    "source_id": 2086360,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086360",
+    "subject": "AUG4.LECTURA:01.07-01.09.26.FRA:.CONTRATO:11007940.RUA TOMIÑ",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 18.89,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-09-14",
+    "record_id": "216:2086361",
+    "source_id": 2086361,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086361",
+    "subject": "AUG6.CONSUMO:01.07-01.09.26.FRA:.CONTR:10590352.MONTE DOS PO",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 14.7,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-09-14",
+    "record_id": "216:2086362",
+    "source_id": 2086362,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086362",
+    "subject": "AUG9.LECTURA:01.07-01.09.26.FRA:.CONTRATO 10566879.RUA TOMIÑ",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
   }
 ]

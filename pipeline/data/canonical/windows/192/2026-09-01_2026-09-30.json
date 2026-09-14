@@ -119,5 +119,82 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2084259",
     "subject": "DC/X20260824A CASTROMAN Varios ferreteria FRA SEF Nº2026 516",
     "vendor_name": "CASTROMAN I, S.L"
+  },
+  {
+    "amount_eur": 774.79,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-11",
+    "record_id": "192:2086148",
+    "source_id": 2086148,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086148",
+    "subject": "DC/B20260814C - METANOL - PROQUINORTE",
+    "vendor_name": "PROQUINORTE SA"
+  },
+  {
+    "amount_eur": 717.09,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-11",
+    "record_id": "192:2086240",
+    "source_id": 2086240,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086240",
+    "subject": "AG/H20260824A - AC. ACETICO E CASSETE CON TAPA - C.H. GRUPO",
+    "vendor_name": "COMERCIAL HOSPITALARIA GRUPO 3, SL"
+  },
+  {
+    "amount_eur": 714.32,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-11",
+    "record_id": "192:2086241",
+    "source_id": 2086241,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086241",
+    "subject": "AG/H20260831A - REPUESTOS PROCESADOR - C.H. GRUPO 3 SL",
+    "vendor_name": "COMERCIAL HOSPITALARIA GRUPO 3, SL"
+  },
+  {
+    "amount_eur": 3035.89,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-11",
+    "record_id": "192:2086268",
+    "source_id": 2086268,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086268",
+    "subject": "AG/FM20260611A - SERVIZO INTEGRAL PARA TRANSMISÓMETRO C-STAR",
+    "vendor_name": "EMS SISTEMAS MONITORIZACION MEDIO AMBIEN"
+  },
+  {
+    "amount_eur": 1335.84,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-11",
+    "record_id": "192:2086269",
+    "source_id": 2086269,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086269",
+    "subject": "AG/FM20260903A - SERVIZO INTEGRAL PARA SBE18 - EMS SL - OCXG",
+    "vendor_name": "EMS SISTEMAS MONITORIZACION MEDIO AMBIEN"
+  },
+  {
+    "amount_eur": 926.86,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-14",
+    "record_id": "192:2086356",
+    "source_id": 2086356,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086356",
+    "subject": "DC/B20260727A GAMACISA Jeringas FRA SEF Nº2026 518",
+    "vendor_name": "GALLEGA DE MATERIAL CIENTIFICO S A"
+  },
+  {
+    "amount_eur": 72.0,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-14",
+    "record_id": "192:2086386",
+    "source_id": 2086386,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086386",
+    "subject": "DC/M20260827A IMPRONTA GRAFICA SL Poster A0 FRA SEF Nº2026 528",
+    "vendor_name": "IMPRONTA GRAFICA SL"
   }
 ]

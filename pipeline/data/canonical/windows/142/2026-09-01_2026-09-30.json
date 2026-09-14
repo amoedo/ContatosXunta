@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "amount_eur": 5868.05,
+    "duration": "1 mes",
+    "organism_id": 142,
+    "publication_date": "2026-09-11",
+    "record_id": "142:2086216",
+    "source_id": 2086216,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086216",
+    "subject": "Adquisición de licenzas para 1 ano do software: 12 licenzas de Office 365 E3, 12 licenzas de Veeam backup for microsoft",
+    "vendor_name": "TECNOLOGIAS PLEXUS, S.L."
+  },
+  {
+    "amount_eur": 371.47,
+    "duration": "1 mes",
+    "organism_id": 142,
+    "publication_date": "2026-09-14",
+    "record_id": "142:2086392",
+    "source_id": 2086392,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086392",
+    "subject": "Renovación do mantemento do sistema de control de presenza  NumaTime de SPI Galicia, SA, dende  o 27/9/2026 ao 26/09/202",
+    "vendor_name": "IMESD ELECTRONICA SL"
+  }
+]

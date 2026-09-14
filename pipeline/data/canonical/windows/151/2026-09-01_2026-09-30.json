@@ -20,5 +20,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082251",
     "subject": "material de oficina - xullo 2026",
     "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 100.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-09-11",
+    "record_id": "151:2086284",
+    "source_id": 2086284,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086284",
+    "subject": "xuntanza xornada AEDTSS Novos contidos da negociación colect",
+    "vendor_name": "MONTECUADRADO SLU &#34;EN CONSTITUCION&#34;"
+  },
+  {
+    "amount_eur": 435.36,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-09-14",
+    "record_id": "151:2086365",
+    "source_id": 2086365,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086365",
+    "subject": "2 salas de videoconferencias",
+    "vendor_name": "FUTURA SERVICE PROVIDER SA"
   }
 ]

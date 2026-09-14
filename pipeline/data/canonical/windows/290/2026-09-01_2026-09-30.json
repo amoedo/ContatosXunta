@@ -152,5 +152,60 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2084677",
     "subject": "INSCRIPCION MARTER (MUGYPS), EXP CM-ACIS-2026-115",
     "vendor_name": "FUNDACION ESPAñOLA DE DIRECTIVOS DE LA SALUD"
+  },
+  {
+    "amount_eur": 201.6,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-09-08",
+    "record_id": "290:2084846",
+    "source_id": 2084846,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2084846",
+    "subject": "ALOJAMIENTO PONENETE SETIEMBRE 2026",
+    "vendor_name": "CAMINO SANTO SL"
+  },
+  {
+    "amount_eur": 27.5,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-09-09",
+    "record_id": "290:2085144",
+    "source_id": 2085144,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085144",
+    "subject": "Consumo auga do do 02.07.26 ao 02.09.26",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 130.14,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-09-11",
+    "record_id": "290:2086079",
+    "source_id": 2086079,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086079",
+    "subject": "ALQUILER Y  MANTENIMIENTO DE RICOH MP 6503 EN AXENCIA GALEGA",
+    "vendor_name": "ANGEL MORA FERNANDEZ"
+  },
+  {
+    "amount_eur": 91.02,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-09-11",
+    "record_id": "290:2086080",
+    "source_id": 2086080,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086080",
+    "subject": "ALQUILER Y  MANTENIMIENTO DE HP LASERJET M652DN EN AXENCIA G",
+    "vendor_name": "ANGEL MORA FERNANDEZ"
+  },
+  {
+    "amount_eur": 300.0,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-09-11",
+    "record_id": "290:2086285",
+    "source_id": 2086285,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086285",
+    "subject": "Xestión Emocional na práctica clínica e relación cos pacientes-cod 2621549",
+    "vendor_name": "MOTIVACEV SL"
   }
 ]

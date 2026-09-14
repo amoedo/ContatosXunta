@@ -9,5 +9,71 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082425",
     "subject": "FACTURA IMPRESORAS PREZO POR COPIA IGCC LUGO MES DE XULLO",
     "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 95.3,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-09-09",
+    "record_id": "15:2085070",
+    "source_id": 2085070,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085070",
+    "subject": "FACTURA SERVIZOS DE TRANSPORTE DE MOSTRAS ANALIZADAS. MES DE",
+    "vendor_name": "TRANSPORTES AUTO RADIO SA"
+  },
+  {
+    "amount_eur": 5.78,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-09-14",
+    "record_id": "15:2086354",
+    "source_id": 2086354,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086354",
+    "subject": "FACTURA DO REXISTRO MERCANTIL DE OURENSE",
+    "vendor_name": "ANDRES JOSE YLLA GARCIA-GERMAN"
+  },
+  {
+    "amount_eur": 131.32,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-09-14",
+    "record_id": "15:2086357",
+    "source_id": 2086357,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086357",
+    "subject": "FACTURA SUBMINISTRO E INSTALACIÓN CAIXA DE CORREOS PARA O LA",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 33.44,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-09-14",
+    "record_id": "15:2086358",
+    "source_id": 2086358,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086358",
+    "subject": "FACTURA CONSUMO AUGA NOS SERVIZOS CENTRAIS DO IGCC EN SANTIA",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 4.33,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-09-14",
+    "record_id": "15:2086412",
+    "source_id": 2086412,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086412",
+    "subject": "FACTURA DO REXISTRO MERCANTIL DE PONTEVEDRA",
+    "vendor_name": "REGISTRO MERCANTIL Y DE BIENES MUEBLES DE"
+  },
+  {
+    "amount_eur": 8.66,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-09-14",
+    "record_id": "15:2086414",
+    "source_id": 2086414,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086414",
+    "subject": "FACTURA DO REXISTRO MERCANTIL DE MADRID",
+    "vendor_name": "REGISTRADORES MERCANTILES DE MADRID CB"
   }
 ]

@@ -273,5 +273,115 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2084689",
     "subject": "Vales aparcamiento donantes",
     "vendor_name": "INTERPARKING HISPANIA SA - VIAS Y CONSTRUCCIONES S"
+  },
+  {
+    "amount_eur": 60.5,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-09-10",
+    "record_id": "305:2085430",
+    "source_id": 2085430,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085430",
+    "subject": "PRAZA GARAXE PROMOCIÓN",
+    "vendor_name": "PABLO BERMUDEZ PESTONIT"
+  },
+  {
+    "amount_eur": 358.12,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-09-10",
+    "record_id": "305:2085557",
+    "source_id": 2085557,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085557",
+    "subject": "Reactivos de laboratorio",
+    "vendor_name": "WERFEN ESPAÑA SAU"
+  },
+  {
+    "amount_eur": 1484.55,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-09-10",
+    "record_id": "305:2085648",
+    "source_id": 2085648,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085648",
+    "subject": "EXPTE. OFIB/23-0068 (Alquiler centrifuga)",
+    "vendor_name": "IBERICA DE MANTENIMIENTO SA"
+  },
+  {
+    "amount_eur": 15711.19,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-09-10",
+    "record_id": "305:2085650",
+    "source_id": 2085650,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085650",
+    "subject": "Prórroga Expte. AB-FTC1-15-011 Reactivos",
+    "vendor_name": "GRIFOLS MOVACO, SA"
+  },
+  {
+    "amount_eur": 608.68,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-09-10",
+    "record_id": "305:2085892",
+    "source_id": 2085892,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085892",
+    "subject": "TARXETA INDICADORA DE RADIACIÓN EN SANGUE",
+    "vendor_name": "FIMECORP INTERNATIONAL SL"
+  },
+  {
+    "amount_eur": 2073.84,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-09-10",
+    "record_id": "305:2085906",
+    "source_id": 2085906,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085906",
+    "subject": "Reactivos de laboratorio",
+    "vendor_name": "SIEMENS HEALTHCARE SL"
+  },
+  {
+    "amount_eur": 7898.88,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-09-10",
+    "record_id": "305:2085912",
+    "source_id": 2085912,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085912",
+    "subject": "EXPDTE.AB-FCT1-15-013 PRORROGADO. KIT COBAS",
+    "vendor_name": "ROCHE DIAGNOSTICS S.L"
+  },
+  {
+    "amount_eur": 1202.98,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-09-10",
+    "record_id": "305:2085913",
+    "source_id": 2085913,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085913",
+    "subject": "Reactivos de laboratorio",
+    "vendor_name": "ROCHE DIAGNOSTICS S.L"
+  },
+  {
+    "amount_eur": 3109.31,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-09-10",
+    "record_id": "305:2086029",
+    "source_id": 2086029,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086029",
+    "subject": "reactivos laboratorio",
+    "vendor_name": "ORTHO CLINICAL DIAGNOSTICS SPAIN SLU"
+  },
+  {
+    "amount_eur": 109.61,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-09-10",
+    "record_id": "305:2086048",
+    "source_id": 2086048,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086048",
+    "subject": "CUOTA VIGILANCIA (Polígono del tambre)",
+    "vendor_name": "ASOC EMPRESARIOS PG IND TAMBRE"
   }
 ]

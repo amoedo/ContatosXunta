@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "amount_eur": 44.0,
+    "duration": "1 mes",
+    "organism_id": 49,
+    "publication_date": "2026-09-08",
+    "record_id": "49:2084821",
+    "source_id": 2084821,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2084821",
+    "subject": "Cuota de servicio POU Filtración 1109193626 RUA CULTURA 36680 A ESTRADA,Cuota de servicio POU Filtración 1109193627 RUA",
+    "vendor_name": "CULLIGAN WATER SPAIN SL"
+  },
+  {
+    "amount_eur": 44.0,
+    "duration": "1 mes",
+    "organism_id": 49,
+    "publication_date": "2026-09-08",
+    "record_id": "49:2084822",
+    "source_id": 2084822,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2084822",
+    "subject": "Cuota de servicio POU Filtración 1109193626 RUA CULTURA 36680 A ESTRADA,Cuota de servicio POU Filtración 1109193627 RUA",
+    "vendor_name": "CULLIGAN WATER SPAIN SL"
+  },
+  {
+    "amount_eur": 164.7,
+    "duration": "1 mes",
+    "organism_id": 49,
+    "publication_date": "2026-09-08",
+    "record_id": "49:2084962",
+    "source_id": 2084962,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2084962",
+    "subject": "COMIDA 12 DE AGOSTO 2026 CECOPI ECLIPSE",
+    "vendor_name": "SAMANA EVENTOS S.L."
+  }
+]

@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "amount_eur": 15125.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-09-11",
+    "record_id": "144:2086193",
+    "source_id": 2086193,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086193",
+    "subject": "Subministración, instalación e adecuación eléctrica do centro  de telecomunicacións de Santa Cecía para a ampliación da",
+    "vendor_name": "ELECTRONICA NOROESTE SERVICIOS GENERALES,SL"
+  }
+]

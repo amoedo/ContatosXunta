@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "amount_eur": 290.0,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-09-09",
+    "record_id": "273:2085119",
+    "source_id": 2085119,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2085119",
+    "subject": "Bivestour 16",
+    "vendor_name": "BIVES TOUR, SA"
+  },
+  {
+    "amount_eur": 170.44,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-09-14",
+    "record_id": "273:2086363",
+    "source_id": 2086363,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086363",
+    "subject": "Iris Global 686615",
+    "vendor_name": "IRIS GLOBAL SOLUCIONES DE PROTECC.SEGUROS Y REASEG"
+  }
+]

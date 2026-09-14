@@ -108,5 +108,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2083508",
     "subject": "Prensa",
     "vendor_name": "BEIROA DUARTE SC"
+  },
+  {
+    "amount_eur": 289.23,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-09-11",
+    "record_id": "514:2086111",
+    "source_id": 2086111,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086111",
+    "subject": "rotulación complementaria sala de xuntas",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 290.39,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-09-11",
+    "record_id": "514:2086200",
+    "source_id": 2086200,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086200",
+    "subject": "alarma incendios arquivo",
+    "vendor_name": "SISTEMAS DE SEGURIDAD A1 SL"
   }
 ]

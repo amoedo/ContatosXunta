@@ -86,5 +86,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086280",
     "subject": "compra botellones agua",
     "vendor_name": "CERLIS VENDING SLU"
+  },
+  {
+    "amount_eur": 572.72,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-09-15",
+    "record_id": "77:2086568",
+    "source_id": 2086568,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086568",
+    "subject": "SUZUKI SX4 S-CROSS 6763KGL",
+    "vendor_name": "AUTOMOTIVE VILABOA"
+  },
+  {
+    "amount_eur": 20.0,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-09-17",
+    "record_id": "77:2087868",
+    "source_id": 2087868,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2087868",
+    "subject": "26.08.2026 - LIMPIEZA INTERIOR Y LAVADO EXTERIOR VEHICULO RE",
+    "vendor_name": "JOSE CARLOS IGLESIAS FERNANDEZ"
+  },
+  {
+    "amount_eur": 1297.63,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-09-18",
+    "record_id": "77:2089360",
+    "source_id": 2089360,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089360",
+    "subject": "CONSUMOS CALEFACION E AIRE ACONDICIONADO XULLO 2026",
+    "vendor_name": "CDAD PROP XOSE CHAO REGO"
   }
 ]

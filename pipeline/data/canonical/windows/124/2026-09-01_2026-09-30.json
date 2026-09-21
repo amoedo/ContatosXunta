@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "amount_eur": 1210.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-09-15",
+    "record_id": "124:2086497",
+    "source_id": 2086497,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086497",
+    "subject": "CTS-2026-0089 - Adquisición Selo Electrónico Cualificado (QSeal)",
+    "vendor_name": "AC CAMERFIRMA SA"
+  },
+  {
+    "amount_eur": 7078.5,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-09-15",
+    "record_id": "124:2086528",
+    "source_id": 2086528,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086528",
+    "subject": "CTS-2026-0055 - Subministro de computadores portátiles para investigadores do proxecto Consolidacion Investigadora 2024",
+    "vendor_name": "INFORNET SOLUCIONES INFORMATICAS, SL"
+  },
+  {
+    "amount_eur": 600.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-09-15",
+    "record_id": "124:2086553",
+    "source_id": 2086553,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086553",
+    "subject": "CTS-2026-0090 - Contratación de seguro de saúde",
+    "vendor_name": "CAMASO3 SEGUROS SL"
+  },
+  {
+    "amount_eur": 59949.69,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-09-15",
+    "record_id": "124:2086555",
+    "source_id": 2086555,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086555",
+    "subject": "CTS-2026-0056 - Subministro moduladores luz espacial e outros dispositivos fotónicos no marco do PRTR - NEXTGENERATIONEU",
+    "vendor_name": "HAMAMATSU PHOTONICS FRANCE, SUCURSAL EN ESPAÑA"
+  },
+  {
+    "amount_eur": 3630.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-09-15",
+    "record_id": "124:2086573",
+    "source_id": 2086573,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086573",
+    "subject": "CTS-2026-0088 - Copias e impresións 2026",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 17968.5,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-09-15",
+    "record_id": "124:2086585",
+    "source_id": 2086585,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086585",
+    "subject": "CTS-2026-0078 - Contrato de formación especializada en IA no marco do PRTR-Financiado pola Unión Europea NextGenerationE",
+    "vendor_name": "MBIT SCHOOL SL"
+  },
+  {
+    "amount_eur": 14900.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-09-15",
+    "record_id": "124:2086598",
+    "source_id": 2086598,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086598",
+    "subject": "CTS-2026-0096 - Cota asociación a Dihgigal - Hub Industrial de Galicia",
+    "vendor_name": "ASOC PARA LA DIGITALIZACION DE LA INDUSTRIA DE GAL"
+  },
+  {
+    "amount_eur": 17545.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-09-16",
+    "record_id": "124:2087292",
+    "source_id": 2087292,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2087292",
+    "subject": "CTS-2026-0041 - Servicio de prevención de riscos laborais",
+    "vendor_name": "EQUABY PREVENCION, S.L."
+  }
+]

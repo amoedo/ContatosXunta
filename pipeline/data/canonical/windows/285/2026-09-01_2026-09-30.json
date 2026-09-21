@@ -130,5 +130,49 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086383",
     "subject": "Subministración arquetas conduto gas para CIMA Ribadeo",
     "vendor_name": "TALLER FRANCISCO DIOS E HIJOS SL"
+  },
+  {
+    "amount_eur": 5942.25,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-09-21",
+    "record_id": "285:2089772",
+    "source_id": 2089772,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089772",
+    "subject": "Subministración de MAQUINARIA CLIMATIZACION CONSERXERIA IPMP",
+    "vendor_name": "INVESTIGACION Y DESARROLLO DEL LEREZ SL"
+  },
+  {
+    "amount_eur": 839.74,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-09-21",
+    "record_id": "285:2089774",
+    "source_id": 2089774,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089774",
+    "subject": "Servizo de impresión elementos mem dixital CIMA 2025",
+    "vendor_name": "IMPRONTA GRAFICA SL"
+  },
+  {
+    "amount_eur": 1695.15,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-09-21",
+    "record_id": "285:2089784",
+    "source_id": 2089784,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089784",
+    "subject": "Servizo de revisión de microscopias CECUMAR CIMA",
+    "vendor_name": "COMERCIAL HOSPITALARIA GRUPO 3, SL"
+  },
+  {
+    "amount_eur": 726.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-09-21",
+    "record_id": "285:2089953",
+    "source_id": 2089953,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089953",
+    "subject": ".",
+    "vendor_name": "OPPO ARQUITECTURA SLU"
   }
 ]

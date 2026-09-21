@@ -174,5 +174,71 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086324",
     "subject": "obras baños",
     "vendor_name": "SERTRICON SL"
+  },
+  {
+    "amount_eur": 216.0,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-09-16",
+    "record_id": "274:2087461",
+    "source_id": 2087461,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2087461",
+    "subject": "Fra.852.Servizo de limpeza cristais.Mes de xullo.EI MARÍN",
+    "vendor_name": "LIMPIADORES ESPEC INTEGR SERVI MANTENI"
+  },
+  {
+    "amount_eur": 1829.52,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-09-18",
+    "record_id": "274:2088482",
+    "source_id": 2088482,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2088482",
+    "subject": "OBRAS XARDÍN EI S. CORAZÓN",
+    "vendor_name": "CESAR ANTONIO LORENZANA BARGUEIRAS"
+  },
+  {
+    "amount_eur": 1476.2,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-09-18",
+    "record_id": "274:2088952",
+    "source_id": 2088952,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2088952",
+    "subject": "REPARACIÓN MOBILIARIO",
+    "vendor_name": "FELIX ALVAREZ REFORMAS Y PINTURAS"
+  },
+  {
+    "amount_eur": 2370.32,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-09-18",
+    "record_id": "274:2088961",
+    "source_id": 2088961,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2088961",
+    "subject": "OBRAS INSTALACIÓN VENTILADORES",
+    "vendor_name": "ELECTRICIDAD SERVICIOS ROBERGON SL"
+  },
+  {
+    "amount_eur": 4570.34,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-09-18",
+    "record_id": "274:2089191",
+    "source_id": 2089191,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089191",
+    "subject": "Aire acondicionado siestas bebés EI Catabois",
+    "vendor_name": "ENERGAIA SL"
+  },
+  {
+    "amount_eur": 6352.5,
+    "duration": "1 mes",
+    "organism_id": 274,
+    "publication_date": "2026-09-21",
+    "record_id": "274:2089716",
+    "source_id": 2089716,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089716",
+    "subject": "Mostras radón. Escolas infantís A Coruña",
+    "vendor_name": "RADONGAL SL"
   }
 ]

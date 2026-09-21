@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "amount_eur": 1742.4,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-09-17",
+    "record_id": "141:2088459",
+    "source_id": 2088459,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2088459",
+    "subject": "Informe creatividade 2 campañas (CB14)",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  },
+  {
+    "amount_eur": 871.2,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-09-17",
+    "record_id": "141:2088460",
+    "source_id": 2088460,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2088460",
+    "subject": "Informe creatividade Campaña Educación 2026 (CB15)",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  }
+]

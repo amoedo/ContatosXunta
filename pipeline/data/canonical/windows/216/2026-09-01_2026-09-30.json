@@ -119,5 +119,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086362",
     "subject": "AUG9.LECTURA:01.07-01.09.26.FRA:.CONTRATO 10566879.RUA TOMIÑ",
     "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 13.25,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-09-15",
+    "record_id": "216:2086488",
+    "source_id": 2086488,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086488",
+    "subject": "AUG8.CONSUMO:01.07-01.09/26.FRA:.CONTR:10590307.MONTE DOS PO",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 39.36,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-09-15",
+    "record_id": "216:2086489",
+    "source_id": 2086489,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086489",
+    "subject": "AUG3.LECT:03.07-03.09.2026-FRA.-CONTRATO:2125269-SUBMNISTRO",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 90.75,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-09-16",
+    "record_id": "216:2087227",
+    "source_id": 2087227,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2087227",
+    "subject": "GA26044. FRA. 2600742. PANEL PRESENTACIÓN OBRAS DE SANEAMENT",
+    "vendor_name": "AGENCIA GRAFICA GALLEGA SLU"
   }
 ]

@@ -31,5 +31,137 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086364",
     "subject": "factura peaxes e gasoil ibiza",
     "vendor_name": "SOLRED, S.A."
+  },
+  {
+    "amount_eur": 62.92,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-15",
+    "record_id": "329:2086429",
+    "source_id": 2086429,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086429",
+    "subject": "PEF CIF - RF - CAMARA DE FOTOS ARRANXO",
+    "vendor_name": "PEREGRINA CORTIZO DIZ"
+  },
+  {
+    "amount_eur": 1210.0,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-15",
+    "record_id": "329:2086437",
+    "source_id": 2086437,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086437",
+    "subject": "PEF CIF - RF - DESBROCE",
+    "vendor_name": "ADRIA CARRILERO GUARDIOLA"
+  },
+  {
+    "amount_eur": 558.49,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-15",
+    "record_id": "329:2086513",
+    "source_id": 2086513,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086513",
+    "subject": "PEF CIF - RF - ARRANXO EQUIPO",
+    "vendor_name": "BPV SERVICE GALICIA SL"
+  },
+  {
+    "amount_eur": 4099.48,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-15",
+    "record_id": "329:2086518",
+    "source_id": 2086518,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086518",
+    "subject": "PEF CIF - RF - MATERIAL LABORATORIO",
+    "vendor_name": "LEBORIZ SL"
+  },
+  {
+    "amount_eur": 3563.45,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-15",
+    "record_id": "329:2086519",
+    "source_id": 2086519,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086519",
+    "subject": "PEF CIF - RF - MATERIAL LABORATORIO",
+    "vendor_name": "LEBORIZ SL"
+  },
+  {
+    "amount_eur": 469.75,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-15",
+    "record_id": "329:2086532",
+    "source_id": 2086532,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086532",
+    "subject": "PEF CIF - CAP. 2 - MATERIAL CAMPO",
+    "vendor_name": "COMERCIAL CUSTODIO SL"
+  },
+  {
+    "amount_eur": 978.29,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-15",
+    "record_id": "329:2086543",
+    "source_id": 2086543,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086543",
+    "subject": "PEF CIF - RF - PANELES COOLING",
+    "vendor_name": "INVERNADEROS DEL SALNES SL"
+  },
+  {
+    "amount_eur": 798.64,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-15",
+    "record_id": "329:2086549",
+    "source_id": 2086549,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086549",
+    "subject": "PEF CIF - RF - ARRANXO EQUIPAMENTO",
+    "vendor_name": "PETER TABOADA SL"
+  },
+  {
+    "amount_eur": 2981.44,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-15",
+    "record_id": "329:2086550",
+    "source_id": 2086550,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086550",
+    "subject": "PEF CIF - RF - XORNADAS OPERARIOS",
+    "vendor_name": "CORMO INTEGRAL SL"
+  },
+  {
+    "amount_eur": 20.15,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-16",
+    "record_id": "329:2087662",
+    "source_id": 2087662,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2087662",
+    "subject": "fatura fotocopiadora sp cis madeira",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 516.48,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-21",
+    "record_id": "329:2089559",
+    "source_id": 2089559,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089559",
+    "subject": "factura servizos parque tecnolóxico cis madeira",
+    "vendor_name": "PARQUE TECNOLOGICO DE GALICIA,SA"
+  },
+  {
+    "amount_eur": 2450.0,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-21",
+    "record_id": "329:2089669",
+    "source_id": 2089669,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089669",
+    "subject": "Informe de proxecto execución para rehabilitación finca de L",
+    "vendor_name": "APPLUS NORCONTROL SL"
   }
 ]

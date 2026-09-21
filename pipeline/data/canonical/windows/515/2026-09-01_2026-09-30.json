@@ -108,5 +108,60 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086264",
     "subject": "FACTURA 1801032/195/062026 (01/06/2026 ao 30/06/2026) EMITIDA POR ARAMARK SERVICIOS DE CATERING SLU",
     "vendor_name": "ARAMARK SERVICIOS DE CATERING SLU"
+  },
+  {
+    "amount_eur": 3653.79,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-16",
+    "record_id": "515:2086615",
+    "source_id": 2086615,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086615",
+    "subject": "Human. de espazos públ. núcleo rural hist.-trad.Loureiros-Xo",
+    "vendor_name": "EVA PALLAS MUIÑO"
+  },
+  {
+    "amount_eur": 2273.47,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-16",
+    "record_id": "515:2086618",
+    "source_id": 2086618,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086618",
+    "subject": "Human. de espazos públ. núcleo rural hist.-trad.Loureiros-Xo",
+    "vendor_name": "JUAN CARLOS LLAMAZARES DIAZ"
+  },
+  {
+    "amount_eur": 53.24,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-17",
+    "record_id": "515:2088109",
+    "source_id": 2088109,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2088109",
+    "subject": "FACTURA EMITIDA EN SETEMBRO DO LIXO-COTA DE SERVIZO EDIFICIO DO DEPARTAMENTO TERRITORIAL DE OURENSE DA CVPI",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 48.25,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-18",
+    "record_id": "515:2089241",
+    "source_id": 2089241,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089241",
+    "subject": "Factura de fotocopiadora- impresora de RICOH España do mes d",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 119.01,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-21",
+    "record_id": "515:2089606",
+    "source_id": 2089606,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089606",
+    "subject": "Número de contador 5196314   Subministro correspondente a o",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
   }
 ]

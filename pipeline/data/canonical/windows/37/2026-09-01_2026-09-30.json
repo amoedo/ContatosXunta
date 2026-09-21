@@ -53,5 +53,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2082761",
     "subject": "RECTIFICATIVA ABONO POR DOBLE FACTURACIÓN DOS RECOÑECEMENTOS",
     "vendor_name": "TAPREGA PREVENCION DE RIESGOS SL"
+  },
+  {
+    "amount_eur": 4000.01,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-09-15",
+    "record_id": "37:2086596",
+    "source_id": 2086596,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086596",
+    "subject": "COLABORACIÓN VII FEIRA DO AUTOMÓBIL HÍBRIDO ELÉCTRICO DE RIB",
+    "vendor_name": "ASOC DE EMPRESARIOS COMERCIANTES Y TRABA"
+  },
+  {
+    "amount_eur": 4392.3,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-09-15",
+    "record_id": "37:2086605",
+    "source_id": 2086605,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086605",
+    "subject": "COLABORACIÓN NA ORGANIZACIÓN DA VII EDICIOÓN DO SEMINARIO SP",
+    "vendor_name": "UNIVERSIDADE DE SANTIAGO DE COMPOSTELA"
+  },
+  {
+    "amount_eur": 155.98,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-09-18",
+    "record_id": "37:2089181",
+    "source_id": 2089181,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089181",
+    "subject": "REVISIÓN E ITV CITROEN C4 7595 GHZ",
+    "vendor_name": "TALLERES UZALVI SL"
   }
 ]

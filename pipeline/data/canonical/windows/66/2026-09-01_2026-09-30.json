@@ -108,5 +108,16 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086036",
     "subject": "Proxecto AgrifoodTef",
     "vendor_name": "MOORE AUDITEST, SL"
+  },
+  {
+    "amount_eur": 26325.97,
+    "duration": "1 mes",
+    "organism_id": 66,
+    "publication_date": "2026-09-15",
+    "record_id": "66:2086456",
+    "source_id": 2086456,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086456",
+    "subject": "CIAM: VEHICULO DE TRACION A 4 RODAS CON TOLVA",
+    "vendor_name": "TORNEIRO MAQUICORUÑA, SA"
   }
 ]

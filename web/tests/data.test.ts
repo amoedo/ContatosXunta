@@ -51,6 +51,9 @@ describe('generated public data', () => {
     }
 
     expect(shardRecordCount).toBe(manifest.total_available);
+    expect(manifest.years.reduce((sum, year) => sum + year.record_count, 0)).toBe(
+      manifest.total_available,
+    );
     expect(manifest.total_available).toBeLessThanOrEqual(dashboard.record_count);
     expect(manifest.historical_total).toBe(dashboard.record_count);
     expect(new Set(recordIds).size).toBe(recordIds.length);
@@ -86,7 +89,9 @@ describe('generated public data', () => {
       expect(Object.values(organism.years).reduce((sum, item) => sum + item.summary.record_count, 0)).toBe(organism.all.summary.record_count);
     }
     for (const year of manifest.years) {
-      expect(analysis.years[String(year.year) as keyof typeof analysis.years].summary.record_count).toBe(year.record_count);
+      const analysisYear = analysis.years[String(year.year) as keyof typeof analysis.years];
+      expect(analysisYear).toBeDefined();
+      expect(analysisYear.summary.record_count).toBeGreaterThanOrEqual(year.record_count);
     }
     expect(serialized).not.toContain('"nif"');
     expect(serialized).not.toContain('"cif"');

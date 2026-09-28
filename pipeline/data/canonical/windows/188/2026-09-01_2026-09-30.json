@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "amount_eur": 28092.57,
+    "duration": "1 mes",
+    "organism_id": 188,
+    "publication_date": "2026-09-22",
+    "record_id": "188:2090258",
+    "source_id": 2090258,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2090258",
+    "subject": "DA 9ª LCSP_Contratación do servizo de subscrición á base de datos SABI para 2026",
+    "vendor_name": "INFORMA D&B SA"
+  },
+  {
+    "amount_eur": 76067.76,
+    "duration": "1 mes",
+    "organism_id": 188,
+    "publication_date": "2026-09-22",
+    "record_id": "188:2090592",
+    "source_id": 2090592,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2090592",
+    "subject": "DA 9ª LCSP_Contratación ao servizo de subscrición das bases de datos de Proquest para 2026",
+    "vendor_name": "PROQUEST LLC"
+  }
+]

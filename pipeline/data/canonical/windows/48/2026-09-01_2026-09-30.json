@@ -97,5 +97,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089041",
     "subject": "SERVIZO DE MANTEMENTO DOS ASCENSORES NOS EDIFICIOS DA AGASP",
     "vendor_name": "ASCENSORES ENOR SL"
+  },
+  {
+    "amount_eur": 2123.55,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-09-24",
+    "record_id": "48:2091573",
+    "source_id": 2091573,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091573",
+    "subject": "tarxetas identificativas socorrismo",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 1710.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-09-24",
+    "record_id": "48:2091577",
+    "source_id": 2091577,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091577",
+    "subject": "BÁSICO MOTOSERRAS",
+    "vendor_name": "BARBANZA PREVENCION, SL"
+  },
+  {
+    "amount_eur": 320.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-09-28",
+    "record_id": "48:2092907",
+    "source_id": 2092907,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092907",
+    "subject": "proc selec promoción libre corpos Policía Local de Galicia, ambulancia",
+    "vendor_name": "FUNERARIA Y AMBULANCIAS COMPOSTELA, S.L."
   }
 ]

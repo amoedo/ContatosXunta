@@ -317,5 +317,82 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089981",
     "subject": "SUBSCRIPTION 2026 FEDERACIÓN EUROPEA DO CAMIÑO DE SANTIAGO",
     "vendor_name": "FEDERATION EUROPEENNE CHEMINS DE ST JACQUES"
+  },
+  {
+    "amount_eur": 15749.99,
+    "duration": "1 mes",
+    "organism_id": 242,
+    "publication_date": "2026-09-22",
+    "record_id": "242:2090144",
+    "source_id": 2090144,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2090144",
+    "subject": "DIFUSIÓN PROXECTO DE TRAZADO E CONSTRUCCIÓN TREITOS CAMIÑO PRIMITIVO",
+    "vendor_name": "LA VOZ DE GALICIA SA"
+  },
+  {
+    "amount_eur": 11249.99,
+    "duration": "1 mes",
+    "organism_id": 242,
+    "publication_date": "2026-09-22",
+    "record_id": "242:2090326",
+    "source_id": 2090326,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2090326",
+    "subject": "DIFUSIÓN PROXECTO DE TRAZADO E CONSTRUCCIÓN TREITOS CAMIÑO PRIMITIVO",
+    "vendor_name": "CORPORACION VOZ DE GALICIA,  SL"
+  },
+  {
+    "amount_eur": 300.0,
+    "duration": "1 mes",
+    "organism_id": 242,
+    "publication_date": "2026-09-22",
+    "record_id": "242:2090375",
+    "source_id": 2090375,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2090375",
+    "subject": "PARTICIPACIÓN NO FORO  ESPAÑA VERDE  UN DESTINO DE CALIDADE Habitación 1",
+    "vendor_name": "O CABOZO DO ZACURRO S.L.L"
+  },
+  {
+    "amount_eur": 2840.0,
+    "duration": "1 mes",
+    "organism_id": 242,
+    "publication_date": "2026-09-25",
+    "record_id": "242:2092036",
+    "source_id": 2092036,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092036",
+    "subject": "ASISTENCIA O CONGRESO PATHWAYA TO RESILIENCE A CELEBRAR EN ATENAS DE DUAS DOCENTES DO CSHG",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 696.0,
+    "duration": "1 mes",
+    "organism_id": 242,
+    "publication_date": "2026-09-25",
+    "record_id": "242:2092037",
+    "source_id": 2092037,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092037",
+    "subject": "ASISTENCIA O GLOBAL REVENUE FORUM 2026 A CELEBRAR EN MADRID DUNHA DOCENTE DO CSHG ANA RUPPEN RODRIGUEZ",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 5992.8,
+    "duration": "1 mes",
+    "organism_id": 242,
+    "publication_date": "2026-09-25",
+    "record_id": "242:2092274",
+    "source_id": 2092274,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092274",
+    "subject": "SUBMINISTRACION DE ALMORZOS E CEAS OS ALUMNOS DO CSHG CON MOTIVO DO INICIO DO CURSO",
+    "vendor_name": "FREIRE CHICO, SL"
+  },
+  {
+    "amount_eur": 4756.7,
+    "duration": "1 mes",
+    "organism_id": 242,
+    "publication_date": "2026-09-25",
+    "record_id": "242:2092303",
+    "source_id": 2092303,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092303",
+    "subject": "Ud. de revisión y  reparación de 15 unidades de refrigeración do CSHG",
+    "vendor_name": "FRIO GALICIA SL"
   }
 ]

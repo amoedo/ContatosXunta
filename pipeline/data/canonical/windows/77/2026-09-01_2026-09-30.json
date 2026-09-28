@@ -119,5 +119,82 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089360",
     "subject": "CONSUMOS CALEFACION E AIRE ACONDICIONADO XULLO 2026",
     "vendor_name": "CDAD PROP XOSE CHAO REGO"
+  },
+  {
+    "amount_eur": 172.78,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-09-22",
+    "record_id": "77:2090511",
+    "source_id": 2090511,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2090511",
+    "subject": "Factura 202600000001373",
+    "vendor_name": "AUTOMOTIVE VILABOA"
+  },
+  {
+    "amount_eur": 494.33,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-09-24",
+    "record_id": "77:2091627",
+    "source_id": 2091627,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091627",
+    "subject": "Factura 2315 Serie N26 Honorarios traballos cerrallería",
+    "vendor_name": "UCHA Y NOVOA, SL"
+  },
+  {
+    "amount_eur": 7.28,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-09-25",
+    "record_id": "77:2091919",
+    "source_id": 2091919,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091919",
+    "subject": "Presentación nota simple, rexistro da propiedade da Estrada",
+    "vendor_name": "MARIA TERESA SANJURJO FERRIN"
+  },
+  {
+    "amount_eur": 201.96,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-09-25",
+    "record_id": "77:2091940",
+    "source_id": 2091940,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091940",
+    "subject": "Presentación nota simple e outros, rexistro da propiedade de",
+    "vendor_name": "SONIA AIRAS PEREIRA"
+  },
+  {
+    "amount_eur": 146.35,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-09-25",
+    "record_id": "77:2091949",
+    "source_id": 2091949,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091949",
+    "subject": "Nota simple , Rexistro da Propiedade A Coruña , no 5",
+    "vendor_name": "MARIA LORENA VARELA CANDAMIO"
+  },
+  {
+    "amount_eur": 14.54,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-09-25",
+    "record_id": "77:2091950",
+    "source_id": 2091950,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091950",
+    "subject": "Nota simple , Rexistro da propiedade Vigo no 6",
+    "vendor_name": "MARIA CORA FERNANDEZ"
+  },
+  {
+    "amount_eur": 11676.5,
+    "duration": "1 mes",
+    "organism_id": 77,
+    "publication_date": "2026-09-25",
+    "record_id": "77:2091956",
+    "source_id": 2091956,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091956",
+    "subject": "Redacción de proxecto demolición de nave de taller e veda de vehículos, e reposición dos terreos ao estado anterior en e",
+    "vendor_name": "SANTIAGO COTON DIAZ"
   }
 ]

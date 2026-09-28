@@ -174,5 +174,82 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089953",
     "subject": ".",
     "vendor_name": "OPPO ARQUITECTURA SLU"
+  },
+  {
+    "amount_eur": 3993.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-09-22",
+    "record_id": "285:2090576",
+    "source_id": 2090576,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2090576",
+    "subject": "Servizo de embarcación de recollida de mostras en Lombs do U",
+    "vendor_name": "ANDREA LEIRO SL"
+  },
+  {
+    "amount_eur": 48390.32,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-09-24",
+    "record_id": "285:2091564",
+    "source_id": 2091564,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091564",
+    "subject": "Obra de mellora pasarela peonil aceso bancos marisqueiros Lo",
+    "vendor_name": "CARPIDISER, SL"
+  },
+  {
+    "amount_eur": 4900.5,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-09-24",
+    "record_id": "285:2091609",
+    "source_id": 2091609,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091609",
+    "subject": "Servizo de mantemento/revisión de microscopios CIMA",
+    "vendor_name": "EXACT SERVICOS TECNICOS Y VALIDACIONES SL"
+  },
+  {
+    "amount_eur": 677.89,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-09-24",
+    "record_id": "285:2091774",
+    "source_id": 2091774,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091774",
+    "subject": "prezo por copia",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 168.31,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-09-24",
+    "record_id": "285:2091775",
+    "source_id": 2091775,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091775",
+    "subject": "prezo por copia",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 16940.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-09-24",
+    "record_id": "285:2091845",
+    "source_id": 2091845,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091845",
+    "subject": "SERVIZOX PROX TÉCNICO DE OBRAS MELLORA DA EFICIENCIA ENERXÉT",
+    "vendor_name": "OPPO ARQUITECTURA SLU"
+  },
+  {
+    "amount_eur": 16940.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-09-28",
+    "record_id": "285:2092701",
+    "source_id": 2092701,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092701",
+    "subject": "publicación Voz de Galicia",
+    "vendor_name": "LA VOZ DE GALICIA SA"
   }
 ]

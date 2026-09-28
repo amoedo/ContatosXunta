@@ -53,5 +53,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2086960",
     "subject": "botellines fontecelta 0,5 litros",
     "vendor_name": "DISGOBE SA"
+  },
+  {
+    "amount_eur": 150.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-09-28",
+    "record_id": "151:2092624",
+    "source_id": 2092624,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092624",
+    "subject": "COLABORACIÓN NO NÚM. 27 DA REVISTA GALEGA DE DEREITO SOCIAL",
+    "vendor_name": "LIDIA DE LA IGLESIA AZA"
+  },
+  {
+    "amount_eur": 337.8,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-09-28",
+    "record_id": "151:2092941",
+    "source_id": 2092941,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092941",
+    "subject": "reserva de salas para mediación Hotel Francisco II Ourense 2",
+    "vendor_name": "CEHOSGA INVERSIONES Y SERVICIOS SL"
   }
 ]

@@ -42,5 +42,49 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2088192",
     "subject": "Gestoría xullo",
     "vendor_name": "GESTORIA DE LA TORRE, S.L."
+  },
+  {
+    "amount_eur": 211.75,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-09-23",
+    "record_id": "273:2090919",
+    "source_id": 2090919,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2090919",
+    "subject": "Papelería Ledoira 01_0248056",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 478.56,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-09-23",
+    "record_id": "273:2090920",
+    "source_id": 2090920,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2090920",
+    "subject": "Papelería Ledoira 01_0248242",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 44.7,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-09-23",
+    "record_id": "273:2090922",
+    "source_id": 2090922,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2090922",
+    "subject": "Equaby Prevención E001363/26",
+    "vendor_name": "EQUABY PREVENCION, S.L."
+  },
+  {
+    "amount_eur": 2000.0,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-09-23",
+    "record_id": "273:2091130",
+    "source_id": 2091130,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091130",
+    "subject": "Apoio Cooperativo F/A/2026/00009",
+    "vendor_name": "APOIO COOPERATIVO SLU"
   }
 ]

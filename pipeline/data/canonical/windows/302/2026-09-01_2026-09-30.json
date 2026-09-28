@@ -1,1 +1,200 @@
-[]
+[
+  {
+    "amount_eur": 17924.7,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-25",
+    "record_id": "302:2092155",
+    "source_id": 2092155,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092155",
+    "subject": "Subministración dos reactivos de preparación e secuenciación de librerías de mostras ADN de oncohematoloxía (udade NGS/F",
+    "vendor_name": "PROQUINORTE SA"
+  },
+  {
+    "amount_eur": 15705.2,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-25",
+    "record_id": "302:2092156",
+    "source_id": 2092156,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092156",
+    "subject": "Subministración dos reactivos de preparación e secuenciación de librerías de mostras ADN de oncohematoloxía (udade NGS/F",
+    "vendor_name": "PROQUINORTE SA"
+  },
+  {
+    "amount_eur": 17325.08,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-25",
+    "record_id": "302:2092157",
+    "source_id": 2092157,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092157",
+    "subject": "Subministración dos reactivos de preparación e secuenciación de librerías de mostras ADN de oncohematoloxía (udade NGS/F",
+    "vendor_name": "PROQUINORTE SA"
+  },
+  {
+    "amount_eur": 17391.94,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-25",
+    "record_id": "302:2092158",
+    "source_id": 2092158,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092158",
+    "subject": "Subministración dos reactivos de preparación e secuenciación de librerías de mostras ADN de oncohematoloxía (udade NGS/F",
+    "vendor_name": "PROQUINORTE SA"
+  },
+  {
+    "amount_eur": 2745.19,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-25",
+    "record_id": "302:2092245",
+    "source_id": 2092245,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092245",
+    "subject": "Subministración de material funxible de laboratorio con destino ás unidades da FPGMX.",
+    "vendor_name": "VWR INTERNATIONAL EUROLAB, S.L."
+  },
+  {
+    "amount_eur": 18.39,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-25",
+    "record_id": "302:2092277",
+    "source_id": 2092277,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092277",
+    "subject": "Subministración de material de laboratorio con destino á unidade de citoxenética da FPGMX.",
+    "vendor_name": "R COSTOYA SL"
+  },
+  {
+    "amount_eur": 1326.16,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-25",
+    "record_id": "302:2092425",
+    "source_id": 2092425,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092425",
+    "subject": "Subministración de material funxible con destino á unidade de secuenciación masiva da FPGMX.",
+    "vendor_name": "BIOMOL SL"
+  },
+  {
+    "amount_eur": 17916.06,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-25",
+    "record_id": "302:2092444",
+    "source_id": 2092444,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092444",
+    "subject": "Subministración de reactivos de secuenciación de librerías de mostras de ADN con destino á unidade NGS/FPGMX.",
+    "vendor_name": "ROCHE DIAGNOSTICS S.L"
+  },
+  {
+    "amount_eur": 16928.17,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-25",
+    "record_id": "302:2092445",
+    "source_id": 2092445,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092445",
+    "subject": "Subministración de reactivos de secuenciación de librerías de mostras de ADN con destino á unidade NGS/FPGMX.",
+    "vendor_name": "ROCHE DIAGNOSTICS S.L"
+  },
+  {
+    "amount_eur": 855.59,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-25",
+    "record_id": "302:2092510",
+    "source_id": 2092510,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092510",
+    "subject": "Subministración de sales e complementos para a unidade de citoxenética da FPGMX.",
+    "vendor_name": "MERCK LIFE SCIENCE SLU"
+  },
+  {
+    "amount_eur": 9216.4,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-25",
+    "record_id": "302:2092540",
+    "source_id": 2092540,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092540",
+    "subject": "Subministración dos reactivos necesarios para a realización de análises moleculares da FPGMX.",
+    "vendor_name": "FISHER SCIENTIFIC, S.L."
+  },
+  {
+    "amount_eur": 10026.18,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-25",
+    "record_id": "302:2092560",
+    "source_id": 2092560,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092560",
+    "subject": "Subministración dos reactivos de secuenciación masiva (hibridación paneis e exomas) con destino á NGS/FPGMX.",
+    "vendor_name": "INTEGRATED DNA TECHNOLOGIES SPAIN, SOCIEDAD"
+  },
+  {
+    "amount_eur": 965.0,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-25",
+    "record_id": "302:2092593",
+    "source_id": 2092593,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092593",
+    "subject": "Servizos de laboratorio externo (estudo e análise de distrofia, non incluidos en carteira FPGMX) .",
+    "vendor_name": "ASOCIACION INSTITUTO BIODONOSTIA"
+  },
+  {
+    "amount_eur": 4256.18,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-28",
+    "record_id": "302:2092695",
+    "source_id": 2092695,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092695",
+    "subject": "Subministración de material plástico (puntas pipeta) para protocolos validados da unidade NGS/FPGMX.",
+    "vendor_name": "METTLER TOLEDO, S.A."
+  },
+  {
+    "amount_eur": 16512.57,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-28",
+    "record_id": "302:2092784",
+    "source_id": 2092784,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092784",
+    "subject": "Subministración de reactivos de secuenciación de librerías de mostras de ADN con destino á unidade NGS/FPGMX.",
+    "vendor_name": "PROQUINORTE SA"
+  },
+  {
+    "amount_eur": 1297.7,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-28",
+    "record_id": "302:2092878",
+    "source_id": 2092878,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092878",
+    "subject": "Subministración de reactivos para a área de farmacoxenética da FPGMX.",
+    "vendor_name": "CELTA INGENIEROS SL"
+  },
+  {
+    "amount_eur": 2508.94,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-28",
+    "record_id": "302:2092896",
+    "source_id": 2092896,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092896",
+    "subject": "Subministración de reactivos de laboratorio con destino á unidade de laboratorio central e enfermería.",
+    "vendor_name": "R COSTOYA SL"
+  },
+  {
+    "amount_eur": 3281.25,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-09-28",
+    "record_id": "302:2093056",
+    "source_id": 2093056,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093056",
+    "subject": "Subministración de reactivos de laboratorio con destino á unidade de farmacoxenética da FPGMX.",
+    "vendor_name": "FISHER SCIENTIFIC, S.L."
+  }
+]

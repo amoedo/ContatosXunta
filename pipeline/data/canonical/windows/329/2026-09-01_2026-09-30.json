@@ -163,5 +163,49 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089669",
     "subject": "Informe de proxecto execución para rehabilitación finca de L",
     "vendor_name": "APPLUS NORCONTROL SL"
+  },
+  {
+    "amount_eur": 44923.66,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-24",
+    "record_id": "329:2091322",
+    "source_id": 2091322,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091322",
+    "subject": "CM-S-2026/06 Subministración vehículo todoterreno tipo pickup",
+    "vendor_name": "GALCAR SA"
+  },
+  {
+    "amount_eur": 31.5,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-24",
+    "record_id": "329:2091462",
+    "source_id": 2091462,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091462",
+    "subject": "FACTURA VIAQUA",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 5164.99,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-25",
+    "record_id": "329:2091939",
+    "source_id": 2091939,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091939",
+    "subject": "Servizo de medición de parcelas forestais no Inventario Fore",
+    "vendor_name": "ROSA MARIA PONTES GOMEZ"
+  },
+  {
+    "amount_eur": 105.5,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-25",
+    "record_id": "329:2092285",
+    "source_id": 2092285,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092285",
+    "subject": "XERA-2026-002. FACT. FQ0017019 SUBMINISTRO DE BOTELLAS DE AU",
+    "vendor_name": "MERCARTABRIA SLU"
   }
 ]

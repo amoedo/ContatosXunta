@@ -317,5 +317,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2088478",
     "subject": "Fact. 43598 -  Servizos de restauración reunión traballo do director o 07.09.2026",
     "vendor_name": "JESUS ASOREY CARRIL"
+  },
+  {
+    "amount_eur": 2299.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-09-22",
+    "record_id": "64:2090081",
+    "source_id": 2090081,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2090081",
+    "subject": "Fact.6/2026-Conducción na Cerimonia de entrega dos Títulos de Excelencia Galega",
+    "vendor_name": "MARTA PEREZ TORRE"
+  },
+  {
+    "amount_eur": 8000.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-09-24",
+    "record_id": "64:2091854",
+    "source_id": 2091854,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091854",
+    "subject": "Patrocinio publicitario do Encontro titiriteiro 2026 en Muxía",
+    "vendor_name": "UNION INTERNACIONAL DE MARIONETISTAS DEL"
   }
 ]

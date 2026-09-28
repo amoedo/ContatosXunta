@@ -53,5 +53,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2089696",
     "subject": "Pago Fact nº G 000807 polo deseño e maquetación do tríptico",
     "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
+  },
+  {
+    "amount_eur": 367.62,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-09-25",
+    "record_id": "55:2092320",
+    "source_id": 2092320,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092320",
+    "subject": "SUMINISTRO MATERIAL DE OFICINA ISSGA DE SANTIAGO",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 8107.24,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-09-25",
+    "record_id": "55:2092376",
+    "source_id": 2092376,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092376",
+    "subject": "AD adquisición sudaderas como material promocional ISSGA",
+    "vendor_name": "ORENSANEX"
   }
 ]

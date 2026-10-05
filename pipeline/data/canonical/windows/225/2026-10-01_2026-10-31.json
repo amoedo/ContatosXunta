@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 112.46,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-10-01",
+    "record_id": "225:2094178",
+    "source_id": 2094178,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094178",
+    "subject": "Material oficina (carpeta arquivo)",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 40.32,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-10-01",
+    "record_id": "225:2094272",
+    "source_id": 2094272,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094272",
+    "subject": "Consumibles para plótter IET (setembro 2025 a abril 2026)",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 23.04,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-10-01",
+    "record_id": "225:2094273",
+    "source_id": 2094273,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094273",
+    "subject": "Consumibles para plótter abril-xuño 2026",
+    "vendor_name": "SOLITIUM SL"
+  }
+]

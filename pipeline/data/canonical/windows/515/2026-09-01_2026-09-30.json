@@ -251,5 +251,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092739",
     "subject": "FACTURA FV26A051494_FIRST STOP SOUTHWEST SAU_MANTEMENTO E SUBSTITUCIÓN 2 PNEUMÁTICOS VEHÍCULO MAT. 0958NHP",
     "vendor_name": "FIRST STOP SOUTHWEST SAU"
+  },
+  {
+    "amount_eur": 3400.0,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-29",
+    "record_id": "515:2093141",
+    "source_id": 2093141,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093141",
+    "subject": "&#34;Humanización do entorno de Santa Baia de Berredo&#34; DO",
+    "vendor_name": "JOSE OSCAR MENOR TESOURO"
+  },
+  {
+    "amount_eur": 5230.59,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-09-29",
+    "record_id": "515:2093163",
+    "source_id": 2093163,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093163",
+    "subject": "&#34;Humanización do entorno de Santa Baia de Berredo&#34; DEXOeCSS",
+    "vendor_name": "ROSA MARIA SUAREZ GONZALEZ"
   }
 ]

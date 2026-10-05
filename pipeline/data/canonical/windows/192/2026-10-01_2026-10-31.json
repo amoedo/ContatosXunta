@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 2428.24,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-10-01",
+    "record_id": "192:2094134",
+    "source_id": 2094134,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094134",
+    "subject": "DC/B20260922A - VIALES Y ELECTRODOS PH _ DICSA",
+    "vendor_name": "DISTRIBUCIONES INDUSTRIALES Y CIENTIFICAS SL"
+  },
+  {
+    "amount_eur": 1415.7,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-10-01",
+    "record_id": "192:2094180",
+    "source_id": 2094180,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094180",
+    "subject": "DC/CO20260921 - SUBMINISTRO NATIVE PFCAS - Cientisol SL",
+    "vendor_name": "CIENTISOL, S.L."
+  },
+  {
+    "amount_eur": 6975.0,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-10-01",
+    "record_id": "192:2094234",
+    "source_id": 2094234,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094234",
+    "subject": "AG/I20260929A- SUBMINISTRO CINTA GRABADORA COPIA SEGURIDADE",
+    "vendor_name": "PROINGE PYMES S L L"
+  }
+]

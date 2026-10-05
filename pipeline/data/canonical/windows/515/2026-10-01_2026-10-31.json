@@ -1,0 +1,57 @@
+[
+  {
+    "amount_eur": 1252.35,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-10-01",
+    "record_id": "515:2094165",
+    "source_id": 2094165,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094165",
+    "subject": "factura acto",
+    "vendor_name": "G 64 COMUNICACION, SL"
+  },
+  {
+    "amount_eur": 8509.68,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-10-02",
+    "record_id": "515:2094445",
+    "source_id": 2094445,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094445",
+    "subject": "Urbanización da contorna do Centro de Estancia de Campo Lame",
+    "vendor_name": "ALVARO GERMADE PORTELA"
+  },
+  {
+    "amount_eur": 3970.59,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-10-02",
+    "record_id": "515:2094464",
+    "source_id": 2094464,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094464",
+    "subject": "Humanización da Praza Pedro Fernández. DEXOeCSS",
+    "vendor_name": "ROSA MARIA SUAREZ GONZALEZ"
+  },
+  {
+    "amount_eur": 2647.06,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-10-02",
+    "record_id": "515:2094732",
+    "source_id": 2094732,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094732",
+    "subject": "Acordo de Coop. CVePI -Concello DE SAN XOÁN DE RÍO. Humaniza",
+    "vendor_name": "ARES INGENIERIA PUBLICA Y CIVIL SL"
+  },
+  {
+    "amount_eur": 6807.74,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-10-02",
+    "record_id": "515:2094893",
+    "source_id": 2094893,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094893",
+    "subject": "&#34;Urbanización da contorna do Centro de Estancia de Campo Lam",
+    "vendor_name": "ARELA ARQUITECTURA S.COOP.GALEGA"
+  }
+]

@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "amount_eur": 4779.5,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-09-29",
+    "record_id": "67:2093502",
+    "source_id": 2093502,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093502",
+    "subject": "Difusión de un BANNER 300x600 en la edición digital de ABC Galicia correspondiente a la campaña de Sogama  Cero exclusa",
+    "vendor_name": "PERIODICO ABC, S.L."
+  },
+  {
+    "amount_eur": 700.0,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-09-29",
+    "record_id": "67:2093543",
+    "source_id": 2093543,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093543",
+    "subject": "Colaboración con la Asociación Cultural Carballo Gordho en la celebración de sus fiestas parroquiales (Rodís-Cerceda)",
+    "vendor_name": "ASOCIACIÓN CULTURAL CARBALLO GHORDO"
+  }
+]

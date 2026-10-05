@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 332.75,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-10-01",
+    "record_id": "16:2093945",
+    "source_id": 2093945,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093945",
+    "subject": "Traslado de diverso mobilidario do IGAPE entre oficinas. Recollida en oficina de Pontevedra e traslado a Santiago",
+    "vendor_name": "ANGEL COTELO RAMOS"
+  },
+  {
+    "amount_eur": 407.0,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-10-01",
+    "record_id": "16:2094162",
+    "source_id": 2094162,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094162",
+    "subject": "Aluguer vehículo para visita dos representantes da Antena de Mexico á distintas asociacións en Galicia",
+    "vendor_name": "AUTOS RAYMA, SL"
+  },
+  {
+    "amount_eur": 506.89,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-10-05",
+    "record_id": "16:2095102",
+    "source_id": 2095102,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095102",
+    "subject": "Xestión da viaxe da Directora da Área de Innovación Empresarial a Sevilla do 22 o 23 de septembro 2026.",
+    "vendor_name": "W2M CORPORATE, SLU"
+  }
+]

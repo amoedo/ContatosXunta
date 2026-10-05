@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 20290.73,
+    "duration": "1 mes",
+    "organism_id": 66,
+    "publication_date": "2026-10-01",
+    "record_id": "66:2094244",
+    "source_id": 2094244,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094244",
+    "subject": "Soleira de formigón no CFEA de Lourizán",
+    "vendor_name": "IMPERVEDRA SL"
+  },
+  {
+    "amount_eur": 45689.6,
+    "duration": "1 mes",
+    "organism_id": 66,
+    "publication_date": "2026-10-01",
+    "record_id": "66:2094314",
+    "source_id": 2094314,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094314",
+    "subject": "Densímetro elctrónico con carrusel - LAFIGA",
+    "vendor_name": "CIENYTECH SOLUCIONES"
+  },
+  {
+    "amount_eur": 41506.63,
+    "duration": "1 mes",
+    "organism_id": 66,
+    "publication_date": "2026-10-01",
+    "record_id": "66:2094374",
+    "source_id": 2094374,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094374",
+    "subject": "espectrofotómetro no infravermello cercano, NIR _ LAFIGA",
+    "vendor_name": "ANTON PAAR SPAIN SL"
+  }
+]

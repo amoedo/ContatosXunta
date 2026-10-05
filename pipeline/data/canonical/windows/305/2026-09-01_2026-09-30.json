@@ -944,5 +944,49 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093124",
     "subject": "Tickets de parking para donantes",
     "vendor_name": "ELOYMAR SA ELOYMAR TRANVIAS UTE"
+  },
+  {
+    "amount_eur": 198.03,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-09-29",
+    "record_id": "305:2093325",
+    "source_id": 2093325,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093325",
+    "subject": "ENERXIA OURENSE",
+    "vendor_name": "IBERDROLA CLIENTES SA"
+  },
+  {
+    "amount_eur": 92.26,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-09-29",
+    "record_id": "305:2093548",
+    "source_id": 2093548,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093548",
+    "subject": "FRA.VEN30/2026/0051 FONDATION CROIX ROUGE LUXEMBOURGEOISE",
+    "vendor_name": "FONDATION DE LA CROIX-ROUGE LUXEMBOURGEOISE POUR"
+  },
+  {
+    "amount_eur": 17.47,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-09-30",
+    "record_id": "305:2093691",
+    "source_id": 2093691,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093691",
+    "subject": "Consumo - depuración Agua",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 98.21,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-09-30",
+    "record_id": "305:2093912",
+    "source_id": 2093912,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093912",
+    "subject": "COTA LIXO",
+    "vendor_name": "CONCELLO DE SANTIAGO DE COMPOSTELA"
   }
 ]

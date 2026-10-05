@@ -416,5 +416,60 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093069",
     "subject": "AG/CO20260922 - SUBMINISTRO (GC-MS) CROMATÓGRAFO DE GASES AC",
     "vendor_name": "AGILENT TECHNOLOGIES SPAIN SL"
+  },
+  {
+    "amount_eur": 2642.32,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-29",
+    "record_id": "192:2093528",
+    "source_id": 2093528,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093528",
+    "subject": "DC/M20260923A - SUBMINISTRO SONDAS TAQMAN - INQUALAB SCIENCE",
+    "vendor_name": "INQUALAB SCIENCE, SOCIEDAD LIMITADA"
+  },
+  {
+    "amount_eur": 4868.22,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-30",
+    "record_id": "192:2093623",
+    "source_id": 2093623,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093623",
+    "subject": "AG/B20260921A LAB CIFGA SA - PATRONES",
+    "vendor_name": "LABORATORIO CIFGA SA"
+  },
+  {
+    "amount_eur": 673.15,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-30",
+    "record_id": "192:2093664",
+    "source_id": 2093664,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093664",
+    "subject": "DC/B20260915A PROQUINORTE - ACETONITRILO",
+    "vendor_name": "PROQUINORTE SA"
+  },
+  {
+    "amount_eur": 104.06,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-30",
+    "record_id": "192:2093733",
+    "source_id": 2093733,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093733",
+    "subject": "DC/M20260916A - MATERIAL LABORATORIO _ CELTA INGENIEROS SL",
+    "vendor_name": "CELTA INGENIEROS SL"
+  },
+  {
+    "amount_eur": 1101.2,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-09-30",
+    "record_id": "192:2093839",
+    "source_id": 2093839,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093839",
+    "subject": "DC/FM20260923A - Renovacion licencias NCE y material informa",
+    "vendor_name": "INFOBRADOIRO CONSULTORES SL"
   }
 ]

@@ -1,0 +1,35 @@
+[
+  {
+    "amount_eur": 5999.69,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-05",
+    "record_id": "329:2095169",
+    "source_id": 2095169,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095169",
+    "subject": "PEF CIF - RF - RECOLLIDA DE LANDRA",
+    "vendor_name": "TREEKIT SOLUTIONS SL"
+  },
+  {
+    "amount_eur": 10176.1,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-05",
+    "record_id": "329:2095170",
+    "source_id": 2095170,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095170",
+    "subject": "PEF CIF - RF - RECOLLIDA DE LANDRA",
+    "vendor_name": "TREEKIT SOLUTIONS SL"
+  },
+  {
+    "amount_eur": 7744.0,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-05",
+    "record_id": "329:2095198",
+    "source_id": 2095198,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095198",
+    "subject": "PEF CIF - I+D+I - TRABALLOS DESBROCE",
+    "vendor_name": "SERVICIOS FORESTALES ARIZAGA, S L"
+  }
+]

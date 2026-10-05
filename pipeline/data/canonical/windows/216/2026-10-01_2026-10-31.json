@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 120.0,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-10-02",
+    "record_id": "216:2094515",
+    "source_id": 2094515,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094515",
+    "subject": "1 HABITACIÓN HOTEL OPERA MADRID. 11/12-JUNIO-2026. ROI FERNA",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 446.49,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-10-02",
+    "record_id": "216:2094516",
+    "source_id": 2094516,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094516",
+    "subject": "BILLETE AVION CORUÑA-MADRID-CORUÑA. 11/12-JUNIO-2026. ROI FE",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  }
+]

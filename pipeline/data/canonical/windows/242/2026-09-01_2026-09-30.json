@@ -394,5 +394,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092303",
     "subject": "Ud. de revisión y  reparación de 15 unidades de refrigeración do CSHG",
     "vendor_name": "FRIO GALICIA SL"
+  },
+  {
+    "amount_eur": 1046.65,
+    "duration": "1 mes",
+    "organism_id": 242,
+    "publication_date": "2026-09-30",
+    "record_id": "242:2093842",
+    "source_id": 2093842,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093842",
+    "subject": "TRABALLOS DE ADECUACION DO SISTEMA ELECTRICO NO CSHG",
+    "vendor_name": "ROIG PROFESIONAL SL"
+  },
+  {
+    "amount_eur": 9075.0,
+    "duration": "1 mes",
+    "organism_id": 242,
+    "publication_date": "2026-09-30",
+    "record_id": "242:2093883",
+    "source_id": 2093883,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093883",
+    "subject": "ACTUACIÓN MUSICAL &#34;A FABULA&#34; TRIBUTO A MECANO O 18 DE XULLO FESTAS DO CARME EN RIBADEO",
+    "vendor_name": "ADN GES PRO, SOCIEDAD LIMITADA"
+  },
+  {
+    "amount_eur": 2200.0,
+    "duration": "1 mes",
+    "organism_id": 242,
+    "publication_date": "2026-09-30",
+    "record_id": "242:2093890",
+    "source_id": 2093890,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093890",
+    "subject": "ACTUACIÓN MUSICAL A CARGO DA BANDA DE MÚSICA &#34;AGRUPACIÓN MUS",
+    "vendor_name": "ASOCIACIàN CULTURAL MUSICAL DAMBARA"
   }
 ]

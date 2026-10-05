@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 9000.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-10-02",
+    "record_id": "285:2094517",
+    "source_id": 2094517,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094517",
+    "subject": "cobertura fotográfico actos conselleira",
+    "vendor_name": "AGN AXENCIA GALEGA DE NOTICIAS SA"
+  },
+  {
+    "amount_eur": 16335.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-10-02",
+    "record_id": "285:2094796",
+    "source_id": 2094796,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094796",
+    "subject": "Informe adecuación capacidade pesqueira ao marco regulatorio",
+    "vendor_name": "BASE SOLUTIONS SL"
+  },
+  {
+    "amount_eur": 347.68,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-10-02",
+    "record_id": "285:2094842",
+    "source_id": 2094842,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094842",
+    "subject": "FRA.845387363-AGO26  AMT-2019-0037-CD6 CONT MARCO SUBM. E XE",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 88.1,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-10-02",
+    "record_id": "285:2094843",
+    "source_id": 2094843,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094843",
+    "subject": "FRA.845387364 ago26- XESTIÓN INTEGRAL MEDIOS DIXIT.E IMPRESI",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  }
+]

@@ -64,5 +64,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2090918",
     "subject": "SUBMINISTRACIÓN DE MATERIAL DE OFICINA",
     "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 623.15,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-09-30",
+    "record_id": "291:2093748",
+    "source_id": 2093748,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093748",
+    "subject": "SUBMINISTRACIÓN DE MATERIAL DE OFICINA",
+    "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
+  },
+  {
+    "amount_eur": 16.29,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-09-30",
+    "record_id": "291:2093857",
+    "source_id": 2093857,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093857",
+    "subject": "GASTOS DE CONSUMO E MANTEMENTO DAS MÁQUINAS DE IMPRESIÓN AGOSTO 2026",
+    "vendor_name": "RICOH ESPAÑA SLU"
   }
 ]

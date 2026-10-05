@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 840.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-10-02",
+    "record_id": "48:2094461",
+    "source_id": 2094461,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094461",
+    "subject": "12 promoción curso selectivo categoría oficial",
+    "vendor_name": "MARTA MARIA GARCIA SABIN"
+  },
+  {
+    "amount_eur": 179.08,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-10-02",
+    "record_id": "48:2094682",
+    "source_id": 2094682,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094682",
+    "subject": "LAMPARA PROXECTOR AULA 7",
+    "vendor_name": "RICARSAT, S.L."
+  },
+  {
+    "amount_eur": 1200.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-10-02",
+    "record_id": "48:2094694",
+    "source_id": 2094694,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094694",
+    "subject": "Curso de Google Earth para dispositivos de emergencias VOLUN",
+    "vendor_name": "LEARNLINE SOLUTIONS SLU"
+  },
+  {
+    "amount_eur": 1200.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-10-02",
+    "record_id": "48:2094695",
+    "source_id": 2094695,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094695",
+    "subject": "Curso para Profesionales",
+    "vendor_name": "LEARNLINE SOLUTIONS SLU"
+  }
+]

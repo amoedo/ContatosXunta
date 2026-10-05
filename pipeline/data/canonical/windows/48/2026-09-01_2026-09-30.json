@@ -130,5 +130,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092907",
     "subject": "proc selec promoción libre corpos Policía Local de Galicia, ambulancia",
     "vendor_name": "FUNERARIA Y AMBULANCIAS COMPOSTELA, S.L."
+  },
+  {
+    "amount_eur": 102.85,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-09-29",
+    "record_id": "48:2093473",
+    "source_id": 2093473,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093473",
+    "subject": "SOBRES (1000) 11x22mm vent/dereita 1/1t",
+    "vendor_name": "SERVIDEAS SERVICIOS INTEGRALES SLL"
+  },
+  {
+    "amount_eur": 221.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-09-30",
+    "record_id": "48:2093591",
+    "source_id": 2093591,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093591",
+    "subject": "xornais (prensa) nos meses de xullo e agosto",
+    "vendor_name": "DOLORES DURAN LOUZAO"
+  },
+  {
+    "amount_eur": 634.12,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-09-30",
+    "record_id": "48:2093747",
+    "source_id": 2093747,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093747",
+    "subject": "mantemento e reparación do coche adscrito á Agasp",
+    "vendor_name": "AUTOMOVILES K7, SL"
   }
 ]

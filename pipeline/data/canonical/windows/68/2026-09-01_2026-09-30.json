@@ -1197,5 +1197,49 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092656",
     "subject": "Adquisición de pezas do obradoiro Susana Anta destinadas á promoción e venda de Artesanía de Galicia",
     "vendor_name": "SUSANA ANTA LOPEZ"
+  },
+  {
+    "amount_eur": 110.0,
+    "duration": "1 mes",
+    "organism_id": 68,
+    "publication_date": "2026-09-29",
+    "record_id": "68:2093162",
+    "source_id": 2093162,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093162",
+    "subject": "Servizo de taxi para o traslado das persoas participantes nas xornadas Oficio, arquitectura e territorio en Chantada (Lu",
+    "vendor_name": "JUAN MONTES OTERO"
+  },
+  {
+    "amount_eur": 880.12,
+    "duration": "1 mes",
+    "organism_id": 68,
+    "publication_date": "2026-09-29",
+    "record_id": "68:2093401",
+    "source_id": 2093401,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093401",
+    "subject": "Aloxamento para as persoas docentes dos obradoiros nos campamentos de verán en Allariz",
+    "vendor_name": "VIUDA E HIJOS DE BERMUDEZ S L"
+  },
+  {
+    "amount_eur": 513.68,
+    "duration": "1 mes",
+    "organism_id": 68,
+    "publication_date": "2026-09-30",
+    "record_id": "68:2093583",
+    "source_id": 2093583,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093583",
+    "subject": "Participación nas xornadas Oficio, arquitectura e territorio en Chantada (Lugo). Celsa Pesqueira Sánchez",
+    "vendor_name": "M CELSA PESQUEIRA SANCHEZ"
+  },
+  {
+    "amount_eur": 15514.4,
+    "duration": "1 mes",
+    "organism_id": 68,
+    "publication_date": "2026-09-30",
+    "record_id": "68:2093783",
+    "source_id": 2093783,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093783",
+    "subject": "Docencia e material curso Fibranzas. Laboratorio de fibras vexetais perfeccionamento. Idoia Cuesta",
+    "vendor_name": "UNIPEKU SL"
   }
 ]

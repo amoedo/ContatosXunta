@@ -251,5 +251,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092701",
     "subject": "publicación Voz de Galicia",
     "vendor_name": "LA VOZ DE GALICIA SA"
+  },
+  {
+    "amount_eur": 17593.4,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-09-30",
+    "record_id": "285:2093728",
+    "source_id": 2093728,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093728",
+    "subject": "Subministro material para divulgación da Economía Azul",
+    "vendor_name": "GALLEGA DE PUBLICIDAD Y MERCHANDAISING SL"
+  },
+  {
+    "amount_eur": 18029.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-09-30",
+    "record_id": "285:2093844",
+    "source_id": 2093844,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093844",
+    "subject": "Festa Grumete",
+    "vendor_name": "SANTACOMPAÑA PRODUCCIONES"
   }
 ]

@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 6836.5,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-10-02",
+    "record_id": "290:2094459",
+    "source_id": 2094459,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094459",
+    "subject": "Gravación e edición dos vídeos dos premios de innovación",
+    "vendor_name": "MANUEL SILVA PIÑEIRO"
+  },
+  {
+    "amount_eur": 8349.0,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-10-02",
+    "record_id": "290:2094509",
+    "source_id": 2094509,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094509",
+    "subject": "CONTRATO FORMACION PRESENCIAL 18 HORAS CURSO CODIGO 2622039",
+    "vendor_name": "BIOSER SA"
+  },
+  {
+    "amount_eur": 4646.4,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-10-02",
+    "record_id": "290:2094510",
+    "source_id": 2094510,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094510",
+    "subject": "CONTRATO FORMACION PRACTICO CODIGO 2622034",
+    "vendor_name": "BIOSER SA"
+  },
+  {
+    "amount_eur": 10000.58,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-10-05",
+    "record_id": "290:2095101",
+    "source_id": 2095101,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095101",
+    "subject": "Alojamiento 15-17 septiembre COPENHAGUE-",
+    "vendor_name": "W2M CORPORATE, SLU"
+  },
+  {
+    "amount_eur": 515.63,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-10-05",
+    "record_id": "290:2095140",
+    "source_id": 2095140,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095140",
+    "subject": "SERVICIOS DE CATERING Y ALOJAMIENTO PONENTE CURSOS FORMACION",
+    "vendor_name": "CAMINO SANTO SL"
+  },
+  {
+    "amount_eur": 226.6,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-10-05",
+    "record_id": "290:2095246",
+    "source_id": 2095246,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095246",
+    "subject": "Reunión panelistas GPC sobre deprescripición de antidepresiv",
+    "vendor_name": "ALBARIN ALON S.L.U."
+  },
+  {
+    "amount_eur": 5269.05,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-10-05",
+    "record_id": "290:2095293",
+    "source_id": 2095293,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095293",
+    "subject": "SERVICOS DE PROTECCION DE PATENTES DO SERGAS",
+    "vendor_name": "HOFFMANN EITLE SL"
+  }
+]

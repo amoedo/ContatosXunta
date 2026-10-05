@@ -1,0 +1,46 @@
+[
+  {
+    "amount_eur": 428.99,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-10-01",
+    "record_id": "32:2094003",
+    "source_id": 2094003,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094003",
+    "subject": "CM26-76 Subministración de cafeteira para as dependencia das Axencia",
+    "vendor_name": "EL CORTE INGLES SA"
+  },
+  {
+    "amount_eur": 4065.6,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-10-01",
+    "record_id": "32:2094170",
+    "source_id": 2094170,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094170",
+    "subject": "CM26-81 Analise RUSTIK EIRA",
+    "vendor_name": "TECNOLOGIAS PLEXUS, S.L."
+  },
+  {
+    "amount_eur": 216.8,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-10-01",
+    "record_id": "32:2094194",
+    "source_id": 2094194,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094194",
+    "subject": "GC-01 Servizo de comida de traballo Restaurante Francisco López",
+    "vendor_name": "FRANCISCO LOPEZ RESTAURANTE ESPAÑA, S.L."
+  },
+  {
+    "amount_eur": 193.6,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-10-01",
+    "record_id": "32:2094278",
+    "source_id": 2094278,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094278",
+    "subject": "Instalación cerradura",
+    "vendor_name": "CERRAJERIA TRUCOS SLU"
+  }
+]

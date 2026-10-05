@@ -207,5 +207,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2092285",
     "subject": "XERA-2026-002. FACT. FQ0017019 SUBMINISTRO DE BOTELLAS DE AU",
     "vendor_name": "MERCARTABRIA SLU"
+  },
+  {
+    "amount_eur": 549.27,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-29",
+    "record_id": "329:2093226",
+    "source_id": 2093226,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093226",
+    "subject": "XERA 2026-008. FACT 016/2026, ARRENDAMENTO EDIFICIO XACOBEO-",
+    "vendor_name": "SA DE XESTION DO PLAN XACOBEO"
+  },
+  {
+    "amount_eur": 250.41,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-09-29",
+    "record_id": "329:2093372",
+    "source_id": 2093372,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093372",
+    "subject": "MATERIAL OFICINA",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
   }
 ]

@@ -339,5 +339,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2091854",
     "subject": "Patrocinio publicitario do Encontro titiriteiro 2026 en Muxía",
     "vendor_name": "UNION INTERNACIONAL DE MARIONETISTAS DEL"
+  },
+  {
+    "amount_eur": 478.46,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-09-29",
+    "record_id": "64:2093362",
+    "source_id": 2093362,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093362",
+    "subject": "Servizo de mantemento e reparación dun vehículo de Agadic 6267 DHV",
+    "vendor_name": "MANUEL LAGO CARTELLE SL"
+  },
+  {
+    "amount_eur": 7500.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-09-30",
+    "record_id": "64:2093563",
+    "source_id": 2093563,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2093563",
+    "subject": "Servizo de asesoramento lingüístico para as producións do CDG",
+    "vendor_name": "ROSA MARIA MOLEDO MANEIRO"
   }
 ]

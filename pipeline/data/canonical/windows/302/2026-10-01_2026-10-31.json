@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "amount_eur": 17372.02,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-10-08",
+    "record_id": "302:2096150",
+    "source_id": 2096150,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2096150",
+    "subject": "Subministración dos reactivos necesarios para a realización de análises moleculares da FPGMX.",
+    "vendor_name": "LIFE TECHNOLOGIES SA"
+  },
+  {
+    "amount_eur": 12467.02,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-10-08",
+    "record_id": "302:2096300",
+    "source_id": 2096300,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2096300",
+    "subject": "Subministración do material plástico funxible con destino á unidade de secuenciación masiva (NGS) da FPGMX.",
+    "vendor_name": "BIOMOL SL"
+  },
+  {
+    "amount_eur": 959.53,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-10-08",
+    "record_id": "302:2096316",
+    "source_id": 2096316,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2096316",
+    "subject": "Subministración do reactivo GOTAQ(R) G2 Flexi Dna100u para laboratorio central da FPGMX.",
+    "vendor_name": "PROMEGA BIOTECH IBERICA, SL"
+  },
+  {
+    "amount_eur": 523.81,
+    "duration": "1 mes",
+    "organism_id": 302,
+    "publication_date": "2026-10-08",
+    "record_id": "302:2096348",
+    "source_id": 2096348,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2096348",
+    "subject": "Subministración dun  reactivo para o laboratorio central da FPGMX.",
+    "vendor_name": "MERCK LIFE SCIENCE SLU"
+  }
+]

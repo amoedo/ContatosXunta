@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "amount_eur": 5294.28,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2026-10-07",
+    "record_id": "33:2095680",
+    "source_id": 2095680,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095680",
+    "subject": "Factura OHL IN2026-17368 do 31-08-2026",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 16933.95,
+    "duration": "1 mes",
+    "organism_id": 33,
+    "publication_date": "2026-10-07",
+    "record_id": "33:2095741",
+    "source_id": 2095741,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095741",
+    "subject": "Serv. apoio para posicionamento acción gal loita desperdicio",
+    "vendor_name": "ESTRATEGIA Y ORGANIZACION, SA"
+  }
+]

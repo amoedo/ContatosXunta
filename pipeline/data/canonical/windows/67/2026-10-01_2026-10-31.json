@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "amount_eur": 1264.45,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-10-09",
+    "record_id": "67:2096757",
+    "source_id": 2096757,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2096757",
+    "subject": "1 ordenador Portátil HP 200 G2i 40,6 cm (16 ) - WUXGA -Intel Core 5 1ra. Generación 120U  16 GB - 512 GB SSD  Meteor",
+    "vendor_name": "MIP CONFIGURACIONES INFORMATICA,SL"
+  },
+  {
+    "amount_eur": 405.35,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-10-09",
+    "record_id": "67:2096758",
+    "source_id": 2096758,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2096758",
+    "subject": "PLAN DE ALOJAMIENTO ANUAL AVANZADO DOMINIO LINUX (28-06-2026 AL 27-06-2027) para el correo y los datos de las plantas d",
+    "vendor_name": "MIP CONFIGURACIONES INFORMATICA,SL"
+  },
+  {
+    "amount_eur": 5379.66,
+    "duration": "1 mes",
+    "organism_id": 67,
+    "publication_date": "2026-10-09",
+    "record_id": "67:2096770",
+    "source_id": 2096770,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2096770",
+    "subject": "RENOVACIÓN DE LOS CONTRATOS CORPORATIVOS DE SOGAMA PARA SUSCRIPCIÓN DE PRODUCTOS MICROSOFT QUE ESTÁN PRÓXIMOS A VENCER",
+    "vendor_name": "RESPUESTAS Y SERVICIOS TECNOLOGICOS SL"
+  }
+]

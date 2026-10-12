@@ -108,5 +108,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095114",
     "subject": "Baños químicos para as actividades de Unha Tarde no Lago",
     "vendor_name": "SUMINISTROS GRALES MANUFACT,S L"
+  },
+  {
+    "amount_eur": 3267.0,
+    "duration": "1 mes",
+    "organism_id": 169,
+    "publication_date": "2026-10-07",
+    "record_id": "169:2095610",
+    "source_id": 2095610,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095610",
+    "subject": "Memoria de Actividades 2025",
+    "vendor_name": "JOSE BERNARDO PAZ CODESIDO"
+  },
+  {
+    "amount_eur": 259.56,
+    "duration": "1 mes",
+    "organism_id": 169,
+    "publication_date": "2026-10-07",
+    "record_id": "169:2095804",
+    "source_id": 2095804,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095804",
+    "subject": "Póliza de seguro piezas de la exposición Galicia Explora o ceo. Camiño da eclipse 2026,",
+    "vendor_name": "ASR SUSCRIPCION DE RIESGOS, S.L."
   }
 ]

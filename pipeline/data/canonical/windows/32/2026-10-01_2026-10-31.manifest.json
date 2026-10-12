@@ -3,9 +3,9 @@
   "date_boundaries": "inclusive",
   "date_end": "2026-10-31",
   "date_start": "2026-10-01",
-  "generated_at": "2026-10-05T05:44:47Z",
+  "generated_at": "2026-10-12T05:45:02Z",
   "organism_id": 32,
-  "record_count": 4,
-  "records_sha256": "6b9e342039f9951a9c2ad5bfd869b1b945a0bf3a6077e981df8e2828c6484c16",
+  "record_count": 5,
+  "records_sha256": "ed57752244b251c870b7eb925bc322a9f6b4e8f7a7ba2ae973fe9aa4e4e94fb3",
   "schema_version": 1
 }

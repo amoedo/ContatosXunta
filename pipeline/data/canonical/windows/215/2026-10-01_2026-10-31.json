@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "amount_eur": 3872.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-10-06",
+    "record_id": "215:2095514",
+    "source_id": 2095514,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095514",
+    "subject": "(SDTD)-2026-CM-310_Servizo de dinamización campaña Nadal",
+    "vendor_name": "O PETO MAXICO 2011"
+  },
+  {
+    "amount_eur": 82.5,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-10-06",
+    "record_id": "215:2095515",
+    "source_id": 2095515,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095515",
+    "subject": "SERVICIO DEE COFFE BREAK EN SALA DE XUNTAS EL DÍA 22 DE SEPT",
+    "vendor_name": "CATERING A CANTINA, SL."
+  }
+]

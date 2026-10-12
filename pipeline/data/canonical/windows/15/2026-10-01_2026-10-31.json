@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "amount_eur": 20.98,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-10-12",
+    "record_id": "15:2097741",
+    "source_id": 2097741,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097741",
+    "subject": "Prezo por copia impresoras servizo Consumo de Lugo. Agosto",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  }
+]

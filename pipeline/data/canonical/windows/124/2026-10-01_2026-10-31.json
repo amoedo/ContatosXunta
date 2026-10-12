@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "amount_eur": 12100.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-10-12",
+    "record_id": "124:2097163",
+    "source_id": 2097163,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097163",
+    "subject": "CTS-2026-0099 -  Subministro e instalación liña de vida",
+    "vendor_name": "VEOLIA SERVICIOS NORTE SAU"
+  },
+  {
+    "amount_eur": 17969.47,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-10-12",
+    "record_id": "124:2097273",
+    "source_id": 2097273,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097273",
+    "subject": "CTS-2026-0081- Dirección de obra, dirección de execución de obra, coordinación de seguridade e saúde contrucción Datacen",
+    "vendor_name": "G.O.C., S A"
+  },
+  {
+    "amount_eur": 363.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-10-12",
+    "record_id": "124:2097466",
+    "source_id": 2097466,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097466",
+    "subject": "CTS-2026-0106 - Subministro e instalación dun telefonillo",
+    "vendor_name": "SISTEMAS DE SEGURIDAD A1 SL"
+  },
+  {
+    "amount_eur": 618.31,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-10-12",
+    "record_id": "124:2097488",
+    "source_id": 2097488,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097488",
+    "subject": "CTS-2026-0108 - Merchan Fabricas IA",
+    "vendor_name": "BRAN SEREIGRAFIC,SL"
+  },
+  {
+    "amount_eur": 4840.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-10-12",
+    "record_id": "124:2097695",
+    "source_id": 2097695,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097695",
+    "subject": "CTS-2026-0105 - Tradución xurada italiano",
+    "vendor_name": "EUROLINGUA TRADUCIONS S.C."
+  },
+  {
+    "amount_eur": 1815.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-10-12",
+    "record_id": "124:2097707",
+    "source_id": 2097707,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097707",
+    "subject": "CTS-2026-0107 - Servizo de catering kick off meeting 1HealthAI",
+    "vendor_name": "ALBARIN CATERING S.L."
+  },
+  {
+    "amount_eur": 12100.0,
+    "duration": "1 mes",
+    "organism_id": 124,
+    "publication_date": "2026-10-12",
+    "record_id": "124:2097878",
+    "source_id": 2097878,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097878",
+    "subject": "CTS-2026-0097 - Diseminación e proxección exterior da 1HealthAI F RIES26",
+    "vendor_name": "ASOC CLUSTER SAUDE DE GALICIA CSG"
+  }
+]

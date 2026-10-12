@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "amount_eur": 566.28,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-10-06",
+    "record_id": "245:2095371",
+    "source_id": 2095371,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095371",
+    "subject": "24000 etiquetas Atriga",
+    "vendor_name": "GRAFICAS Y FORMULARIOS SA"
+  },
+  {
+    "amount_eur": 545.62,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-10-06",
+    "record_id": "245:2095400",
+    "source_id": 2095400,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095400",
+    "subject": "<contrato>9836422</contrato><periodicidad>BIMESTRAL</periodi. Auga",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 156.3,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-10-12",
+    "record_id": "245:2097619",
+    "source_id": 2097619,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097619",
+    "subject": "(ID: SL084538NE, ID: SL086299NE e ID: SL089315NE Setembro 20",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 201.1,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-10-12",
+    "record_id": "245:2097708",
+    "source_id": 2097708,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097708",
+    "subject": "XEROX HP TONER LASERJET M401/425(CF280X) No albará: 1-261853",
+    "vendor_name": "OFIDAR SUMINISTROS SL"
+  },
+  {
+    "amount_eur": 300.0,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-10-12",
+    "record_id": "245:2097894",
+    "source_id": 2097894,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097894",
+    "subject": "Curso Phyton",
+    "vendor_name": "INSTITUTO DE ESTUDIOS FISCALES MEH"
+  }
+]

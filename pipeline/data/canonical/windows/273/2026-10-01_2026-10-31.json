@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "amount_eur": 97.0,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-10-07",
+    "record_id": "273:2095673",
+    "source_id": 2095673,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095673",
+    "subject": "Parymar 6510",
+    "vendor_name": "PARYMAR SA"
+  },
+  {
+    "amount_eur": 669.84,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-10-07",
+    "record_id": "273:2095967",
+    "source_id": 2095967,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095967",
+    "subject": "Gestwin 3T",
+    "vendor_name": "INFORGES IT SERVICES, S.L."
+  }
+]

@@ -20,5 +20,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095151",
     "subject": "MATERIAL DE OFICINA MES DE SETEMBRO",
     "vendor_name": "OFIAGUS S L"
+  },
+  {
+    "amount_eur": 14399.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-10-07",
+    "record_id": "37:2095742",
+    "source_id": 2095742,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095742",
+    "subject": "informe final proxecto europeo VALLE-H2GAP",
+    "vendor_name": "ESTRATEGIA Y ORGANIZACION, SA"
+  },
+  {
+    "amount_eur": 14728.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-10-09",
+    "record_id": "37:2096414",
+    "source_id": 2096414,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2096414",
+    "subject": "Contratación do servizo de deseño, elaboración e posta en ma",
+    "vendor_name": "JAIME DARIO DOMINGUEZ PAZ"
   }
 ]

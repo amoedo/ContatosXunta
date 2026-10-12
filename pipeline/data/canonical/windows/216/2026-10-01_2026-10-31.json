@@ -20,5 +20,49 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094516",
     "subject": "BILLETE AVION CORUÑA-MADRID-CORUÑA. 11/12-JUNIO-2026. ROI FE",
     "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 60.43,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-10-06",
+    "record_id": "216:2095428",
+    "source_id": 2095428,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095428",
+    "subject": "GA.26043. FRA. REPARAC.ALARMA OFICINAS A.G.R-MONTE DOS POSTE",
+    "vendor_name": "SISTEMAS DE SEGURIDAD A1 SL"
+  },
+  {
+    "amount_eur": 1491.72,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-10-06",
+    "record_id": "216:2095429",
+    "source_id": 2095429,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095429",
+    "subject": "GA.26049.FRA. STMA.SEG,CONEX.CON CENTRAL RECEPT.ALARMA E SER",
+    "vendor_name": "SISTEMAS DE SEGURIDAD A1 SL"
+  },
+  {
+    "amount_eur": 381.76,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-10-06",
+    "record_id": "216:2095509",
+    "source_id": 2095509,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095509",
+    "subject": "GA26047. FRA. A00331/2026. ORGANIZACION ACTO PARA PRESENTACI",
+    "vendor_name": "AUDIOVISUALES MCN, S.L"
+  },
+  {
+    "amount_eur": 6161.32,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-10-06",
+    "record_id": "216:2095510",
+    "source_id": 2095510,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095510",
+    "subject": "GA26048. FRA. A00332/2026. ORGANIZACION ACTO PRESENTACIÓN AC",
+    "vendor_name": "AUDIOVISUALES MCN, S.L"
   }
 ]

@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "amount_eur": 14950.0,
+    "duration": "1 mes",
+    "organism_id": 301,
+    "publication_date": "2026-10-06",
+    "record_id": "301:2095328",
+    "source_id": 2095328,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095328",
+    "subject": "Servicio de consultoría técnica y científica para el Centro de Fabricación de Terapias Avanzadas de Galicia",
+    "vendor_name": "ELENA SOTILLO PIÑEIRO"
+  },
+  {
+    "amount_eur": 14385.69,
+    "duration": "1 mes",
+    "organism_id": 301,
+    "publication_date": "2026-10-06",
+    "record_id": "301:2095337",
+    "source_id": 2095337,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095337",
+    "subject": "Suministro de 10 ordenadores fijos,  5 monitores y cuatro portátiles",
+    "vendor_name": "ALBERTO GONZALEZ CASTAÑO"
+  },
+  {
+    "amount_eur": 10771.9,
+    "duration": "1 mes",
+    "organism_id": 301,
+    "publication_date": "2026-10-06",
+    "record_id": "301:2095390",
+    "source_id": 2095390,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095390",
+    "subject": "Mantenimiento del equipo de Citometría de flujo marca Becton Dickinson nº serie R663029000721",
+    "vendor_name": "BECTON DICKINSON S A"
+  },
+  {
+    "amount_eur": 18137.9,
+    "duration": "1 mes",
+    "organism_id": 301,
+    "publication_date": "2026-10-06",
+    "record_id": "301:2095511",
+    "source_id": 2095511,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095511",
+    "subject": "Actualización e instalación EDR, inventario de red y atención continua a usuarios",
+    "vendor_name": "DENOSO CONSULTING SL"
+  },
+  {
+    "amount_eur": 16503.43,
+    "duration": "1 mes",
+    "organism_id": 301,
+    "publication_date": "2026-10-06",
+    "record_id": "301:2095513",
+    "source_id": 2095513,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095513",
+    "subject": "Organización de las jornadas de Terapias Avanzadas: &#34;Estratexia Galega de Oncoloxía de precisión. Análise do presente e",
+    "vendor_name": "STAR PLANNING, SLU"
+  },
+  {
+    "amount_eur": 3388.0,
+    "duration": "1 mes",
+    "organism_id": 301,
+    "publication_date": "2026-10-06",
+    "record_id": "301:2095517",
+    "source_id": 2095517,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095517",
+    "subject": "Mantenimiento preventivo de instalaciones térmicas de climatización de las salas blancas existentes en CAR-T",
+    "vendor_name": "ECOCLIMA APLICACIONES, S.L."
+  },
+  {
+    "amount_eur": 10890.0,
+    "duration": "1 mes",
+    "organism_id": 301,
+    "publication_date": "2026-10-06",
+    "record_id": "301:2095532",
+    "source_id": 2095532,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095532",
+    "subject": "Asistencia técnica para la auditoría interna de cumplimiento respecto a los proyectos financiados fondos Next Generation",
+    "vendor_name": "BOS CONSULTING MILENIUM SL"
+  },
+  {
+    "amount_eur": 12489.86,
+    "duration": "1 mes",
+    "organism_id": 301,
+    "publication_date": "2026-10-06",
+    "record_id": "301:2095534",
+    "source_id": 2095534,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095534",
+    "subject": "Servicio de cualificación del sistema HVAC y de los equipos de aire y térmico, y calibraciones en la Unidad de Radiofárm",
+    "vendor_name": "QUALITY PHARMACEUTICAL CONSULTING SL"
+  },
+  {
+    "amount_eur": 12229.47,
+    "duration": "1 mes",
+    "organism_id": 301,
+    "publication_date": "2026-10-06",
+    "record_id": "301:2095537",
+    "source_id": 2095537,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095537",
+    "subject": "Suministro de una fuente radioactiva de Ge-68 para el equipo PET-TC Biograph Vision 600 de la marca SIEMENS",
+    "vendor_name": "RADIAPROT SL"
+  }
+]

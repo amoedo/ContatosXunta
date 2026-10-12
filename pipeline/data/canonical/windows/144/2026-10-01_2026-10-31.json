@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "amount_eur": 1573.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-10-07",
+    "record_id": "144:2095798",
+    "source_id": 2095798,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095798",
+    "subject": "Ensaios de tomas de terra  para a  legalización da  LMT de LU_598 Mondoñedo, cofinanciado co Fondo Europeo Agrícola de D",
+    "vendor_name": "SGS INSPECCIONES REGLAMENTARIAS SA"
+  },
+  {
+    "amount_eur": 4356.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-10-12",
+    "record_id": "144:2097053",
+    "source_id": 2097053,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097053",
+    "subject": "Servizo de elaboración de estudos de viabilidade, cálculos e documentación técnica necesarios para solicitude de frecuen",
+    "vendor_name": "JOSE MANUEL GOMEZ QUINTELA"
+  },
+  {
+    "amount_eur": 7726.98,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-10-12",
+    "record_id": "144:2097889",
+    "source_id": 2097889,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097889",
+    "subject": "Servizo de adecuación de acometida eléctrica e do centro de transformación do centro de telecomunicación sito en Forcare",
+    "vendor_name": "INTEPO SC"
+  }
+]

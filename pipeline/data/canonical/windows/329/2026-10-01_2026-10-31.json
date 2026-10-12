@@ -31,5 +31,60 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095198",
     "subject": "PEF CIF - I+D+I - TRABALLOS DESBROCE",
     "vendor_name": "SERVICIOS FORESTALES ARIZAGA, S L"
+  },
+  {
+    "amount_eur": 11999.74,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-07",
+    "record_id": "329:2095858",
+    "source_id": 2095858,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095858",
+    "subject": "PEF CIF - RF - MARCADO",
+    "vendor_name": "H2O INICIATIVAS NO MEDIO RURAL S.L.N.E."
+  },
+  {
+    "amount_eur": 20.0,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-07",
+    "record_id": "329:2095898",
+    "source_id": 2095898,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095898",
+    "subject": "PEF CIF - RF - TARXETAS",
+    "vendor_name": "REDINOR SL"
+  },
+  {
+    "amount_eur": 279.51,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-09",
+    "record_id": "329:2096591",
+    "source_id": 2096591,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2096591",
+    "subject": "factura servizos parque tecnolóxico cis madeira",
+    "vendor_name": "PARQUE TECNOLOGICO DE GALICIA,SA"
+  },
+  {
+    "amount_eur": 13.6,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-09",
+    "record_id": "329:2096954",
+    "source_id": 2096954,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2096954",
+    "subject": "factura fotocopias ricoh sp cis madeira",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 5996.18,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-09",
+    "record_id": "329:2097039",
+    "source_id": 2097039,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097039",
+    "subject": "PEF CIF - RF - Servizos laboratorio",
+    "vendor_name": "UNIVERSIDADE DA CORUÑA"
   }
 ]

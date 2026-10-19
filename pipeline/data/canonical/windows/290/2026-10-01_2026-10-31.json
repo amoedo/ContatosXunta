@@ -174,5 +174,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097891",
     "subject": "Inscripción curso de formación de Operadores: Módulo del Campo de aplicación de Protonterapia. Madrid 16-21 noviembre 20",
     "vendor_name": "UNIVERSIDAD DE NAVARRA"
+  },
+  {
+    "amount_eur": 2813.25,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-10-14",
+    "record_id": "290:2097901",
+    "source_id": 2097901,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097901",
+    "subject": "Código: 2621484 Curso: &#34;Intelixencia emocional e social",
+    "vendor_name": "M BELEN VARELA ROMERO"
+  },
+  {
+    "amount_eur": 138.97,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-10-14",
+    "record_id": "290:2097904",
+    "source_id": 2097904,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097904",
+    "subject": "ALQUILER Y MANTENIMIENTO DE RICOH MP 6503 EN AXENCIA GALEGA",
+    "vendor_name": "ANGEL MORA FERNANDEZ"
+  },
+  {
+    "amount_eur": 98.05,
+    "duration": "1 mes",
+    "organism_id": 290,
+    "publication_date": "2026-10-14",
+    "record_id": "290:2097905",
+    "source_id": 2097905,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097905",
+    "subject": "ALQUILER Y MANTENIMIENTO DE HP LASERJET M652DN EN AXENCIA GA",
+    "vendor_name": "ANGEL MORA FERNANDEZ"
   }
 ]

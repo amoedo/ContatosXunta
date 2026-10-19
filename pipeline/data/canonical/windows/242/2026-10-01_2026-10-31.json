@@ -130,5 +130,49 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097881",
     "subject": "Actividade no marco dos concertos do Xacobeo: Soa Suarna 202",
     "vendor_name": "XUVENTUDE DO NAVIA"
+  },
+  {
+    "amount_eur": 2000.0,
+    "duration": "1 mes",
+    "organism_id": 242,
+    "publication_date": "2026-10-15",
+    "record_id": "242:2098290",
+    "source_id": 2098290,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098290",
+    "subject": "Patrocinio Triple Corona Illas Atlánticos Cíes-Baiona",
+    "vendor_name": "BEATRIZ ALVARIÑO DIAZ DEL RIO"
+  },
+  {
+    "amount_eur": 3500.0,
+    "duration": "1 mes",
+    "organism_id": 242,
+    "publication_date": "2026-10-15",
+    "record_id": "242:2098381",
+    "source_id": 2098381,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098381",
+    "subject": "SOLICITA PITUSA: CAMINO DE SANTIAGO (SARRIA - SANTIAGO) PARA",
+    "vendor_name": "AGENCIA VIAJES PACO SA"
+  },
+  {
+    "amount_eur": 2117.5,
+    "duration": "1 mes",
+    "organism_id": 242,
+    "publication_date": "2026-10-15",
+    "record_id": "242:2098683",
+    "source_id": 2098683,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098683",
+    "subject": "DIRECCIÓN DE OBRA DE REFORMA del Edificio para Centro de Aco",
+    "vendor_name": "SIXTO Y VALES ARQUITECTOS SL"
+  },
+  {
+    "amount_eur": 5904.8,
+    "duration": "1 mes",
+    "organism_id": 242,
+    "publication_date": "2026-10-16",
+    "record_id": "242:2098710",
+    "source_id": 2098710,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098710",
+    "subject": "40% de los honorarios por el servicio de secretaría técnica",
+    "vendor_name": "VIRGINIA PEREZ GARCIA"
   }
 ]

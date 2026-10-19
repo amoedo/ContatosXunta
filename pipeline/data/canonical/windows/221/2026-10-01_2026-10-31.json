@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "amount_eur": 4542.79,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-10-19",
+    "record_id": "221:2099270",
+    "source_id": 2099270,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099270",
+    "subject": "Subministración de cadeiras de oficina para o Servizo Provincial da AXI en Lugo",
+    "vendor_name": "KL 1 MOBILIARIO OFICINA SL"
+  },
+  {
+    "amount_eur": 6171.61,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-10-19",
+    "record_id": "221:2099302",
+    "source_id": 2099302,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099302",
+    "subject": "Subministración de cadeiras de oficina e mesas con alas taquigráficas e caixoneiras para despachos do Servizo Provincial",
+    "vendor_name": "EQUIPAMENTOS CAVADO S L"
+  },
+  {
+    "amount_eur": 18119.75,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-10-19",
+    "record_id": "221:2099306",
+    "source_id": 2099306,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099306",
+    "subject": "Escavación arqueolóxica na contorna de protección do Castro de Queixeiro afectado pola variante de Carballo",
+    "vendor_name": "NOEGA INGENIEROS, S.L."
+  },
+  {
+    "amount_eur": 13283.38,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-10-19",
+    "record_id": "221:2099367",
+    "source_id": 2099367,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099367",
+    "subject": "Reforzo de firme nas estradas PO-548, VG-4.2, PO-224, PO-305 e PO-316",
+    "vendor_name": "EUROTEC INSPECCCION SL"
+  }
+]

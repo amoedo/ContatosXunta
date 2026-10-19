@@ -20,5 +20,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095515",
     "subject": "SERVICIO DEE COFFE BREAK EN SALA DE XUNTAS EL DÍA 22 DE SEPT",
     "vendor_name": "CATERING A CANTINA, SL."
+  },
+  {
+    "amount_eur": 5602.3,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-10-15",
+    "record_id": "215:2098581",
+    "source_id": 2098581,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098581",
+    "subject": "(TFCC)-2026-CM-618 Servizo de medios audiovisuais, escenográ",
+    "vendor_name": "SPICA SL"
+  },
+  {
+    "amount_eur": 15932.77,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-10-15",
+    "record_id": "215:2098699",
+    "source_id": 2098699,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098699",
+    "subject": "Licencias iText, contrato menor ADIX-2026-CM-042-Licencas_iT",
+    "vendor_name": "APRYSE SOFTWARE BV"
+  },
+  {
+    "amount_eur": 17968.5,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-10-16",
+    "record_id": "215:2098936",
+    "source_id": 2098936,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098936",
+    "subject": "(ADSC)-2026-CM-110 soporte sist. de xestión bibliotecas",
+    "vendor_name": "MICROMEDIA SL"
   }
 ]

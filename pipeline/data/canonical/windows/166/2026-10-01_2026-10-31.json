@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "amount_eur": 605.0,
+    "duration": "1 mes",
+    "organism_id": 166,
+    "publication_date": "2026-10-15",
+    "record_id": "166:2098610",
+    "source_id": 2098610,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098610",
+    "subject": "Subministración de material funxible para o Laboratorio de Fisicoquímica da Fundación Centro Tecnolóxico da Carne.",
+    "vendor_name": "SCHARLAB, SL"
+  }
+]

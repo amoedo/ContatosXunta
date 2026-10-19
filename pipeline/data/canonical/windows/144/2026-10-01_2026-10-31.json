@@ -31,5 +31,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097889",
     "subject": "Servizo de adecuación de acometida eléctrica e do centro de transformación do centro de telecomunicación sito en Forcare",
     "vendor_name": "INTEPO SC"
+  },
+  {
+    "amount_eur": 4035.35,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-10-14",
+    "record_id": "144:2098278",
+    "source_id": 2098278,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098278",
+    "subject": "Subministración de carteis de prevención de riscos laborais",
+    "vendor_name": "GRAFIDELUXE DISEÑO Y ROTULACION, S.C."
+  },
+  {
+    "amount_eur": 2420.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-10-15",
+    "record_id": "144:2098518",
+    "source_id": 2098518,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098518",
+    "subject": "Servizo de reparación e verificación de acometida eléctrica do centro de telecomunicación sito en Quiroga, provincia de",
+    "vendor_name": "ELECTRIC CURTIS SL"
   }
 ]

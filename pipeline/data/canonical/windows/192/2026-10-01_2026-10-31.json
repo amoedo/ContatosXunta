@@ -317,5 +317,82 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097038",
     "subject": "DC/M20260929A - CULTIVOS MICROBIOLÓGICOS - CECT U. VALENCIA",
     "vendor_name": "UNIVERSITAT DE VALENCIA (ESTUDI GRAL.DE"
+  },
+  {
+    "amount_eur": 166.9,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-10-14",
+    "record_id": "192:2097902",
+    "source_id": 2097902,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097902",
+    "subject": "DC/F20261005A - MONTAR MANGAS PLANCTON - PESCA PEREZ",
+    "vendor_name": "MARGARITA FILGUEIRA POUSO"
+  },
+  {
+    "amount_eur": 761.94,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-10-14",
+    "record_id": "192:2098093",
+    "source_id": 2098093,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098093",
+    "subject": "DC/F20261009B- ACETONA- DASAN CIENTIFICA SL",
+    "vendor_name": "DASAN CIENTIFICA S.L"
+  },
+  {
+    "amount_eur": 514.25,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-10-14",
+    "record_id": "192:2098126",
+    "source_id": 2098126,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098126",
+    "subject": "DC/F20261009c- REPARACION CAMARA CLIMAS- INSTALACIONES HERFE",
+    "vendor_name": "INSTALACIONES HERFER SL"
+  },
+  {
+    "amount_eur": 40368.02,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-10-14",
+    "record_id": "192:2098163",
+    "source_id": 2098163,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098163",
+    "subject": "AG/F20261009A- SUBMINISTRO 5 CAMARAS NIKON - STIN S.L.",
+    "vendor_name": "SERVICIOS TECNICOS INTEGRADOS DEL NOROES"
+  },
+  {
+    "amount_eur": 505.78,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-10-14",
+    "record_id": "192:2098255",
+    "source_id": 2098255,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098255",
+    "subject": "DC/CH20260928C FILTROS - PHENOMENEX ESPAÑA SLU",
+    "vendor_name": "PHENOMENEX ESPAÑA SL"
+  },
+  {
+    "amount_eur": 15481.95,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-10-14",
+    "record_id": "192:2098266",
+    "source_id": 2098266,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098266",
+    "subject": "AG/B20261010A - EQUIPO CAMBIADOR DE MOSTRAS -METROHM HISPANI",
+    "vendor_name": "METROHM HISPANIA SLU"
+  },
+  {
+    "amount_eur": 2722.5,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-10-16",
+    "record_id": "192:2098924",
+    "source_id": 2098924,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098924",
+    "subject": "DC/B20261009A -FILTROS XERINGA- SUAGUIL S.L.",
+    "vendor_name": "SUAGUIL, S.L.U."
   }
 ]

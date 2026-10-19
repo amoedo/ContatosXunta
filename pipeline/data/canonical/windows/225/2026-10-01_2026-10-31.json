@@ -31,5 +31,60 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2094273",
     "subject": "Consumibles para plótter abril-xuño 2026",
     "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 853.56,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-10-14",
+    "record_id": "225:2097967",
+    "source_id": 2097967,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097967",
+    "subject": "CM 04/2026 Gastos comunidade edificio IET Eduardo Pondal 30",
+    "vendor_name": "COMPOSTELA BEACH SA"
+  },
+  {
+    "amount_eur": 223.08,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-10-14",
+    "record_id": "225:2098087",
+    "source_id": 2098087,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098087",
+    "subject": "CM5.2026 Subministración electricidade edif. Ed.Pondal 30-3º",
+    "vendor_name": "IBERDROLA CLIENTES SA"
+  },
+  {
+    "amount_eur": 90.45,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-10-14",
+    "record_id": "225:2098088",
+    "source_id": 2098088,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098088",
+    "subject": "CM05.2026 Subministración electricidade edif. Ed.Pondal 30-4",
+    "vendor_name": "IBERDROLA CLIENTES SA"
+  },
+  {
+    "amount_eur": 28.8,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-10-14",
+    "record_id": "225:2098173",
+    "source_id": 2098173,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098173",
+    "subject": "Gastos plotter xuño a setembro 2026",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 589.15,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-10-16",
+    "record_id": "225:2098848",
+    "source_id": 2098848,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098848",
+    "subject": "CM 06/2026 Servizo limpeza edif Eduardo Pondal setembro 2026",
+    "vendor_name": "SAMAIN SERVIZOS A COMUNIDADE SA"
   }
 ]

@@ -31,5 +31,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095901",
     "subject": "Traslado da embarcación Nuevo Gavilán o porto de O Xufre á explanada do porto de Tragove.",
     "vendor_name": "SUBDRAMAR 2008 SL"
+  },
+  {
+    "amount_eur": 2326.83,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-10-15",
+    "record_id": "34:2098517",
+    "source_id": 2098517,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098517",
+    "subject": "Soporte técnico e mantemento correctivo para a aplicación de xestión de remesas (bolsa de 25 horas)",
+    "vendor_name": "EMETEL SISTEMAS SL"
+  },
+  {
+    "amount_eur": 3690.5,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-10-19",
+    "record_id": "34:2099282",
+    "source_id": 2099282,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099282",
+    "subject": "Servicio urxente de traballos submarinos para a reparación puntual, por razóns de seguridade, da comporta do porto de Ma",
+    "vendor_name": "MAR SERVICIOS SUMARINOS, S.L"
   }
 ]

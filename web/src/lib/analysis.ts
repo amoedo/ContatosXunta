@@ -168,7 +168,17 @@ export type AnalysisData = AnalysisBreakdown & {
 
 function round(value: number, digits = 2) {
   const factor = 10 ** digits;
-  return Math.round((value + Number.EPSILON) * factor) / factor;
+  const magnitude = Math.abs(value);
+  const scaled = magnitude * factor;
+  // Python round() uses the stored binary value and breaks exact ties to even.
+  // Multiplying first can turn a value just below a tie (415.195) into a tie.
+  // A decimal midpoint is exactly binary-representable only when this power
+  // of two also scales it to an integer.
+  if (Number.isInteger(magnitude * 2 ** (digits + 1)) && scaled % 1 === 0.5) {
+    const lower = Math.floor(scaled);
+    return Math.sign(value) * (lower + lower % 2) / factor;
+  }
+  return Number(value.toFixed(digits));
 }
 
 function percentile(orderedValues: number[], fraction: number) {

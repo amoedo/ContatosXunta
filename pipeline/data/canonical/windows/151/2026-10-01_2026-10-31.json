@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "amount_eur": 40.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-10-21",
+    "record_id": "151:2099955",
+    "source_id": 2099955,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099955",
+    "subject": "Gastos de asistencia XI Congreso Internacional transparencia",
+    "vendor_name": "ANTONIO MARTINEZ PIÑEIRO"
+  },
+  {
+    "amount_eur": 455.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-10-21",
+    "record_id": "151:2100031",
+    "source_id": 2100031,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100031",
+    "subject": "Aloxamento da secretaria do Consello para a asistencia á xor",
+    "vendor_name": "VIAJES GALITUR SL"
+  },
+  {
+    "amount_eur": 370.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-10-21",
+    "record_id": "151:2100032",
+    "source_id": 2100032,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100032",
+    "subject": "Desprazamento presidenta do CGRL asistencia á xornada da Fun",
+    "vendor_name": "VIAJES GALITUR SL"
+  },
+  {
+    "amount_eur": 2500.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-10-21",
+    "record_id": "151:2100042",
+    "source_id": 2100042,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100042",
+    "subject": "Colaboración coa xornada didáctica e divulgativa XXVIII xorn",
+    "vendor_name": "NOVA DE CONGRESOS SL"
+  },
+  {
+    "amount_eur": 161.06,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-10-21",
+    "record_id": "151:2100065",
+    "source_id": 2100065,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100065",
+    "subject": "material de oficina setembro 2026",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 423.5,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-10-23",
+    "record_id": "151:2100749",
+    "source_id": 2100749,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100749",
+    "subject": "RESERVA DE SALÓNS REUNÍONS AGA 93/26. DATA:14/10/2026",
+    "vendor_name": "COIA HOTEL TUR SA"
+  }
+]

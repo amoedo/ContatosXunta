@@ -75,5 +75,60 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099018",
     "subject": "AUG-2026-0074 GA26024. SUBMINISTRACION FINALIZADOR GRAMPADOR",
     "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 496.1,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-10-22",
+    "record_id": "216:2100518",
+    "source_id": 2100518,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100518",
+    "subject": "GA26051. FRA. A00344/2026.ACTO PRESENTACIÓN AMPLIACION E MEL",
+    "vendor_name": "AUDIOVISUALES MCN, S.L"
+  },
+  {
+    "amount_eur": 436.81,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-10-22",
+    "record_id": "216:2100519",
+    "source_id": 2100519,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100519",
+    "subject": "GA26051. FRA. A00345/2026.ACTO PRESENTACIÓN CX E EDAR DE BEO",
+    "vendor_name": "AUDIOVISUALES MCN, S.L"
+  },
+  {
+    "amount_eur": 17956.4,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-10-26",
+    "record_id": "216:2101302",
+    "source_id": 2101302,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101302",
+    "subject": "AUG-2026-0073 GA26018. SUBMINISTRACION DE DOCKING STATION US",
+    "vendor_name": "INFORMATICA ELINFO,SL"
+  },
+  {
+    "amount_eur": 72.2,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-10-26",
+    "record_id": "216:2101310",
+    "source_id": 2101310,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101310",
+    "subject": "GA.26053-FRA.RESTAURACIÓN XORNADA CELEBRAC. CONSELLO RECTOR",
+    "vendor_name": "GASTROMESA,S.L."
+  },
+  {
+    "amount_eur": 6921.2,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-10-26",
+    "record_id": "216:2101459",
+    "source_id": 2101459,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101459",
+    "subject": "AUG-2026-0085. GA26052. AUDIT. EXTERNA REQUISITOS ESQUEMA NA",
+    "vendor_name": "AUDERTIS AUDIT SERVICES S.L."
   }
 ]

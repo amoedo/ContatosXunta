@@ -185,5 +185,126 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099242",
     "subject": "Factura tarxeta solred peaxes 4508FYJ",
     "vendor_name": "SOLRED, S.A."
+  },
+  {
+    "amount_eur": 5904.8,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-20",
+    "record_id": "329:2099447",
+    "source_id": 2099447,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099447",
+    "subject": "CIF Lourizán - S1/2.7/FO122 - COOPTREE (2025/0006) - Recolli",
+    "vendor_name": "MARCOS ANGEL CASTRO RIVERA"
+  },
+  {
+    "amount_eur": 834.9,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-20",
+    "record_id": "329:2099450",
+    "source_id": 2099450,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099450",
+    "subject": "PEF CIF - CAP. 2 - TRATAMENTO PALMEIRAS",
+    "vendor_name": "TEODORO FERNANDEZ PAMPILLON"
+  },
+  {
+    "amount_eur": 1563.93,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-20",
+    "record_id": "329:2099687",
+    "source_id": 2099687,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099687",
+    "subject": "PEF CIF - RF - DESBROCE EN BENADE",
+    "vendor_name": "DEFORGAL XXI SL"
+  },
+  {
+    "amount_eur": 1149.5,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-22",
+    "record_id": "329:2100313",
+    "source_id": 2100313,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100313",
+    "subject": "PEF CIF - I+D+I - Preparación e presentación da proposta LIF",
+    "vendor_name": "DESARROLLO DE ESTRATEGIAS EXTERIORES, SA"
+  },
+  {
+    "amount_eur": 5408.7,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-22",
+    "record_id": "329:2100351",
+    "source_id": 2100351,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100351",
+    "subject": "FACT. 58 - DESBROCES LAMAS SL - CIF LOURIZAN - RF2025/7",
+    "vendor_name": "DESBROCES LAMAS S.L."
+  },
+  {
+    "amount_eur": 968.0,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-22",
+    "record_id": "329:2100469",
+    "source_id": 2100469,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100469",
+    "subject": "PEF CIF - I+D+I - Desbroce parcela CIF Lourizán",
+    "vendor_name": "SERVICIOS FORESTALES ARIZAGA, S L"
+  },
+  {
+    "amount_eur": 1914.22,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-22",
+    "record_id": "329:2100471",
+    "source_id": 2100471,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100471",
+    "subject": "PEF CIF - RF2025/04- TRABALLOS DE MELLORA DE CÁMARAS DE CREC",
+    "vendor_name": "INVESTIGACION Y DESARROLLO DEL LEREZ SL"
+  },
+  {
+    "amount_eur": 17061.0,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-22",
+    "record_id": "329:2100574",
+    "source_id": 2100574,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100574",
+    "subject": "PEF CIF - I+D+I - Desbroce, tala para acceso e limpeza de mi",
+    "vendor_name": "TRABAJOS FORESTALES RIAS BAIXAS SL"
+  },
+  {
+    "amount_eur": 37.41,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-23",
+    "record_id": "329:2100889",
+    "source_id": 2100889,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100889",
+    "subject": "MATERIAL OFICINA",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 27.5,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-26",
+    "record_id": "329:2101132",
+    "source_id": 2101132,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101132",
+    "subject": "XERA 2025-041. fact.FV/2025/000271 DIEGO FERREIRA, recollida",
+    "vendor_name": "DIEGO FERREIRA TOBIO"
+  },
+  {
+    "amount_eur": 217.8,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-26",
+    "record_id": "329:2101438",
+    "source_id": 2101438,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101438",
+    "subject": "PEF CIF - NATURGY - ARRANXO MUFLA",
+    "vendor_name": "SELPALAB S.L."
   }
 ]

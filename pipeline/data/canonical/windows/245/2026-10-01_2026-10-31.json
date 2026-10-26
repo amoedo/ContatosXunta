@@ -53,5 +53,49 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2097894",
     "subject": "Curso Phyton",
     "vendor_name": "INSTITUTO DE ESTUDIOS FISCALES MEH"
+  },
+  {
+    "amount_eur": 4761.41,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-10-20",
+    "record_id": "245:2099483",
+    "source_id": 2099483,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099483",
+    "subject": "campaña renda_16 acondicionadores portatiles",
+    "vendor_name": "TORRES Y SAEZ SAU"
+  },
+  {
+    "amount_eur": 5289.65,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-10-20",
+    "record_id": "245:2099612",
+    "source_id": 2099612,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099612",
+    "subject": "Comisiones por operaciones TPV- Junio 2026",
+    "vendor_name": "ABANCA CORPORACION BANCARIA SA"
+  },
+  {
+    "amount_eur": 722.37,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-10-20",
+    "record_id": "245:2099669",
+    "source_id": 2099669,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099669",
+    "subject": "3 cadeireas new light",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  },
+  {
+    "amount_eur": 7434.24,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-10-20",
+    "record_id": "245:2099848",
+    "source_id": 2099848,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099848",
+    "subject": "SAI Coruña",
+    "vendor_name": "MANTENIMIENTO TECNOLOGICO DEL NOROESTE SL"
   }
 ]

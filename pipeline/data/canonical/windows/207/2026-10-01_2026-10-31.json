@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "amount_eur": 12342.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-10-21",
+    "record_id": "207:2100130",
+    "source_id": 2100130,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100130",
+    "subject": "apoyo en diseño gráfico y comunicación SECWEB 2.0",
+    "vendor_name": "VISUAL PUBLINET, S.L."
+  },
+  {
+    "amount_eur": 11600.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-10-22",
+    "record_id": "207:2100242",
+    "source_id": 2100242,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100242",
+    "subject": "curso de Laminado",
+    "vendor_name": "XOSE LOIS PAZOS CAMPOS"
+  },
+  {
+    "amount_eur": 3800.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-10-22",
+    "record_id": "207:2100245",
+    "source_id": 2100245,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100245",
+    "subject": "velería y neumática",
+    "vendor_name": "VICTOR ROBLEDA BARCIA"
+  },
+  {
+    "amount_eur": 18148.79,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-10-22",
+    "record_id": "207:2100251",
+    "source_id": 2100251,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100251",
+    "subject": "Organizacion, formacion, capacitación CAPACITAMEXi",
+    "vendor_name": "MARIA JOSE BLANCO SOMOZA"
+  },
+  {
+    "amount_eur": 8470.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-10-22",
+    "record_id": "207:2100265",
+    "source_id": 2100265,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100265",
+    "subject": "Formación teórico-práctica cultivo concha abanico",
+    "vendor_name": "JOSE MARIA MARTINEZ LAGO"
+  },
+  {
+    "amount_eur": 5445.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-10-22",
+    "record_id": "207:2100467",
+    "source_id": 2100467,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100467",
+    "subject": "FUNXIBLES E FERRAMENTAS E MAQUINARIA AIXOLA",
+    "vendor_name": "EFECTOS NAVALES TARACIDO S L"
+  },
+  {
+    "amount_eur": 11600.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-10-22",
+    "record_id": "207:2100477",
+    "source_id": 2100477,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100477",
+    "subject": "&#34;OPERACIÓNS BÁSICAS DE INFUSIÓN E BALEIRO EN COMPOSITES&#34;",
+    "vendor_name": "AROUSA FIBER, S.L."
+  },
+  {
+    "amount_eur": 13915.0,
+    "duration": "1 mes",
+    "organism_id": 207,
+    "publication_date": "2026-10-22",
+    "record_id": "207:2100601",
+    "source_id": 2100601,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100601",
+    "subject": "modelización de parámetros ambientais SOL OUXA",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  }
+]

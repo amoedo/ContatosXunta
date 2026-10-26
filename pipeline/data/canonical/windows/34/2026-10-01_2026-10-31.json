@@ -53,5 +53,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099282",
     "subject": "Servicio urxente de traballos submarinos para a reparación puntual, por razóns de seguridade, da comporta do porto de Ma",
     "vendor_name": "MAR SERVICIOS SUMARINOS, S.L"
+  },
+  {
+    "amount_eur": 3412.2,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-10-21",
+    "record_id": "34:2100176",
+    "source_id": 2100176,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100176",
+    "subject": "MUROS: R.P. Extracción Urxente, demolición e despezamento da embarcación IOTA",
+    "vendor_name": "SERVIZOS MARIÑOS VIAMAR SL"
+  },
+  {
+    "amount_eur": 242.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-10-22",
+    "record_id": "34:2100279",
+    "source_id": 2100279,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100279",
+    "subject": "SSCC: Paquete tokens para fichaxe remoto",
+    "vendor_name": "SPEC, S.A."
   }
 ]

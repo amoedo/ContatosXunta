@@ -97,5 +97,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099351",
     "subject": "SERVIZO URBANISMO LUGO",
     "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 9.4,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-10-22",
+    "record_id": "515:2100501",
+    "source_id": 2100501,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100501",
+    "subject": "Pago servizo cafetería Xunta consultiva Urbanismo",
+    "vendor_name": "ARAMARK SERVICIOS DE CATERING SLU"
+  },
+  {
+    "amount_eur": 45.1,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-10-23",
+    "record_id": "515:2100904",
+    "source_id": 2100904,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100904",
+    "subject": "Subministro de auga. CONSELLERIA DE  VIVIENDA E PLANIFICACIÓ",
+    "vendor_name": "REAL PIKAÑA SL"
   }
 ]

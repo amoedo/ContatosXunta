@@ -9,5 +9,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095409",
     "subject": "Gastos alojamiento asistencia XXV jornadas Funcion Consultiva",
     "vendor_name": "W2M CORPORATE, SLU"
+  },
+  {
+    "amount_eur": 270.0,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-10-20",
+    "record_id": "80:2099769",
+    "source_id": 2099769,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099769",
+    "subject": "LIBROS ATENCIÓNS INSTITUCIONAIS",
+    "vendor_name": "JOSE LUIS TEOFILO COMUNICACION SL"
+  },
+  {
+    "amount_eur": 4000.0,
+    "duration": "1 mes",
+    "organism_id": 80,
+    "publication_date": "2026-10-22",
+    "record_id": "80:2100585",
+    "source_id": 2100585,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100585",
+    "subject": "Patrocinio XI Congreso Internacional de Transparencia e Goberno Aberto",
+    "vendor_name": "ASOC CENTRO DE INVESTIGACIÓN DE LA TRANSPARENCIA Y"
   }
 ]

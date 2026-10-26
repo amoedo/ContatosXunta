@@ -275,7 +275,7 @@
     "vendor_name": "ILUNION LAVANDERIAS SAU"
   },
   {
-    "amount_eur": 1547.29,
+    "amount_eur": 4235.0,
     "duration": "1 mes",
     "organism_id": 60,
     "publication_date": "2026-10-16",
@@ -394,5 +394,170 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099099",
     "subject": "Xestión biomasa por medios manuais e mecánizados do Cill de Toén",
     "vendor_name": "OS ERBEDOS S  COOP  LTDA"
+  },
+  {
+    "amount_eur": 7009.36,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-10-20",
+    "record_id": "60:2099755",
+    "source_id": 2099755,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099755",
+    "subject": "Subministración desbrozadoras",
+    "vendor_name": "LIMIA QUAD, S.L."
+  },
+  {
+    "amount_eur": 1828.07,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-10-20",
+    "record_id": "60:2099867",
+    "source_id": 2099867,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099867",
+    "subject": "Productos de laboratorIO",
+    "vendor_name": "CALIBRE SCIENTIFIC SPAIN"
+  },
+  {
+    "amount_eur": 2650.0,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-10-21",
+    "record_id": "60:2099949",
+    "source_id": 2099949,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099949",
+    "subject": "Proxecto arquitecto técnico para reparación cuberta no Centro de Investigación Mariñas -Vilagarcia de Arousa",
+    "vendor_name": "JOSE ANTONIO POCEIRO RAMOS"
+  },
+  {
+    "amount_eur": 2400.0,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-10-21",
+    "record_id": "60:2099971",
+    "source_id": 2099971,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099971",
+    "subject": "Curso teórico práctico de formación en prevención e extinción de incendios para as brigadas das mancomunidades de Ourens",
+    "vendor_name": "GUSTAVO ALVAREZ ANTON"
+  },
+  {
+    "amount_eur": 1597.72,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-10-21",
+    "record_id": "60:2099984",
+    "source_id": 2099984,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099984",
+    "subject": "Vestuario laboral (chalecos)",
+    "vendor_name": "DSG FARMA S.A."
+  },
+  {
+    "amount_eur": 3760.68,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-10-21",
+    "record_id": "60:2099985",
+    "source_id": 2099985,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099985",
+    "subject": "Vestuario laboral (chalecos)",
+    "vendor_name": "DSG FARMA S.A."
+  },
+  {
+    "amount_eur": 1724.25,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-10-21",
+    "record_id": "60:2099986",
+    "source_id": 2099986,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099986",
+    "subject": "Vinilos",
+    "vendor_name": "DSG FARMA S.A."
+  },
+  {
+    "amount_eur": 1331.0,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-10-21",
+    "record_id": "60:2100035",
+    "source_id": 2100035,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100035",
+    "subject": "Asistencia xurídica",
+    "vendor_name": "FISELA SL"
+  },
+  {
+    "amount_eur": 4692.67,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-10-21",
+    "record_id": "60:2100056",
+    "source_id": 2100056,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100056",
+    "subject": "Artículos textiles",
+    "vendor_name": "TEXTILES Y BORDADOS LUA, SL"
+  },
+  {
+    "amount_eur": 1150.0,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-10-21",
+    "record_id": "60:2100076",
+    "source_id": 2100076,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100076",
+    "subject": "Servizos de restauración",
+    "vendor_name": "MANUEL BISTRO SL"
+  },
+  {
+    "amount_eur": 5959.15,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-10-21",
+    "record_id": "60:2100108",
+    "source_id": 2100108,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100108",
+    "subject": "Madera para pasareal Illas Cies",
+    "vendor_name": "MADERAS HERMANOS CASTRO SL"
+  },
+  {
+    "amount_eur": 5747.5,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-10-21",
+    "record_id": "60:2100121",
+    "source_id": 2100121,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100121",
+    "subject": "Servizo de transporte de persoal en barco no PN Marítimo Terrestre Illa de Cortegada",
+    "vendor_name": "DRAGADOS OSMAR, S.L."
+  },
+  {
+    "amount_eur": 3993.0,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-10-21",
+    "record_id": "60:2100134",
+    "source_id": 2100134,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100134",
+    "subject": "Servizo de operario con equipo de extinción e pick up con bomba de auga en Oimbra",
+    "vendor_name": "CONTRATAS ANCAR SL"
+  },
+  {
+    "amount_eur": 1210.0,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-10-21",
+    "record_id": "60:2100153",
+    "source_id": 2100153,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100153",
+    "subject": "Estudo xeotécnico FAMELGA",
+    "vendor_name": "TOPOGRAFIA E XEOTECNIA XEOTEC S.L."
+  },
+  {
+    "amount_eur": 1485.26,
+    "duration": "1 mes",
+    "organism_id": 60,
+    "publication_date": "2026-10-21",
+    "record_id": "60:2100159",
+    "source_id": 2100159,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100159",
+    "subject": "Limpeza lodos fosa séptica -Viveiro de Famelga (Sigueiro)",
+    "vendor_name": "GESTAN CONTENEDORES DE LA CORUÑA SL"
   }
 ]

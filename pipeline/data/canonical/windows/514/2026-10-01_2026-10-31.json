@@ -295,5 +295,82 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098382",
     "subject": "Tratamento, personalización, ensobrado e envío dos carnés de",
     "vendor_name": "ABANCA GESTIÓN OPERATIVA S.A."
+  },
+  {
+    "amount_eur": 10000.0,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-10-22",
+    "record_id": "514:2100497",
+    "source_id": 2100497,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100497",
+    "subject": "Servizos de patrocinio do congreso INDUDEF 2026",
+    "vendor_name": "RMB DESIGN ESTUDIO CREATIVO, S.L."
+  },
+  {
+    "amount_eur": 18021.36,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-10-22",
+    "record_id": "514:2100597",
+    "source_id": 2100597,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100597",
+    "subject": "CONTRATO MENOR TRABALLO DE INVESTIGACIÓN ANÁLISE COMPORTA",
+    "vendor_name": "UNIVERSIDADE DE SANTIAGO DE COMPOSTELA"
+  },
+  {
+    "amount_eur": 17968.5,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-10-23",
+    "record_id": "514:2100741",
+    "source_id": 2100741,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100741",
+    "subject": "ESTUDO COMPARADO INSTRUMENTOS PÚBLICOS DE APOIO NO SECTOR CO",
+    "vendor_name": "ZABALA INNOVATION CONSULTING S.A."
+  },
+  {
+    "amount_eur": 11979.0,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-10-23",
+    "record_id": "514:2100746",
+    "source_id": 2100746,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100746",
+    "subject": "ESTUDO EXPANSIÓN INTER. EMPRESAS MEDIANTE INVERSIÓNS PRODUTI",
+    "vendor_name": "ESTRATEGIA Y ORGANIZACION, SA"
+  },
+  {
+    "amount_eur": 1028.5,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-10-23",
+    "record_id": "514:2100906",
+    "source_id": 2100906,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100906",
+    "subject": "MELLORA TÉCNICA DESEÑO MAQUETA PLAN DIRECTOR DO SECTOR LOXIS",
+    "vendor_name": "ROI DIGITAL BUSINESS"
+  },
+  {
+    "amount_eur": 16800.0,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-10-23",
+    "record_id": "514:2101000",
+    "source_id": 2101000,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101000",
+    "subject": "Deseño de páxina web, cartel da campaña e spot",
+    "vendor_name": "ENXEÑO GALICIA S.L."
+  },
+  {
+    "amount_eur": 10000.0,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-10-26",
+    "record_id": "514:2101450",
+    "source_id": 2101450,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101450",
+    "subject": "DIVULGACIÓN FORO DA ENERXÍA",
+    "vendor_name": "PERIODICO ABC, S.L."
   }
 ]

@@ -1,1 +1,255 @@
-[]
+[
+  {
+    "amount_eur": 318.0,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100258",
+    "source_id": 2100258,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100258",
+    "subject": "[3T2026] Servicios de representaci¢n jur¡dica",
+    "vendor_name": "ANA VAZQUEZ CORTE"
+  },
+  {
+    "amount_eur": 3000.0,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100284",
+    "source_id": 2100284,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100284",
+    "subject": "[2T2026] Servicios de venta de billetes y de viajes combinados",
+    "vendor_name": "VIAJES VILORIA SA"
+  },
+  {
+    "amount_eur": 750.0,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100396",
+    "source_id": 2100396,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100396",
+    "subject": "[3T2026] Productos alimenticios diversos",
+    "vendor_name": "MERCARTABRIA SLU"
+  },
+  {
+    "amount_eur": 14070.0,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100408",
+    "source_id": 2100408,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100408",
+    "subject": "[1T2026] Servicios de formaci¢n del personal",
+    "vendor_name": "PICADILLY SCHOOL OF INGLISH, S.L."
+  },
+  {
+    "amount_eur": 17.79,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100429",
+    "source_id": 2100429,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100429",
+    "subject": "[3T2026] Paquetes de software y sistemas de informaci¢n",
+    "vendor_name": "ALDABA SERVICIOS PROFESIONALES, SLL"
+  },
+  {
+    "amount_eur": 4893.53,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100432",
+    "source_id": 2100432,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100432",
+    "subject": "[2T2026] Servicios de sanidad de las empresas",
+    "vendor_name": "PREVENCION Y PLANIFICACION S.L."
+  },
+  {
+    "amount_eur": 90.0,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100489",
+    "source_id": 2100489,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100489",
+    "subject": "[2T2026] Arreglos florales",
+    "vendor_name": "KENTIA SERVICIOS FLORALES, SL."
+  },
+  {
+    "amount_eur": 6969.6,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100491",
+    "source_id": 2100491,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100491",
+    "subject": "[2T2026] Servicios de formaci¢n del personal",
+    "vendor_name": "INOVALABS DIGITAL, S.L."
+  },
+  {
+    "amount_eur": 178.48,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100496",
+    "source_id": 2100496,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100496",
+    "subject": "[3T2026] Servicios de reprograf¡a",
+    "vendor_name": "SOLITIUM SL"
+  },
+  {
+    "amount_eur": 5232.72,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100499",
+    "source_id": 2100499,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100499",
+    "subject": "[3T2026] Paquetes de software de contabilidad",
+    "vendor_name": "SAGE SPAIN SL"
+  },
+  {
+    "amount_eur": 958.25,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100500",
+    "source_id": 2100500,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100500",
+    "subject": "[2T2026] Servicios de suministro de software",
+    "vendor_name": "DIFUSION JURIDICA Y TEMAS DE ACTUALIDAD SL"
+  },
+  {
+    "amount_eur": 186.34,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100515",
+    "source_id": 2100515,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100515",
+    "subject": "[3T2026] Servicios de mantenimiento de jardines y parques",
+    "vendor_name": "ASPAS EMPREGO, S.L."
+  },
+  {
+    "amount_eur": 2956.1,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100516",
+    "source_id": 2100516,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100516",
+    "subject": "[3T2026] Servicios de mantenimiento de jardines y parques",
+    "vendor_name": "ASPAS EMPREGO, S.L."
+  },
+  {
+    "amount_eur": 9280.7,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100522",
+    "source_id": 2100522,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100522",
+    "subject": "[2T2026] Servicios de reparaci¢n y mantenimiento",
+    "vendor_name": "OBRADOIRO DE SERVICIOS Y REFORMAS S.L."
+  },
+  {
+    "amount_eur": 33638.0,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100523",
+    "source_id": 2100523,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100523",
+    "subject": "[2T2026] Servicios de reparaci¢n y mantenimiento",
+    "vendor_name": "OBRADOIRO DE SERVICIOS Y REFORMAS S.L."
+  },
+  {
+    "amount_eur": 13226.26,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100528",
+    "source_id": 2100528,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100528",
+    "subject": "[3T2026] Instrumentos y aparatos de regulaci¢n y control",
+    "vendor_name": "RAMON CABADO BIOMASA"
+  },
+  {
+    "amount_eur": 4840.0,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100529",
+    "source_id": 2100529,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100529",
+    "subject": "[3T2026] Trabajos de instalaci¢n de aire acondicionado",
+    "vendor_name": "RAMON CABADO BIOMASA"
+  },
+  {
+    "amount_eur": 549.9,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100535",
+    "source_id": 2100535,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100535",
+    "subject": "[3T2026] Servicios de apoyo inform tico tcnico",
+    "vendor_name": "PRESCOR PHONE S.L."
+  },
+  {
+    "amount_eur": 1270.5,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100536",
+    "source_id": 2100536,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100536",
+    "subject": "[2T2026] Equipo diverso para jardinerÍa",
+    "vendor_name": "AA INTRAREP 2000 S.L."
+  },
+  {
+    "amount_eur": 7139.0,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100555",
+    "source_id": 2100555,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100555",
+    "subject": "[3T2026] Servicios de asesor¡a e informaci¢n jur¡dica",
+    "vendor_name": "HELAS CONSULTORES, SL"
+  },
+  {
+    "amount_eur": 17545.0,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100557",
+    "source_id": 2100557,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100557",
+    "subject": "[2T2026] Servicios de consultor¡a en patentes y derechos de propiedad",
+    "vendor_name": "ABG PATENTES SL"
+  },
+  {
+    "amount_eur": 3375.9,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100571",
+    "source_id": 2100571,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100571",
+    "subject": "[2T2026] Servicios a empresas: legislaci¢n, mercadotecnia, asesor¡a, selecci¢n de personal, imprenta y seguridad",
+    "vendor_name": "CORE BUSINESS CONSULTING SOCIEDAD LIMITADA"
+  },
+  {
+    "amount_eur": 12100.0,
+    "duration": "1 mes",
+    "organism_id": 61,
+    "publication_date": "2026-10-22",
+    "record_id": "61:2100602",
+    "source_id": 2100602,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100602",
+    "subject": "[2T2026] Servicios de investigaci¢n y desarrollo y servicio",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  }
+]

@@ -42,5 +42,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099346",
     "subject": "comida networking 15 setembro PACE",
     "vendor_name": "RESTAURACION J.A. BRENLLA SL"
+  },
+  {
+    "amount_eur": 12100.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-10-22",
+    "record_id": "231:2100248",
+    "source_id": 2100248,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100248",
+    "subject": "Servizo de deseño e realización de mapa interactivo para VII",
+    "vendor_name": "MIGUEL ANGEL ARENAS HARO"
+  },
+  {
+    "amount_eur": 1730.9,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-10-22",
+    "record_id": "231:2100291",
+    "source_id": 2100291,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100291",
+    "subject": "BILLETE DE TREN OMIO",
+    "vendor_name": "VIAJES TROTTA SA"
+  },
+  {
+    "amount_eur": 5109.7,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-10-22",
+    "record_id": "231:2100292",
+    "source_id": 2100292,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100292",
+    "subject": "BILLETES DE TREN STAKEHOLDERS",
+    "vendor_name": "VIAJES TROTTA SA"
   }
 ]

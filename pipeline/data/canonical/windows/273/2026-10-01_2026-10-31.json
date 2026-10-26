@@ -20,5 +20,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095967",
     "subject": "Gestwin 3T",
     "vendor_name": "INFORGES IT SERVICES, S.L."
+  },
+  {
+    "amount_eur": 44.7,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-10-21",
+    "record_id": "273:2100068",
+    "source_id": 2100068,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100068",
+    "subject": "Equaby Prevención E01624/26",
+    "vendor_name": "EQUABY PREVENCION, S.L."
+  },
+  {
+    "amount_eur": 62.34,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-10-26",
+    "record_id": "273:2101519",
+    "source_id": 2101519,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101519",
+    "subject": "Comida Delegación española CdR",
+    "vendor_name": "DIPUTACION GENERAL DE ARAGON"
+  },
+  {
+    "amount_eur": 62.34,
+    "duration": "1 mes",
+    "organism_id": 273,
+    "publication_date": "2026-10-26",
+    "record_id": "273:2101520",
+    "source_id": 2101520,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101520",
+    "subject": "Comida Delegación española CdR",
+    "vendor_name": "DIPUTACION GENERAL DE ARAGON"
   }
 ]

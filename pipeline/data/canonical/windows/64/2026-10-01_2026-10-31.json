@@ -141,5 +141,71 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099338",
     "subject": "Serv.realiz.audiovisual e fotografía para  Eurídice  e  Isto tamén é Sargadelos&#34;-CDG.2026.233",
     "vendor_name": "MIRAMEMIRA SLC."
+  },
+  {
+    "amount_eur": 6000.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-10-22",
+    "record_id": "64:2100430",
+    "source_id": 2100430,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100430",
+    "subject": "Serv.de deseño de vestiario da produción propia do CDG  Eurídice  - CDG.2026.237",
+    "vendor_name": "CASA DE MODAS SATURNA SL"
+  },
+  {
+    "amount_eur": 9000.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-10-23",
+    "record_id": "64:2100631",
+    "source_id": 2100631,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100631",
+    "subject": "Serv.asistencia dirección movemento escénico da prod.CDG 'Isto tamén é Sargadelos'-CDG.2026.240",
+    "vendor_name": "DAVID RODRIGUEZ ALONSO"
+  },
+  {
+    "amount_eur": 6000.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-10-23",
+    "record_id": "64:2101002",
+    "source_id": 2101002,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101002",
+    "subject": "Serv.deseño escenografía prod.propia CDG'Eurídice&#180;- CDG.2026.238",
+    "vendor_name": "PRODUCCIONS TEATRAIS TALIA SL"
+  },
+  {
+    "amount_eur": 3931.2,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-10-26",
+    "record_id": "64:2101299",
+    "source_id": 2101299,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101299",
+    "subject": "Servizo de coedición da publicación relativa á produción do CDG  Memorias dun neno labrego",
+    "vendor_name": "EDICIONS POSITIVAS, SL"
+  },
+  {
+    "amount_eur": 2227.95,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-10-26",
+    "record_id": "64:2101425",
+    "source_id": 2101425,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101425",
+    "subject": "Serv.tram.renovación protección das marcas Centro Coreográfico Galego e galiciantunes",
+    "vendor_name": "LICENTIA PATENTES Y MARCAS S L"
+  },
+  {
+    "amount_eur": 253.0,
+    "duration": "1 mes",
+    "organism_id": 64,
+    "publication_date": "2026-10-26",
+    "record_id": "64:2101432",
+    "source_id": 2101432,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101432",
+    "subject": "Fact. 2026/170 - Servizos de cafetería e catering do 8set2026 a 22out2026",
+    "vendor_name": "CATERING A CANTINA, SL."
   }
 ]

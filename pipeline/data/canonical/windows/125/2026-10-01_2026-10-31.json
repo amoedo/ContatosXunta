@@ -1142,5 +1142,115 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101466",
     "subject": "Viaje y alojamiento Valencia",
     "vendor_name": "PIRATE DE VIAJE SL"
+  },
+  {
+    "amount_eur": 393.54,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2026-10-29",
+    "record_id": "125:2102060",
+    "source_id": 2102060,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102060",
+    "subject": "Material fontaneria",
+    "vendor_name": "FERRECAL SA"
+  },
+  {
+    "amount_eur": 341.74,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2026-10-29",
+    "record_id": "125:2102166",
+    "source_id": 2102166,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102166",
+    "subject": "Material de oficina",
+    "vendor_name": "LYRECO ESPAÑA SA"
+  },
+  {
+    "amount_eur": 299.48,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2026-10-29",
+    "record_id": "125:2102167",
+    "source_id": 2102167,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102167",
+    "subject": "Material de oficina",
+    "vendor_name": "LYRECO ESPAÑA SA"
+  },
+  {
+    "amount_eur": 1309.1,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2026-10-29",
+    "record_id": "125:2102210",
+    "source_id": 2102210,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102210",
+    "subject": "Material limpieza",
+    "vendor_name": "PROINDEX SL"
+  },
+  {
+    "amount_eur": 25.0,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2026-10-29",
+    "record_id": "125:2102275",
+    "source_id": 2102275,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102275",
+    "subject": "Recogida ganado Central Agropecuaria",
+    "vendor_name": "GESTORA DE SUBPRODUCTOS DE GALICIA, SL"
+  },
+  {
+    "amount_eur": 729.48,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2026-10-29",
+    "record_id": "125:2102344",
+    "source_id": 2102344,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102344",
+    "subject": "Material construccion reparaciones",
+    "vendor_name": "SANIPLAST S L"
+  },
+  {
+    "amount_eur": 462.9,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2026-10-29",
+    "record_id": "125:2102351",
+    "source_id": 2102351,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102351",
+    "subject": "Material oficina",
+    "vendor_name": "PAZ   DISMAC SL"
+  },
+  {
+    "amount_eur": 1512.5,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2026-10-29",
+    "record_id": "125:2102352",
+    "source_id": 2102352,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102352",
+    "subject": "Mantenimiento informático Octubre",
+    "vendor_name": "INFORHOUSE S L"
+  },
+  {
+    "amount_eur": 2214.3,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2026-10-29",
+    "record_id": "125:2102363",
+    "source_id": 2102363,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102363",
+    "subject": "Audiovisuales XGN",
+    "vendor_name": "ISGAL DE EVENTOS SL"
+  },
+  {
+    "amount_eur": 2686.21,
+    "duration": "1 mes",
+    "organism_id": 125,
+    "publication_date": "2026-10-29",
+    "record_id": "125:2102615",
+    "source_id": 2102615,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102615",
+    "subject": "Redes Sociales Cimag-Gandagro, XGN y Sedexpo",
+    "vendor_name": "GAIL RUSEN WHITNEY"
   }
 ]

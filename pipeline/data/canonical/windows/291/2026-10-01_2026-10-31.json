@@ -9,5 +9,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2095326",
     "subject": "PAGAMENTO FACTURA COBERTURA GRÁFICA EVENTO INSTITUCIONAL",
     "vendor_name": "SERGIO PEREZ SANZ"
+  },
+  {
+    "amount_eur": 302.5,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-10-27",
+    "record_id": "291:2101685",
+    "source_id": 2101685,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101685",
+    "subject": "PAGAMENTO FACTURA COBERTURA GRÁFICA EVENTO INSTITUCIONAL",
+    "vendor_name": "PAUL DAVID HANNA"
+  },
+  {
+    "amount_eur": 85.67,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-10-28",
+    "record_id": "291:2101799",
+    "source_id": 2101799,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101799",
+    "subject": "SUBMINISTRACIÓN DE MATERIAL DE OFICINA",
+    "vendor_name": "PAPELERIA LEDOIRA, S.L."
+  },
+  {
+    "amount_eur": 32.67,
+    "duration": "1 mes",
+    "organism_id": 291,
+    "publication_date": "2026-10-29",
+    "record_id": "291:2102503",
+    "source_id": 2102503,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102503",
+    "subject": "GASTOS DE CONSUMO E MANTEMENTO DAS MÁQUINAS DE IMPRESIÓN SETEMBRO 2026",
+    "vendor_name": "RICOH ESPAÑA SLU"
   }
 ]

@@ -141,5 +141,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100520",
     "subject": "MEDIOS TECNICOS, MOBILIARIO E PERSONAL TECNICO PARA COLOQUIO INTERNAC. CAMIÑO PORTUGUÉS EN TUI",
     "vendor_name": "AUDIOVISUALES MCN, S.L"
+  },
+  {
+    "amount_eur": 14520.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-10-29",
+    "record_id": "97:2102408",
+    "source_id": 2102408,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102408",
+    "subject": "SECRETARIA TECNICA, ALOXAMENTO E MANUTENCION RELATORES PARA COLOQUIO INTERNACIONAL &#34;CAMIÑO PORTUGUÉS&#34; EN TUI",
+    "vendor_name": "SEKAI CORPORATE TRAVEL, SLU"
+  },
+  {
+    "amount_eur": 1040.6,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-10-30",
+    "record_id": "97:2102653",
+    "source_id": 2102653,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102653",
+    "subject": "GASTOS DE VIAXE E ALOXAMENTO PARA XEFE AREA CULTURA PARA ASISTENCIA COLOQUIO SOBRE A VIA FRANCIXENA O 09/11 EN ROMA",
+    "vendor_name": "VIAJES HALCON, S A"
   }
 ]

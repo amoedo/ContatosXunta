@@ -75,5 +75,49 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100279",
     "subject": "SSCC: Paquete tokens para fichaxe remoto",
     "vendor_name": "SPEC, S.A."
+  },
+  {
+    "amount_eur": 18029.0,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-10-28",
+    "record_id": "34:2101754",
+    "source_id": 2101754,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101754",
+    "subject": "Revisión Plans de Protección das Instalacións Portuarias con xestión auditora do sistema de protección segundo o regulam",
+    "vendor_name": "COMISARIO ESPAÑOL MARITIMO SA"
+  },
+  {
+    "amount_eur": 39236.62,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-10-30",
+    "record_id": "34:2102686",
+    "source_id": 2102686,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102686",
+    "subject": "Reforma dos controis de acceso nos portos de Combarro, Portonovo e Raxó",
+    "vendor_name": "ELECTRONIC TRAFIC SA"
+  },
+  {
+    "amount_eur": 7486.27,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-10-30",
+    "record_id": "34:2102819",
+    "source_id": 2102819,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102819",
+    "subject": "Deseño e impresión de paneis informativos para a campaña &#34;Por unha costa máis segura&#34;",
+    "vendor_name": "ALICENTIS SL"
+  },
+  {
+    "amount_eur": 6437.2,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-10-30",
+    "record_id": "34:2102850",
+    "source_id": 2102850,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102850",
+    "subject": "Estabilización das pasarelas peonís de O Grove e Panxón para garantir a seguridade dos usuarios",
+    "vendor_name": "SERVICIOS BORMAGAL S.L."
   }
 ]

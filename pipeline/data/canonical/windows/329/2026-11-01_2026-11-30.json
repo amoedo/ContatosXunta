@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 3146.0,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-11-02",
+    "record_id": "329:2102883",
+    "source_id": 2102883,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102883",
+    "subject": "Enxerto de carballo en viveiro",
+    "vendor_name": "IGNACIO BELLAS CASTRO"
+  },
+  {
+    "amount_eur": 2072.31,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-11-02",
+    "record_id": "329:2103065",
+    "source_id": 2103065,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103065",
+    "subject": "PEF CIF - RF2025/2 (2025 00010)- PRODUCCIÓN DE BRINZAIS E TR",
+    "vendor_name": "ANTONIO ALVARIÑO SL"
+  }
+]

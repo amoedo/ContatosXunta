@@ -1,1 +1,189 @@
-[]
+[
+  {
+    "amount_eur": 666.5,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102699",
+    "source_id": 2102699,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102699",
+    "subject": "CONTADORES",
+    "vendor_name": "DIEXFE SL"
+  },
+  {
+    "amount_eur": 2013.46,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102754",
+    "source_id": 2102754,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102754",
+    "subject": "SUMINISTRO TECMEVA",
+    "vendor_name": "NIPPON SANSO ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 60.68,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102756",
+    "source_id": 2102756,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102756",
+    "subject": "MATERIAL MANTEMENTO",
+    "vendor_name": "ALFOCASA S L"
+  },
+  {
+    "amount_eur": 46.94,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102759",
+    "source_id": 2102759,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102759",
+    "subject": "MANTEMENTO FOTOCOPIADORA",
+    "vendor_name": "SISTEMAS DE OFICINA DE OURENSE, S.L."
+  },
+  {
+    "amount_eur": 142.05,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102760",
+    "source_id": 2102760,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102760",
+    "subject": "MATERIAL ELECTRICO",
+    "vendor_name": "ELECTRO ORENSE, SL"
+  },
+  {
+    "amount_eur": 100.71,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102761",
+    "source_id": 2102761,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102761",
+    "subject": "MATERIAL ELECTRICO",
+    "vendor_name": "ELECTRO ORENSE, SL"
+  },
+  {
+    "amount_eur": 138.1,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102767",
+    "source_id": 2102767,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102767",
+    "subject": "MATERIAL MANTEMENTO",
+    "vendor_name": "SUMINISTROS INDUSTRIALES LEMOS ORENSE SL"
+  },
+  {
+    "amount_eur": 7.95,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102768",
+    "source_id": 2102768,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102768",
+    "subject": "HERBICIDAS XARDINERIA",
+    "vendor_name": "COMERCIAL FITOAGRARIA SL"
+  },
+  {
+    "amount_eur": 387.12,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102775",
+    "source_id": 2102775,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102775",
+    "subject": "ANALITICAS AUGA",
+    "vendor_name": "AKUNATURA DE OURENSE SL"
+  },
+  {
+    "amount_eur": 104.23,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102777",
+    "source_id": 2102777,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102777",
+    "subject": "MATERIAL ELECTRICO",
+    "vendor_name": "AURIA LUX INDUSTRIAL  SL"
+  },
+  {
+    "amount_eur": 776.82,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102779",
+    "source_id": 2102779,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102779",
+    "subject": "DESEÑO E IMPRESION MEMORIA ANUAL",
+    "vendor_name": "ENYIRIS DESIGN THINLING LAB SL"
+  },
+  {
+    "amount_eur": 236.68,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102780",
+    "source_id": 2102780,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102780",
+    "subject": "RECAMBIOS MAQUINA XARDINERIA",
+    "vendor_name": "DELTACINCO LINEA VERDE SL"
+  },
+  {
+    "amount_eur": 299.83,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102781",
+    "source_id": 2102781,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102781",
+    "subject": "RECAMBIO MAQUINA XARDINERIA",
+    "vendor_name": "DELTACINCO LINEA VERDE SL"
+  },
+  {
+    "amount_eur": 1210.0,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102831",
+    "source_id": 2102831,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102831",
+    "subject": "SERVIZOS DE ASESORAMENTO LABORAL",
+    "vendor_name": "J & A GARRIGUES, SLP"
+  },
+  {
+    "amount_eur": 176.8,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102838",
+    "source_id": 2102838,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102838",
+    "subject": "MATERIAL MANTEMENTO",
+    "vendor_name": "BRICOLAJE BRICOMAN SLU"
+  },
+  {
+    "amount_eur": 299.78,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102839",
+    "source_id": 2102839,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102839",
+    "subject": "MATERIAL MANTEMENTO",
+    "vendor_name": "BRICOLAJE BRICOMAN SLU"
+  },
+  {
+    "amount_eur": 388.2,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-10-30",
+    "record_id": "243:2102845",
+    "source_id": 2102845,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102845",
+    "subject": "ANTEMENTO ESQUEMA NACIONAL",
+    "vendor_name": "INGADE CONNECT SL"
+  }
+]

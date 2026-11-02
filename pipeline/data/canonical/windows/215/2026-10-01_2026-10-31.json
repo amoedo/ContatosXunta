@@ -130,5 +130,82 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101335",
     "subject": "ADIX-2026-10-329 Soporte técnico IGCC",
     "vendor_name": "BALIDEA CONSULTING & PROGRAMING, S.L."
+  },
+  {
+    "amount_eur": 17424.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-10-27",
+    "record_id": "215:2101617",
+    "source_id": 2101617,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101617",
+    "subject": "(STMR)-2026-CM-510 Serv. portal xestion reservas dos Trollos",
+    "vendor_name": "DIMENSIONA CONSULTORIA TEXNOLOXIC,S.L."
+  },
+  {
+    "amount_eur": 513.49,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-10-29",
+    "record_id": "215:2102116",
+    "source_id": 2102116,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102116",
+    "subject": "Xerencia 2026-CM-912_Servizo de desprazamento 29/09 Madrid",
+    "vendor_name": "BIVES TOUR, SA"
+  },
+  {
+    "amount_eur": 120.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-10-29",
+    "record_id": "215:2102117",
+    "source_id": 2102117,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102117",
+    "subject": "Xerencia 2026-CM-912_Servizo de aloxamento 29/09 Madrid",
+    "vendor_name": "BIVES TOUR, SA"
+  },
+  {
+    "amount_eur": 77.78,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-10-29",
+    "record_id": "215:2102118",
+    "source_id": 2102118,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102118",
+    "subject": "Xerencia 2026-CM-912_Servizo de Aloxamento 23/09/2026",
+    "vendor_name": "BIVES TOUR, SA"
+  },
+  {
+    "amount_eur": 510.49,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-10-29",
+    "record_id": "215:2102119",
+    "source_id": 2102119,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102119",
+    "subject": "Xerencia 2026-CM-912_Servizo de desprazamento 07/10 Madrid",
+    "vendor_name": "BIVES TOUR, SA"
+  },
+  {
+    "amount_eur": 344.85,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-10-29",
+    "record_id": "215:2102261",
+    "source_id": 2102261,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102261",
+    "subject": "(ADXX)-2026-CM-118 Visitias virtuais museos",
+    "vendor_name": "PERAGALLO S L"
+  },
+  {
+    "amount_eur": 4356.0,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-10-30",
+    "record_id": "215:2102724",
+    "source_id": 2102724,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102724",
+    "subject": "(ADXV)-2026-CM-119 LICENZAS TEXTAUALIZACIÓN IMELGA",
+    "vendor_name": "BAHIA SOFTWARE, S.L."
   }
 ]

@@ -889,5 +889,82 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101513",
     "subject": "Aboamento gastos compartidos auga no CIFP Santiago - Fras.:",
     "vendor_name": "CEE MANUEL LOPEZ NAVALON"
+  },
+  {
+    "amount_eur": 14641.0,
+    "duration": "1 mes",
+    "organism_id": 518,
+    "publication_date": "2026-10-28",
+    "record_id": "518:2101759",
+    "source_id": 2101759,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101759",
+    "subject": "Servizo para o mantemento técnico e da carga de contidos web sobre a diversidade sexual no ámbito laboral",
+    "vendor_name": "ESTRATEGIA Y ORGANIZACION, SA"
+  },
+  {
+    "amount_eur": 390.55,
+    "duration": "1 mes",
+    "organism_id": 518,
+    "publication_date": "2026-10-28",
+    "record_id": "518:2101772",
+    "source_id": 2101772,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101772",
+    "subject": "SUBMINISTRO ENERXÍA ELÉCTRICA NO COE",
+    "vendor_name": "IBERDROLA CLIENTES SA"
+  },
+  {
+    "amount_eur": 635.25,
+    "duration": "1 mes",
+    "organism_id": 518,
+    "publication_date": "2026-10-30",
+    "record_id": "518:2102625",
+    "source_id": 2102625,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102625",
+    "subject": "Rollups COE",
+    "vendor_name": "DANIEL DE CASTRO PEDROUZO"
+  },
+  {
+    "amount_eur": 225.0,
+    "duration": "1 mes",
+    "organism_id": 518,
+    "publication_date": "2026-10-30",
+    "record_id": "518:2102709",
+    "source_id": 2102709,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102709",
+    "subject": "Catering Taller formativo 56. O Factor invisible: coidados,conciliación e perda de talento feminino",
+    "vendor_name": "LUCRISMAR SL"
+  },
+  {
+    "amount_eur": 2800.71,
+    "duration": "1 mes",
+    "organism_id": 518,
+    "publication_date": "2026-10-30",
+    "record_id": "518:2102715",
+    "source_id": 2102715,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102715",
+    "subject": "Mobiliario Retorno A Coruña",
+    "vendor_name": "KL 1 MOBILIARIO OFICINA SL"
+  },
+  {
+    "amount_eur": 944.97,
+    "duration": "1 mes",
+    "organism_id": 518,
+    "publication_date": "2026-10-30",
+    "record_id": "518:2102723",
+    "source_id": 2102723,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102723",
+    "subject": "DESEÑO, CORRECCIÓN E IMPRESIÓN DE 6.000 FOLLETOS PARA A FEIR",
+    "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
+  },
+  {
+    "amount_eur": 9075.0,
+    "duration": "1 mes",
+    "organism_id": 518,
+    "publication_date": "2026-10-30",
+    "record_id": "518:2102750",
+    "source_id": 2102750,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102750",
+    "subject": "Vertical summit Vigo 2026",
+    "vendor_name": "PEPITA-TERY PRODUCCIONES, SL"
   }
 ]

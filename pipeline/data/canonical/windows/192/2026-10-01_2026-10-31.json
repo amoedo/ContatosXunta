@@ -548,5 +548,60 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101102",
     "subject": "AG/CO20260930A - ANALISIS DIOXINAS - IDAE",
     "vendor_name": "AGENCIA ESTATAL CONSEJO SUPERIOR DE"
+  },
+  {
+    "amount_eur": 350.9,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-10-27",
+    "record_id": "192:2101580",
+    "source_id": 2101580,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101580",
+    "subject": "DC/F20261023A- GRADILLAS ACERO - DASAN CIENTÍFICA S.L.",
+    "vendor_name": "DASAN CIENTIFICA S.L"
+  },
+  {
+    "amount_eur": 1228.15,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-10-27",
+    "record_id": "192:2101585",
+    "source_id": 2101585,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101585",
+    "subject": "DC/F20261014A-LICENZA ANUAL SOFTWARE ESTATÍSTICO UOyF - TIMB",
+    "vendor_name": "TIMBERLAKE ANALITICA, S.L."
+  },
+  {
+    "amount_eur": 9801.0,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-10-29",
+    "record_id": "192:2102393",
+    "source_id": 2102393,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102393",
+    "subject": "AG/FM20261027A- COMUNICACION BOIAS MGI - SONDARA S.L.",
+    "vendor_name": "SONDARA SOLUCIONS S.L.N.E."
+  },
+  {
+    "amount_eur": 419.0,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-10-30",
+    "record_id": "192:2102733",
+    "source_id": 2102733,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102733",
+    "subject": "DC/CH20260917C MATERIAL DE LABORATORIO - CIENTISOL SL",
+    "vendor_name": "CIENTISOL, S.L."
+  },
+  {
+    "amount_eur": 851.94,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-10-30",
+    "record_id": "192:2102789",
+    "source_id": 2102789,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102789",
+    "subject": "DC/M20261014B COS Y TSA - C.H. GRUPO 3 SL",
+    "vendor_name": "COMERCIAL HOSPITALARIA GRUPO 3, SL"
   }
 ]

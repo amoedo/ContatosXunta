@@ -372,5 +372,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101450",
     "subject": "DIVULGACIÓN FORO DA ENERXÍA",
     "vendor_name": "PERIODICO ABC, S.L."
+  },
+  {
+    "amount_eur": 523.11,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-10-27",
+    "record_id": "514:2101640",
+    "source_id": 2101640,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101640",
+    "subject": "Adquisición de precintos de inspección para os departamentos",
+    "vendor_name": "ETIQUETAS DEL NORTE SL"
+  },
+  {
+    "amount_eur": 140.99,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-10-28",
+    "record_id": "514:2101908",
+    "source_id": 2101908,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101908",
+    "subject": "PRENSA IMPRESA DE INTERESE PARA O GABINETE DA CONSELLEIRA",
+    "vendor_name": "BEIROA DUARTE SC"
+  },
+  {
+    "amount_eur": 84.71,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-10-30",
+    "record_id": "514:2102834",
+    "source_id": 2102834,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102834",
+    "subject": "Lectura de copias departamento territorial de Lugo correspon",
+    "vendor_name": "RICOH ESPAÑA SLU"
   }
 ]

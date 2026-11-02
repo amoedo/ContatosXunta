@@ -53,5 +53,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2098518",
     "subject": "Servizo de reparación e verificación de acometida eléctrica do centro de telecomunicación sito en Quiroga, provincia de",
     "vendor_name": "ELECTRIC CURTIS SL"
+  },
+  {
+    "amount_eur": 7260.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-10-28",
+    "record_id": "144:2101793",
+    "source_id": 2101793,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101793",
+    "subject": "Adquisición de equipamento de protección individual para os traballadores de RETEGAL en concreto, calzado e roupa de tra",
+    "vendor_name": "SELA SAFETY SL"
+  },
+  {
+    "amount_eur": 1815.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-10-30",
+    "record_id": "144:2102706",
+    "source_id": 2102706,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102706",
+    "subject": "Cambio de localización de cámara na base aérea de Castromaior para a ampliación da Rede de Vixilancia dos Espazos Forest",
+    "vendor_name": "GALLEGA DE SISTEMAS Y TELECOMUNICACIONES"
+  },
+  {
+    "amount_eur": 6050.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-10-30",
+    "record_id": "144:2102837",
+    "source_id": 2102837,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102837",
+    "subject": "Mantemento integral do equipamento de dixitalización e impresión e da dotación de consumibles de impresoras existentes n",
+    "vendor_name": "RICOH ESPAÑA SLU"
   }
 ]

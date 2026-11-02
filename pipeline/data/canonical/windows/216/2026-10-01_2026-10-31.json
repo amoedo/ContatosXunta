@@ -130,5 +130,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101459",
     "subject": "AUG-2026-0085. GA26052. AUDIT. EXTERNA REQUISITOS ESQUEMA NA",
     "vendor_name": "AUDERTIS AUDIT SERVICES S.L."
+  },
+  {
+    "amount_eur": 385.99,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-10-27",
+    "record_id": "216:2101648",
+    "source_id": 2101648,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101648",
+    "subject": "GA26050. FRA. A00377/2026.ACTO PRESENTACIÓN MELLORA NA REDE",
+    "vendor_name": "AUDIOVISUALES MCN, S.L"
+  },
+  {
+    "amount_eur": 436.81,
+    "duration": "1 mes",
+    "organism_id": 216,
+    "publication_date": "2026-10-27",
+    "record_id": "216:2101649",
+    "source_id": 2101649,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101649",
+    "subject": "GA.26054.ORGANIZ.ACTO PRESENTAC.OBRA OH.3151151.S2 STO.EN OR",
+    "vendor_name": "AUDIOVISUALES MCN, S.L"
   }
 ]

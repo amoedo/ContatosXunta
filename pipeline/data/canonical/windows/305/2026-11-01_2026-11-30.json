@@ -1,0 +1,24 @@
+[
+  {
+    "amount_eur": 188.7,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-11-02",
+    "record_id": "305:2103041",
+    "source_id": 2103041,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103041",
+    "subject": "material de laboratorio",
+    "vendor_name": "R COSTOYA SL"
+  },
+  {
+    "amount_eur": 394.46,
+    "duration": "1 mes",
+    "organism_id": 305,
+    "publication_date": "2026-11-02",
+    "record_id": "305:2103159",
+    "source_id": 2103159,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103159",
+    "subject": "Reparación balanza de donación",
+    "vendor_name": "MACO SPANIA, SL"
+  }
+]

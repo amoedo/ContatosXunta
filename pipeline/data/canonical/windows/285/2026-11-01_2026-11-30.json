@@ -1,0 +1,79 @@
+[
+  {
+    "amount_eur": 1650.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-02",
+    "record_id": "285:2102921",
+    "source_id": 2102921,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102921",
+    "subject": "serv IMPART FORMACIÓN MÓDULO CURSO FSEI BÁSICA EONP RIBEIRA",
+    "vendor_name": "FATIMA SAMPEDRO VIDAL"
+  },
+  {
+    "amount_eur": 4864.2,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-02",
+    "record_id": "285:2103064",
+    "source_id": 2103064,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103064",
+    "subject": "Subministración Acción de investigación DESIPROFI CIMA",
+    "vendor_name": "ALUMINIOS GARCIA PUMARES, S.L."
+  },
+  {
+    "amount_eur": 72.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-02",
+    "record_id": "285:2103094",
+    "source_id": 2103094,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103094",
+    "subject": "Proxecto de investigación ECOSISTEMICA24",
+    "vendor_name": "IMPRONTA GRAFICA SL"
+  },
+  {
+    "amount_eur": 104.67,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-02",
+    "record_id": "285:2103095",
+    "source_id": 2103095,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103095",
+    "subject": "Acción investigación SALROC",
+    "vendor_name": "IMPRONTA GRAFICA SL"
+  },
+  {
+    "amount_eur": 9154.86,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-02",
+    "record_id": "285:2103190",
+    "source_id": 2103190,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103190",
+    "subject": "Obra mellora climatización Laboratorio CIMA Corón",
+    "vendor_name": "ALIGAL INSTALACIONES SL"
+  },
+  {
+    "amount_eur": 95.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-02",
+    "record_id": "285:2103199",
+    "source_id": 2103199,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103199",
+    "subject": "Acción de investigación SALROC",
+    "vendor_name": "ASOCIACIÓN CULTURAL FORO DOS RECURSOS MARIÑOS E DA"
+  },
+  {
+    "amount_eur": 95.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-02",
+    "record_id": "285:2103200",
+    "source_id": 2103200,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103200",
+    "subject": "Proxecto de investigación ECOSISTEMICA24",
+    "vendor_name": "ASOCIACIÓN CULTURAL FORO DOS RECURSOS MARIÑOS E DA"
+  }
+]

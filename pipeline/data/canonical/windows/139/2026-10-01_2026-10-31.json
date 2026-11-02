@@ -86,5 +86,60 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101424",
     "subject": "ALUGUER SALÓN E PINCHO XORNADA VIÑO SOBER",
     "vendor_name": "HOTEL PALACIO DE SOBER SL"
+  },
+  {
+    "amount_eur": 125.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-10-28",
+    "record_id": "139:2101740",
+    "source_id": 2101740,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101740",
+    "subject": "PARTICIPACIÓN XORNADA O FUTURO DO SECTRO DO VIÑO",
+    "vendor_name": "RUBEN BOGA GONZALEZ"
+  },
+  {
+    "amount_eur": 770.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-10-28",
+    "record_id": "139:2101761",
+    "source_id": 2101761,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101761",
+    "subject": "SERVIZO AUTOBUS VIGO-SANTIAGO-SOBER E VOLTA",
+    "vendor_name": "EMPRESA RAUL SA"
+  },
+  {
+    "amount_eur": 132.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-10-29",
+    "record_id": "139:2101974",
+    "source_id": 2101974,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101974",
+    "subject": "COFFE BREAK 19-10-2026",
+    "vendor_name": "JOSE RAMON SANCHEZ IGLESIAS"
+  },
+  {
+    "amount_eur": 308.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-10-30",
+    "record_id": "139:2102623",
+    "source_id": 2102623,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102623",
+    "subject": "COFFE BREAK O 22/10/2026",
+    "vendor_name": "JOSE RAMON SANCHEZ IGLESIAS"
+  },
+  {
+    "amount_eur": 424.41,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-10-30",
+    "record_id": "139:2102866",
+    "source_id": 2102866,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102866",
+    "subject": "BOLSAS REUTILIZABLES CO LOGO DO CES GALICIA",
+    "vendor_name": "BEIROA DUARTE SC"
   }
 ]

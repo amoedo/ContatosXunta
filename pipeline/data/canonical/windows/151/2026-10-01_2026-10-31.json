@@ -64,5 +64,16 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100749",
     "subject": "RESERVA DE SALÓNS REUNÍONS AGA 93/26. DATA:14/10/2026",
     "vendor_name": "COIA HOTEL TUR SA"
+  },
+  {
+    "amount_eur": 1500.0,
+    "duration": "1 mes",
+    "organism_id": 151,
+    "publication_date": "2026-10-27",
+    "record_id": "151:2101684",
+    "source_id": 2101684,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101684",
+    "subject": "COLABORACIÓN NA ORGANIZACIÓN DA III XORNADA XURÍDICA DO COLE",
+    "vendor_name": "COLEGIO OFIC GRADUADOS SOCIALES"
   }
 ]

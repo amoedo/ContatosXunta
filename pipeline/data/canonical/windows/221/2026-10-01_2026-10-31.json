@@ -42,5 +42,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2099367",
     "subject": "Reforzo de firme nas estradas PO-548, VG-4.2, PO-224, PO-305 e PO-316",
     "vendor_name": "EUROTEC INSPECCCION SL"
+  },
+  {
+    "amount_eur": 211.86,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-10-27",
+    "record_id": "221:2101659",
+    "source_id": 2101659,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101659",
+    "subject": "Nº pedido: 74062948 - Nº albarán: 74062948",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 131.58,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-10-29",
+    "record_id": "221:2102504",
+    "source_id": 2102504,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102504",
+    "subject": "Nº pedido: 74083547 - Nº albarán: 74083547",
+    "vendor_name": "RICOH ESPAÑA SLU"
   }
 ]

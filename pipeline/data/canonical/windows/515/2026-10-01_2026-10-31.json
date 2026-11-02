@@ -119,5 +119,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100904",
     "subject": "Subministro de auga. CONSELLERIA DE  VIVIENDA E PLANIFICACIÓ",
     "vendor_name": "REAL PIKAÑA SL"
+  },
+  {
+    "amount_eur": 2668.05,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-10-27",
+    "record_id": "515:2101629",
+    "source_id": 2101629,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101629",
+    "subject": "SUBMINISTRACIÓN DE 12 CADEIRAS DE OFICINA PARA DT OURENSE",
+    "vendor_name": "EQUIPAMENTOS CAVADO S L"
+  },
+  {
+    "amount_eur": 50.2,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-10-30",
+    "record_id": "515:2102836",
+    "source_id": 2102836,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102836",
+    "subject": "FACT. 845414507 SETEMBRO_SERV. MANTEMENTO IMPRESORAS EQUIP. DEP. TERRITORIAL OURENSE",
+    "vendor_name": "RICOH ESPAÑA SLU"
   }
 ]

@@ -75,5 +75,82 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2100292",
     "subject": "BILLETES DE TREN STAKEHOLDERS",
     "vendor_name": "VIAJES TROTTA SA"
+  },
+  {
+    "amount_eur": 315.25,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-10-28",
+    "record_id": "231:2101834",
+    "source_id": 2101834,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101834",
+    "subject": "catering mesas Pontevedra",
+    "vendor_name": "PANADERIA A DEVESA  S L"
+  },
+  {
+    "amount_eur": 780.76,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-10-28",
+    "record_id": "231:2101863",
+    "source_id": 2101863,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101863",
+    "subject": "Desprazamento a Bilbao Carmen Cotelo_Asistencia a Galicia Bi",
+    "vendor_name": "ORGANIZA-TURISMO Y EVENTOS S.L."
+  },
+  {
+    "amount_eur": 89.45,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-10-28",
+    "record_id": "231:2101864",
+    "source_id": 2101864,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101864",
+    "subject": "Gastos aloxamento en Bilbao Carmen Cotelo_Asistencia Galicia",
+    "vendor_name": "ORGANIZA-TURISMO Y EVENTOS S.L."
+  },
+  {
+    "amount_eur": 114.4,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-10-28",
+    "record_id": "231:2101865",
+    "source_id": 2101865,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101865",
+    "subject": "Fra.271, Servizo reunión de stakeholders_Belu Restauración S",
+    "vendor_name": "BELU RESTAURACION SL"
+  },
+  {
+    "amount_eur": 66.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-10-29",
+    "record_id": "231:2102229",
+    "source_id": 2102229,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102229",
+    "subject": "Reunión directora GAIN e xerente CESGA_15/09/2026",
+    "vendor_name": "LORYGAR, SL"
+  },
+  {
+    "amount_eur": 275.6,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-10-29",
+    "record_id": "231:2102230",
+    "source_id": 2102230,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102230",
+    "subject": "Visita Axencia Estatal de Investigación",
+    "vendor_name": "LORYGAR, SL"
+  },
+  {
+    "amount_eur": 150.0,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-10-29",
+    "record_id": "231:2102571",
+    "source_id": 2102571,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102571",
+    "subject": "Servizo catering networking para sesión de traballo INNOVACI",
+    "vendor_name": "CAFE CABANILLAS, S.C."
   }
 ]

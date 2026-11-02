@@ -438,5 +438,49 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101482",
     "subject": "Colaboración coa II Cocedura Tradicional Aberta en Buño",
     "vendor_name": "ASOC OLEIRA DE BUÑO"
+  },
+  {
+    "amount_eur": 2752.75,
+    "duration": "1 mes",
+    "organism_id": 68,
+    "publication_date": "2026-10-29",
+    "record_id": "68:2101960",
+    "source_id": 2101960,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101960",
+    "subject": "Realización de vídeos durante o taller e as xornadas Oficio, arquitectura e territorio en Chantada (Lugo)",
+    "vendor_name": "PABLO FRANCISCO SOTO GOLUBOFF"
+  },
+  {
+    "amount_eur": 900.0,
+    "duration": "1 mes",
+    "organism_id": 68,
+    "publication_date": "2026-10-29",
+    "record_id": "68:2101994",
+    "source_id": 2101994,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101994",
+    "subject": "Participación nas xornadas Oficio, arquitectura e territorio en Chantada (Lugo). Raquel Buj",
+    "vendor_name": "RAQUEL BUJ GARCIA"
+  },
+  {
+    "amount_eur": 1089.0,
+    "duration": "1 mes",
+    "organism_id": 68,
+    "publication_date": "2026-10-29",
+    "record_id": "68:2102268",
+    "source_id": 2102268,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102268",
+    "subject": "Alugueiro do Espazo  Vilaseco para o curso Fibranzas. Laboratorio de fibras vexetais perfeccionamento. F Vilaseco",
+    "vendor_name": "F.VILASECO SL"
+  },
+  {
+    "amount_eur": 201.3,
+    "duration": "1 mes",
+    "organism_id": 68,
+    "publication_date": "2026-10-30",
+    "record_id": "68:2102814",
+    "source_id": 2102814,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2102814",
+    "subject": "Servizo de aloxamento en Santiago de Compostela para Estudio Correoviejo pola súa participación nas xornadas Oficio, arq",
+    "vendor_name": "O CURRO BED & FOOD SL"
   }
 ]

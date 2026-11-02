@@ -306,5 +306,16 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101438",
     "subject": "PEF CIF - NATURGY - ARRANXO MUFLA",
     "vendor_name": "SELPALAB S.L."
+  },
+  {
+    "amount_eur": 12.15,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-10-28",
+    "record_id": "329:2101880",
+    "source_id": 2101880,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2101880",
+    "subject": "factura fotocopias ricoh sp cis madeira",
+    "vendor_name": "RICOH ESPAÑA SLU"
   }
 ]

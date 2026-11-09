@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "amount_eur": 14800.0,
+    "duration": "1 mes",
+    "organism_id": 49,
+    "publication_date": "2026-11-06",
+    "record_id": "49:2104519",
+    "source_id": 2104519,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104519",
+    "subject": "CONTRATACION DA SUBMINISTRACION DUNHA CARRETILLA ELEVADORA HIDROESTATICA PARA A AXEGA",
+    "vendor_name": "MANUEL ALONSO PAYO"
+  },
+  {
+    "amount_eur": 18089.5,
+    "duration": "1 mes",
+    "organism_id": 49,
+    "publication_date": "2026-11-06",
+    "record_id": "49:2104566",
+    "source_id": 2104566,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104566",
+    "subject": "SERVIZO DE ADECUACION E MANTEMENTO DA CARROCERIA DO CAMION PESADO MERCEDES ACTROS DE AXUDA Á COORDINACION P.M.A. MOBILIZ",
+    "vendor_name": "CARROCERIAS TAMBRE SA"
+  },
+  {
+    "amount_eur": 32582.96,
+    "duration": "1 mes",
+    "organism_id": 49,
+    "publication_date": "2026-11-06",
+    "record_id": "49:2104575",
+    "source_id": 2104575,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104575",
+    "subject": "CONTRATACION DA OBRA DE MELLORA DA INSTALACION BAIXANTE E TOMA DE TERRA INCLUIDAS NO SISTEMA DE PROTECCION CONTRA AS DES",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  }
+]

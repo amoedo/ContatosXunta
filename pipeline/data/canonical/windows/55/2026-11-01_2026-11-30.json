@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "amount_eur": 225.01,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-11-03",
+    "record_id": "55:2103292",
+    "source_id": 2103292,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103292",
+    "subject": "SEMINARIO ISSGA OURENSE 6 9 DE OUTUBRO 2026",
+    "vendor_name": "JOSE CAMBA LAMAZARES"
+  },
+  {
+    "amount_eur": 1799.57,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-11-03",
+    "record_id": "55:2103436",
+    "source_id": 2103436,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103436",
+    "subject": "IMPRESION CAMPAÑA FUMES DIESEL",
+    "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
+  },
+  {
+    "amount_eur": 550.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-11-03",
+    "record_id": "55:2103471",
+    "source_id": 2103471,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103471",
+    "subject": "Pausa-café do seminario &#34;Avaliación e integración preventiv",
+    "vendor_name": "LOMAR VIAXES S.L."
+  },
+  {
+    "amount_eur": 193.6,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-11-03",
+    "record_id": "55:2103629",
+    "source_id": 2103629,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103629",
+    "subject": "REVISION EXTINTORES ISSGA SSCC",
+    "vendor_name": "SERBAFER SERVICIOS INTEGRALES S.L."
+  },
+  {
+    "amount_eur": 139.88,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-11-03",
+    "record_id": "55:2103636",
+    "source_id": 2103636,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103636",
+    "subject": "LAVADO BATAS LABORATORIO ISSGA PONTEVEDRA",
+    "vendor_name": "A LAVANDEIRA 2022"
+  },
+  {
+    "amount_eur": 278.98,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-11-03",
+    "record_id": "55:2103655",
+    "source_id": 2103655,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103655",
+    "subject": "GASTOS IMPRESION ISSGA OURENSE",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 127.38,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-11-03",
+    "record_id": "55:2103656",
+    "source_id": 2103656,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103656",
+    "subject": "GASTOS IMPRESION ISSGA SANTIAGO",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 425.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-11-09",
+    "record_id": "55:2105051",
+    "source_id": 2105051,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105051",
+    "subject": "Pausa-café do seminario: ?Avaliación e integración preventiv",
+    "vendor_name": "MARIA FERNANDA DE SOSA LORENZO"
+  }
+]

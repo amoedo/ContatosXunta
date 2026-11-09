@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "amount_eur": 44672.15,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-11-03",
+    "record_id": "34:2103497",
+    "source_id": 2103497,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103497",
+    "subject": "Rinlo: Reparación rampla de varada",
+    "vendor_name": "CONSTRUC  Y CANALIZACIONES JOSE SAA S L"
+  },
+  {
+    "amount_eur": 13846.08,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-11-03",
+    "record_id": "34:2103666",
+    "source_id": 2103666,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103666",
+    "subject": "Coordinación en materia de seguridade e saúde na fase de execución da obra Estabilización de noiro no porto de Maniños-B",
+    "vendor_name": "EPTISA SERVICIOS DE INGENIERIA SL"
+  },
+  {
+    "amount_eur": 16702.84,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-11-03",
+    "record_id": "34:2103667",
+    "source_id": 2103667,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103667",
+    "subject": "Asistencia técnica á dirección de obra de Estabilización de noiro no porto de Maniños-Barallobre.",
+    "vendor_name": "EPTISA SERVICIOS DE INGENIERIA SL"
+  },
+  {
+    "amount_eur": 3078.24,
+    "duration": "1 mes",
+    "organism_id": 34,
+    "publication_date": "2026-11-06",
+    "record_id": "34:2104706",
+    "source_id": 2104706,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104706",
+    "subject": "Adquisición de varios equipos informáticos para as oficinas de Servizos Centrais.",
+    "vendor_name": "MOUSE DISTRIBUCION SANTIAGO, S.L."
+  }
+]

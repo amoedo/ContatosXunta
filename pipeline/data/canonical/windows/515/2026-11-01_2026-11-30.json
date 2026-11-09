@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "amount_eur": 82.18,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-11-04",
+    "record_id": "515:2103867",
+    "source_id": 2103867,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103867",
+    "subject": "FACT. 4621581 SANTIAGO (01/10/2026 ao 31/10/2026) EQUIPOS POU AUGA - CULLIGAN WATER SPAIN SL.",
+    "vendor_name": "CULLIGAN WATER SPAIN SL"
+  },
+  {
+    "amount_eur": 5381.92,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-11-06",
+    "record_id": "515:2104547",
+    "source_id": 2104547,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104547",
+    "subject": "Acordo coop CVePI e Concello Bande Mercado Xurés",
+    "vendor_name": "MANUEL JESUS PEREZ RODRIGUEZ"
+  },
+  {
+    "amount_eur": 3844.23,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-11-06",
+    "record_id": "515:2104767",
+    "source_id": 2104767,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104767",
+    "subject": "Acordo coop CVePI concello Bande para Mercado Xurés",
+    "vendor_name": "E I C DURAN,SL"
+  }
+]

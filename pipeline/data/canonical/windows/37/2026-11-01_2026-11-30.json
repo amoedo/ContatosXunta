@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "amount_eur": 11761.2,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-11-04",
+    "record_id": "37:2103808",
+    "source_id": 2103808,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103808",
+    "subject": "CONTRATACIÓN VIDEO DIVULGATVO FINAL DO PROXECTO COMENERG",
+    "vendor_name": "PABLO CACHEDA PAZ"
+  },
+  {
+    "amount_eur": 29.65,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-11-04",
+    "record_id": "37:2103968",
+    "source_id": 2103968,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103968",
+    "subject": "Impresión dous carteis informativos do proxecto Green Hub",
+    "vendor_name": "PROXECTOS GRAFICOS ALDINE FERROL, S.L."
+  },
+  {
+    "amount_eur": 5082.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-11-04",
+    "record_id": "37:2103993",
+    "source_id": 2103993,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103993",
+    "subject": "asistencia dunha MDI do hidróxeno renovable en Galicia, dent",
+    "vendor_name": "SIDI CONSULTORIA Y GESTIÓN SLU"
+  },
+  {
+    "amount_eur": 685.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-11-09",
+    "record_id": "37:2105117",
+    "source_id": 2105117,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105117",
+    "subject": "BILLETES DE TREN E ALOXAMENTO",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  }
+]

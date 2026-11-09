@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "amount_eur": 678.98,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-11-04",
+    "record_id": "231:2103979",
+    "source_id": 2103979,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103979",
+    "subject": "catering networking PACE",
+    "vendor_name": "ALBARIN ALON S.L.U."
+  },
+  {
+    "amount_eur": 15579.96,
+    "duration": "1 mes",
+    "organism_id": 231,
+    "publication_date": "2026-11-06",
+    "record_id": "231:2104650",
+    "source_id": 2104650,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104650",
+    "subject": "Servizo soporte loxistico evento Congreso 3 e 4 dec",
+    "vendor_name": "ANA TREVISANI, SL"
+  }
+]

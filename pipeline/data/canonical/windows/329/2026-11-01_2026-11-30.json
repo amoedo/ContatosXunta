@@ -20,5 +20,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103065",
     "subject": "PEF CIF - RF2025/2 (2025 00010)- PRODUCCIÓN DE BRINZAIS E TR",
     "vendor_name": "ANTONIO ALVARIÑO SL"
+  },
+  {
+    "amount_eur": 549.27,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-11-05",
+    "record_id": "329:2104123",
+    "source_id": 2104123,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104123",
+    "subject": "XERA 2026-008. FACT 017/2026, ARRENDAMENTO EDIFICIO XACOBEO-",
+    "vendor_name": "SA DE XESTION DO PLAN XACOBEO"
+  },
+  {
+    "amount_eur": 1594.18,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-11-09",
+    "record_id": "329:2105039",
+    "source_id": 2105039,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105039",
+    "subject": "Servizo mecanización pezas",
+    "vendor_name": "JUAN MANUEL LEMA AGEITOS"
   }
 ]

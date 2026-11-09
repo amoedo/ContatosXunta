@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "amount_eur": 2145.0,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-11-09",
+    "record_id": "225:2105335",
+    "source_id": 2105335,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105335",
+    "subject": "coctel para o acto de &#34;Bandeiras Verdes Galicia 2026&#34;",
+    "vendor_name": "FREIRE CHICO, SL"
+  },
+  {
+    "amount_eur": 2168.09,
+    "duration": "1 mes",
+    "organism_id": 225,
+    "publication_date": "2026-11-09",
+    "record_id": "225:2105390",
+    "source_id": 2105390,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105390",
+    "subject": "producción de bandeiras para o acto de &#34;Bandeiras Verdes Gal",
+    "vendor_name": "VIFER Y DE DIEGO, S L"
+  }
+]

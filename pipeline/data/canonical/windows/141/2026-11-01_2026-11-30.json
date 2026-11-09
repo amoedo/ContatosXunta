@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "amount_eur": 306.89,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-11-03",
+    "record_id": "141:2103309",
+    "source_id": 2103309,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103309",
+    "subject": "Servizo reparación vehículo",
+    "vendor_name": "JOSE MARIA ARROJO ALDEGUNDE SA"
+  },
+  {
+    "amount_eur": 11275.63,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-11-03",
+    "record_id": "141:2103463",
+    "source_id": 2103463,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103463",
+    "subject": "Equipo de comprobación",
+    "vendor_name": "SISTEMAS INTEGRADOS DE SERVICIOS DE TELECONTROL SL"
+  },
+  {
+    "amount_eur": 314.6,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-11-03",
+    "record_id": "141:2103630",
+    "source_id": 2103630,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103630",
+    "subject": "Servizo seguimento fotográfico",
+    "vendor_name": "LA DIAPO FOTOGRAFIA SL"
+  },
+  {
+    "amount_eur": 10708.5,
+    "duration": "1 mes",
+    "organism_id": 141,
+    "publication_date": "2026-11-05",
+    "record_id": "141:2104382",
+    "source_id": 2104382,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104382",
+    "subject": "Actualización creatividades",
+    "vendor_name": "TIOPHIL SL"
+  }
+]

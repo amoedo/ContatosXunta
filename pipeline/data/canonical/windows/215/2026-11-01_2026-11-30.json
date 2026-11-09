@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "amount_eur": 4999.72,
+    "duration": "1 mes",
+    "organism_id": 215,
+    "publication_date": "2026-11-04",
+    "record_id": "215:2104009",
+    "source_id": 2104009,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104009",
+    "subject": "consultoria detección de incendios con técnicas IA-ML",
+    "vendor_name": "FUNDACION CENTRO DE INVESTIGACION EN TECNOLOXIAS D"
+  }
+]

@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "amount_eur": 13310.0,
+    "duration": "1 mes",
+    "organism_id": 142,
+    "publication_date": "2026-11-04",
+    "record_id": "142:2103892",
+    "source_id": 2103892,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103892",
+    "subject": "Adquisición sistema de almacenamento composto por: 1 Unidade Synology RS1221RP+, con kit de carrís para montaxe en rack",
+    "vendor_name": "TECNOLOGIAS PLEXUS, S.L."
+  }
+]

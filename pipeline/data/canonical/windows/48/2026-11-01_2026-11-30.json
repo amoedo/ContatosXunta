@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "amount_eur": 1056.11,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-11-03",
+    "record_id": "48:2103509",
+    "source_id": 2103509,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103509",
+    "subject": "Honorarios por tramitación de renovación da marca nº 2754627",
+    "vendor_name": "HERRERO Y ASOCIADOS SL"
+  },
+  {
+    "amount_eur": 840.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-11-06",
+    "record_id": "48:2104507",
+    "source_id": 2104507,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104507",
+    "subject": "18 promoción policia local - DESA",
+    "vendor_name": "MARIA ROSARIO GARCIA RUA"
+  },
+  {
+    "amount_eur": 480.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-11-06",
+    "record_id": "48:2104508",
+    "source_id": 2104508,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104508",
+    "subject": "DESA 12 promoción",
+    "vendor_name": "MARIA ROSARIO GARCIA RUA"
+  },
+  {
+    "amount_eur": 1742.4,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-11-06",
+    "record_id": "48:2104717",
+    "source_id": 2104717,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104717",
+    "subject": "Formación contínua GUARDIA CIVIL",
+    "vendor_name": "LEARNLINE SOLUTIONS SLU"
+  },
+  {
+    "amount_eur": 7405.2,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-11-06",
+    "record_id": "48:2104718",
+    "source_id": 2104718,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104718",
+    "subject": "Formación contínua POLICÍA LOCAL",
+    "vendor_name": "LEARNLINE SOLUTIONS SLU"
+  },
+  {
+    "amount_eur": 1742.4,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-11-06",
+    "record_id": "48:2104719",
+    "source_id": 2104719,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104719",
+    "subject": "Formación contínua UPA",
+    "vendor_name": "LEARNLINE SOLUTIONS SLU"
+  },
+  {
+    "amount_eur": 700.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-11-06",
+    "record_id": "48:2104890",
+    "source_id": 2104890,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104890",
+    "subject": "Proceso seleción promoción libre corpos Policía Local de Gal",
+    "vendor_name": "AUGA V.A. XESTION E MANTEMENTO SLU"
+  },
+  {
+    "amount_eur": 2725.52,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-11-06",
+    "record_id": "48:2104902",
+    "source_id": 2104902,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104902",
+    "subject": "OPOSICIÓNS POLICIA 24 E 25 DE OUTUBRO",
+    "vendor_name": "FEDERACION GALLEGA DE ATLETISMO DE LA CO"
+  },
+  {
+    "amount_eur": 692.12,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-11-09",
+    "record_id": "48:2105001",
+    "source_id": 2105001,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105001",
+    "subject": "uniformidade verán e inverno para persoal conductor",
+    "vendor_name": "JOSE RODRIGUEZ GOMEZ"
+  },
+  {
+    "amount_eur": 136.5,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-11-09",
+    "record_id": "48:2105047",
+    "source_id": 2105047,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105047",
+    "subject": "PRENSA SERVIDA MES OCTUBRE 2026",
+    "vendor_name": "DOLORES DURAN LOUZAO"
+  },
+  {
+    "amount_eur": 7623.0,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-11-09",
+    "record_id": "48:2105294",
+    "source_id": 2105294,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105294",
+    "subject": "Curso de técnicas de conducción segura  2 ediciones ( Cod 26",
+    "vendor_name": "TANA26, S.L"
+  },
+  {
+    "amount_eur": 272.72,
+    "duration": "1 mes",
+    "organism_id": 48,
+    "publication_date": "2026-11-09",
+    "record_id": "48:2105408",
+    "source_id": 2105408,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105408",
+    "subject": "EQUIPOS PARA CUADROS DE ILUMINACION EXTERIOR",
+    "vendor_name": "RICARSAT, S.L."
+  }
+]

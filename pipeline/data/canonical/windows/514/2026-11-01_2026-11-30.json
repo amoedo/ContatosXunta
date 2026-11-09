@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "amount_eur": 49.91,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-11-05",
+    "record_id": "514:2104121",
+    "source_id": 2104121,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104121",
+    "subject": "Tratamento, personalización, ensobrado e envío dos carnés de",
+    "vendor_name": "ABANCA GESTIÓN OPERATIVA S.A."
+  },
+  {
+    "amount_eur": 1424.81,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-11-05",
+    "record_id": "514:2104433",
+    "source_id": 2104433,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104433",
+    "subject": "Gasto impresora mes setembro",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 959.22,
+    "duration": "1 mes",
+    "organism_id": 514,
+    "publication_date": "2026-11-09",
+    "record_id": "514:2105216",
+    "source_id": 2105216,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105216",
+    "subject": "Subcontratación calibración calibrador de fugas",
+    "vendor_name": "SISTEMAS ATEQ ESPAÑA SA"
+  }
+]

@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "amount_eur": 3775.2,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-11-06",
+    "record_id": "97:2104620",
+    "source_id": 2104620,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104620",
+    "subject": "SERVIZO DEGUSTACION PRODUCTOS DAS PARADAS DO CAMIÑO NO HOSTAL DOS REIS CATOLICOS DE SANTIAGO O 18/11/2026",
+    "vendor_name": "GALICIA FORUM GASTRONOMICO SL"
+  },
+  {
+    "amount_eur": 680.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-11-06",
+    "record_id": "97:2104625",
+    "source_id": 2104625,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104625",
+    "subject": "GASTOS DE VIAXE SANTIAGO-MADRID-SANTIAGO (03-04/11) E ALOXAMENTO DIVERSAS REUNIONS CONSELLEIRO DELEGADO EN MADRID",
+    "vendor_name": "VIAJES GALITUR SL"
+  },
+  {
+    "amount_eur": 887.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-11-06",
+    "record_id": "97:2104626",
+    "source_id": 2104626,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104626",
+    "subject": "BILLETE AVION CORUÑA-MADRID-CORUÑA (06-07/11) E ALOXAMENTO ACTO PROMOCION XACOBEO 2027 EN PAMPLONA",
+    "vendor_name": "VIAJES GALITUR SL"
+  },
+  {
+    "amount_eur": 143.5,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-11-06",
+    "record_id": "97:2104627",
+    "source_id": 2104627,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104627",
+    "subject": "ALOXAMENTO EN MERIDA O 22-10 PARA ASISTENCIA CONSELLEIRO DELEGADO AO CONGRESO INTERNAC.ASOCIACIONS JACOBEAS EN MERIDA",
+    "vendor_name": "ZONDA SL"
+  },
+  {
+    "amount_eur": 18143.95,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-11-06",
+    "record_id": "97:2104651",
+    "source_id": 2104651,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104651",
+    "subject": "SECRETARIA TECNICA PARA ORGANIZACION SIMPOSIO TRANSNACIONAL ULTREIA SUDOE",
+    "vendor_name": "ANA TREVISANI, SL"
+  },
+  {
+    "amount_eur": 4042.61,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-11-06",
+    "record_id": "97:2104701",
+    "source_id": 2104701,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104701",
+    "subject": "SERVIZO 2 VISITAS GUIADAS (CENTRO HISTORICO E CATEDRAL) PARA 3 GRUPOS EN SANTIAGO PARA ASISTENTES SIMPOSIO ULTREIA SUDOE",
+    "vendor_name": "TODO OCIO GALICIA,S.L."
+  },
+  {
+    "amount_eur": 9838.79,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-11-09",
+    "record_id": "97:2105131",
+    "source_id": 2105131,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105131",
+    "subject": "TRABALLOS DE SUSTITUCION DE ELEMENTOS DANADOS NOS FOCOS DAS CAMAS EN 9 ALBERGUES DE PEREGRINOS DA REDE DA XUNTA DE GALIC",
+    "vendor_name": "OHL SERVICIOS INGESAN SA"
+  }
+]

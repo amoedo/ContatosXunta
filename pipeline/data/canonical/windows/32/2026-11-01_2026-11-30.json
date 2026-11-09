@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "amount_eur": 1147.09,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-11-03",
+    "record_id": "32:2103368",
+    "source_id": 2103368,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103368",
+    "subject": "CM26-87 ORGANIZACION VIAXE A PAISES BAJOS MAR PEREIRA",
+    "vendor_name": "BIVES TOUR, SA"
+  },
+  {
+    "amount_eur": 389.14,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-11-03",
+    "record_id": "32:2103650",
+    "source_id": 2103650,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103650",
+    "subject": "CM26-82 SASEGUR SETEMBRO",
+    "vendor_name": "SASEGUR SL"
+  },
+  {
+    "amount_eur": 7405.2,
+    "duration": "1 mes",
+    "organism_id": 32,
+    "publication_date": "2026-11-09",
+    "record_id": "32:2105304",
+    "source_id": 2105304,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105304",
+    "subject": "CM26-89 Contrato de Renting Seat Leon Style",
+    "vendor_name": "AUTOS BREA S L"
+  }
+]

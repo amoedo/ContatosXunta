@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "amount_eur": 1360.05,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-11-05",
+    "record_id": "16:2104203",
+    "source_id": 2104203,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104203",
+    "subject": "Contratación servizo de catering para os ponentes convidados para a XVI edición da Semana Internacional Contract Galicia",
+    "vendor_name": "LIGHTHOUSE BAIONA S.L."
+  },
+  {
+    "amount_eur": 132.3,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-11-06",
+    "record_id": "16:2104578",
+    "source_id": 2104578,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104578",
+    "subject": "Servizos para a celebración dun encontro de traballo empresarial coa Consellería de Economía e Industria e o Igape, na C",
+    "vendor_name": "VIENA REPOSTERIA CAPELLANES SA"
+  },
+  {
+    "amount_eur": 4763.44,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-11-06",
+    "record_id": "16:2104616",
+    "source_id": 2104616,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104616",
+    "subject": "Adquisición vuelos algúns ponentes invitados XVI edición Semana Internacional Contract Galicia 2026",
+    "vendor_name": "W2M CORPORATE, SLU"
+  },
+  {
+    "amount_eur": 18137.9,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-11-06",
+    "record_id": "16:2104665",
+    "source_id": 2104665,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104665",
+    "subject": "III edición do Encontro de Sober 2026 (7 e 8 de maio)",
+    "vendor_name": "CENTRO DE ESTUDIOS SUP UNIVERSITARIOS GA"
+  },
+  {
+    "amount_eur": 10531.84,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-11-06",
+    "record_id": "16:2104779",
+    "source_id": 2104779,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104779",
+    "subject": "Suministro módulo memoria RAM DDR5 5600Mhz (34uds)",
+    "vendor_name": "INFORHOUSE S L"
+  },
+  {
+    "amount_eur": 1450.27,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-11-06",
+    "record_id": "16:2104780",
+    "source_id": 2104780,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104780",
+    "subject": "Suministro webcam logitech (5uds) e auriculares inalámbricos (5uds).",
+    "vendor_name": "INFORHOUSE S L"
+  },
+  {
+    "amount_eur": 18029.0,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-11-06",
+    "record_id": "16:2104811",
+    "source_id": 2104811,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104811",
+    "subject": "Mantemento evolutivo e correctivo de CRM de Igape.",
+    "vendor_name": "HACCE SOLUCIONES TIC, SL"
+  },
+  {
+    "amount_eur": 1131.35,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-11-06",
+    "record_id": "16:2104847",
+    "source_id": 2104847,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104847",
+    "subject": "Servizos Xornada Emiratos Árabes Unidos (8 de outubro 2026, Cidade da Cultura, Santiago)",
+    "vendor_name": "RDSENDE IMAXSON SL"
+  },
+  {
+    "amount_eur": 200.2,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-11-06",
+    "record_id": "16:2104852",
+    "source_id": 2104852,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104852",
+    "subject": "Servizos Xornada Emiratos Árabes Unidos (8 de outubro 2026, Cidade da Cultura, Santiago)",
+    "vendor_name": "CATERING A CANTINA, SL."
+  },
+  {
+    "amount_eur": 18029.0,
+    "duration": "1 mes",
+    "organism_id": 16,
+    "publication_date": "2026-11-06",
+    "record_id": "16:2104894",
+    "source_id": 2104894,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104894",
+    "subject": "Asistencia técnica no sistema de información da  Oficina Económica de Galicia.",
+    "vendor_name": "CRAFTIUM S.L."
+  }
+]

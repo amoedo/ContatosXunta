@@ -101,16 +101,69 @@ def test_consistency_retry_discards_an_unstable_first_pass() -> None:
         data=(first.data[0],),
     )
     pages = [first, repeated, first, final, first]
+    delays: list[float] = []
 
     rows = collect_consistent_window(
         291,
         date(2026, 1, 1),
         date(2026, 1, 31),
         page_fetcher=lambda *args, **kwargs: pages.pop(0),
+        sleeper=delays.append,
     )
 
     assert [row.id for row in rows] == [1920375, 1920376, 1920693]
     assert pages == []
+    assert delays == [30.0]
+
+
+def test_consistency_retry_backs_off_while_the_count_keeps_changing() -> None:
+    first = load_page("page-0.json")
+    final = load_page("page-2.json")
+    grew = SourcePage(
+        draw=2,
+        records_total=first.records_total + 1,
+        records_filtered=first.records_filtered + 1,
+        data=(),
+    )
+    pages = [first, grew, first, grew, first, final, first]
+    delays: list[float] = []
+
+    rows = collect_consistent_window(
+        291,
+        date(2026, 1, 1),
+        date(2026, 1, 31),
+        page_fetcher=lambda *args, **kwargs: pages.pop(0),
+        sleeper=delays.append,
+    )
+
+    assert [row.id for row in rows] == [1920375, 1920376, 1920693]
+    assert pages == []
+    assert delays == [30.0, 60.0]
+
+
+def test_consistency_retry_gives_up_after_the_last_attempt() -> None:
+    first = load_page("page-0.json")
+    grew = SourcePage(
+        draw=2,
+        records_total=first.records_total + 1,
+        records_filtered=first.records_filtered + 1,
+        data=(),
+    )
+    pages = [first, grew] * 3
+    delays: list[float] = []
+
+    with pytest.raises(CountMismatchError, match="changed"):
+        collect_consistent_window(
+            291,
+            date(2026, 1, 1),
+            date(2026, 1, 31),
+            page_fetcher=lambda *args, **kwargs: pages.pop(0),
+            policy=RetryPolicy(max_attempts=3, initial_delay_seconds=1.0),
+            sleeper=delays.append,
+        )
+
+    assert pages == []
+    assert delays == [1.0, 2.0]
 
 
 def test_schema_rejects_invalid_publication_date() -> None:

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import time
 from dataclasses import dataclass
 from datetime import date, timedelta
 from pathlib import Path
@@ -9,7 +10,16 @@ from .artifacts import window_is_complete, write_window_artifacts
 from .crawler import CountMismatchError, PageFetcher, collect_window
 from .normalize import canonicalize_row
 from .registry import Entity
-from .source import fetch_page
+from .source import RetryPolicy, fetch_page
+
+# The source keeps publishing while a window is crawled, so a large window can
+# change count mid-pagination. Wait between passes so that bursts of new
+# publications settle: 30s, 60s, 120s, 240s (about 7.5 minutes at most).
+CONSISTENCY_RETRY_POLICY = RetryPolicy(
+    max_attempts=5,
+    initial_delay_seconds=30.0,
+    backoff_factor=2.0,
+)
 
 
 @dataclass(frozen=True)
@@ -74,11 +84,10 @@ def collect_consistent_window(
     end_date: date,
     *,
     page_fetcher: PageFetcher = fetch_page,
-    max_attempts: int = 3,
+    policy: RetryPolicy = CONSISTENCY_RETRY_POLICY,
+    sleeper: Callable[[float], None] = time.sleep,
 ) -> list:
-    if max_attempts < 1:
-        raise ValueError("max_attempts must be positive")
-    for attempt in range(max_attempts):
+    for attempt in range(policy.max_attempts):
         try:
             return collect_window(
                 organism_id,
@@ -87,8 +96,9 @@ def collect_consistent_window(
                 page_fetcher=page_fetcher,
             )
         except CountMismatchError:
-            if attempt + 1 == max_attempts:
+            if attempt + 1 == policy.max_attempts:
                 raise
+            sleeper(policy.initial_delay_seconds * policy.backoff_factor**attempt)
     raise RuntimeError("consistency retry loop exited unexpectedly")
 
 

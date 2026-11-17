@@ -1,1 +1,200 @@
-[]
+[
+  {
+    "amount_eur": 300.89,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-13",
+    "record_id": "243:2106838",
+    "source_id": 2106838,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106838",
+    "subject": "REXISTRO NOVO REPRESENTANTE",
+    "vendor_name": "ANDRES JOSE YLLA GARCIA-GERMAN"
+  },
+  {
+    "amount_eur": 1452.0,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-13",
+    "record_id": "243:2106840",
+    "source_id": 2106840,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106840",
+    "subject": "Reportaxe fotográfico do XIX Encontro Ibérico de Parques Científicos e Tecnolóxicos",
+    "vendor_name": "ALENA RAPETSKAYA RAPETSKI"
+  },
+  {
+    "amount_eur": 651.36,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-13",
+    "record_id": "243:2106903",
+    "source_id": 2106903,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106903",
+    "subject": "MANTEMENTO ANUAL",
+    "vendor_name": "DORLET SA"
+  },
+  {
+    "amount_eur": 1235.11,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-13",
+    "record_id": "243:2106904",
+    "source_id": 2106904,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106904",
+    "subject": "CONTROLADORA DE ACCESOS",
+    "vendor_name": "DORLET SA"
+  },
+  {
+    "amount_eur": 21.08,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-13",
+    "record_id": "243:2106982",
+    "source_id": 2106982,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106982",
+    "subject": "CORREA CORTACESPED",
+    "vendor_name": "ROEIRASA SA"
+  },
+  {
+    "amount_eur": 2599.85,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-13",
+    "record_id": "243:2107041",
+    "source_id": 2107041,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107041",
+    "subject": "Servizo de Catering - Cóctel XIX Encontro Iberico de Parques Científicos e Tecnolóxicos",
+    "vendor_name": "PARADORES DE TURISMO DE ESPAÑA S A"
+  },
+  {
+    "amount_eur": 108.9,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-13",
+    "record_id": "243:2107161",
+    "source_id": 2107161,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107161",
+    "subject": "HIPOCLORITO SANITARIO",
+    "vendor_name": "LINCOLD IBERICA SL"
+  },
+  {
+    "amount_eur": 1298.0,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-13",
+    "record_id": "243:2107194",
+    "source_id": 2107194,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107194",
+    "subject": "Autobuses para os desprazamentos do XIX Encontro Ibérico de Parques Científicos e Tecnolóxicos.",
+    "vendor_name": "AUTOS GONZALEZ SL"
+  },
+  {
+    "amount_eur": 1101.27,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-13",
+    "record_id": "243:2107196",
+    "source_id": 2107196,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107196",
+    "subject": "MATERIAL MANTEMENTO",
+    "vendor_name": "ELECTRO ORENSE, SL"
+  },
+  {
+    "amount_eur": 2057.0,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-13",
+    "record_id": "243:2107205",
+    "source_id": 2107205,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107205",
+    "subject": "Realización de streaming, videoconferecias, edicións videos para o XIX Encontro Ibérico de Parques Cienetíficos e Tecnol",
+    "vendor_name": "TECNOLOGIA GALLEGA Y COMUNICACION, SL"
+  },
+  {
+    "amount_eur": 16.76,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-13",
+    "record_id": "243:2107209",
+    "source_id": 2107209,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107209",
+    "subject": "SERVIZO RESTAURACION",
+    "vendor_name": "XANTOKI S. L."
+  },
+  {
+    "amount_eur": 625.87,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-13",
+    "record_id": "243:2107215",
+    "source_id": 2107215,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107215",
+    "subject": "SOTWARE GALILEO XESTION ENTRADAS PISCINAS",
+    "vendor_name": "SAUDETER SLU"
+  },
+  {
+    "amount_eur": 78.02,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-13",
+    "record_id": "243:2107216",
+    "source_id": 2107216,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107216",
+    "subject": "COMBUSTIBLE MAQUINAS XARDINERIA",
+    "vendor_name": "STAROIL SAN CIBRAO, S.L"
+  },
+  {
+    "amount_eur": 433.5,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-13",
+    "record_id": "243:2107217",
+    "source_id": 2107217,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107217",
+    "subject": "SERVIZO DE GUIA XIX ENCONTRO IBERICO",
+    "vendor_name": "PREMIUM PLANS SL"
+  },
+  {
+    "amount_eur": 244.94,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-13",
+    "record_id": "243:2107394",
+    "source_id": 2107394,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107394",
+    "subject": "PLACA MOTOR",
+    "vendor_name": "APRIMATIC DOORS SL"
+  },
+  {
+    "amount_eur": 1774.99,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-13",
+    "record_id": "243:2107461",
+    "source_id": 2107461,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107461",
+    "subject": "CUOTA DE SOCIO SEGUNDO SEMESTRE 2026",
+    "vendor_name": "ASOC DE PARQUES CIENTIFICOS Y TECNOLOGICOS DE"
+  },
+  {
+    "amount_eur": 1529.44,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-16",
+    "record_id": "243:2108776",
+    "source_id": 2108776,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2108776",
+    "subject": "Merchandising para o XIX Encontro Ibérico de Parques Científicos e Tecnolóxicos",
+    "vendor_name": "ABLANA S A"
+  },
+  {
+    "amount_eur": 5203.0,
+    "duration": "1 mes",
+    "organism_id": 243,
+    "publication_date": "2026-11-16",
+    "record_id": "243:2110044",
+    "source_id": 2110044,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2110044",
+    "subject": "Proxecto de  reforma da  instalación da ventilación",
+    "vendor_name": "ALVTEK INGENIERIA TECNICA S.L.U."
+  }
+]

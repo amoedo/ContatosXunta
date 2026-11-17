@@ -86,5 +86,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105051",
     "subject": "Pausa-café do seminario: ?Avaliación e integración preventiv",
     "vendor_name": "MARIA FERNANDA DE SOSA LORENZO"
+  },
+  {
+    "amount_eur": 903.21,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-11-09",
+    "record_id": "55:2105482",
+    "source_id": 2105482,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105482",
+    "subject": "pausa-café para a Xornada técnica ? Desperta ao perigo: som",
+    "vendor_name": "DISMABOCK PORRIÑO, S.L."
+  },
+  {
+    "amount_eur": 700.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-11-16",
+    "record_id": "55:2107523",
+    "source_id": 2107523,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107523",
+    "subject": "Xornada técnica ? Desperta ao perigo: somnolencia e segurida",
+    "vendor_name": "FRANCISCO JOSE OTERO LOPEZ"
+  },
+  {
+    "amount_eur": 187.0,
+    "duration": "1 mes",
+    "organism_id": 55,
+    "publication_date": "2026-11-17",
+    "record_id": "55:2113612",
+    "source_id": 2113612,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2113612",
+    "subject": "almorzo reunión do grupo de traballo para a ?Implementación",
+    "vendor_name": "ALMIRANTE BLACK SL"
   }
 ]

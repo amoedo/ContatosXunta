@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "amount_eur": 17784.58,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-11-09",
+    "record_id": "221:2105487",
+    "source_id": 2105487,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105487",
+    "subject": "Ensaios de contraste &#34;Reforzo de Firme nas estradas AC-841, AC-543, AC-960 e AC-261&#34;",
+    "vendor_name": "INGENIERIA, GEOTECNIA Y CALIDAD S.L"
+  },
+  {
+    "amount_eur": 185.13,
+    "duration": "1 mes",
+    "organism_id": 221,
+    "publication_date": "2026-11-13",
+    "record_id": "221:2107234",
+    "source_id": 2107234,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107234",
+    "subject": "Termo eléctrico para Servizo Provincial AXI Pontevedra",
+    "vendor_name": "CASTROMAN SL"
+  }
+]

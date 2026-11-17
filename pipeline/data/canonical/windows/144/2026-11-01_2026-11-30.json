@@ -20,5 +20,60 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104817",
     "subject": "Subministración de conmutadores L2/L3 para a RESGAL, cofinanciado pola Unión Europea no marco de programa Galicia FEDER",
     "vendor_name": "TRC BAT, S.L."
+  },
+  {
+    "amount_eur": 5808.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-11-17",
+    "record_id": "144:2110094",
+    "source_id": 2110094,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2110094",
+    "subject": "Estudo de infraestruturas susceptibles de albergamento redes  IoT en zonas rurais da provincia de Lugo",
+    "vendor_name": "JAVIER SANTOS FERNANDEZ FRAGA"
+  },
+  {
+    "amount_eur": 6050.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-11-17",
+    "record_id": "144:2111551",
+    "source_id": 2111551,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2111551",
+    "subject": "Subministración repostos emisoras FM Pedroso, Seminario e Bailadora.",
+    "vendor_name": "VIDEO MEDIOS SA"
+  },
+  {
+    "amount_eur": 3267.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-11-17",
+    "record_id": "144:2114901",
+    "source_id": 2114901,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2114901",
+    "subject": "Subministración dun analizador de fluxos TS de TDT",
+    "vendor_name": "ABACANTO SOLUCIONES SL"
+  },
+  {
+    "amount_eur": 3388.0,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-11-17",
+    "record_id": "144:2115200",
+    "source_id": 2115200,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2115200",
+    "subject": "Servizo de modificación de instalacións eléctricas nos centros denominados Reigosa e Cervantes 2.",
+    "vendor_name": "TECNODEZA S.L."
+  },
+  {
+    "amount_eur": 7562.5,
+    "duration": "1 mes",
+    "organism_id": 144,
+    "publication_date": "2026-11-17",
+    "record_id": "144:2115201",
+    "source_id": 2115201,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2115201",
+    "subject": "Reparación módulos de supervisión Isoce48 / Isocex48.",
+    "vendor_name": "SERVICIOS TECNOLOGICOS MEMTEL S.L"
   }
 ]

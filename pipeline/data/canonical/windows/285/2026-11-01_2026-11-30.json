@@ -207,5 +207,137 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105038",
     "subject": "Serv interpretación reunión DX MARE - Bruxelas",
     "vendor_name": "MARÍA ROJAS MARTÍNEZ"
+  },
+  {
+    "amount_eur": 87.97,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-09",
+    "record_id": "285:2105484",
+    "source_id": 2105484,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105484",
+    "subject": "Acción Investigación APAES",
+    "vendor_name": "CASTROMAN I, S.L"
+  },
+  {
+    "amount_eur": 44.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-09",
+    "record_id": "285:2105665",
+    "source_id": 2105665,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105665",
+    "subject": "Acción Investigación APAES",
+    "vendor_name": "VIRGEN DEL CARMEN COFRADIA PESCADORES"
+  },
+  {
+    "amount_eur": 7260.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-09",
+    "record_id": "285:2105702",
+    "source_id": 2105702,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105702",
+    "subject": "Informe coeficientes redutores persoal Gardacostas",
+    "vendor_name": "UNIVERSIDADE DE SANTIAGO DE COMPOSTELA"
+  },
+  {
+    "amount_eur": 631.62,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-13",
+    "record_id": "285:2107067",
+    "source_id": 2107067,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107067",
+    "subject": "Acción de investigación LOBILAR",
+    "vendor_name": "DASAN CIENTIFICA S.L"
+  },
+  {
+    "amount_eur": 47172.37,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-13",
+    "record_id": "285:2107332",
+    "source_id": 2107332,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107332",
+    "subject": "TRATAMENTO DE PARAMENTOS, REVESTIMENTO E PINTADO DE SUPERFIC",
+    "vendor_name": "O CANTEIRO CONTRATACIONES SL"
+  },
+  {
+    "amount_eur": 14440.62,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-13",
+    "record_id": "285:2107345",
+    "source_id": 2107345,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107345",
+    "subject": "Subministración armarios máis caixón lonxa Ferrol",
+    "vendor_name": "RENOBAT GALICIA, S.L. UNIPERSONAL"
+  },
+  {
+    "amount_eur": 1319.48,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-16",
+    "record_id": "285:2108861",
+    "source_id": 2108861,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2108861",
+    "subject": "Acción Investigación CONTOX",
+    "vendor_name": "BIVES TOUR, SA"
+  },
+  {
+    "amount_eur": 15669.5,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-16",
+    "record_id": "285:2109956",
+    "source_id": 2109956,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2109956",
+    "subject": "Festa da Ría de Ribadeo, 2026",
+    "vendor_name": "ASORDE CANTABRICO S.L."
+  },
+  {
+    "amount_eur": 17545.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-16",
+    "record_id": "285:2109963",
+    "source_id": 2109963,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2109963",
+    "subject": "Congreso do Mar Vigo 2026",
+    "vendor_name": "PEPITA-TERY PRODUCCIONES, SL"
+  },
+  {
+    "amount_eur": 13068.0,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-17",
+    "record_id": "285:2112082",
+    "source_id": 2112082,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2112082",
+    "subject": "Serv.realización deseños decoración Camións Galicia Sabe",
+    "vendor_name": "IDEA CREATIVIDAD Y COMUNICACION SL"
+  },
+  {
+    "amount_eur": 1005.51,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-17",
+    "record_id": "285:2113866",
+    "source_id": 2113866,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2113866",
+    "subject": "Acción de investigación RUDOMEX",
+    "vendor_name": "MERCK LIFE SCIENCE SLU"
+  },
+  {
+    "amount_eur": 1315.45,
+    "duration": "1 mes",
+    "organism_id": 285,
+    "publication_date": "2026-11-17",
+    "record_id": "285:2114375",
+    "source_id": 2114375,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2114375",
+    "subject": "Acción de Investigación",
+    "vendor_name": "ABG PATENTES SL"
   }
 ]

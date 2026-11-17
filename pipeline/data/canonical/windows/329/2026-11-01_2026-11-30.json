@@ -42,5 +42,104 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105039",
     "subject": "Servizo mecanización pezas",
     "vendor_name": "JUAN MANUEL LEMA AGEITOS"
+  },
+  {
+    "amount_eur": 17545.0,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-11-09",
+    "record_id": "329:2105641",
+    "source_id": 2105641,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105641",
+    "subject": "XERA 2025-051 TACTICA Y ESTRATEGIA COMUNICACION SLU redes",
+    "vendor_name": "TACTICA Y ESTRATEGIA DE COMUNICACION SL"
+  },
+  {
+    "amount_eur": 5100.15,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-11-09",
+    "record_id": "329:2105642",
+    "source_id": 2105642,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105642",
+    "subject": "XERA 2025-052 TACTICA Y ESTRATEGIA impresion folletos",
+    "vendor_name": "TACTICA Y ESTRATEGIA DE COMUNICACION SL"
+  },
+  {
+    "amount_eur": 510.87,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-11-11",
+    "record_id": "329:2106420",
+    "source_id": 2106420,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106420",
+    "subject": "factura subministración material ferretería cis madeira",
+    "vendor_name": "SUMINISTROS INDUSTRIALES LEMOS ORENSE SL"
+  },
+  {
+    "amount_eur": 1453.59,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-11-13",
+    "record_id": "329:2106976",
+    "source_id": 2106976,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106976",
+    "subject": "factura servizos parque tecnolóxico cis madeira",
+    "vendor_name": "PARQUE TECNOLOGICO DE GALICIA,SA"
+  },
+  {
+    "amount_eur": 189.06,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-11-17",
+    "record_id": "329:2111199",
+    "source_id": 2111199,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2111199",
+    "subject": "BILLETE AVIÓN ISABEL",
+    "vendor_name": "VIAJES PIÑA SA"
+  },
+  {
+    "amount_eur": 1815.61,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-11-17",
+    "record_id": "329:2112298",
+    "source_id": 2112298,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2112298",
+    "subject": "PEF CIF LOURIZÁN- I+D+I - Traballos en Monte Soutelo",
+    "vendor_name": "H2O INICIATIVAS NO MEDIO RURAL S.L.N.E."
+  },
+  {
+    "amount_eur": 1282.6,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-11-17",
+    "record_id": "329:2113825",
+    "source_id": 2113825,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2113825",
+    "subject": "PEF CIF - RF2025/8 (2025 00010)- TRATAMENTO MANIFLOW E PANEL",
+    "vendor_name": "GALCA FORESTAL S.L."
+  },
+  {
+    "amount_eur": 121.0,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-11-17",
+    "record_id": "329:2115195",
+    "source_id": 2115195,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2115195",
+    "subject": "PEF CIF- RF2025/2 - MATERIAL CAMPO",
+    "vendor_name": "TRANSPORTES Y MATERIALES DE CONSTRUCCION CASTRO BA"
+  },
+  {
+    "amount_eur": 2791.32,
+    "duration": "1 mes",
+    "organism_id": 329,
+    "publication_date": "2026-11-17",
+    "record_id": "329:2115428",
+    "source_id": 2115428,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2115428",
+    "subject": "PEF CIF - I+D+I 6400 - ANÁLISE DE FRAGMENTOS DE ADN",
+    "vendor_name": "UNIVERSIDADE DA CORUÑA"
   }
 ]

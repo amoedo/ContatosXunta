@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "amount_eur": 3405.63,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-11-13",
+    "record_id": "245:2106889",
+    "source_id": 2106889,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106889",
+    "subject": "Gastos derivados Seminario en Santander",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 785.92,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-11-13",
+    "record_id": "245:2106890",
+    "source_id": 2106890,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106890",
+    "subject": "Gastos derivados CSDCGT XULLO 2026",
+    "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 2359.63,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-11-17",
+    "record_id": "245:2112286",
+    "source_id": 2112286,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2112286",
+    "subject": "Tercer trimestre  No albará: 2026/25000117",
+    "vendor_name": "GASOLEOS CEAO S L"
+  },
+  {
+    "amount_eur": 70.18,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-11-17",
+    "record_id": "245:2112719",
+    "source_id": 2112719,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2112719",
+    "subject": "4 CAIXAS FOLIOS STARR",
+    "vendor_name": "ECOTISA UNA TINTA DE IMPRESION SLU"
+  },
+  {
+    "amount_eur": 3110.91,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-11-17",
+    "record_id": "245:2112720",
+    "source_id": 2112720,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2112720",
+    "subject": "CF360X ORIG Tonner alta capacidad E00/OUT/18702",
+    "vendor_name": "ECOTISA UNA TINTA DE IMPRESION SLU"
+  },
+  {
+    "amount_eur": 1691.42,
+    "duration": "1 mes",
+    "organism_id": 245,
+    "publication_date": "2026-11-17",
+    "record_id": "245:2113700",
+    "source_id": 2113700,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2113700",
+    "subject": "HP TONER LASERJET PRO M553/577 508X",
+    "vendor_name": "OFIDAR SUMINISTROS SL"
+  }
+]

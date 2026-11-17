@@ -130,5 +130,115 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104866",
     "subject": "DC/F20261104A - REPARACION ESPECTROMETRO - PERKINELMER SCIEN",
     "vendor_name": "PERKINELMER SCIENTIFIC SPAIN SLU"
+  },
+  {
+    "amount_eur": 18145.0,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-11-11",
+    "record_id": "192:2106320",
+    "source_id": 2106320,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106320",
+    "subject": "AG/X20261109A - CITROEN DALONGA SA - COMPRA VEHÍCULO CITROEN",
+    "vendor_name": "DALONGA SA"
+  },
+  {
+    "amount_eur": 527.56,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-11-11",
+    "record_id": "192:2106352",
+    "source_id": 2106352,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106352",
+    "subject": "DC/B20261026A - SUMINISTRO PROPANOL - CELTA INGENIEROS SL",
+    "vendor_name": "CELTA INGENIEROS SL"
+  },
+  {
+    "amount_eur": 47.19,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-11-11",
+    "record_id": "192:2106431",
+    "source_id": 2106431,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106431",
+    "subject": "DC/F20261104B STIN SERVICIOS SL Limpiador Lectra clean II FRA SEF Nº2026 689",
+    "vendor_name": "SERVICIOS TECNICOS INTEGRADOS DEL NOROES"
+  },
+  {
+    "amount_eur": 3122.1,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-11-11",
+    "record_id": "192:2106435",
+    "source_id": 2106435,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106435",
+    "subject": "DC/X20261028A - SUSTITUCIÓN CENTRALITA PROGRAMADA HTAN133/N",
+    "vendor_name": "IMSA SABORIDO SL"
+  },
+  {
+    "amount_eur": 1638.82,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-11-11",
+    "record_id": "192:2106477",
+    "source_id": 2106477,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106477",
+    "subject": "DC/B20261105A - SUMINISTRO FILTROS - JASCO ANALITICA SPAIN S",
+    "vendor_name": "JASCO ANALITICA SPAIN SL"
+  },
+  {
+    "amount_eur": 631.79,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-11-16",
+    "record_id": "192:2109834",
+    "source_id": 2109834,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2109834",
+    "subject": "DC/A20261110A ROUPA MOSTREADORA - MARIÑO ROPAS DE TRABAJO SL",
+    "vendor_name": "MARIÑO ROPAS DE TRABAJO SL"
+  },
+  {
+    "amount_eur": 470.0,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-11-17",
+    "record_id": "192:2110868",
+    "source_id": 2110868,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2110868",
+    "subject": "DC/X20261111A POLIZA SEGURO VEHICULO INTECMAR - OCCIDENT",
+    "vendor_name": "OCCIDENT GCO SA DE SEGUROS Y REASEGUROS"
+  },
+  {
+    "amount_eur": 732.84,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-11-17",
+    "record_id": "192:2113299",
+    "source_id": 2113299,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2113299",
+    "subject": "DC/X20260625A Curso teorico-practico traballos de altura QUI",
+    "vendor_name": "QUIRON PREVENCION SL"
+  },
+  {
+    "amount_eur": 1116.83,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-11-17",
+    "record_id": "192:2114477",
+    "source_id": 2114477,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2114477",
+    "subject": "DC/CH20260928B DISOLVENTES - FISHER SCIENTIFIC SL",
+    "vendor_name": "FISHER SCIENTIFIC, S.L."
+  },
+  {
+    "amount_eur": 380.84,
+    "duration": "1 mes",
+    "organism_id": 192,
+    "publication_date": "2026-11-17",
+    "record_id": "192:2115441",
+    "source_id": 2115441,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2115441",
+    "subject": "DC/S20261009A XUNTA - LOMG Calibración TERMOMETROS",
+    "vendor_name": "XUNTA DE GALICIA"
   }
 ]

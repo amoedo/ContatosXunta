@@ -9,5 +9,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2103659",
     "subject": "FACTURA PREZO POR COPIA IMPRESORAS IGCC OURENSE XULLO-SETEMB",
     "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 35.77,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-11-10",
+    "record_id": "15:2105952",
+    "source_id": 2105952,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105952",
+    "subject": "FACTURA CONSUMO AUGA NAS INSTALACIÓNS DO IGCC EN SANTIAGO DE",
+    "vendor_name": "VIAQUA GESTION INTEGRAL DE AGUAS DE GALICIA SAU"
+  },
+  {
+    "amount_eur": 1294.93,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-11-10",
+    "record_id": "15:2106162",
+    "source_id": 2106162,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106162",
+    "subject": "FACTURA REACTIVOS QUÍMICOS PARA ENSAIOS NO LABORATORIO DE CO",
+    "vendor_name": "CIENYTECH SOLUCIONES"
+  },
+  {
+    "amount_eur": 38.93,
+    "duration": "1 mes",
+    "organism_id": 15,
+    "publication_date": "2026-11-10",
+    "record_id": "15:2106181",
+    "source_id": 2106181,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106181",
+    "subject": "FACTURA PREZO POR COPIA IMPRESORAS IGCC LUGO MES DE SETEMBRO",
+    "vendor_name": "RICOH ESPAÑA SLU"
   }
 ]

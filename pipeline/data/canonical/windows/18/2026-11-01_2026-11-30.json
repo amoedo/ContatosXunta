@@ -9,5 +9,38 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104679",
     "subject": "SUBMINISTRO DUN ASI PARA O SERVIZO INFORMÁTICO DA EGAP",
     "vendor_name": "INFORMATICA ELINFO,SL"
+  },
+  {
+    "amount_eur": 2221.56,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-11-12",
+    "record_id": "18:2106638",
+    "source_id": 2106638,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106638",
+    "subject": "Subministro de memoria RAM para os equipos da EGAP",
+    "vendor_name": "MICROMEDIA SL"
+  },
+  {
+    "amount_eur": 106.7,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-11-13",
+    "record_id": "18:2106837",
+    "source_id": 2106837,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106837",
+    "subject": "Servizos de hostelería",
+    "vendor_name": "ALEXANDRA RESPTREPO NARVAEZ"
+  },
+  {
+    "amount_eur": 244.42,
+    "duration": "1 mes",
+    "organism_id": 18,
+    "publication_date": "2026-11-17",
+    "record_id": "18:2112223",
+    "source_id": 2112223,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2112223",
+    "subject": "Subministro radiadores para a EGAP",
+    "vendor_name": "BRINCO SOLUCIONES INTEGRALES SL"
   }
 ]

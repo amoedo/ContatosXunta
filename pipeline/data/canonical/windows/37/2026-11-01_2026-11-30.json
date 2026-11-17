@@ -42,5 +42,60 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105117",
     "subject": "BILLETES DE TREN E ALOXAMENTO",
     "vendor_name": "VIAJES SANT YAGO SA"
+  },
+  {
+    "amount_eur": 407.94,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-11-10",
+    "record_id": "37:2105882",
+    "source_id": 2105882,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105882",
+    "subject": "Pago factura 206384692 - Auga e lixo CIS Galicia, xullo e ag",
+    "vendor_name": "EMAFESA"
+  },
+  {
+    "amount_eur": 1870.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-11-10",
+    "record_id": "37:2105986",
+    "source_id": 2105986,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105986",
+    "subject": "Eliminación de 518 caixas de arquivo",
+    "vendor_name": "D4D 360 DATA SECURITY SL"
+  },
+  {
+    "amount_eur": 10890.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-11-12",
+    "record_id": "37:2106653",
+    "source_id": 2106653,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106653",
+    "subject": "Contratación dun servizo de deseño e de elaboración dun víde",
+    "vendor_name": "SOLUCIONS DIXITAIS AVANZADAS  SL"
+  },
+  {
+    "amount_eur": 6050.0,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-11-12",
+    "record_id": "37:2106780",
+    "source_id": 2106780,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106780",
+    "subject": "patrocinio  energydays 2026",
+    "vendor_name": "ASOC.CLUSTER GALLEGO DE LA IND. Y SERV."
+  },
+  {
+    "amount_eur": 2100.45,
+    "duration": "1 mes",
+    "organism_id": 37,
+    "publication_date": "2026-11-16",
+    "record_id": "37:2109488",
+    "source_id": 2109488,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2109488",
+    "subject": "subministración de astilla para puesta en marcha edificio bi",
+    "vendor_name": "VEOLIA BIOMASA ESPAÑA SL"
   }
 ]

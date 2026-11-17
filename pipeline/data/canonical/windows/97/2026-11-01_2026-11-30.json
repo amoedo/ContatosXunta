@@ -75,5 +75,49 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105131",
     "subject": "TRABALLOS DE SUSTITUCION DE ELEMENTOS DANADOS NOS FOCOS DAS CAMAS EN 9 ALBERGUES DE PEREGRINOS DA REDE DA XUNTA DE GALIC",
     "vendor_name": "OHL SERVICIOS INGESAN SA"
+  },
+  {
+    "amount_eur": 530.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-11-13",
+    "record_id": "97:2107230",
+    "source_id": 2107230,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2107230",
+    "subject": "SERVIZO DE MICROBUS PARA DESPRAZAMENTO DELEGACION DE WAKAYAMA (XAPÓN) QUE VISITA GALICIA DO 19 AO 20 DE NOVEMBRO",
+    "vendor_name": "AUTOCARES RIAS BAIXAS SL"
+  },
+  {
+    "amount_eur": 780.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-11-17",
+    "record_id": "97:2110098",
+    "source_id": 2110098,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2110098",
+    "subject": "SERVIZO DE APERITIVO PARA XORNADAS 10º ANIVERSARIO CAMIÑO DE INVERNO NO ALBERGUE DE DIOMONDI",
+    "vendor_name": "LIDIA FERNANDEZ ALVAREZ"
+  },
+  {
+    "amount_eur": 242.0,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-11-17",
+    "record_id": "97:2112096",
+    "source_id": 2112096,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2112096",
+    "subject": "SERVIZO DE GUIA E ENTRADAS PARA VISITA DA DELEGACION DE WAKAYAMA (XAPÓN) A CATEDRAL E A CIDADE DE SANTIAGO",
+    "vendor_name": "SECCHI, SL"
+  },
+  {
+    "amount_eur": 2935.43,
+    "duration": "1 mes",
+    "organism_id": 97,
+    "publication_date": "2026-11-17",
+    "record_id": "97:2112148",
+    "source_id": 2112148,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2112148",
+    "subject": "SUBMINISTRACION DE MATERIAL DE OFICINA DIVERSO PARA A S.A. DE XESTION DO PLAN XACOBEO",
+    "vendor_name": "GRAFICAS INTEGRALES COGAMI, SL"
   }
 ]

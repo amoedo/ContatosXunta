@@ -31,5 +31,27 @@
     "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2104767",
     "subject": "Acordo coop CVePI concello Bande para Mercado Xurés",
     "vendor_name": "E I C DURAN,SL"
+  },
+  {
+    "amount_eur": 27.61,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-11-09",
+    "record_id": "515:2105431",
+    "source_id": 2105431,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2105431",
+    "subject": "pago 10",
+    "vendor_name": "REAL PIKAÑA SL"
+  },
+  {
+    "amount_eur": 45.28,
+    "duration": "1 mes",
+    "organism_id": 515,
+    "publication_date": "2026-11-17",
+    "record_id": "515:2114050",
+    "source_id": 2114050,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2114050",
+    "subject": "SLU",
+    "vendor_name": "RICOH ESPAÑA SLU"
   }
 ]

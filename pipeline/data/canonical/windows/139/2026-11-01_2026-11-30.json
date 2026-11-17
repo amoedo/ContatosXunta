@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "amount_eur": 423.5,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-11-11",
+    "record_id": "139:2106446",
+    "source_id": 2106446,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106446",
+    "subject": "TRADUCCIÓN SIMULTÁNEA REUNIÓN COMITÉ ORIENTACIÓNS RTA",
+    "vendor_name": "ELETE TRADUCCIONES SL"
+  },
+  {
+    "amount_eur": 204.31,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-11-12",
+    "record_id": "139:2106737",
+    "source_id": 2106737,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106737",
+    "subject": "licencia ACROBAT STANDARD DC FOR TEAMS - WINDOWS",
+    "vendor_name": "RICOH ESPAÑA SLU"
+  },
+  {
+    "amount_eur": 490.0,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-11-13",
+    "record_id": "139:2106825",
+    "source_id": 2106825,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2106825",
+    "subject": "CAFÉ-PINCHO NAVIDAD REUNIÓN CONSULTIVO-CES-RELACIÓNS LABORAI",
+    "vendor_name": "JOSE RAMON SANCHEZ IGLESIAS"
+  },
+  {
+    "amount_eur": 1022.45,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-11-17",
+    "record_id": "139:2113542",
+    "source_id": 2113542,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2113542",
+    "subject": "ORDENADOR PORTATIL PARA O CES GALICIA",
+    "vendor_name": "SIRTELCO SL"
+  },
+  {
+    "amount_eur": 18148.79,
+    "duration": "1 mes",
+    "organism_id": 139,
+    "publication_date": "2026-11-17",
+    "record_id": "139:2115429",
+    "source_id": 2115429,
+    "source_url": "https://www.contratosdegalicia.gal/licitacion?N=2115429",
+    "subject": "INFORME UDVIGO SECTOR INDUSTRIAL MANUFACTUREIRO",
+    "vendor_name": "UNIVERSIDAD DE VIGO"
+  }
+]

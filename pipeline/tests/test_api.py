@@ -19,8 +19,10 @@ from contratos_xunta.backfill import (
     backfill_range,
     backfill_registry,
     collect_consistent_window,
+    collect_splitting_window,
     monthly_windows,
     rolling_history_windows,
+    split_window,
 )
 from contratos_xunta.crawler import CountMismatchError, collect_window
 from contratos_xunta.models import CanonicalRecord, SourcePage, SourceRow, SourceSchemaError
@@ -164,6 +166,135 @@ def test_consistency_retry_gives_up_after_the_last_attempt() -> None:
 
     assert pages == []
     assert delays == [1.0, 2.0]
+
+
+class PublishingSource:
+    """Fake API that publishes a new contract mid-crawl on windows wider than stable_days."""
+
+    def __init__(self, days: dict[int, date], *, stable_days: int, page_size: int = 2) -> None:
+        self.days = dict(days)
+        self.stable_days = stable_days
+        self.page_size = page_size
+        self.next_id = max(days) + 1
+        self.requests: list[tuple[date, date, int]] = []
+
+    def __call__(
+        self, organism_id: int, start_date: date, end_date: date, *, start: int, draw: int, **kwargs: object
+    ) -> SourcePage:
+        self.requests.append((start_date, end_date, start))
+        if start > 0 and (end_date - start_date).days + 1 > self.stable_days:
+            self.days[self.next_id] = start_date
+            self.next_id += 1
+        matching = sorted(row_id for row_id, day in self.days.items() if start_date <= day <= end_date)
+        data = tuple(
+            SourceRow(
+                id=row_id,
+                publicado=self.days[row_id].strftime("%d-%m-%Y"),
+                objeto="SERVIZO",
+                importe=100.0,
+                nif="REDACTED",
+                adjudicatario="EMPRESA",
+                duracion="1 mes",
+            )
+            for row_id in matching[start : start + self.page_size]
+        )
+        return SourcePage(draw=draw, records_total=len(self.days), records_filtered=len(matching), data=data)
+
+
+def test_split_window_halves_inclusive_ranges() -> None:
+    assert split_window(date(2026, 1, 1), date(2026, 1, 31)) == (
+        (date(2026, 1, 1), date(2026, 1, 16)),
+        (date(2026, 1, 17), date(2026, 1, 31)),
+    )
+    assert split_window(date(2026, 1, 1), date(2026, 1, 2)) == (
+        (date(2026, 1, 1), date(2026, 1, 1)),
+        (date(2026, 1, 2), date(2026, 1, 2)),
+    )
+    with pytest.raises(ValueError):
+        split_window(date(2026, 1, 1), date(2026, 1, 1))
+
+
+def test_splitting_window_does_not_split_a_stable_window() -> None:
+    source = PublishingSource(
+        {1: date(2026, 1, 3), 2: date(2026, 1, 20), 3: date(2026, 1, 28)}, stable_days=31
+    )
+
+    rows = collect_splitting_window(
+        291,
+        date(2026, 1, 1),
+        date(2026, 1, 31),
+        page_fetcher=source,
+        sleeper=lambda delay: pytest.fail("stable windows must not sleep"),
+    )
+
+    assert [row.id for row in rows] == [1, 2, 3]
+    assert {(start, end) for start, end, _ in source.requests} == {(date(2026, 1, 1), date(2026, 1, 31))}
+
+
+def test_splitting_window_halves_until_the_crawl_is_stable() -> None:
+    days = {row_id: date(2026, 1, 1 + (row_id * 7) % 31) for row_id in range(1, 41)}
+    source = PublishingSource(days, stable_days=7)
+
+    rows = collect_splitting_window(
+        291,
+        date(2026, 1, 1),
+        date(2026, 1, 31),
+        page_fetcher=source,
+        sleeper=lambda delay: pytest.fail("splitting must not wait"),
+    )
+
+    ids = [row.id for row in rows]
+    assert len(ids) == len(set(ids))
+    # Contracts published while unstable windows were crawled are picked up by
+    # the later, narrower crawls.
+    assert sorted(ids) == sorted(source.days)
+    assert len(source.days) > len(days)
+    crawled = [(start, end) for start, end, _ in source.requests]
+    assert crawled[0] == (date(2026, 1, 1), date(2026, 1, 31))
+    assert (date(2026, 1, 1), date(2026, 1, 16)) in crawled
+    assert min((end - start).days + 1 for start, end in crawled) <= 7
+
+
+def test_splitting_window_retries_a_single_unstable_day_with_backoff() -> None:
+    first = load_page("page-0.json")
+    final = load_page("page-2.json")
+    grew = SourcePage(
+        draw=2,
+        records_total=first.records_total + 1,
+        records_filtered=first.records_filtered + 1,
+        data=(),
+    )
+    pages = [first, grew, first, final, first]
+    delays: list[float] = []
+
+    rows = collect_splitting_window(
+        291,
+        date(2026, 1, 26),
+        date(2026, 1, 26),
+        page_fetcher=lambda *args, **kwargs: pages.pop(0),
+        sleeper=delays.append,
+    )
+
+    assert [row.id for row in rows] == [1920375, 1920376, 1920693]
+    assert pages == []
+    assert delays == [30.0]
+
+
+def test_backfill_range_splits_a_window_that_keeps_changing(tmp_path: Path) -> None:
+    days = {row_id: date(2026, 1, 1 + row_id % 31) for row_id in range(1, 61)}
+    source = PublishingSource(days, stable_days=4)
+
+    result = backfill_range(
+        291,
+        date(2026, 1, 1),
+        date(2026, 1, 31),
+        tmp_path,
+        page_fetcher=source,
+    )
+
+    assert result.fetched_windows == 1
+    assert result.record_count == len(source.days)
+    assert window_is_complete(tmp_path, 291, date(2026, 1, 1), date(2026, 1, 31))
 
 
 def test_schema_rejects_invalid_publication_date() -> None:

@@ -13,8 +13,9 @@ from .registry import Entity
 from .source import RetryPolicy, fetch_page
 
 # The source keeps publishing while a window is crawled, so a large window can
-# change count mid-pagination. Wait between passes so that bursts of new
-# publications settle: 30s, 60s, 120s, 240s (about 7.5 minutes at most).
+# change count mid-pagination. Unstable windows are split in halves (see
+# collect_splitting_window); a single day that still changes is retried with
+# waits that let bursts settle: 30s, 60s, 120s, 240s (about 7.5 minutes).
 CONSISTENCY_RETRY_POLICY = RetryPolicy(
     max_attempts=5,
     initial_delay_seconds=30.0,
@@ -102,6 +103,65 @@ def collect_consistent_window(
     raise RuntimeError("consistency retry loop exited unexpectedly")
 
 
+def split_window(start_date: date, end_date: date) -> tuple[tuple[date, date], tuple[date, date]]:
+    if start_date >= end_date:
+        raise ValueError("a window must span at least two days to be split")
+    midpoint = start_date + timedelta(days=(end_date - start_date).days // 2)
+    return (start_date, midpoint), (midpoint + timedelta(days=1), end_date)
+
+
+def collect_splitting_window(
+    organism_id: int,
+    start_date: date,
+    end_date: date,
+    *,
+    page_fetcher: PageFetcher = fetch_page,
+    policy: RetryPolicy = CONSISTENCY_RETRY_POLICY,
+    sleeper: Callable[[float], None] = time.sleep,
+) -> list:
+    """Collect a window, halving it whenever it changes while being crawled.
+
+    Busy organisms publish faster than a large window can be paginated, so
+    retrying the whole window rarely converges. Each half is a separate,
+    self-consistent snapshot that takes a fraction of the time to crawl. A
+    single day that still changes falls back to retries with backoff.
+    """
+    if start_date == end_date:
+        return collect_consistent_window(
+            organism_id,
+            start_date,
+            end_date,
+            page_fetcher=page_fetcher,
+            policy=policy,
+            sleeper=sleeper,
+        )
+    try:
+        return collect_window(
+            organism_id,
+            start_date,
+            end_date,
+            page_fetcher=page_fetcher,
+        )
+    except CountMismatchError:
+        pass
+
+    rows: list = []
+    seen_ids: set[int] = set()
+    for half_start, half_end in split_window(start_date, end_date):
+        for row in collect_splitting_window(
+            organism_id,
+            half_start,
+            half_end,
+            page_fetcher=page_fetcher,
+            policy=policy,
+            sleeper=sleeper,
+        ):
+            if row.id not in seen_ids:
+                seen_ids.add(row.id)
+                rows.append(row)
+    return rows
+
+
 def backfill_range(
     organism_id: int,
     start_date: date,
@@ -122,7 +182,7 @@ def backfill_range(
             skipped_windows += 1
             continue
 
-        rows = collect_consistent_window(
+        rows = collect_splitting_window(
             organism_id,
             window_start,
             window_end,
